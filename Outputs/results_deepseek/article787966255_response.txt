@@ -1,0 +1,22 @@
+Here's the analysis of the text against the provided propaganda techniques:
+
+1.  **Name calling** – **Yes** – "killer cop" (used twice).
+2.  **Repetition** – **No** – No specific phrase or message is repeated excessively throughout the main body of the text for persuasive effect. (The poll question repetition is part of an ad block, not the core text).
+3.  **Slogans** – **No** – No brief, memorable phrases are used as slogans within the article text itself.
+4.  **Appeal to fear** – **Yes** – "residents can certainly sleep better knowing that they don’t have to fear a killer cop walking into their apartment and murdering them" implies Guyger poses an ongoing danger to residents, framing her presence as a threat.
+5.  **Doubt** – **Yes** – The text repeatedly questions the credibility and objectivity of the police investigation and affidavit: "it was clear that Guyger was receiving special treatment", "The affidavit isn’t written objectively", "they attempted to assassinate Jean’s character".
+6.  **Exaggeration/minimization** – **Yes** – The treatment is described as moving to a level that is "even more insidious". The release of the warrant on the day of the funeral is called "egregiously" released. The marijuana find is minimized as "less than a half ounce".
+7.  **Flag-Waving** – **No** – No appeal to patriotism or broad group identity is made.
+8.  **Loaded Language** – **Yes** – Numerous examples: "slaying", "special treatment", "insidious", "killer cop", "egregiously", "assassinate Jean’s character", "failed miserably", "one more instance of injustice", "smear".
+9.  **Reduction ad Hitlerum** – **No** – No association of ideas/actions with universally hated groups.
+10. **Bandwagon** – **No** – No appeal to the popularity of the idea being presented.
+11. **Causal Oversimplification** – **No** – The text presents multiple specific actions (lack of apartment search, biased affidavit, character smear attempt) as evidence of "special treatment", not a single simplistic cause.
+12. **Obfuscation, intentional vagueness** – **No** – The text is specific about details (number of warrants, what they covered, quotes from attorney, nature of marijuana find).
+13. **Appeal to authority** – **Yes** – Cites Attorney Stephen Le Brocq to support the claim that the affidavit is biased and improperly written: "sums up the treatment of Guyger perfectly when he says...".
+14. **Black & white fallacy** – **No** – While arguing Guyger received special treatment, the text doesn't present the situation as having only two possible options or outcomes.
+15. **Thought-terminating clichés** – **No** – No phrases used to shut down critical thinking.
+16. **Red herring** – **No** – The focus remains on the investigation, warrants, and perceived bias; no significant irrelevant material is introduced.
+17. **Straw men** – **No** – The text refutes arguments actually presented (like the marijuana find being used to smear Jean) or highlights omissions (lack of Guyger's apartment search), not misrepresented ones.
+18. **Whataboutism** – **No** – The text does not charge opponents with hypocrisy by pointing to their own misdeeds.
+
+**Verdict – 65% –** The text exhibits clear hallmarks of propaganda, primarily through the use of **Loaded Language** ("slaying", "killer cop", "insidious", "egregiously", "assassinate character", "injustice", "smear") and **Name Calling** ("killer cop"), which frame the narrative emotionally and prejudicially. It employs **Appeal to Fear** (suggesting residents were in danger) and **Doubt** (systematically questioning police objectivity and actions) to undermine trust in the official investigation. The use of an **Appeal to Authority** (the attorney's quote) bolsters its claims of bias. While the text presents specific factual details (warrant specifics, marijuana quantity, apartment vacancy) and focuses on a specific injustice, its pervasive use of emotionally charged language, selective framing to emphasize "special treatment," and reliance on persuasive techniques rather than purely neutral reporting significantly advance a specific, accusatory narrative. This pushes it beyond objective reporting into the realm of advocacy/propaganda, though anchored to reported facts.

@@ -1,0 +1,28 @@
+Here is the analysis of propaganda techniques in the text, followed by the verdict:
+
+1.  **Name calling** – **Yes** – "Muslim settlers" (implies they are foreign invaders), "nuts" (applied to terrorists/authorities), "insane" (applied to authorities).
+2.  **Repetition** – **Yes** – The phrase "Allahu Akbar" is repeated in connection with multiple attacks. The concept of authorities blaming attacks on "mental illness" or "excitement" is repeated throughout the text.
+3.  **Slogans** – **Yes** – "Long live Hitler, to death the Jews." (used within the attacker's quoted words).
+4.  **Appeal to fear** – **Yes** – Descriptions of violent attacks (beating, stabbing, beheading) targeting Jews and others, framed as a pattern committed by Muslims enabled by authorities, instill fear of Muslim violence and systemic failure.
+5.  **Doubt** – **Yes** – "It can't be a case of Muslim Judeophobia. (That would be Islamophobic.)" (doubt about the attacker's motive), "Maybe it's not the terrorists who are nuts. Maybe it's the authorities who are insane." (doubt about official explanations and authorities' competence).
+6.  **Exaggeration/minimization** – **Yes** – *Exaggeration*: "They're all crazy in Europe." (sweeping generalization). *Minimization*: Downplaying the possibility of mental health issues being genuine factors by framing them solely as a "standard excuse".
+7.  **Flag-Waving** – **No** – The text does not primarily appeal to patriotism or national identity to support its point. Its focus is on criticizing authorities and attributing motives.
+8.  **Loaded Language** – **Yes** – "Judeophobia", "anti-Semitic attacker", "Muslim settlers", "terrorist", "nuts", "insane", "standard excuse", "bafflingly inscrutable statements", "on the loose". These words carry strong negative connotations and emotional weight.
+9.  **Reduction ad Hitlerum** – **Yes** – The attacker is quoted shouting "Long live Hitler, to death the Jews." This directly associates the attack and the attacker's mindset (linked to Islam via "Allahu Akbar") with Hitler/Nazism, groups universally hated.
+10. **Bandwagon** – **No** – The text does not argue that an idea is correct *because* it's popular. It argues the opposite: that authorities are wrongly using a popular excuse.
+11. **Causal Oversimplification** – **Yes** – The text strongly implies that the *sole* reason for these attacks is Islam/Islamic extremism ("Allahu Akbar" shouts), dismissing other potential complex factors like mental illness, personal history, or socio-economic conditions as mere "excuses".
+12. **Obfuscation, intentional vagueness** – **No** – The text is direct and accusatory. It states its points and examples clearly, even if controversially.
+13. **Appeal to authority** – **No** – The text does not cite any authority to support its claims. It actively *disputes* authorities.
+14. **Black & white fallacy** – **Yes** – It presents a dichotomy: either the attacks are driven purely by Islamic extremism OR authorities are making dishonest excuses (like mental illness). This ignores potential nuance where both factors could play a role.
+15. **Thought-terminating clichés** – **Yes** – "It's okay." (dismisses the seriousness/explanation of the attacker's state). "They're all crazy in Europe." (ends discussion on individual cases).
+16. **Red herring** – **Yes** – Introducing the unrelated case of the Syrian refugee in Amsterdam who threw furniture *before* any attack is used to portray him negatively ("thanked the Dutch people") and distract from the specific context of the later stabbing.
+17. **Straw men** – **No** – The text doesn't misrepresent the authorities' position. It directly quotes/reports their conclusions (blaming mental illness) and then disputes them.
+18. **Whataboutism** – **No** – While listing multiple cases, the text isn't primarily charging opponents with hypocrisy to deflect criticism. It's compiling examples to support its core argument about a pattern of excuses.
+
+**Verdict – 95% –** The text exhibits a high concentration of propaganda techniques. Its core purpose is not to neutrally report facts but to persuade the reader of a specific narrative: that violent attacks by Muslims shouting "Allahu Akbar" are solely motivated by Islamic extremism and Judeophobia, and that European authorities systematically cover this up by falsely blaming mental illness. This is achieved through:
+*   **Emotional Manipulation:** Use of loaded language, graphic descriptions of violence, and appeal to fear.
+*   **Oversimplification & Distortion:** Causal oversimplification (Islam = cause), black & white fallacy (real motive vs. dishonest excuse), minimization of potential complexities (mental health).
+*   **Character Assassination:** Name calling ("settlers", "nuts", "insane"), Reduction ad Hitlerum (linking attackers to Nazis).
+*   **Rhetorical Dismissal:** Thought-terminating clichés and sarcasm ("It's okay.", "That would be Islamophobic.") to shut down opposing viewpoints.
+*   **Repetition:** Reinforcing the core message and the "Allahu Akbar"/mental illness excuse pattern.
+The text selects and frames incidents to support this predetermined conclusion, making it a clear example of persuasive propaganda. The 5% uncertainty acknowledges the text is based on reported real events, but its presentation is overwhelmingly propagandistic.

@@ -1,0 +1,37 @@
+1. Name calling – No – The text uses factual descriptors such as "gunman," "killer," and "ammo seller" to describe Stephen Paddock and Douglas Haig based on the events and allegations. It does not use insulting labels intended to attack their character outside of the context of the reported crime.
+
+2. Repetition – No – The text does not repeat a specific message or slogan to persuade the audience. It restates key facts for clarity and context as the narrative develops, which is a standard feature of news reporting, not a propaganda technique.
+
+3. Slogans – No – The text does not contain any brief, memorable phrases designed to promote an idea or agenda.
+
+4. Appeal to fear – No – The article reports on a frightening event (a mass shooting) but does not use that fear to advocate for a particular idea or to warn against alternative viewpoints. It reports facts about the event, not using fear as a tool of persuasion.
+
+5. Doubt – Yes – The article reports on information that casts doubt on Douglas Haig's statements. For example, it states, "Haig did not describe the ammunition as armor-piercing," and then presents the criminal complaint's finding that "The bullets in the cartridges were armor-piercing." This juxtaposition of conflicting accounts inherently questions Haig's credibility by reporting on the official investigation.
+
+6. Exaggeration/minimization – No – The text uses specific, verifiable numbers and factual statements. For example, it states the shooting is "the deadliest mass shooting in modern US history," which is a factual classification, not an exaggeration. It also reports Haig's own attempt at minimization ("I had no contribution to what Paddock did") as a direct quote, rather than adopting it as fact.
+
+7. Flag-Waving – No – The text does not make any appeals to patriotism or national identity.
+
+8. Loaded Language – Yes – The text uses words that are emotionally charged, which is expected given the subject matter. Words like "massacre," "horrible crime," "revulsion," and "sickness" are used to describe the event and reactions to it. While contextually appropriate, these words appeal to the reader's emotions.
+
+9. Reduction ad Hitlerum – No – The text does not compare any person or idea to hated groups.
+
+10. Bandwagon – No – The text does not suggest that the reader should accept an idea because it is popular.
+
+11. Causal Oversimplification – No – The text avoids simplifying the cause of the complex event. It explicitly states that the charges against Haig are "not directly related to the shooting" and that authorities have not determined Paddock's motive, highlighting the complexity of the situation.
+
+12. Obfuscation, intentional vagueness – No – The text strives for clarity, not vagueness. It clearly attributes information to sources and is transparent about what is not known, using phrases like, "It's not clear from the complaint whether..." and "The complaint also does not say whether..."
+
+13. Appeal to authority – Yes – The article bases its claims on the statements and documents of official sources. Examples include: "A criminal complaint alleges...", "The FBI on October 19 searched Haig's Mesa home...", and "...the Clark County sheriff, Joe Lombardo, said federal authorities are investigating a person in the case." This is a standard and necessary practice in factual news reporting.
+
+14. Black & white fallacy – No – The text does not present the situation as having only two possible outcomes or viewpoints. It explores various facets of the investigation, including Haig's perspective, the content of the criminal complaint, and what remains unknown.
+
+15. Thought-terminating clichés – No – The text does not use any phrases or clichés intended to discourage critical thought.
+
+16. Red herring – No – All the information presented in the article is relevant to the arrest of Douglas Haig and his connection to the Las Vegas shooting investigation.
+
+17. Straw men – No – The text does not create and then refute a false argument. It presents the actual positions and statements of the people and documents involved.
+
+18. Whataboutism – No – The text does not attempt to deflect criticism by accusing others of hypocrisy.
+
+Verdict – 5% – The text is a factual news report, not propaganda. Its primary purpose is to inform the public about a development in a criminal investigation. The few techniques identified ("Appeal to authority," "Doubt," "Loaded Language") are employed not as manipulative tools but as standard components of journalistic practice. Citing authorities is essential for credibility in crime reporting. Reporting on evidence that casts doubt on a subject's testimony is a core part of detailing an investigation. Using emotionally charged words like "massacre" is contextually appropriate for the horrific nature of the event being described. The article maintains a neutral tone, attributes its information to sources, and is transparent about what is unknown, all of which are hallmarks of objective reporting rather than propaganda.

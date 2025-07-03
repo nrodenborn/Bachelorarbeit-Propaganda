@@ -1,0 +1,24 @@
+Here is the analysis of the text for each propaganda technique, followed by the verdict:
+
+1. **Name calling** – No – No insulting labels are applied to any person or entity.  
+2. **Repetition** – No – Key details (e.g., receipt contents, date discrepancy) are stated once without deliberate reiteration.  
+3. **Slogans** – No – No brief, memorable phrases (e.g., "Build the Wall") are used.  
+4. **Appeal to fear** – **Yes** – Implies a cover-up ("Why did police lie?") and suggests authorities are hiding Paddock’s accomplice, instilling fear about institutional trustworthiness.  
+5. **Doubt** – **Yes** – Explicitly questions official accounts: "Why did police lie and say he checked in on Sep. 28th?"  
+6. **Exaggeration/minimization** – No – Details (e.g., receipt items, dates) are reported factually without clear amplification or downplaying.  
+7. **Flag-waving** – No – No appeals to patriotism or group identity.  
+8. **Loaded language** – **Yes** – Uses emotionally charged terms like "lie" (accusing police of deception) and "must surely now be on the hunt" (implying urgency/cover-up).  
+9. **Reduction ad Hitlerum** – No – No comparisons to Nazis or universally hated groups.  
+10. **Bandwagon** – No – No appeal to popularity or peer pressure.  
+11. **Causal oversimplification** – No – Does not attribute the shooting to a single simplified cause (e.g., the guest’s presence).  
+12. **Obfuscation** – No – Details (receipt contents, sources) are specific and clear.  
+13. **Appeal to authority** – **Yes** – Relies on unnamed sources (e.g., "another source told Laura Loomer") and a Facebook post to validate claims.  
+14. **Black & white fallacy** – **Yes** – Presents authorities as deceitful ("police lie") versus "truthful" sources (Antonio/Loomer), ignoring middle ground.  
+15. **Thought-terminating clichés** – No – No phrases (e.g., "It is what it is") to shut down analysis.  
+16. **Red herring** – No – All details (receipt, dates, guest) are directly relevant to the shooting timeline.  
+17. **Straw men** – No – Does not misrepresent opposing arguments.  
+18. **Whataboutism** – No – No accusations of hypocrisy.  
+
+---
+
+**Verdict – 80%** – The text exhibits multiple propaganda techniques: **Appeal to fear** (implying a cover-up), **Doubt** (undermining official accounts), **Loaded language** ("lie," "must surely be on the hunt"), **Appeal to authority** (uncritical use of unnamed sources), and **Black & white fallacy** (framing authorities as liars vs. "truth-tellers"). Published by Infowars (a known conspiracy outlet), it selectively emphasizes discrepancies (e.g., check-in dates) while insinuating undisclosed collusion ("Paddock’s guest could have been involved"). Though based on factual elements (the receipt), its framing seeks to delegitimize authorities and amplify suspicion without conclusive evidence. The sourcing (deleted Facebook post, unnamed Mandalay Bay employee) further undermines reliability, aligning with propaganda’s goal to manipulate perception rather than inform neutrally.

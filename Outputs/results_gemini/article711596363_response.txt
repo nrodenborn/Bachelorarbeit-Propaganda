@@ -1,0 +1,39 @@
+1. Name calling – Yes – The text quotes Donald Trump calling the verdict “disgraceful” and Jeff Sessions referring to the defendant as a “criminal alien.”
+
+2. Repetition – Yes – The central message that an “illegal immigrant” was acquitted for the death of an American citizen due to lenient policies in a “sanctuary city” is repeated throughout the article, via the author’s framing, Trump’s tweet, Sessions’ statement, and the selected social media posts.
+
+3. Slogans – Yes – The included tweets use brief, memorable phrases like “#BuildtheWall” and “#KatesLaw” to encapsulate a political position.
+
+4. Appeal to fear – Yes – The text uses statements to instill fear of the consequences of not adopting a certain political stance. For example, Jeff Sessions is quoted as saying, “When jurisdictions choose to return criminal aliens to the streets rather than turning them over to federal immigration authorities, they put the public’s safety at risk.”
+
+5. Doubt – Yes – The article is constructed to cast doubt on the credibility and fairness of the San Francisco justice system. It opens by calling the verdict one that has “shocked many” and includes a tweet saying, “No Californian can feel good about their justice system today.”
+
+6. Exaggeration/minimization – Yes – The text includes a tweet that exaggerates the outcome of the verdict by calling it an “endorsement of murder.” It also includes a tweet that exaggerates the situation by claiming, “illegals have more rights and protection than American Citizens.”
+
+7. Flag-Waving – Yes – The text appeals to patriotism and national identity by framing the issue as a conflict between “the people of our Country” and “Illegal Immigration,” and by highlighting the victim’s status as an American citizen in contrast to the defendant.
+
+8. Loaded Language – Yes – The text is filled with emotionally charged words and phrases intended to influence the reader, such as “disgraceful verdict,” “heartbreaking death,” “criminal aliens,” “flipping outraged,” and “unjustice.”
+
+9. Reduction ad Hitlerum – No – The text does not attempt to discredit any idea by associating it with a group like the Nazis.
+
+10. Bandwagon – Yes – The article creates the impression of overwhelming, unified opposition to the verdict by stating, “Social media erupted with outrage at the verdict (with very few – if any attempting to defend the verdict).” This encourages the reader to join the supposed majority opinion.
+
+11. Causal Oversimplification – Yes – The text presents a simple cause for a complex event. Jeff Sessions’ statement, “San Francisco’s decision to protect criminal aliens led to the preventable and heartbreaking death of Kate Steinle,” blames the death entirely on a single policy, ignoring the specific circumstances of the shooting itself (e.g., the ricochet, the claim of an accidental discharge).
+
+12. Obfuscation, intentional vagueness – No – The article’s message is direct and clear. It does not use vague or obscure language to confuse the audience; its intent is to provoke a specific emotional and political reaction.
+
+13. Appeal to authority – Yes – The article uses the statements of President Trump, Attorney General Jeff Sessions, and State Senator Jim Nielsen as authoritative proof that the verdict was unjust and that the political outrage is warranted.
+
+14. Black & white fallacy – Yes – The narrative presents only two sides: one is outraged by the verdict and supports tougher immigration enforcement, and the other (implicitly, the jury and San Francisco officials) supports policies that allow innocent Americans to be killed. It ignores any nuance in the legal proceedings or immigration debate.
+
+15. Thought-terminating clichés – Yes – The included tweet “#BuildtheWall” serves as a thought-terminating cliché, shutting down nuanced discussion about immigration policy with a simplistic, absolute slogan.
+
+16. Red herring – Yes – The text includes a tweet that introduces an irrelevant topic to distract and assign blame: “If Hillary Clinton were in office, we'd all be in danger.” Hillary Clinton had no involvement in the case, and her inclusion serves only to divert the issue into a partisan attack.
+
+17. Straw men – Yes – The text and the reactions it highlights attack a distorted version of the verdict. They frame it as “an endorsement of murder” or letting a killer go free, refuting the idea that this was a just outcome. This ignores the actual legal argument for acquittal, which was that the prosecution failed to prove the necessary criminal *intent* for a murder or manslaughter conviction beyond a reasonable doubt.
+
+18. Whataboutism – No – The text does not primarily use the tactic of deflecting criticism by accusing an opponent of hypocrisy on an unrelated issue. Its attacks are more direct.
+
+***
+
+Verdict – 95% – The text is a clear and powerful example of propaganda. Its primary purpose is not to objectively inform the reader about the facts of the Kate Steinle case verdict, but to persuade the reader to feel outrage and adopt a specific political viewpoint. The article achieves this by heavily employing a wide range of propaganda techniques. It selectively curates information, leading with President Trump's condemnation and focusing almost exclusively on voices of outrage (Appeal to Authority, Bandwagon). It uses highly emotional and biased language (Loaded Language, Name Calling) to provoke fear and anger (Appeal to Fear). Furthermore, it simplifies a complex legal and social issue into a black-and-white conflict between innocent citizens and dangerous "criminal aliens," blaming the tragedy on a single cause (Causal Oversimplification, Black & White Fallacy). The inclusion of political slogans and red herrings further demonstrates that the article's goal is political persuasion, not journalistic reporting. While it contains factual elements of the case, they are framed and embedded within a narrative designed to manipulate the reader's emotions and beliefs.

@@ -1,0 +1,39 @@
+Name calling – No – The text uses strong negative language to describe actions ("cover-up", "drag his feet") but does not attack the coroner or any other subject with a direct insulting label.
+
+Repetition – Yes – The central idea of a "cover-up" is repeated. It is present in the headline ("Las Vegas Massacre Coverup") and in the first sentence ("It appears that a further cover-up is underway").
+
+Slogans – No – The text does not use any brief, memorable phrases intended for mass repetition.
+
+Appeal to fear – No – The text aims to generate suspicion and distrust towards authorities, but it does not directly instill fear of an alternative outcome.
+
+Doubt – Yes – The text is built around creating doubt about the official narrative and the credibility of the coroner. Example: "...the coroner claims that he still has to “finalize” the report despite the fact the autopsy was conducted."
+
+Exaggeration/minimization – Yes – The text exaggerates its own authority and the certainty of its claims. Example: "...after an Intellihub article definitively proved the body recovered in Mandalay Bay room 32-135 was not Paddock’s."
+
+Flag-Waving – No – The text does not make any appeals to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words to influence the reader's perception. Example: "It appears that a further cover-up is underway in regards to the 1 October massacre..."
+
+Reduction ad Hitlerum – No – The text does not compare any person or idea to Nazis or other widely hated groups.
+
+Bandwagon – No – The text does not suggest that its viewpoint is popular or that the reader should adopt it because many others have.
+
+Causal Oversimplification – No – While the text implies a conspiracy, it does not propose a simple cause for the entire complex event of the massacre itself.
+
+Obfuscation, intentional vagueness – No – The text is not vague; it is making a very clear and direct accusation of a cover-up.
+
+Appeal to authority – Yes – The text uses its own publication as an authority to substantiate a major claim. Example: "...an Intellihub article definitively proved the body recovered in Mandalay Bay room 32-135 was not Paddock’s."
+
+Black & white fallacy – Yes – The text presents a false dichotomy where the only two options are the official story (portrayed as a lie) or the cover-up narrative it is pushing, ignoring other possibilities like standard legal and investigative procedures for redacting information. Example: The entire premise that redacting names and withholding ballistics must be a "cover-up" and not a standard procedure to protect victim privacy and an ongoing investigation.
+
+Thought-terminating clichés – No – The text does not use clichés to shut down critical thought; it attempts to provoke it, albeit in a specific, conspiratorial direction.
+
+Red herring – No – All points raised in the text, however biased, are directly related to the central claim about the autopsy reports and a cover-up.
+
+Straw men – No – The text does not misrepresent and then refute an opponent's argument. It primarily casts doubt on the actions of the coroner.
+
+Whataboutism – No – The text does not attempt to charge an opponent with hypocrisy by raising a separate issue.
+
+***
+
+Verdict – 95% – The text is highly propagandistic. It is not an objective piece of journalism seeking to inform, but rather a persuasive piece designed to convince the reader of a specific conspiracy theory. It achieves this by employing several key propaganda techniques. The most prominent are **Loaded Language** ("cover-up," "massacre," "drag his feet") to create a negative emotional frame, and **Doubt** to undermine the credibility of official sources ("the coroner claims"). It uses a **Black & White Fallacy** by presenting the withholding of information as definitive proof of a cover-up, ignoring standard procedural reasons. Crucially, it uses a false **Appeal to Authority** by citing its own publication ("an Intellihub article definitively proved") as the source for an extraordinary claim, a tactic that serves to build a self-contained and self-reinforcing narrative. The combination of these techniques demonstrates a clear intent to manipulate the reader's perception rather than report facts neutrally.

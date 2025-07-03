@@ -1,0 +1,43 @@
+Name calling – Yes – The text attacks the official investigation by labeling it a "gross negligence or a massive cover-up" and "completely botched."
+
+Repetition – Yes – The central claim that a victim was missed and the investigation failed is repeated throughout the article, and the question "Who was this victim?" is asked twice in the concluding section to emphasize the point.
+
+Slogans – No – The text does not use brief, memorable phrases that function as slogans.
+
+Appeal to fear – Yes – The text instills fear and distrust in official institutions by suggesting they are engaged in a "massive cover-up," implying that the public cannot trust the agencies meant to protect them and that the truth of a major tragedy is being hidden.
+
+Doubt – Yes – The entire purpose of the article is to cast doubt on the credibility of the official investigation by the LVMPD and FBI. It does this explicitly with questions like, "How was this victim overlooked by investigators but known by Intellihub?"
+
+Exaggeration/minimization – Yes – The text exaggerates the certainty of its claim by titling the article "PROOF" and describing a single piece of video evidence as definitive proof of a "massive cover-up," which is an exaggeration of the evidence's weight.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity to support its claims.
+
+Loaded Language – Yes – The text uses emotionally charged phrases like "gross negligence," "massive cover-up," "completely botched," and "lifeless body" to provoke an emotional response of outrage and suspicion rather than to inform neutrally.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or the Nazis.
+
+Bandwagon – No – The text does not claim its view is popular; rather, it positions itself as an outsider ("Intellihub") exposing a truth that mainstream sources have missed.
+
+Causal Oversimplification – Yes – The article assumes a simple cause for a complex situation. It argues that because a body is seen on video and not explicitly detailed in a preliminary report, the only possible cause is a "massive cover-up," ignoring numerous other potential explanations.
+
+Obfuscation, intentional vagueness – Yes – The text introduces confusing and loosely related details, such as the specifics of helicopter downdraft and the fact that Sean Hannity received a haircut in the parking lot, which serve to create a general atmosphere of conspiracy and distract from the central claim.
+
+Appeal to authority – Yes – The text cites "Tucker Carlson Tonight" and "Intellihub’s Shepard Ambellas" as authorities to lend credibility to its claims and the video evidence it presents.
+
+Black & white fallacy – Yes – The text presents a false dichotomy in its first sentence: the situation "can only be described as gross negligence or a massive cover-up," which presents only two extreme negative options while ignoring any other possibilities.
+
+Thought-terminating clichés – No – The text does not use clichés to shut down discussion; on the contrary, it uses rhetorical questions to provoke a specific line of thinking.
+
+Red herring – Yes – The text introduces irrelevant information to distract the reader, most notably the detail that "Sean Hannity (who was heavily guarded by a five-man security team), received mobile haircuts in the very same parking lot." This has no bearing on the victim count and serves only to add a layer of strangeness.
+
+Straw men – No – The text attacks the official report for what it claims is an omission, which is a direct attack on the source material, not a misrepresentation of an argument.
+
+Whataboutism – No – The text accuses the LVMPD and FBI of incompetence and conspiracy, but it does not charge them with hypocrisy by pointing to another unrelated action.
+
+***
+
+Verdict – 95% – The text is overwhelmingly propagandistic. Its primary goal is not to present facts objectively but to persuade the reader to distrust official institutions (the LVMPD and FBI) by creating a narrative of conspiracy and incompetence. It achieves this by employing a wide array of propaganda techniques.
+
+The article heavily relies on **Loaded Language** ("massive cover-up," "completely botched") and **Appeal to Fear** to create an immediate emotional reaction of outrage and suspicion. It frames the entire issue using a **Black & White Fallacy**, stating that the only possible explanations are "gross negligence or a massive cover-up," thereby dismissing any nuanced or alternative explanations.
+
+Furthermore, it uses **Exaggeration** by titling the piece "PROOF" based on a single piece of uncorroborated video evidence and engages in **Causal Oversimplification** by leaping from "unaccounted-for body on video" to "massive cover-up." The inclusion of irrelevant and confusing details, such as the helicopter downdraft and Sean Hannity's haircut, functions as both a **Red Herring** and **Obfuscation**, creating a general sense of conspiracy without providing concrete, relevant evidence. The entire piece is an exercise in creating **Doubt** about the official narrative, using its own sources and friendly media figures as an **Appeal to Authority**. The combination of these techniques demonstrates a clear intent to manipulate the reader's perception rather than to engage in good-faith reporting.

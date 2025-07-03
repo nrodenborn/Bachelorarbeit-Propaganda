@@ -1,0 +1,39 @@
+1. Name calling – No – The text does not use insulting labels to attack the officer or any other party. It refers to her by her name and title, "Dallas Police Officer Amber Guyger."
+
+2. Repetition – Yes – The poll question "Who should replace Nikki Haley as our ambassador to the U.N.?" is repeated three times in a row.
+
+3. Slogans – No – The text does not use any brief, memorable phrases to encapsulate an idea or message.
+
+4. Appeal to fear – No – The text reports on a frightening event but does not use fear to support an idea or argue against an alternative.
+
+5. Doubt – Yes – The author explicitly questions the credibility of the officer's story with phrases like, "I have no idea how you can enter an apartment mistakenly," and "Ok, some of this seems plausible, but I still am left wondering about the door being ajar."
+
+6. Exaggeration/minimization – Yes – The text uses exaggeration with the statement, "we all know that any of us who did the same thing would have immediately been taken into custody." This is a form of hyperbole to emphasize a point about perceived special treatment.
+
+7. Flag-Waving – No – The text does not make any appeals to patriotism or national identity to support its points.
+
+8. Loaded Language – Yes – The headline uses the word "Finally" ("Dallas Police Officer Finally Arrested"), which is emotionally charged to suggest an improper delay and appeal to the reader's frustration.
+
+9. Reduction ad Hitlerum – No – The text does not compare any person or idea to groups hated by the audience.
+
+10. Bandwagon – Yes – The text appeals to the popularity of an opinion by stating that the delay in her arrest "provoked outrage across the nation," suggesting that the reader should also be outraged.
+
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event. In fact, it does the opposite by questioning the simple explanation provided by the officer.
+
+12. Obfuscation, intentional vagueness – No – The author's writing is direct in its questioning. It points out what it perceives as vagueness in the official account rather than being vague itself.
+
+13. Appeal to authority – No – The text cites authorities like the Dallas Police and news outlets to report information, but it does not use their status as the sole evidence for a claim's truthfulness. It often cites them to then question their statements.
+
+14. Black & white fallacy – Yes – The text presents a false dichotomy with the line, "we all know that any of us who did the same thing would have immediately been taken into custody." This presents only two options: the preferential treatment Guyger allegedly received versus the immediate arrest of any other citizen, ignoring other possibilities.
+
+15. Thought-terminating clichés – No – The text actively encourages critical thought by asking direct questions about the official narrative.
+
+16. Red herring – Yes – The text introduces a poll, "Who should replace Nikki Haley as our ambassador to the U.N.?", which is completely irrelevant to the story about the shooting and serves only to distract the reader and collect user data.
+
+17. Straw men – No – The text engages directly with the arguments and facts presented in the official affidavit and police statements, rather than refuting a misrepresented or fabricated argument.
+
+18. Whataboutism – Yes – The text charges the justice system with hypocrisy by contrasting the officer's treatment with how an ordinary citizen would be treated: "we all know that any of us who did the same thing would have immediately been taken into custody." This is a direct accusation of a double standard.
+
+***
+
+Verdict – 90% – The text is highly propagandistic. While it is structured like a news report, it is an opinion piece designed to persuade the reader toward a specific viewpoint. It employs numerous propaganda techniques to achieve this. The author uses loaded language ("Finally") to create an emotional response, casts direct doubt on the official narrative with rhetorical questions, and uses bandwagon appeals ("outrage across the nation") to suggest the author's viewpoint is the popular one. Furthermore, it uses exaggeration and a black & white fallacy to create an "us vs. them" narrative between ordinary citizens and police. The most blatant evidence of propaganda is the inclusion of a completely irrelevant red herring poll about a U.N. ambassador, which serves no purpose to the story other than to distract and likely harvest user data under the guise of a news article. The combination of a biased, persuasive tone with manipulative structural elements makes this a clear example of propaganda.

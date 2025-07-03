@@ -1,0 +1,39 @@
+Name calling – No – The text does not use insulting labels to attack any person or group. It uses formal titles and descriptions like "President Donald Trump’s Supreme Court nominee" and "Democrat Senator Dianne Feinstein."
+
+Repetition – No – The text is a news report and does not repeat a specific message or phrase for persuasive effect.
+
+Slogans – No – There are no brief, memorable phrases used to rally support for or against a cause.
+
+Appeal to fear – No – The text reports on past alleged events and the current political situation; it does not attempt to instill fear about a future outcome.
+
+Doubt – Yes – Kavanaugh’s friend’s statement questions the credibility of the accuser's claim without issuing a firm denial. Example: "Kavanaugh’s friend, who has not been identified, did not outright deny the woman’s claims but told the New Yorker he has “no recollection of that.”"
+
+Exaggeration/minimization – Yes – Carrie Severino’s statement minimizes the accusation by framing it solely as a political tactic, dismissing any possibility of its legitimacy. Example: "This is nothing more than a last-minute attempt at character assassination, and there should no delay in confirming Judge Kavanaugh."
+
+Flag-Waving – No – The text does not make any appeals to patriotism or national identity.
+
+Loaded Language – Yes – The term "character assassination" is used to evoke a strong emotional response and frame the accusation as a malicious, unfair attack rather than a potentially valid claim. Example: "This is nothing more than a last-minute attempt at character assassination..."
+
+Reduction ad Hitlerum – No – There are no comparisons made to Hitler or the Nazis.
+
+Bandwagon – Yes – The text cites a large group of women who support Kavanaugh to suggest that his character is good because many people say it is. Example: "...65 women from both the Republican and Democrat parties who have known Kavanaugh since high school defended his character..."
+
+Causal Oversimplification – Yes – Carrie Severino’s statement reduces the complex situation of a sexual assault allegation and its timing to a single, simple cause: a political attack. Example: "This is nothing more than a last-minute attempt at character assassination..."
+
+Obfuscation, intentional vagueness – Yes – The statement from Kavanaugh's friend is deliberately vague, creating uncertainty without directly refuting the allegation. Example: "Kavanaugh’s friend... told the New Yorker he has “no recollection of that.”"
+
+Appeal to authority – Yes – The statement from Carrie Severino is given weight by citing her position as "chief counsel for the Judicial Crisis Network," and the letter from the 65 women is used as an appeal to their authority as character witnesses. Example: "Judge Kavanaugh has denied this allegation and over 60 women... have sent a letter to the Senate Judiciary Committee vouching for his integrity and respect for women over that time,” says Carrie Severino, chief counsel for the Judicial Crisis Network."
+
+Black & white fallacy – Yes – Carrie Severino's statement presents only two options: either the confirmation proceeds without delay, or it is a "character assassination." This ignores other possibilities, such as a legitimate need to investigate a serious claim. Example: "This is nothing more than a last-minute attempt at character assassination, and there should no delay in confirming Judge Kavanaugh."
+
+Thought-terminating clichés – Yes – The phrase "character assassination" is used to shut down further discussion about the substance of the allegation by applying a dismissive, pre-packaged label to it. Example: "This is nothing more than a last-minute attempt at character assassination..."
+
+Red herring – Yes – The focus on the timing of the letter's release is used to distract from the actual content of the allegation. The argument is shifted from "Did this happen?" to "Why is this coming out now?". Example: "...dropped on the last days before the vote for Kavanaugh’s confirmation." and "This is nothing more than a last-minute attempt at character assassination..."
+
+Straw men – Yes – The defense of Kavanaugh's general character refutes a broad argument ("he is not an honorable person") rather than addressing the specific allegation that was made ("he committed this specific act"). Example: "...65 women... who have known Kavanaugh since high school defended his character and said he has always behaved “honorably” and treaded “women with respect.”"
+
+Whataboutism – No – The text does not contain any instances of charging an opponent with hypocrisy to deflect criticism.
+
+***
+
+Verdict – 75% – The text itself is structured as a news report, presenting an accusation, a denial, and statements from various parties. In this sense, it maintains a veneer of objectivity. However, the article is heavily loaded with propagandistic statements, almost all of which come from the side defending Brett Kavanaugh. The final, concluding paragraph is a quote from Carrie Severino that simultaneously employs numerous propaganda techniques: Loaded Language ("character assassination"), Causal Oversimplification (the sole cause is a political attack), Black & White Fallacy (it's either a hit job or he should be confirmed immediately), and Red Herring (focusing on the "last-minute" timing). By giving this powerful, multi-faceted propagandistic statement the final word, the article's structure lends it significant weight and frames the entire controversy through that lens. The inclusion of the "bandwagon" appeal of the 65 women further pushes a particular narrative. While the article reports the core accusation, the weight and framing of the defense are so reliant on propaganda that the text as a whole becomes a vehicle for it.

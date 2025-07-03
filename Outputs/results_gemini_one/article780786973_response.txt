@@ -1,0 +1,37 @@
+Name calling – Yes – The text quotes Donald Trump attacking Robert Mueller and his staff with insulting labels. Example: "Trump alleged in a morning tweet series that the former FBI director is “Disgraced and discredited,” claiming his staff amounts to nothing more than a “group of Angry Democrat Thugs.”"
+
+Repetition – Yes – The text describes Trump repeating his attacks across multiple days and platforms. Example: "The president’s Sunday and Monday attacks on Mueller and his team came after reports that White House Counsel Donald McGahn was interviewed..."
+
+Slogans – Yes – The text quotes a brief and memorable phrase used by Trump to frame the investigation. Example: "...say anything bad about the Rigged Witch Hunt,” his critics “scream Obstruction!”"
+
+Appeal to fear – No – The text does not contain language that attempts to instill fear in the audience about alternatives to a particular idea.
+
+Doubt – Yes – The text reports on Trump's efforts to question the credibility and motives of the special counsel. Example: "The length of the Mueller-McGahn sessions led Trump to the conclusion the special counsel is “looking for trouble” because they “they know there is no Russian Collusion.”"
+
+Exaggeration/minimization – Yes – The text quotes Trump minimizing the legal definition of a crime. Example: "...tweeting that campaign collusion with Russia would be a “phony crime.”"
+
+Flag-Waving – No – The text does not contain any appeals to patriotism or national identity.
+
+Loaded Language – Yes – The text quotes Trump using emotionally charged words to describe the special counsel and his team. Example: "...he referred to the special counsel team as a “gang.” Both are words with loaded meanings for his conservative political base."
+
+Reduction ad Hitlerum – No – The text does not contain any comparisons to Hitler, Nazis, or other universally hated groups.
+
+Bandwagon – No – The text does not suggest that an idea should be adopted because it is popular.
+
+Causal Oversimplification – Yes – The text reports Trump offering a simple cause for a complex situation. Example: "The length of the Mueller-McGahn sessions led Trump to the conclusion the special counsel is “looking for trouble” because they “they know there is no Russian Collusion.”"
+
+Obfuscation, intentional vagueness – Yes – The article explicitly points out the cryptic nature of a statement made by Trump. Example: "President Donald Trump continued bashing Robert S. Mueller III’s Russia investigation, saying cryptically Monday the special counsel is “looking for trouble.”"
+
+Appeal to authority – Yes – The author of the article, not the subject of the propaganda, uses an appeal to authority to provide a counter-argument and context. Example: "...George W. Bush-era White House counsel and attorney general Alberto Gonzales, however, told CNN Monday morning that a sitting White House counsel would be required to fully cooperate with a federal investigation..."
+
+Black & white fallacy – Yes – The text quotes Trump presenting a situation with only two outcomes. Example: "...when he attempts to “FIGHT BACK or say anything bad about the Rigged Witch Hunt,” his critics “scream Obstruction!”"
+
+Thought-terminating clichés – Yes – The text quotes a phrase used by Trump to dismiss the investigation and discourage critical thought. Example: "Trump also continued to cast himself as a victim in the matter, saying when he attempts to “FIGHT BACK or say anything bad about the Rigged Witch Hunt,”..."
+
+Red herring – Yes – The text shows Trump introducing a point to distract from the central issue. Example: Trump's focus on giving his "approval" for McGahn's testimony for "transparency" serves to distract from the legal analysis that the testimony was likely required regardless of his approval.
+
+Straw men – Yes – The text shows Trump refuting a narrow argument that was not the central claim of his opponents. Example: "He’s right, there is no specific collusion statute. But legal experts say anyone in Trump’s orbit would be charged with conspiracy, making false statements to federal investigators or obstructing justice." Trump attacks the non-existent "collusion" crime instead of the actual potential crimes.
+
+Whataboutism – No – The text does not contain an instance where a subject attempts to discredit an opponent by charging them with hypocrisy.
+
+Verdict – 5% – The text itself is a news report, not a piece of propaganda. Its purpose is to inform the reader about statements made by President Trump and the context surrounding them. While the text is filled with examples of propaganda techniques, these techniques are being used by the *subject* of the article (Donald Trump), not by the *author* of the article (John T. Bennett). The author's role is to report on these statements. The article demonstrates journalistic practice rather than propagandistic intent by including counter-points from other sources (Alberto Gonzales, "legal experts"), providing factual context (the Trump Tower meeting, the specific potential crimes), and clarifying details (the misspelling of "counsel"). Therefore, the article is reporting *on* propaganda, not engaging in it.

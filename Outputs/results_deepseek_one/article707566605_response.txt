@@ -1,0 +1,25 @@
+Based on the definitions provided, here is the analysis of each propaganda technique in the text:
+
+1. **Name calling** – No – No insulting labels are used against subjects. Terms like "medieval disease" and "black death" are descriptive/historical, not inherently derogatory.  
+2. **Repetition** – No – While "antibiotic resistance is inevitable" appears twice, this repetition emphasizes a scientific warning rather than propagandistic reinforcement.  
+3. **Slogans** – No – No brief, memorable phrases are used (e.g., no equivalents to "Build the Wall").  
+4. **Appeal to fear** – **Yes** – The text instills fear about antibiotic resistance making the plague "far, far scarier," healthcare systems being "overwhelmed," and a "global pandemic" becoming likely. Example: *"Once the bacteria is resistant... the disease will have control of the nation."*  
+5. **Doubt** – No – No questioning of credibility (e.g., no "Can we trust X?").  
+6. **Exaggeration/minimization** – No – Statistics (e.g., 2,034 infected, 165 deaths) and expert warnings about healthcare limitations (e.g., 3,500 doctors for 22M people) are presented factually without clear distortion.  
+7. **Flag-waving** – No – No appeals to patriotism or group identity.  
+8. **Loaded language** – **Yes** – Emotionally charged terms like "terrifying," "deadly plague," "medieval disease," and "worst outbreak in 50 years" amplify dread. Example: *"making this disease much more terrifying."*  
+9. **Reduction ad Hitlerum** – No – No comparisons to hated groups (e.g., Nazis).  
+10. **Bandwagon** – No – No appeal to popularity (e.g., no "everyone agrees X").  
+11. **Causal oversimplification** – No – Antibiotic resistance is framed as a complex outcome of overuse, not oversimplified. Example: *"If you throw more and more antibiotics at patients, antibiotic resistance is... inevitable."*  
+12. **Obfuscation** – No – Language is clear and specific (e.g., explicit statistics, direct quotes).  
+13. **Appeal to authority** – **Yes** – Expert opinions (Prof. McFadden, Dr. Gatherer) are used as evidence. Example: *"Professor John Joe McFadden... told MailOnline: ‘If that kicks in, the plague will be far, far scarier.’"*  
+14. **Black & white fallacy** – No – No false dichotomies (e.g., no "only two options" presented).  
+15. **Thought-terminating clichés** – No – No phrases discouraging critical analysis (e.g., no "It is what it is").  
+16. **Red herring** – No – No irrelevant distractions; all content relates to the plague outbreak.  
+17. **Straw men** – No – No misrepresentation of opposing arguments.  
+18. **Whataboutism** – No – No accusations of hypocrisy.  
+
+---
+
+**Verdict – 20% –**  
+The text primarily reports factual developments (e.g., case numbers, expert predictions) and cites legitimate public health concerns. While it uses **appeal to fear** (e.g., warnings of uncontrollable spread) and **loaded language** (e.g., "terrifying," "medieval disease") to emphasize urgency, these techniques align with scientific communication about epidemics. The **appeal to authority** relies on credible experts discussing plausible scenarios (antibiotic resistance, healthcare strain). There is no overt political agenda, distortion of facts, or manipulation beyond typical risk communication. However, the emotive framing slightly leans toward sensationalism, reducing its neutrality. Thus, the text is largely informational but with mild propagandistic elements (≈20%), likely aimed at raising awareness rather than manipulating ideology.

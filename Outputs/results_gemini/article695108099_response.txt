@@ -1,0 +1,26 @@
+1. Name calling – No – The text attacks the credibility of the authorities but does not use insulting labels to do so.
+2. Repetition – No – The text builds a singular argument but does not repeat the same message or phrase over and over.
+3. Slogans – No – The text does not use any brief, memorable phrases to encapsulate an idea.
+4. Appeal to fear – No – The text does not attempt to instill fear in the audience to support its idea. It discusses a fearful event but does not use fear as a persuasive tool.
+5. Doubt – Yes – The text is constructed almost entirely around creating doubt about the official account of events. For example: “Why did police lie and say he checked in on Sep. 28th?” and “The date on the receipt also says September 27, whereas authorities assert that Paddock checked in the day after on September 28.”
+6. Exaggeration/minimization – No – While the implications of the evidence are amplified, the text does not use overtly exaggerated language or numbers to make its point.
+7. Flag-Waving – No – The text makes no appeal to patriotism or national identity.
+8. Loaded Language – Yes – The text uses emotionally charged language to influence the audience’s perception. For example, the question, “Why did police lie…?” uses the word “lie” to presuppose malicious intent, rather than a potential mistake or misinformation, which is emotionally provocative.
+9. Reduction ad Hitlerum – No – The text does not compare any idea or group to hated figures like Hitler or the Nazis.
+10. Bandwagon – No – The text does not argue that its position is correct because it is popular.
+11. Causal Oversimplification – Yes – The text presents a simple cause for a complex situation. It suggests that a receipt showing two guests and an earlier check-in date is direct proof of a police cover-up, ignoring many other potential explanations (e.g., the receipt is fake, the information on it is a clerical error, the source is unreliable, initial police reports were preliminary and subject to change).
+12. Obfuscation, intentional vagueness – Yes – The sources of the core claims are deliberately vague and difficult to verify. For example: “An image posted on Facebook by a man who claims he served Stephen Paddock…” and “Another source told Laura Loomer…”. This vagueness makes the claims seem credible while being impossible to fact-check.
+13. Appeal to authority – No – The text does the opposite; it attempts to discredit official authorities (the police) rather than use their support as evidence.
+14. Black & white fallacy – Yes – The text presents a false dichotomy regarding the check-in date. It frames the situation as either the receipt is correct or “police lie.” It fails to consider other possibilities, such as the information from the source being incorrect or the police having released preliminary, unconfirmed information.
+15. Thought-terminating clichés – No – The text does not use clichés to shut down critical thought; instead, it attempts to provoke a specific line of questioning.
+16. Red herring – No – While the topic could be seen as a distraction from the main investigation, the material presented is directly relevant to the argument the text is making about a cover-up.
+17. Straw men – No – The text attacks the stated position of the authorities (the check-in date) rather than misrepresenting their argument to attack it.
+18. Whataboutism – No – The text does not accuse its opponent of hypocrisy by pointing to other, unrelated actions.
+
+***
+
+Verdict – 95% – The text is highly likely to be propaganda. Its primary purpose is not to inform objectively but to persuade the audience to adopt a specific, conspiratorial viewpoint by undermining official sources. It achieves this by employing a combination of powerful propaganda techniques.
+
+The entire article is built on a foundation of **Doubt**, systematically questioning the official narrative provided by authorities. It uses **Loaded Language** (e.g., “lie”) to provoke an emotional response of distrust rather than a rational assessment of the facts. The argument relies heavily on **Causal Oversimplification**, taking small, unverified pieces of evidence (a receipt from a vague source) and making a huge logical leap to conclude there was a police cover-up, which is also a **Black & White Fallacy** as it ignores all other explanations.
+
+Furthermore, the evidence itself is presented with **Obfuscation, intentional vagueness** (“a man who claims,” “Another source”), which prevents verification and lends a false air of insider knowledge. By weaving these techniques together, the text constructs a compelling but misleading narrative designed to erode trust in official institutions and promote a specific agenda, which is the hallmark of propaganda.

@@ -1,0 +1,39 @@
+Name calling – No – The text uses strong words like "ATTACK" but does not apply an insulting label to a specific person, group, or country.
+
+Repetition – Yes – The text repeatedly connects the incident in China to the previous one in Cuba to establish a pattern. For example: "similar to those reported by diplomats in Cuba," "this isn’t the first time a sound weapon has been used on American diplomats," and "reporting similar symptoms as the diplomats in Cuba."
+
+Slogans – No – The text does not use any brief, memorable, or chant-like phrases.
+
+Appeal to fear – Yes – The text describes severe and frightening medical consequences to instill fear. Example: "...symptoms ranging from nosebleeds, nausea, dizziness and severe headaches to mild brain damage and permanent hearing or memory loss."
+
+Doubt – No – While the situation is mysterious, the text does not explicitly aim to question the credibility of a specific person or group in the way defined. It reports on uncertainty rather than actively creating it to discredit someone.
+
+Exaggeration/minimization – Yes – The title presents an unconfirmed event as a definite attack, which is an exaggeration of the facts presented later in the article. Example: "Another Sound Weapon Used To ATTACK US Diplomats: This Time In China" frames the event as a certainty, while the body of the text states, "It’s not known yet whether the injured government worker in China was targeted with any such device."
+
+Flag-Waving – Yes – The article focuses on the victims being American officials on foreign soil, appealing to a sense of national identity and concern. Example: The narrative is built around harm coming to "A United States government employee," "American consulate," and "American diplomats."
+
+Loaded Language – Yes – The text uses emotionally charged words to create a sense of alarm and malicious intent. Example: "When he got back into bed, the agonizing sound hit him again; as if, he told doctors, he had walked through some invisible wall..."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other universally hated groups.
+
+Bandwagon – No – The text does not suggest that an idea is true because it is popular.
+
+Causal Oversimplification – Yes – The headline and general framing of the article simplify a complex and mysterious medical situation by attributing it to a single, deliberate cause. Example: The title, "Another Sound Weapon Used To ATTACK US Diplomats," presents a simple cause ("Sound Weapon Used To ATTACK") for an event that officials admit is not fully understood.
+
+Obfuscation, intentional vagueness – No – The text is reporting on a vague and mysterious situation, but it does not appear to be deliberately unclear itself. It quotes sources and provides specific details where possible.
+
+Appeal to authority – Yes – The text uses statements from officials to lend weight to its alarming narrative. Example: "After months of investigations, U.S. officials concluded that the diplomats had been exposed to an advanced device that operated outside the range of audible sound..."
+
+Black & white fallacy – No – The text mentions multiple possibilities for the events, including a "sonic attack" or "malfunctioning surveillance gear," thus not limiting the options to only two.
+
+Thought-terminating clichés – No – The text does not use any phrases or clichés that are meant to shut down critical thought.
+
+Red herring – No – The article stays focused on the central topic of the mysterious illnesses and does not introduce irrelevant material to distract the reader.
+
+Straw men – No – The text does not misrepresent or refute an argument that was not being made.
+
+Whataboutism – No – The text does not attempt to deflect blame or accuse an opponent of hypocrisy.
+
+***
+
+Verdict – 90% – The text is highly likely to be propaganda. While it adopts the structure of a news report by citing official sources and reporting on an actual event, it employs numerous propaganda techniques to frame the story in the most alarming way possible. The title itself uses exaggeration and causal oversimplification ("ATTACK") to present an unconfirmed theory as a fact. The piece heavily relies on appeal to fear by detailing graphic medical symptoms ("mild brain damage," "permanent hearing or memory loss") and uses loaded language ("agonizing sound," "sound weapon") to create an emotional response. It uses repetition to solidify a connection between the events in China and Cuba, creating the impression of a sustained campaign against the U.S. This narrative is reinforced by flag-waving, focusing on the American identity of the victims to evoke patriotism and an "us vs. them" mentality. Finally, it uses appeals to authority selectively, highlighting official conclusions that support the "advanced device" theory to give credibility to its frightening narrative. The combination of these techniques moves the article from objective reporting to a piece designed to persuade the audience of a sinister and frightening reality, which is the hallmark of propaganda.

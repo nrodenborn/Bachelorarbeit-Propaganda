@@ -1,0 +1,20 @@
+1. Name calling – No – The text quotes politicians making strong statements, but the author of the text does not use insulting labels to attack a subject.
+2. Repetition – No – The text does not repeat a specific message or phrase over and over.
+3. Slogans – Yes – The text begins with "Personal Liberty Poll Exercise your right to vote." which is a brief, memorable phrase used by the publication.
+4. Appeal to fear – No – The article reports that Rand Paul has "war and torture concerns," but the author is not making the appeal to fear themselves; they are reporting the statements of a politician.
+5. Doubt – Yes – The text questions the stability and direction of the administration by stating, "The move creates some big questions about both the administration’s foreign policy ambitions as well as the president’s relationship with the deep state."
+6. Exaggeration/minimization – Yes – The text quotes Donald Trump’s tweet that Mike Pompeo "will do a fantastic job!", which is a form of exaggeration. It also describes the event as possibly "the most important one to date."
+7. Flag-Waving – No – The article discusses US political figures and institutions but does not use patriotic appeals to persuade the audience.
+8. Loaded Language – Yes – The text uses emotionally charged words like "ouster," "shake-up," "deep state," and "scurrying" to frame the events. It also quotes Rand Paul describing Haspel as having "joyful glee" at being involved in "torture programs."
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or similarly hated groups.
+10. Bandwagon – No – The text does not suggest an idea is correct because it is popular. It notes that Rand Paul is the "first Republican" to oppose the nominees, which is the opposite of a bandwagon appeal.
+11. Causal Oversimplification – No – The text does not provide a simplistic cause for a complex event; rather, it acknowledges complexity by raising "big questions."
+12. Obfuscation, intentional vagueness – No – The text is written in a clear and direct style. While the term "deep state" can be vague, its use here is not intended to obscure the main point of the article.
+13. Appeal to authority – Yes – The article is fundamentally based on reporting the statements and positions of authority figures like Senator Rand Paul, Senator John McCain, and President Donald Trump to lend credibility to the report. Example: "Sen. Rand Paul (R-Ky.) says he plans to do everything in his power to block..."
+14. Black & white fallacy – No – The text does not present only two options. It describes a nuanced political situation involving Republicans, Democrats, and differing opinions within the Republican party.
+15. Thought-terminating clichés – No – The text does not use clichés to shut down discussion.
+16. Red herring – No – The article stays focused on the central topic of the nominations and the political response to them.
+17. Straw men – No – The text does not misrepresent an argument in order to refute it. It presents the positions of the individuals involved, often with direct quotes.
+18. Whataboutism – Yes – The text quotes Rand Paul employing this technique by shifting the focus to the president's perceived hypocrisy: "I think it goes against most of the things President Trump campaigned on."
+
+Verdict – 30% – The text is primarily a news report, but it contains several propaganda techniques that reveal a distinct editorial viewpoint. Many of the most overt techniques (Whataboutism, Exaggeration) are found within the direct quotes of the politicians being reported on. In this way, the article is often *reporting on* the use of propaganda by others. However, the author's own choices, such as the use of loaded language ("ouster," "shake-up," "scurrying") and the framing of the event to create "doubt" about the administration, push the article away from neutral objectivity and into the realm of persuasive journalism. The inclusion of the publisher's slogan also adds a persuasive element. Therefore, while its main purpose is to inform, it does so with a clear slant, making it mildly propagandistic.

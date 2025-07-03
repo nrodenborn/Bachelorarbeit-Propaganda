@@ -1,0 +1,22 @@
+### Propaganda Technique Analysis:
+1. **Name calling** – No – No insulting labels are used against any subject; the text reports facts neutrally.  
+2. **Repetition** – No – Key terms (e.g., "Ebola") are mentioned contextually for clarity, not repeated excessively to manipulate.  
+3. **Slogans** – No – No brief, memorable phrases are used to persuade (e.g., "public health emergency" is a technical term, not a slogan).  
+4. **Appeal to fear** – No – While Ebola’s dangers are described (e.g., "highly infectious and extremely lethal"), this is factual reporting, not an attempt to instill fear against alternatives.  
+5. **Doubt** – No – No questioning of credibility; sources like WHO and the DRC government are presented as reliable.  
+6. **Exaggeration/minimization** – No – Statistics and descriptions are objective (e.g., "17 deaths," "highly infectious" aligns with scientific consensus).  
+7. **Flag-Waving** – No – No appeals to patriotism or group identity; the focus is global health collaboration.  
+8. **Loaded Language** – No – Language is clinical (e.g., "fever with haemorrhagic indications"); terms like "notorious" are descriptive, not emotionally charged.  
+9. **Reduction ad Hitlerum** – No – No disapproval by linking ideas to hated groups.  
+10. **Bandwagon** – No – No emphasis on popularity to promote an idea (e.g., collaboration is framed as practical, not popular).  
+11. **Causal Oversimplification** – No – Complexity is acknowledged (e.g., transmission via bats, fluids, and containment protocols).  
+12. **Obfuscation, intentional vagueness** – No – Details are precise (e.g., "21 cases," "50 experts," location names); no vague language.  
+13. **Appeal to authority** – No – Authorities (e.g., WHO) are cited for information, not as unquestionable proof (e.g., "WHO said lab tests confirmed" is attribution, not endorsement).  
+14. **Black & white fallacy** – No – No false dilemmas; multiple responses (e.g., funding, coordination, care) are discussed.  
+15. **Thought-terminating clichés** – No – No phrases discouraging critical thought (e.g., explanations of symptoms/protocols invite inquiry).  
+16. **Red herring** – No – No irrelevant distractions; all details relate to the outbreak/response.  
+17. **Straw men** – No – No misrepresentation of opposing arguments; the text reports events, not debates.  
+18. **Whataboutism** – No – No accusations of hypocrisy; focus remains on the DRC outbreak.  
+
+### Verdict – 5% –  
+The text is a straightforward news report from a health-focused agency, prioritizing factual accuracy and public information. It cites sources (e.g., WHO, DRC government), uses neutral language, and avoids persuasive tactics. The 5% uncertainty reflects minor descriptive terms (e.g., "notorious") that could subtly frame perceptions, but these are clinically justified and lack intent to manipulate. No propaganda techniques are overtly employed; the purpose is informational, not ideological.

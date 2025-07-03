@@ -1,0 +1,22 @@
+1. Name calling – Yes – The headline and the first sentence immediately label the subject as a "Gang Member," which is a direct attack on his character using an insulting label. Example: "MS-503 Gang Member Apprehended by Border Patrol Agents In Arizona"
+2. Repetition – Yes – The message that the individual is a gang member is repeated. It appears in the headline, the first paragraph, and is reinforced with the detail about the tattoo in the fifth paragraph. Example: "arrested a gang member belonging to the Mara Salvatrucha-503 Gang" and "noted a MS-503 Gang tattoo across his chest."
+3. Slogans – No – The text does not use any brief, memorable phrases as slogans.
+4. Appeal to fear – Yes – The text explicitly states the gang is "notorious for extreme violence and bloodshed." This detail is included to instill fear in the reader about the type of individuals crossing the border.
+5. Doubt – No – The text does not question the credibility of any person or organization.
+6. Exaggeration/minimization – Yes – The text exaggerates the threat of this specific individual by headlining his gang affiliation, while minimizing the fact that he "had no record of any criminal or immigration arrests in the United States" by placing this information near the end of the report.
+7. Flag-Waving – No – The text does not make an appeal to patriotism.
+8. Loaded Language – Yes – The text uses emotionally charged words and phrases to create a negative impression. Example: "notorious for extreme violence and bloodshed." The names "Mara Salvatrucha" and "MS-13" are themselves loaded terms for many readers.
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or similarly hated groups.
+10. Bandwagon – No – The text does not suggest that an idea is popular and that the reader should agree with it.
+11. Causal Oversimplification – No – The text reports on a single event and does not attempt to provide a simple cause for a complex issue.
+12. Obfuscation, intentional vagueness – No – The text is very specific, providing times, locations, and names. It is not intentionally vague.
+13. Appeal to authority – Yes – The entire article is presented as an official report from "Yuma Sector Border Patrol agents," using the authority of a government agency to lend credibility to the information.
+14. Black & white fallacy – No – The text does not present only two choices or options.
+15. Thought-terminating clichés – No – The text does not use any clichés intended to stop critical thought.
+16. Red herring – Yes – The information that the gang is "notorious for extreme violence and bloodshed" is a red herring. It is irrelevant to the specific case of this individual, who had no criminal record in the U.S., and serves to distract from the actual offense (an immigration violation) to create a more menacing narrative.
+17. Straw men – No – The text does not set up or refute a false argument.
+18. Whataboutism – No – The text does not accuse an opponent of hypocrisy.
+
+Verdict – 90% – While this text is presented as a factual, straightforward press release from a government agency, it is a highly effective piece of propaganda. Its primary purpose is not simply to inform the public of a routine arrest for an immigration violation, but to influence public perception by linking immigration with violent crime.
+
+The text achieves this by carefully selecting and framing information. It uses multiple propaganda techniques simultaneously: it leads with **Name Calling** ("Gang Member") in the headline, which is an **Exaggeration** of the immediate threat since the individual had no U.S. criminal record. It uses **Loaded Language** and an **Appeal to Fear** by describing the gang as "notorious for extreme violence and bloodshed," a detail that functions as a **Red Herring** because it's not directly relevant to this specific person's actions in the U.S. The entire report is cloaked in an **Appeal to Authority**, as it comes from Border Patrol agents, lending it a veneer of objective fact. The cumulative effect is to create a strong emotional association in the reader's mind between a person crossing the border and extreme, violent gang activity, even when the facts of the specific case do not support that link.

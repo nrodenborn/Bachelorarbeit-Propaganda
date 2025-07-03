@@ -1,0 +1,24 @@
+Here is the analysis of propaganda techniques in the text, followed by the verdict:
+
+1. **Name calling** – Yes – "fake new academic subjects," "toxic stew of racism," "sociology stupidity." These insulting labels attack sociology.  
+2. **Repetition** – Yes – "Sociology" is repeated 4 times (including standalone "Sociology.") with negative framing to reinforce the message.  
+3. **Slogans** – No – No brief, memorable phrases used as slogans (e.g., no equivalents to "Make America Great Again").  
+4. **Appeal to fear** – No – No attempt to instill fear about alternatives; the focus is on mocking sociology, not threatening consequences.  
+5. **Doubt** – Yes – "You really don’t need to know anything" questions sociology's credibility. "Of course she does" sarcastically doubts the professor’s PhD.  
+6. **Exaggeration/minimization** – Yes – Exaggerates sociology’s flaws: "toxic stew of racism," "perfect storm of sociology stupidity." Minimizes its value: "all you need is... absolute ignorance."  
+7. **Flag-Waving** – No – No appeal to patriotism, national identity, or group loyalty.  
+8. **Loaded Language** – Yes – Emotionally charged terms: "ridiculous," "worries me," "corrupting," "toxic," "stupidity," "ignorance."  
+9. **Reduction ad Hitlerum** – No – No association of sociology with hated groups (e.g., Nazis, terrorists).  
+10. **Bandwagon** – No – No appeal to popularity (e.g., "everyone agrees sociology is worthless").  
+11. **Causal Oversimplification** – No – No claims that sociology alone causes complex issues like racism; it’s criticized as a contributor, not a sole cause.  
+12. **Obfuscation** – No – The text is clear and direct in its criticism; no deliberate vagueness.  
+13. **Appeal to authority** – Yes – The student cites "John Pearson (2013)" and "SNHU’s Shapiro library" to counter the professor, using external sources as evidence.  
+14. **Black & white fallacy** – Yes – Presents sociology as entirely corrupt ("toxic stew") with no redeeming value, ignoring nuance.  
+15. **Thought-terminating clichés** – Yes – "You really don’t need to know anything" ends discussion; "age of 'My truth'" dismisses objective facts.  
+16. **Red herring** – No – No irrelevant distractions; the Australia example directly supports the anti-sociology argument.  
+17. **Straw men** – Yes – Redefines sociology as requiring only "politically correct premise and absolute ignorance," ignoring its actual methodologies.  
+18. **Whataboutism** – No – No accusations of hypocrisy (e.g., not contrasting sociology with other fields).  
+
+---
+
+**Verdict – 85% –** The text is highly likely to be propaganda. It employs at least 9 distinct propaganda techniques (e.g., name-calling, loaded language, exaggeration, straw men) to vilify sociology as a discipline. The core argument relies on emotional manipulation, oversimplification, and a single anecdote (the Australia incident) to paint sociology as inherently flawed, corrupt, and intellectually bankrupt. While based on a real event, the framing is deliberately inflammatory and one-sided, dismissing counter-evidence (e.g., the student’s sourced rebuttal) as part of "my truth" rhetoric. The goal is not balanced critique but to delegitimize sociology entirely, aligning with ideological opposition to "politically correct" academia. However, it is not 100% propaganda because it references a factual incident (the student’s experience) and includes a direct quote from the professor, providing minimal anchoring in reality.

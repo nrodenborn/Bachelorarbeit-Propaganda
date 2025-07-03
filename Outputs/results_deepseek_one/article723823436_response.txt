@@ -1,0 +1,30 @@
+Here is the analysis of propaganda techniques in the text, followed by the verdict:
+
+1. **Name calling** – Yes – "infamous 'Gang of Eight'" (insulting label for bipartisan senators).  
+2. **Repetition** – Yes – Repeated claims of "credible evidence" and ISIS claims (e.g., "claimed responsibility four times").  
+3. **Slogans** – No – No brief, memorable phrases like "Build the Wall" appear *in this specific text*.  
+4. **Appeal to fear** – Yes – Warnings of "terrorist infiltration through the southern border" implying imminent threat.  
+5. **Doubt** – Yes – Questioning transparency: "Why is that?" regarding withheld autopsy/video; "Something’s not adding up."  
+6. **Exaggeration/minimization** – Yes – Exaggeration: "Islamists were crossing our southern border" (based on limited evidence). Minimization: Dismissing official findings ("Homeland Security waved their hand").  
+7. **Flag-Waving** – Yes – Framing border security as national protection: "potential terrorist infiltration through the southern border".  
+8. **Loaded Language** – Yes – Emotionally charged terms: "terrorist infiltration," "Islamic jihadis," "secrecy," "containment of information."  
+9. **Reduction ad Hitlerum** – No – No comparison to Hitler/Nazis.  
+10. **Bandwagon** – Yes – Citing past reports/claims to validate the narrative: "we reported on Islamic terrorists settling into Mexico... This has been documented."  
+11. **Causal Oversimplification** – Yes – Linking the Las Vegas shooting directly to border security ("terrorist infiltration... regarding this incident") despite no evidence.  
+12. **Obfuscation, intentional vagueness** – Yes – Vague references to "credible evidence" without specifics; "possible terrorist nexus."  
+13. **Appeal to authority** – Yes – Citing Rep. Perry's position: "Recently I’ve been made aware... credible evidence".  
+14. **Black & white fallacy** – Yes – Implied choice: Accept border infiltration threat OR risk terrorism ("If we do not oppose evil, we tacitly feed it" – though this is a quote, it's used contextually to support a binary view).  
+15. **Thought-terminating clichés** – Yes – "It's not surprising" / "None of this is really that surprising" shuts down scrutiny.  
+16. **Red herring** – Yes – Discussing immigration policy ("Gang of Eight," border fencing) distracts from the Las Vegas shooting investigation.  
+17. **Straw men** – Yes – Misrepresenting authorities: "they continue to claim there is not Islamic terrorist involvement" (official reports cite no evidence, not an absolute denial of possibility).  
+18. **Whataboutism** – No – No direct accusation of hypocrisy against critics.  
+
+---
+
+**Verdict – 90% – Explanation:**  
+The text is overwhelmingly propagandistic. It employs numerous techniques to advance a specific political narrative (linking terrorism to lax border security via the Las Vegas shooting) while dismissing official investigations. Key indicators include:  
+- **Emotional Manipulation:** Loaded language ("terrorist infiltration," "jihadis") and fear appeals.  
+- **Misleading Evidence:** Reliance on vague "credible evidence," repetition of unverified ISIS claims, and exaggeration of border threats.  
+- **Distraction/Obfuscation:** Red herrings (immigration policy debates), intentional vagueness, and casting doubt on official transparency without proof.  
+- **Suppressing Dissent:** Thought-terminating clichés ("It's not surprising") and straw men misrepresenting investigators.  
+- **Narrative Over Facts:** Forces a connection between border security and the shooting via causal oversimplification, despite the absence of evidence in official reports. The text’s structure (citing selective "reports," questioning authorities, implying cover-ups) aligns with propaganda aimed at reinforcing a pre-existing viewpoint rather than factual analysis. The 10% uncertainty acknowledges the *potential* for genuine concerns about border security, but the presentation is manipulative.

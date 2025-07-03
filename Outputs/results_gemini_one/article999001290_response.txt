@@ -1,0 +1,24 @@
+Here are the propaganda techniques present in the text:
+
+Name calling – Yes – The text labels CNN as a “strong, lying, propagandizing press” and suggests Jim Acosta shouldn't “act like a child”.
+Repetition – Yes – The poll question “Should Jim Acosta have gotten his press pass back?” is repeated three times consecutively.
+Slogans – No – The text does not use any brief, memorable phrases to rally support for an idea or cause.
+Appeal to fear – No – The text expresses anger and criticism about a past event but does not attempt to instill fear about future consequences.
+Doubt – Yes – The author repeatedly questions the judge’s ruling and legal reasoning with phrases like “What? Due process?” and “The ruling has no basis in the Constitution, mind you.”
+Exaggeration/minimization – Yes – The text exaggerates Jim Acosta’s actions by stating he was “all about lies when it came to putting his hands on a White House aide,” presenting a disputed interaction as a definitive and malicious act.
+Flag-Waving – No – While the text mentions the Constitution and the White House, it does not use patriotic appeals to make its argument.
+Loaded Language – Yes – The text uses emotionally charged words and phrases like “badgering,” “act like a child,” and describes CNN as a “lying, propagandizing press.”
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other universally hated groups.
+Bandwagon – No – The text argues against the popular opinion of the media outlets that supported CNN, rather than suggesting the reader should follow the crowd.
+Causal Oversimplification – Yes – The author dismisses the complex legal concept of due process in this context by stating, “Wait, Acosta was not charged with a crime. Neither his property, liberty nor his life was taken. There is no due process here,” which oversimplifies the Fifth Amendment’s application to government actions.
+Obfuscation, intentional vagueness – No – The author’s language is biased and emotional, but it is direct and not intentionally vague or obscure.
+Appeal to authority – No – The author cites authorities like the judge and the President, but primarily to critique them or use their words to support their own argument, not as the sole evidence of their argument's validity.
+Black & white fallacy – Yes – The author presents the issue as a simple binary: “This is an issue of privilege, not rights,” ignoring the legal complexities and nuances of whether the revocation of a government-issued privilege requires due process.
+Thought-terminating clichés – No – While the text uses dismissive phrases, it doesn't rely on established clichés designed to shut down critical thinking.
+Red herring – Yes – The author introduces an irrelevant point to distract from the legal argument by saying, “I want my White House press pass! So does Infowars. Will Judge Kelly demand the White House provide us with one as a ‘right’?” This shifts the topic from the revocation of an existing pass to the granting of new ones.
+Straw men – Yes – The author argues against a First Amendment claim (“Acosta's First Amendment rights weren't violated either”), even though the judge’s ruling was explicitly based on the Fifth Amendment’s due process clause, a point the article itself reports.
+Whataboutism – No – The text does not try to deflect criticism by accusing opponents of hypocrisy on other matters.
+
+***
+
+Verdict – 95% – The text is overwhelmingly propagandistic. Its primary purpose is not to inform the reader but to persuade them to adopt a specific, highly negative viewpoint towards Jim Acosta, CNN, and the legal system that ruled in their favor. The piece systematically employs a wide array of propaganda techniques to achieve this goal. It relies heavily on emotional manipulation through **Name Calling** (“act like a child”) and **Loaded Language** (“lying, propagandizing press”). It builds its argument on a foundation of logical fallacies, using a **Straw Man** by attacking a First Amendment argument the judge didn't make, a **Red Herring** by bringing up Infowars, a **Black & White Fallacy** by framing the issue as "privilege, not rights," and **Causal Oversimplification** to dismiss the legal concept of due process. The author actively works to undermine the credibility of the judge and the legal ruling by casting **Doubt** on their reasoning. The use of **Repetition** in the poll section is a blatant attempt to drill a specific question into the reader's mind. An objective news report would have detailed the ruling, presented the arguments from both CNN's and the White House's legal teams, and provided context for the Fifth Amendment's due process clause. This text, by contrast, presents a one-sided, emotionally-charged argument designed to provoke outrage and reinforce a pre-existing narrative.

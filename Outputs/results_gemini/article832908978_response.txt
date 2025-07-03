@@ -1,0 +1,20 @@
+1. Name calling – Yes – The text reports that President Trump has repeatedly referred to the Mueller investigation as a “WITCH HUNT,” which is an insulting label.
+2. Repetition – Yes – The text states that Trump has “repeatedly claimed that the Mueller investigation is ‘illegal’ and a ‘WITCH HUNT’” and that he “repeatedly citing news reports from this week.”
+3. Slogans – Yes – The text quotes the use of the brief and memorable phrase “WITCH HUNT” to describe the investigation.
+4. Appeal to fear – No – The text and the quotes within it do not attempt to support an idea by instilling fear against other alternatives.
+5. Doubt – Yes – The text quotes Trump questioning the legitimacy of the report by saying, “Let’s see whether or not it’s legit.”
+6. Exaggeration/minimization – Yes – The text quotes Trump calling the probe and report “ridiculous,” which minimizes their significance, and the term “WITCH HUNT” exaggerates the nature of the investigation.
+7. Flag-Waving – No – The text does not contain any appeals to patriotism or national identity to support a cause.
+8. Loaded Language – Yes – The text reports Trump’s use of emotionally charged phrases like “WITCH HUNT” and his claim that the investigation is “driven by angry liberals.”
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by suggesting it is popular with groups hated by the audience.
+10. Bandwagon – Yes – The text describes the Trump reelection campaign texting supporters to “Take our OFFICIAL poll NOW,” which is an appeal to join a popular movement or opinion.
+11. Causal Oversimplification – Yes – The text reports Trump’s claim that the investigation is “driven by angry liberals,” which presents a simple cause for a complex legal and political event.
+12. Obfuscation, intentional vagueness – No – The text and the quotes within it are generally direct. While some responses are non-committal (e.g., “nothing to add right now”), they do not use deliberately unclear expressions to confuse the audience.
+13. Appeal to authority – No – The individuals quoted in the text do not use the support of an external authority as evidence for their claims. The article itself cites sources, but this is a standard journalistic practice, not a propaganda technique.
+14. Black & white fallacy – No – The text does not present a complex situation as having only two possible options.
+15. Thought-terminating clichés – Yes – The phrase “WITCH HUNT” is used as a simple, dismissive label that discourages critical thought about the details of the investigation.
+16. Red herring – No – The text remains focused on the central topic of the Mueller report and does not introduce irrelevant material to distract the reader.
+17. Straw men – No – The text does not show anyone refuting an argument that was not actually presented by an opponent.
+18. Whataboutism – No – The text does not contain examples of anyone deflecting criticism by accusing an opponent of hypocrisy.
+
+Verdict – 10% – The text itself is a news report, not a piece of propaganda. Its primary purpose is to inform the reader about President Trump's and his team's reactions to the imminent release of the Mueller report. It follows journalistic conventions by citing multiple sources, attributing quotes, and providing context for events. However, the text is heavily focused on *reporting* the propaganda techniques used by President Trump and his campaign. It quotes their use of name-calling ("WITCH HUNT"), loaded language ("angry liberals"), causal oversimplification, and other techniques. Because the article is a vehicle that transmits these propaganda messages to the reader—even in the context of reporting—it is not entirely free from a propagandistic effect. The framing of the story and the choice of quotes could be seen as subtly reinforcing a particular narrative. Therefore, while the article's structure and intent are journalistic, its content is saturated with reported propaganda, giving it a very low likelihood of being propaganda itself.

@@ -1,0 +1,46 @@
+Name calling – Yes – The text quotes Donald Trump calling the Mueller probe a “Rigged Witch Hunt” and Mueller’s team “17 Angry Democrats that are doing his dirty work are a disgrace to USA!”
+
+Repetition – No – The text is a single news article and does not repeat a message over and over.
+
+Slogans – Yes – The text quotes Trump using the brief, memorable phrase “Rigged Witch Hunt” to describe the investigation.
+
+Appeal to fear – No – While the text quotes negative language, it does not contain a direct appeal to fear against an alternative idea.
+
+Doubt – Yes – The text quotes Trump questioning the credibility of the special counsel, stating, “Bob Mueller is totally conflicted,” and that the investigation is “tainted by bias.”
+
+Exaggeration/minimization – Yes – The text quotes Trump exaggerating Paul Manafort’s treatment by comparing it to Al Capone’s. It also quotes Rudolph Giuliani minimizing the tweets, saying they “don’t amount to anything.”
+
+Flag-Waving – Yes – The text quotes Trump appealing to patriotism by stating the investigation will “stain our country” and that Mueller’s team is a “disgrace to USA!”
+
+Loaded Language – Yes – The text quotes emotionally charged phrases used by Trump, such as “Rigged Witch Hunt,” “Angry Democrats,” and “dirty work.”
+
+Reduction ad Hitlerum – No – The text does not contain any comparisons to Hitler or other groups widely hated by the target audience.
+
+Bandwagon – No – The text does not contain any appeals to the popularity of an idea or suggest that the audience should agree because many others do.
+
+Causal Oversimplification – Yes – The text quotes Trump attributing the complex investigation to a simple cause: political bias from “17 Angry Democrats.”
+
+Obfuscation, intentional vagueness – No – The statements quoted in the text are direct and not deliberately unclear. The article itself seeks to clarify the situation.
+
+Appeal to authority – Yes – The text notes that Trump “quoted criticism of the investigation from Alan Dershowitz, a Harvard Law School professor who frequently defends Trump on television.”
+
+Black & white fallacy – No – The text does not present a scenario with only two options when more exist.
+
+Thought-terminating clichés – Yes – The phrase “Rigged Witch Hunt” is used to dismiss the investigation outright and discourage discussion of its merits.
+
+Red herring – Yes – The text quotes Trump asking, “Where is the Russian Collusion?” in response to the trial of Paul Manafort, which was for tax evasion and bank fraud, thus distracting from the actual charges.
+
+Straw men – Yes – The text shows Trump focusing exclusively on “Russian Collusion” and attacking the investigation on that basis, misrepresenting the full scope of the probe which included charges of tax evasion and bank fraud against Manafort.
+
+Whataboutism – No – The text does not quote anyone charging an opponent with hypocrisy to deflect from an accusation.
+
+***
+
+Verdict – 5% – The text itself is a news report from a reputable source, the Los Angeles Times, and is not propaganda. Its purpose is to inform the public about statements made by the president and other relevant figures, not to persuade the audience to adopt a particular viewpoint. It maintains a neutral, journalistic tone and structure by:
+1.  Reporting on an event (Trump's tweets).
+2.  Providing direct quotes from the primary subject (Trump).
+3.  Including reactions from opposing political figures (Adam Schiff).
+4.  Including statements from the subject's legal representative (Rudolph Giuliani).
+5.  Seeking context and clarification from legal experts (Dershowitz, Vladeck).
+
+The numerous propaganda techniques identified are present within the *direct quotations* from the political figures the article is reporting on, not within the narrative written by the journalists. The article is reporting *on* the use of propaganda, which is a core function of journalism; it is not engaging in propaganda itself. The 5% accounts for any potential unconscious bias in story selection or framing, but the text's structure and content are characteristic of objective news reporting, not propaganda.

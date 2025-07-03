@@ -1,0 +1,22 @@
+Here's the analysis of the text based on the provided propaganda techniques:
+
+1.  **Name calling** – Yes – "pigs sitting in a corral", "following the sheep" (Insults victims as mindless animals).
+2.  **Repetition** – Yes – Repeats claims of "more than one shooter" ("100% more than one shooter", "every other person... have all said the same things").
+3.  **Slogans** – No – No brief, memorable phrase is used as a slogan.
+4.  **Appeal to fear** – No – Describes a fearful event, but doesn't primarily use fear *to support a specific idea or alternative* beyond the claims themselves.
+5.  **Doubt** – Yes – "the FBI is actively covering this up" (Directly questions FBI credibility).
+6.  **Exaggeration/minimization** – Yes (Exaggeration) – "100% more than one shooter", "every other person... have all said the same things", "huge bombshell" (Uses absolutes and amplifies significance).
+7.  **Flag-Waving** – No – No appeal to patriotism or national/group identity.
+8.  **Loaded Language** – Yes – "horrific attack", "shocking comments", "actively covering this up", "pigs sitting in a corral", "following the sheep", "stunning testimony", "huge bombshell", "fateful night" (Emotionally charged words and phrases).
+9.  **Reduction ad Hitlerum** – No – No association with hated groups.
+10. **Bandwagon** – Yes – "every other person that I’ve talked to... have all said the same things", "growing belief" (Appeals to popularity of the multiple shooter/conspiracy idea).
+11. **Causal Oversimplification** – No – No simple cause is attributed to the complex event; focuses on specific details (multiple shooters, locked gates, FBI cover-up) without claiming they are the *sole* or *simple* cause.
+12. **Obfuscation, intentional vagueness** – No – The claims (multiple shooters, locked gates, cover-up) are stated directly, not obscured.
+13. **Appeal to authority** – Yes – Relies heavily on the eyewitness/victim testimony of Rocky Palermo as primary evidence for the claims.
+14. **Black & white fallacy** – No – Does not present only two choices; focuses on specific anomalies.
+15. **Thought-terminating clichés** – Yes – "following the sheep" (Dismisses the crowd's actions as mindless conformity, discouraging analysis of why they went that way).
+16. **Red herring** – Potentially – The detailed focus on the locked gates and police directions *could* be seen as distracting from the core investigation of the shooter(s), especially as it's linked to the conspiracy claim. However, the text presents it as part of the suspicious event. (Leaning towards **Yes** as it's used to support the overall conspiracy narrative).
+17. **Straw men** – No – Does not refute an argument not presented.
+18. **Whataboutism** – No – Does not charge opponents with hypocrisy.
+
+**Verdict – 85% –** The text exhibits a high concentration of propaganda techniques. Its core purpose is to promote a specific, controversial narrative (multiple shooters, FBI cover-up, suspiciously locked gates) challenging the official account. It heavily relies on **Loaded Language** to evoke outrage and suspicion, **Appeal to Authority** (the victim's testimony), **Repetition** of key claims, **Bandwagon** appeals ("everyone agrees", "growing belief"), **Doubt** cast on the FBI, **Exaggeration** (absolutes like "100%", "every other person"), **Name Calling** to discredit victims/officials ("pigs", "sheep"), and potentially a **Red Herring** (focus on gates). While based on a real witness account, the selective presentation, framing, and use of these techniques strongly indicate an intent to persuade towards a conspiracy viewpoint rather than neutrally report facts, making it highly likely to be propaganda. The 15% uncertainty acknowledges the basis in a real testimony, but the framing and techniques dominate.

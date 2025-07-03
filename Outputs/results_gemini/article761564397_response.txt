@@ -1,0 +1,37 @@
+1. Name calling – No – The text does not use insulting labels to attack individuals; instead, it criticizes their actions and alleged double standards.
+
+2. Repetition – Yes – The core message comparing the treatment of Kristian Saucier to that of Hillary Clinton is repeated throughout the text by different speakers. For example, Saucier states, “they didn’t prosecute Hillary Clinton,” his lawyer says they will “highlight the differences in the way Hillary Clinton was prosecuted,” and the text notes that Trump “often compared the Obama administration’s handling of Saucier’s case with that of Clinton.”
+
+3. Slogans – Yes – The text uses the brief, memorable phrase “two-tier justice system” to encapsulate the central argument of the lawsuit.
+
+4. Appeal to fear – No – The text does not attempt to instill fear about alternatives; it focuses on an alleged past injustice.
+
+5. Doubt – Yes – The entire premise of the lawsuit is to question the credibility and fairness of the justice system and specific officials. The lawyer’s statement that they want to “cast a light on this to show that there’s a two-tier justice system” is a direct attempt to create doubt in the impartiality of the law.
+
+6. Exaggeration/minimization – Yes – Saucier minimizes his actions by stating he “only wanted service mementos” and wanted to show the photos “only to his family,” downplaying the national security risks that prosecutors alleged.
+
+7. Flag-Waving – Yes – The text repeatedly identifies Saucier as a “former Navy sailor” and mentions his “exemplary” career, appealing to patriotism and the identity of a military veteran to generate sympathy and support.
+
+8. Loaded Language – Yes – The text uses emotionally charged words and phrases to influence the audience, such as describing Saucier as “scrambling to find work,” having “lost their home to foreclosure,” and being forced to take a job “collecting garbage,” all of which evoke sympathy.
+
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or hated groups.
+
+10. Bandwagon – Yes – The text highlights that President Trump “frequently voiced support for Saucier” and pardoned him, suggesting that a powerful and popular figure is on Saucier’s side, which can encourage others to adopt the same view.
+
+11. Causal Oversimplification – Yes – Saucier presents a simple cause for his complex legal situation, stating, “They used me as an example because of [the backlash over] Hillary Clinton.” This ignores other factors like the nature of his crime and his obstruction of justice.
+
+12. Obfuscation, intentional vagueness – No – The arguments presented in the text are direct and specific, not deliberately unclear.
+
+13. Appeal to authority – Yes – The text uses President Trump’s support and his presidential pardon as evidence that Saucier was wronged. Saucier says, “President Trump noticed that my career was exemplary and that I didn’t deserve what happened to me.”
+
+14. Black & white fallacy – Yes – The concept of a “two-tier justice system” presents only two options: one for the powerful and connected (like Clinton) and another for ordinary people (like Saucier), ignoring the complex legal nuances that differentiate their cases.
+
+15. Thought-terminating clichés – Yes – The phrase “two-tier justice system” serves to shut down nuanced discussion by applying a simple, damning label to a complex situation. Similarly, Trump’s tweet that D’Souza was “treated very unfairly by our government!” is a simplistic statement that discourages critical thought.
+
+16. Red herring – Yes – The introduction of Dinesh D'Souza's pardon is irrelevant to the specific legal facts of Saucier's case against Obama and Comey. It serves to distract from Saucier's case and broaden the argument into a general pattern of the government being unfair to conservatives.
+
+17. Straw men – No – The text focuses on building Saucier's own narrative and accusations rather than refuting a specific, misrepresented argument from the opposing side.
+
+18. Whataboutism – Yes – The central argument of the text is a clear example of whataboutism. In response to his own prosecution for mishandling classified material, Saucier’s entire case is built on the charge of hypocrisy, constantly deflecting to, "But what about Hillary Clinton?"
+
+Verdict – 90% – The text is highly propagandistic. While it is structured as a news report, it overwhelmingly presents the perspective of one side without significant challenge or counter-argument. The article serves as a vehicle for Saucier's narrative, which is built on a foundation of propaganda techniques. The core of the argument is a classic "whataboutism" fallacy, which is then supported by a multitude of other techniques, including "causal oversimplification" (blaming the Clinton scandal for his prosecution), the "black & white fallacy" (framing it as a "two-tier justice system"), "appeal to authority" (using Trump's pardon as validation), and "loaded language" to create sympathy. The inclusion of the Dinesh D'Souza case acts as a "red herring" to reinforce a broader political narrative. The sheer number and interplay of these techniques show that the text's primary purpose is not to inform neutrally, but to persuade the reader to adopt a specific, politically charged viewpoint by amplifying a narrative laden with propaganda.

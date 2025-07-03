@@ -1,0 +1,24 @@
+Name calling – Yes – The text attacks the academic discipline of history by saying it has "gone to the Diversity dogs."
+Repetition – No – The text builds a single argument with various data points but does not repeat the same message or phrase multiple times.
+Slogans – No – The text does not use a brief, memorable phrase to rally support.
+Appeal to fear – No – The text expresses disapproval and sarcasm but does not attempt to instill fear in the reader about the consequences of these history courses.
+Doubt – Yes – The text opens with the rhetorical question, "Ever thought that the academic discipline of history has gone to the Diversity dogs?" which is designed to cast doubt on the credibility and direction of the entire academic discipline.
+Exaggeration/minimization – Yes – The text minimizes the importance of traditional historical topics by labeling them as "mere historiographical curiosities."
+Flag-Waving – No – The text focuses on academic trends in Australia and does not make an appeal to patriotism or national identity.
+Loaded Language – Yes – The text uses emotionally charged and sarcastic phrases like "gone to the Diversity dogs," "followed dutifully," and the final sarcastic sentence "ought to get with the multiculturalist/Identity Politics program."
+Reduction ad Hitlerum – No – The text does not compare the subject to Nazis or any other universally hated group.
+Bandwagon – No – The text does not suggest the reader should agree with an idea because it is popular. Instead, it criticizes a trend for its popularity within academia.
+Causal Oversimplification – Yes – The text implies that the complex shift in university curricula is caused simply by "The Rise of Identity Politics" and the "multiculturalist/Identity Politics program," ignoring other potential academic, social, or demographic factors.
+Obfuscation, intentional vagueness – No – The text is direct and clear in its argument and uses specific data from a report to support its claims.
+Appeal to authority – Yes – The text bases its entire argument on a "major report" from the "Institute of Public Affairs (IPA)" and explicitly names the author and her credentials, "Dr Bella d’Abrera [ Email her ] (PhD in History, University of Cambridge,)." to lend weight to the findings.
+Black & white fallacy – Yes – The text creates a false dichotomy between traditional history (focusing on "political, intellectual, demographic and material factors") and modern history (focused on "race, gender and ethnicity"), presenting them as opposing forces rather than potentially integrated fields of study.
+Thought-terminating clichés – No – The text does not use phrases to shut down discussion; rather, it attempts to provoke a specific line of critical thought against its target.
+Red herring – No – The text remains focused on its central topic of history teaching in Australian universities and does not introduce irrelevant material to distract the audience.
+Straw men – Yes – The final sentence misrepresents the position of those teaching the criticized courses by implying they believe "political, intellectual, demographic and material factors" no longer "really matter to history." This is an exaggeration of their likely position, which is that identity-related factors also matter.
+Whataboutism – No – The text does not deflect criticism by accusing an opponent of hypocrisy.
+
+Verdict – 95% – The text is highly propagandistic. Its primary purpose is not to inform the reader neutrally about a report's findings, but to persuade the reader to adopt a specific, negative viewpoint towards modern academic history. It achieves this by employing a wide range of propaganda techniques.
+
+The piece frames its argument using an `Appeal to authority` by citing a "major report" from a PhD, giving it a veneer of academic credibility. However, it immediately surrounds this data with `Loaded Language` ("Diversity dogs," "dutifully") and `Name calling` to create a hostile emotional tone. It uses `Exaggeration/minimization` to dismiss traditional topics as "mere historiographical curiosities," amplifying the perceived problem.
+
+Structurally, the argument relies on logical fallacies. It presents a `Black & white fallacy` by pitting traditional history against "Identity Politics" as if they are mutually exclusive. It employs a `Straw men` argument by suggesting that academics who focus on race and gender believe that political and material factors "no longer really matter," a position they are unlikely to actually hold. Finally, it uses `Causal Oversimplification` to blame this entire complex academic shift on a single, villainized "multiculturalist/Identity Politics program." The combination of emotional manipulation, biased framing, and logical fallacies to promote a specific ideology makes this a clear example of propaganda.

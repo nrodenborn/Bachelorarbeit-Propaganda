@@ -1,0 +1,25 @@
+### Analysis of Propaganda Techniques in the Text:
+
+1. **Name calling** – **Yes** – Explanation: "war is deceit" is used as an insulting label against Imam Siraj Wahhaj.  
+2. **Repetition** – **Yes** – Explanation: "Will Brett Kavanaugh be confirmed to the Supreme Court?" is repeated three times in the poll.  
+3. **Slogans** – **Yes** – Explanation: "take our poll" acts as a brief, memorable call to action.  
+4. **Appeal to fear** – **Yes** – Explanation: Mentions the son "training school shooters" and the mosque’s link to the 1993 WTC bomber to instill fear about Islamic extremism.  
+5. **Doubt** – **Yes** – Explanation: Questions the credibility of journalists ("smear as ‘anti-Muslim’") and the Imam’s claims ("But of course, it’s all because of journalists...").  
+6. **Exaggeration/minimization** – **Yes** – Explanation: Exaggerates the Imam’s actions as "‘war is deceit’ action" and minimizes journalistic integrity ("neither AP... is ever so solicitous").  
+7. **Flag-Waving** – **No** – Explanation: No overt appeal to patriotism or national identity.  
+8. **Loaded Language** – **Yes** – Explanation: Uses emotionally charged terms like "filthy, makeshift compound," "training school shooters," and "smear as ‘anti-Muslim’" to provoke bias.  
+9. **Reduction ad Hitlerum** – **No** – Explanation: No comparisons to Nazis or universally hated groups.  
+10. **Bandwagon** – **No** – Explanation: No appeal to the popularity of an idea.  
+11. **Causal Oversimplification** – **Yes** – Explanation: Blames journalists’ supposed hatred of Islam as the sole reason for criticism ("it’s all because of journalists who supposedly hate Islam").  
+12. **Obfuscation, intentional vagueness** – **Yes** – Explanation: "Ever the victim" is a vague, dismissive phrase obscuring specifics.  
+13. **Appeal to authority** – **No** – Explanation: No cited authoritative support; relies on implied institutional bias.  
+14. **Black & white fallacy** – **Yes** – Explanation: Presents journalists as universally anti-Muslim ("whom they smear") and ignores nuance.  
+15. **Thought-terminating clichés** – **Yes** – Explanation: "Ever the victim" shuts down critical discussion of the Imam’s claims.  
+16. **Red herring** – **Yes** – Explanation: The Brett Kavanaugh poll distracts from the article’s core subject.  
+17. **Straw men** – **Yes** – Explanation: Misrepresents the Imam’s argument as solely blaming journalists ("it’s all because of journalists"), ignoring his actual focus on "anti-Muslim propaganda."  
+18. **Whataboutism** – **No** – Explanation: No accusations of hypocrisy against opponents.  
+
+---
+
+### Verdict – 85% – Explanation:  
+The text is highly likely to be propaganda due to its systematic use of manipulative techniques. It employs **name-calling** ("war is deceit"), **repetition** (Kavanaugh poll), **appeal to fear** (school shooters/WTC links), **loaded language** ("filthy," "smear"), and **straw men** to vilify the Imam and journalists. It **oversimplifies causality** (blaming "journalists who hate Islam") and uses **thought-terminating clichés** ("Ever the victim") to stifle nuance. The **red herring** (Kavanaugh poll) further distracts from substantive discussion. While not every technique is present, the text’s framing—dismissing critics as bigoted while omitting counter-evidence—aligns with propaganda’s goal of shaping perception rather than informing. The source’s bias (Robert Spencer, a known anti-Islam activist) and selective reporting (ignoring the mosque spokesman’s rebuttal) reinforce this assessment.

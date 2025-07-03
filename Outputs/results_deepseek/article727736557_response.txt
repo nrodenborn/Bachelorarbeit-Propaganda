@@ -1,0 +1,26 @@
+### Propaganda Technique Analysis:
+1. **Name calling** – Yes – "crackpots" (first paragraph), "bonkers conspiracy site" (describing Intellihub), "noxious far-right personality" (describing Laura Loomer), and "conspiracy-mongers" (final section). These are insulting labels targeting conspiracy theorists/sources.  
+2. **Repetition** – No – The core message (conspiracy theories harassing Haig are unfounded) is reinforced through examples but not mechanically repeated.  
+3. **Slogans** – No – No brief, memorable phrases are used to summarize the narrative.  
+4. **Appeal to fear** – No – The text highlights harassment but does not use fear to promote an alternative idea.  
+5. **Doubt** – No – The text does not question the credibility of Haig or authorities; it supports them.  
+6. **Exaggeration/minimization** – Yes – Minimization: "merely sold Paddock the rounds" (downplays Haig’s involvement). Exaggeration: "wild claims," "ludicrous theory" (amplifies the absurdity of conspiracy theories).  
+7. **Flag-Waving** – No – No appeal to patriotism or national identity.  
+8. **Loaded Language** – Yes – "crackpots," "seized on," "lob wild claims," "bonkers," "ludicrous," "conspiracy-mongers" (emotionally charged terms to discredit theorists).  
+9. **Reduction ad Hitlerum** – No – No association of ideas with universally hated groups (e.g., Nazis).  
+10. **Bandwagon** – No – No appeal to the popularity of an idea to validate it.  
+11. **Causal Oversimplification** – No – The text avoids attributing the conspiracy theories to a single cause; it details multiple factors (e.g., Haig’s LinkedIn, tracer ammo).  
+12. **Obfuscation, intentional vagueness** – No – The reporting is clear and specific (e.g., dates, companies, round counts).  
+13. **Appeal to authority** – No – No authoritative figures or institutions are cited to validate claims.  
+14. **Black & white fallacy** – No – Presents nuance (e.g., Haig’s denials vs. theorists’ claims, evidence about tracer ammo).  
+15. **Thought-terminating clichés** – No – No phrases like "case closed" to shut down discussion; includes counter-evidence.  
+16. **Red herring** – No – All details (e.g., Haig’s employment, ammo type) directly address the conspiracy claims.  
+17. **Straw men** – No – Accurately represents conspiracy arguments (e.g., quoting theorists directly) before refuting them.  
+18. **Whataboutism** – No – No accusations of hypocrisy against critics.  
+
+### Verdict – 20% – Explanation:  
+The text is primarily **fact-based journalism** reporting on conspiracy theories targeting Douglas Haig. It uses *some* propagandistic elements (e.g., name-calling, loaded language) to discredit fringe theories, but these serve editorial emphasis rather than systematic manipulation. Key indicators of non-propaganda:  
+- **Balance**: Presents Haig’s denials, evidence (tracer ammo visibility, legal sales), and direct quotes from conspiracy sources.  
+- **Context**: Explains why theories lack merit (e.g., tracer rounds unused, Haig’s non-military background).  
+- **Purpose**: Aims to inform about harassment and debunk misinformation, not promote a political agenda.  
+The 20% likelihood reflects limited use of emotive language to frame theorists negatively, but the core remains investigative and evidentiary.

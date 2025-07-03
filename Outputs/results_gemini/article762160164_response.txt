@@ -1,0 +1,39 @@
+1. Name calling – Yes – The text refers to the Obama administration as "Obama Inc.", which frames the government as a corrupt, self-serving business rather than a public institution.
+
+2. Repetition – Yes – The central message that the Obama administration was secretly and deceptively working to help Iran is repeated in various ways, such as "Obama Secretly Tried to Get Banks to Aid Iran," "Yet another Obama dirty deal with Iran," and "They were trying to aid Iran."
+
+3. Slogans – Yes – The text uses the short, memorable phrase "Yet another Obama dirty deal with Iran" to encapsulate its argument in a catchy way.
+
+4. Appeal to fear – Yes – The text begins by mentioning "terror state ties," immediately associating Iran with terrorism and instilling fear about any government actions that might aid them.
+
+5. Doubt – Yes – The text is built around casting doubt on the Obama administration's credibility, stating it acted "despite repeatedly telling Congress and the public it had no plans to do so" and calling official statements "worthless assurances."
+
+6. Exaggeration/minimization – Yes – The text exaggerates the nature of the proposed transaction by stating the administration was helping Iran "launder money," a criminal term for an action the text itself admits "was not illegal."
+
+7. Flag-Waving – No – The text focuses on attacking a political figure and their administration rather than making an appeal to patriotism or national identity.
+
+8. Loaded Language – Yes – The text uses emotionally charged words and phrases like "dirty deal," "disgraced themselves," and "worthless assurances" to create a strong negative emotional response in the reader.
+
+9. Reduction ad Hitlerum – No – The text does not compare the Obama administration or its ideas to groups like the Nazis or other figures/groups widely hated by the audience.
+
+10. Bandwagon – No – The text does not suggest its viewpoint is correct because it is popular. Instead, it frames its information as a secret that "we're just learning about now."
+
+11. Causal Oversimplification – Yes – The text makes an unsupported leap in logic by stating, "And that's part of why Spygate is happening," connecting the complex Iran deal issue to a separate, complex conspiracy theory with a simple and direct causal link.
+
+12. Obfuscation, intentional vagueness – Yes – The text introduces the term "Spygate" without any explanation or context, a vague reference that serves to confuse or to appeal to readers already familiar with a specific political narrative.
+
+13. Appeal to authority – Yes – The text cites "The report by the Senate Permanent Subcommittee on Investigations" and "the report from the Republican members of the Senate panel" to lend credibility to its claims.
+
+14. Black & white fallacy – Yes – The text presents the administration's actions as a simple binary: either being tough on Iran or improperly "aiding Iran," ignoring the potential nuance and complexity of diplomatic efforts to maintain an international nuclear agreement.
+
+15. Thought-terminating clichés – Yes – The sarcastic repetition of "Scandal-free administration, folks. Not a single scandal to see here" is used to mock and dismiss any potential counter-argument without engaging in real discussion.
+
+16. Red herring – Yes – The text introduces "Spygate" ("The assault is also a cover-up"), an irrelevant topic, to distract the reader and link the Iran issue to other alleged scandals.
+
+17. Straw men – Yes – The text refutes the simplified and nefarious argument that the administration's sole motive was to "aid Iran" or "launder money," rather than addressing the more complex and likely argument about diplomatic implementation of the nuclear deal.
+
+18. Whataboutism – No – The text does not deflect criticism by charging an opponent with hypocrisy on an unrelated issue; it maintains a direct and focused attack on the Obama administration's actions concerning Iran.
+
+***
+
+Verdict – 95% – The text is overwhelmingly an example of propaganda. It employs a vast majority (14 out of 18) of the listed propaganda techniques to construct its argument. Rather than presenting information objectively, its primary purpose is to persuade the reader to adopt a specific, highly negative viewpoint of the Obama administration. This is achieved not through a balanced presentation of facts, but through the systematic use of emotional manipulation (Loaded Language, Appeal to Fear), logical fallacies (Causal Oversimplification, Red Herring, Straw Men), and attacks on credibility (Name Calling, Doubt). While it grounds its narrative in a factual event (a Senate report), the interpretation, framing, and language used to describe that event are all hallmarks of propaganda designed to influence opinion rather than to inform.

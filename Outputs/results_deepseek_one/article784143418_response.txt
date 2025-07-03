@@ -1,0 +1,31 @@
+### Analysis of Propaganda Techniques in the Text:
+
+1. **Name calling** – **Yes** – "enemedia" (insulting label for mainstream media).  
+2. **Repetition** – **Yes** – "Who should replace Nikki Haley as our ambassador to the U.N.?" repeated 3 times in the poll.  
+3. **Slogans** – **Yes** – "Raise An Army" and "Killing Non-Believers On Behalf Of Allah" (memorable phrases in the headline/subheaders).  
+4. **Appeal to fear** – **Yes** – Descriptions of jihad training, "killing non-believers," and a child's body being found instill fear.  
+5. **Doubt** – **Yes** – "The enemedia is scrubbing and censoring this story" questions media credibility.  
+6. **Exaggeration/minimization** – **No** – The text cites FBI affidavits; no clear exaggeration/minimization beyond the headline's dramatic phrasing.  
+7. **Flag-Waving** – **No** – No overt appeals to patriotism or national identity.  
+8. **Loaded Language** – **Yes** – "jihad slaughter," "squalid compound," "exorcism rituals" (emotionally charged terms).  
+9. **Reduction ad Hitlerum** – **No** – No comparisons to Nazis or universally hated groups.  
+10. **Bandwagon** – **No** – No appeal to the popularity of an idea.  
+11. **Causal Oversimplification** – **No** – No oversimplified causes for complex events.  
+12. **Obfuscation, intentional vagueness** – **No** – Details are specific (e.g., FBI affidavits, court documents).  
+13. **Appeal to authority** – **Yes** – Repeated reliance on FBI affidavits and court documents as evidence.  
+14. **Black & white fallacy** – **Partial** – Implied dichotomy between "jihadists" and constitutional rights defense, but not explicitly stated.  
+15. **Thought-terminating clichés** – **No** – No phrases like "it is what it is" to shut down discussion.  
+16. **Red herring** – **Yes** – The Nikki Haley poll distracts from the main story (irrelevant to the compound narrative).  
+17. **Straw men** – **No** – The defense’s "religious freedom" argument is cited accurately, not misrepresented.  
+18. **Whataboutism** – **No** – No accusations of hypocrisy against critics.  
+
+---
+
+### Final Verdict:  
+**Verdict – 90% –** The text is highly likely to be propaganda. It employs multiple manipulative techniques:  
+- **Emotional Manipulation:** Loaded language ("jihad slaughter," "squalid compound") and fear appeals frame the story sensationally.  
+- **Distortion of Opposition:** Name-calling ("enemedia") and doubt-casting discredit dissenting voices without evidence.  
+- **Repetition & Slogans:** Redundant polling and hyperbolic headlines ("Raise An Army") reinforce a narrative.  
+- **Irrelevant Content:** The Nikki Haley poll acts as a red herring, diverting attention.  
+- **Selective Authority:** While citing FBI documents lends credibility, the framing (e.g., headline) exaggerates affidavits into clickbait.  
+The article’s structure—burying factual reporting (Reuters) between inflammatory commentary and distractions—aims to provoke outrage against Muslims and the media. This aligns with propaganda’s core goal: advancing an agenda (e.g., anti-Islam, anti-media narratives) over balanced discourse. The 10% uncertainty stems from partial reliance on verified sources (FBI), though their contextualization remains manipulative.

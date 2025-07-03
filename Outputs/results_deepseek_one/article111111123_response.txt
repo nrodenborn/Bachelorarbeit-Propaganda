@@ -1,0 +1,64 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – No  
+   *Explanation*: The text does not use insulting labels to attack any subject. Descriptions are neutral (e.g., "Domestic abuse allegations," "ex-girlfriend").  
+
+2. **Repetition** – No  
+   *Explanation*: No key phrases or messages are repeated excessively to reinforce a single idea.  
+
+3. **Slogans** – No  
+   *Explanation*: No brief, memorable phrases are used to simplify or rally support (e.g., no equivalents to "BUILD THE WALL!").  
+
+4. **Appeal to fear** – No  
+   *Explanation*: The text reports facts and statements without instilling fear about alternatives or consequences.  
+
+5. **Doubt** – No  
+   *Explanation*: While Monahan’s refusal to provide evidence is noted, the text does not overtly question her credibility beyond reporting the investigation’s findings.  
+
+6. **Exaggeration/minimization** – No  
+   *Explanation*: Allegations and findings are presented factually (e.g., "unable to substantiate," "denied the allegations") without hyperbolic or dismissive language.  
+
+7. **Flag-Waving** – No  
+   *Explanation*: No appeals to patriotism, party loyalty, or group identity are made to sway opinion.  
+
+8. **Loaded Language** – No  
+   *Explanation*: Language is neutral and avoids emotionally charged terms (e.g., "allegations," "investigation," "refused" are factual descriptors).  
+
+9. **Reduction ad Hitlerum** – No  
+   *Explanation*: No comparisons to Nazis or other universally condemned groups appear.  
+
+10. **Bandwagon** – No  
+    *Explanation*: Popularity of an idea is not cited as validation (e.g., no "everyone supports X").  
+
+11. **Causal Oversimplification** – No  
+    *Explanation*: The complexity of the situation (e.g., unsubstantiated claims, political context) is acknowledged without reducing it to a single cause.  
+
+12. **Obfuscation, intentional vagueness** – No  
+    *Explanation*: Details are specific (e.g., references to video evidence, medical records, law enforcement involvement). No deliberate ambiguity.  
+
+13. **Appeal to authority** – No  
+    *Explanation*: While figures like lawyers and party officials are cited, their statements are reported as part of the investigation, not used as unquestionable proof.  
+
+14. **Black & white fallacy** – No  
+    *Explanation*: Nuance is present (e.g., the report is "unable to substantiate" claims but is still referred to law enforcement). No false dichotomies.  
+
+15. **Thought-terminating clichés** – No  
+    *Explanation*: No phrases like "it is what it is" are used to shut down discussion. Arguments are presented with supporting context.  
+
+16. **Red herring** – No  
+    *Explanation*: The comparison to Kavanaugh/Ford is relevant context for Monahan’s criticism of Democratic hypocrisy, not a distraction from the Ellison allegations.  
+
+17. **Straw men** – No  
+    *Explanation*: Arguments are represented accurately (e.g., Monahan’s tweets critique the party’s inconsistency, not a misrepresented position).  
+
+18. **Whataboutism** – **Yes**  
+    *Explanation*: Monahan accuses Democrats of hypocrisy by contrasting their support for Christine Blasey Ford with their tepid response to her allegations: *"I've been smeared, threatened, isolated from my own party... Many other Democrats... came out in support of Ford."* This charges Democrats with double standards.  
+
+---
+
+### Verdict – 15% –   
+*Explanation*: The text is primarily a factual news report detailing an investigation’s outcome, statements from involved parties, and contextual political dynamics. It neutrally presents:  
+- The investigator’s inability to substantiate allegations due to lack of evidence.  
+- Ellison’s denial and commitment to cooperation.  
+- Monahan’s criticisms of Democratic hypocrisy, framed as her perspective.  
+The **whataboutism** (technique #18) is present in Monahan’s tweets, but this is attributed to her as a source, not endorsed by the article. The overall tone avoids sensationalism, loaded language, or overt persuasion. The 15% likelihood reflects minor propagandistic *content* (Monahan’s accusation of hypocrisy) within an otherwise objective journalistic structure. There is no evidence of systemic manipulation or intent to deceive the audience.

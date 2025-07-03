@@ -1,0 +1,45 @@
+1. Name calling – Yes – The text uses the term “alien” to refer to the individuals arrested. While a legal term, it is often used to dehumanize and create a sense of otherness, functioning as an insulting label in a public context. It also uses the label “immigration violators.”
+
+2. Repetition – Yes – The text repeatedly emphasizes the criminality of the individuals arrested. It first states “Nine of the immigration violators arrested during the operation were convicted criminals,” then provides a long list of the types of crimes, and then gives specific examples of arrestees with their criminal records. This repetition reinforces the message that the operation targeted dangerous individuals.
+
+3. Slogans – Yes – The quote from the field office director contains the phrase “ICE’s commitment to public safety through targeted enforcement efforts,” which is a brief and memorable phrase that frames the agency's actions in a positive light.
+
+4. Appeal to fear – Yes – The text supports the ICE operation by listing serious criminal convictions of those arrested, such as “domestic violence,” “aggravated assault,” “assault and battery and carrying a concealed weapon.” This instills fear by suggesting that without these operations, dangerous criminals would remain in the community.
+
+5. Doubt – No – The text does not question the credibility of any person or entity; it is a one-sided report on the success of an operation.
+
+6. Exaggeration/minimization – Yes – The text exaggerates the criminal aspect of the operation by focusing heavily on the 9 out of 16 arrestees with criminal records, listing their crimes in detail. It minimizes the fact that nearly half (7 out of 16) were not listed as having criminal convictions, lumping them into the general category of “immigration violators.”
+
+7. Flag-Waving – Yes – The quote from Rebecca Adducci appeals to a sense of shared identity and patriotism by stating the goal is to “keep our community safe,” creating an “us” (the community) that ICE is protecting.
+
+8. Loaded Language – Yes – The text uses emotionally charged phrases like “brave men and women of ICE who put themselves in harm’s way” to create a heroic image of the officers. The list of violent crimes is also a form of loaded language intended to evoke fear and anger.
+
+9. Reduction ad Hitlerum – No – The text does not suggest any idea is popular with a hated group.
+
+10. Bandwagon – No – The text does not claim the operation is popular or that everyone supports it.
+
+11. Causal Oversimplification – Yes – The text presents a simple cause-and-effect relationship: ICE enforcement actions lead directly to “public safety.” This oversimplifies the complex issues of immigration, crime, and what creates a safe community.
+
+12. Obfuscation, intentional vagueness – Yes – While specific about the criminals, the text is vague about the 7 individuals arrested who were not listed with criminal convictions. It simply states they violated “federal immigration laws” without providing any detail, which obscures the full picture of the operation.
+
+13. Appeal to authority – Yes – The text uses a quote from “Rebecca Adducci, field office director for ERO Detroit,” to lend credibility and official validation to the operation and its stated purpose.
+
+14. Black & white fallacy – Yes – The text implicitly presents only two options: either have these ICE operations to remove dangerous individuals, or have an unsafe community. It ignores other possibilities or more nuanced approaches to immigration and public safety.
+
+15. Thought-terminating clichés – Yes – The phrase “keep our community safe” acts as a thought-terminating cliché. It is a positive, simple statement that is difficult to argue against and discourages deeper critical thought about the methods used or the complexities of the situation.
+
+16. Red herring – No – All the information presented, while biased, is directly relevant to the ICE operation being described.
+
+17. Straw men – No – The text does not refute an argument; it makes a proactive statement about its own activities.
+
+18. Whataboutism – No – The text does not deflect criticism by accusing an opponent of hypocrisy.
+
+***
+
+Verdict – 90% – This text is highly likely to be propaganda, specifically a piece of institutional propaganda presented as a factual report. While it contains verifiable facts (e.g., the number of arrests, the location), its primary purpose is not to inform neutrally but to persuade the public of the necessity and righteousness of ICE's actions.
+
+The explanation for this high likelihood rests on the sheer number and combination of propaganda techniques employed. The text systematically frames the arrested individuals as a dangerous, criminal "other" through the use of **Name Calling** ("alien"), **Loaded Language** (listing scary crimes), and **Exaggeration** (focusing almost exclusively on the 9 arrestees with criminal records while downplaying the other 7).
+
+Simultaneously, it frames the ICE agents as heroes using **Loaded Language** ("brave men and women," "put themselves in harm’s way") and an **Appeal to Authority** (the director's quote). The entire operation is justified through the **Slogan** and **Thought-Terminating Cliché** of ensuring "public safety," a justification bolstered by an **Appeal to Fear**.
+
+The argument is built on logical fallacies like **Causal Oversimplification** (ICE operations = safety) and a **Black & White Fallacy** (it's either this or danger). The cumulative effect of these techniques is to create a simple, emotionally charged narrative that encourages support for the agency and discourages critical examination of its methods or the broader context of immigration. This selective presentation of facts, framed with persuasive and emotional language, is the essence of propaganda.

@@ -1,0 +1,37 @@
+1. Name calling – Yes – The text uses terms like "control and shutter conservative ideas" and "cynically assumed" to attack Google and its motives.
+   
+2. Repetition – Yes – The text repeatedly emphasizes Google's alleged bias and efforts to sway the election, such as the repeated mention of "silent donation" and "get-out-the-vote" efforts.
+
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+
+4. Appeal to fear – Yes – The text suggests that tech companies like Google are manipulating elections, which could instill fear about the integrity of democratic processes.
+
+5. Doubt – Yes – The text questions the credibility of Google's non-partisan claims and implies a hidden agenda.
+
+6. Exaggeration/minimization – Yes – The text exaggerates the influence of Google's actions by comparing them to Russian interference and suggesting they could determine election outcomes.
+
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+
+8. Loaded Language – Yes – The text uses emotionally charged language, such as "devastating," "crushed," and "cynically assumed," to evoke strong reactions.
+
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+
+11. Causal Oversimplification – Yes – The text oversimplifies the complex issue of election influence by attributing significant impact to Google's actions alone.
+
+12. Obfuscation, intentional vagueness – No – The text is detailed and specific in its claims, rather than being vague or unclear.
+
+13. Appeal to authority – Yes – The text cites Dr. Robert Epstein, a social scientist, to support claims about Google's influence on elections.
+
+14. Black & white fallacy – Yes – The text presents Google's actions as either partisan or non-partisan, without acknowledging other possibilities.
+
+15. Thought-terminating clichés – No – The text does not use clichés that discourage critical thought.
+
+16. Red herring – No – The text stays focused on the main topic of Google's alleged election influence.
+
+17. Straw men – No – The text does not refute an argument that was not presented.
+
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 80% – The text exhibits several propaganda techniques, including name calling, repetition, appeal to fear, doubt, exaggeration, loaded language, causal oversimplification, appeal to authority, and black & white fallacy. These techniques suggest a high likelihood of the text being propaganda, as they aim to persuade the audience by evoking emotions, simplifying complex issues, and questioning the credibility of the subject without providing balanced perspectives.

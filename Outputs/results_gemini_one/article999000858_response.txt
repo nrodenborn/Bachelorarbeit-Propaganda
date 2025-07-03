@@ -1,0 +1,39 @@
+1. Name calling – Yes – The text quotes Brian Kemp’s side referring to Stacey Abrams’ actions as a “ridiculous temper tantrum.” Additionally, a poll option in the text describes journalist Jim Acosta’s behavior as acting “like a child.”
+
+2. Repetition – Yes – The question "Should Jim Acosta have gotten his press pass back?" is repeated three times in a row. Also, Stacey Abrams' statement about filing a lawsuit is presented once as a direct quote and then again as an image of her tweet.
+
+3. Slogans – No – The text contains memorable phrases and accusations, but none are used as concise, repeatable slogans to rally support in the way defined.
+
+4. Appeal to fear – Yes – Stacey Abrams is quoted as saying her lawsuit is meant “to protect future elections from unconstitutional actions,” which implies that without her intervention, future elections are at risk, creating fear about the integrity of the democratic process.
+
+5. Doubt – Yes – The entire premise of the article is Stacey Abrams' legal challenge, which is based on placing the election results "in doubt." The text also quotes Kemp’s side calling her effort a “publicity stunt,” which casts doubt on the sincerity of her motives.
+
+6. Exaggeration/minimization – Yes – The text quotes Brian Kemp saying, “The election is over,” which serves to minimize the serious allegations of voter suppression raised by his opponent. Conversely, Kemp's side calling Abrams' legal challenge a "ridiculous temper tantrum" minimizes her claims.
+
+7. Flag-Waving – Yes – Brian Kemp’s quote appeals to state identity by mentioning “hardworking Georgians” and “Georgia’s bright and promising future.” Stacey Abrams' quote appeals to patriotism by referencing the need to protect elections from "unconstitutional actions."
+
+8. Loaded Language – Yes – The text uses emotionally charged words and phrases such as “gross mismanagement,” “voter suppression,” “disenfranchised,” “ridiculous temper tantrum,” and describing someone as acting “like a child.”
+
+9. Reduction ad Hitlerum – No – The text does not contain any comparisons to Nazis or other universally hated groups.
+
+10. Bandwagon – Yes – The article prominently displays “1.2k SHARES” at the top, suggesting the story is popular and encouraging others to join in by sharing it. Brian Kemp’s statement that “hardworking Georgians are ready to move forward” implies a majority consensus that others should join.
+
+11. Causal Oversimplification – No – The article reports on the claims made by political figures but does not itself present a simple cause for a complex event.
+
+12. Obfuscation, intentional vagueness – Yes – The article reports that Abrams’ campaign chair mentioned voters “ran into electoral barriers, although she did not say what barriers they were.” More significantly, the article itself uses obfuscation by inserting a completely unrelated poll about Jim Acosta, which serves to confuse and distract the reader from the main topic.
+
+13. Appeal to authority – Yes – The text cites various sources to appear credible, including “The Associated Press (AP),” “Breitbart,” and “Allegra Lawrence-Hardy, Abrams’ campaign chair.”
+
+14. Black & white fallacy – Yes – Brian Kemp’s statement, “We can no longer dwell on the divisive politics of the past but must focus on Georgia’s bright and promising future,” presents only two choices: either question the election (dwell on the past) or accept the result (focus on the future), ignoring the possibility that addressing past issues is necessary for a better future.
+
+15. Thought-terminating clichés – Yes – The quote from Brian Kemp, “The election is over,” is used as a phrase to shut down further discussion or questioning of the election’s legitimacy.
+
+16. Red herring – Yes – The text includes a poll, repeated three times, asking “Should Jim Acosta have gotten his press pass back?” This topic is completely irrelevant to the Georgia election and serves to distract the reader from the article's subject.
+
+17. Straw men – No – The text presents the arguments and accusations from both sides without misrepresenting or refuting an argument that wasn't made.
+
+18. Whataboutism – No – The text does not feature any examples of one party accusing the other of hypocrisy by pointing to a separate, unrelated failing.
+
+***
+
+Verdict – 95% – The text is overwhelmingly likely to be propaganda. While it is structured to look like a news article, it employs a vast number of propaganda techniques (13 out of 18). The inclusion of a blatant and distracting red herring (the Jim Acosta poll), which is also used for repetition and name-calling, is a clear sign of a propagandistic motive, likely to engage a specific political audience and collect user data rather than to inform. The article also relies heavily on loaded language, appeals to authority from partisan sources (Breitbart), and presents quotes that use techniques like thought-terminating clichés and the black & white fallacy. The combination of these elements shows a clear intent to influence the reader's opinion and perception rather than provide a neutral account of events.

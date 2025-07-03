@@ -1,0 +1,37 @@
+Name calling – No – The text does not use any insulting labels to attack a person, group, or object. The term “black death” is used, but it is identified as a historical name for the plague, not as a contemporary insult.
+
+Repetition – No – The text does not repeat the same message or phrase. It provides a continuous flow of new information, such as statistics, locations, and responses from health organizations.
+
+Slogans – No – There are no brief, memorable phrases used in the text to rally support or encapsulate an idea.
+
+Appeal to fear – Yes – The text uses descriptions of the disease's effects and spread to create a sense of fear and urgency. Example: "The incubation period is extremely short too, and an infected person may die within 12 to 24 hours of contracting the bacteria making cures in underdeveloped regions of the globe difficult at best."
+
+Doubt – No – The text does not question the credibility of any person or organization. Instead, it cites credible sources like the World Health Organization to support its claims.
+
+Exaggeration/minimization – No – The text provides specific figures and data from official sources. While it uses strong words like "unprecedented," it contextualizes this by explaining that the outbreak started earlier than usual and is occurring in new urban areas.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity. The focus is on a global health issue and an international response.
+
+Loaded Language – Yes – The text uses words that are emotionally charged to emphasize the severity of the situation. Example: "Pneumonic plague is more virulent or damaging and is an advanced form of the disease characterized by a severe lung infection."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or the Nazis.
+
+Bandwagon – No – The text does not suggest that an idea is correct because it is popular. It reports on the actions of organizations like the WHO and Red Cross as a matter of fact, not as a reason for the reader to adopt a particular belief.
+
+Causal Oversimplification – No – The text does not offer a simplistic cause for a complex event. It correctly identifies the bacterium *Yersinia pestis* as the cause and describes the complexities of the current outbreak, including different forms of the plague and modes of transmission.
+
+Obfuscation, intentional vagueness – No – The text is specific and clear, providing exact numbers, dates, and names of organizations. It avoids vagueness by detailing the types of plague and the number of affected districts.
+
+Appeal to authority – Yes – The text relies on the credibility of official bodies to support its information. Example: "According to CNN, the cases were reported by both the World Health Organization (WHO) and the National Bureau for Risk and Disaster Management (BNGRC) in Madagascar."
+
+Black & white fallacy – No – The text does not present the situation as having only two possible outcomes or options. It discusses various facets of the outbreak and the response.
+
+Thought-terminating clichés – No – The text does not use any clichés to discourage critical thought. It is an informational piece designed to explain a situation.
+
+Red herring – No – All information presented in the text is directly relevant to the plague outbreak in Madagascar. No distracting or irrelevant topics are introduced.
+
+Straw men – No – The text does not present or refute any arguments. It is a factual report, not a persuasive or argumentative piece.
+
+Whataboutism – No – The text does not accuse any party of hypocrisy or deflect criticism by pointing to the faults of others.
+
+Verdict – 15% – The text has a very low likelihood of being propaganda. It reads as a standard factual news report on a public health crisis. While it uses techniques that can be found in propaganda, such as 'Appeal to authority', 'Appeal to fear', and 'Loaded Language', their use here is consistent with journalistic reporting on a serious and alarming topic. The 'Appeal to authority' is used to establish credibility by citing official sources (WHO, Red Cross), which is a cornerstone of journalism. The 'Appeal to fear' and 'Loaded Language' arise naturally from the subject matter; it is difficult to report on a deadly plague that kills within 24 hours without using alarming language or evoking fear. The primary intent appears to be to inform the public about a real-world danger, not to manipulate opinion for a political or ideological cause.

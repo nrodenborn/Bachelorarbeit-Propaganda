@@ -1,0 +1,37 @@
+Name calling – Yes – The text uses the term “Illegal alien” in the headline and “illegal immigrants” in the body. This is a politically charged and often derogatory label used to attack the subject, as opposed to more neutral terms like “undocumented immigrant.”
+
+Repetition – No – The text is a short report and does not repeat any specific message or phrase.
+
+Slogans – No – The text does not contain any brief, memorable phrases intended as slogans.
+
+Appeal to fear – Yes – The headline, "Illegal alien wanted for attempted murder in NC arrested at US-Mexico border," directly links a person's immigration status with a violent crime. This association is designed to instill fear in the audience regarding immigrants and the potential dangers they represent.
+
+Doubt – No – The text does not question the credibility of any person or entity; it presents information as factual.
+
+Exaggeration/minimization – No – The text reports on a specific event and does not appear to exaggerate or minimize the factual details of that single incident.
+
+Flag-Waving – No – The text mentions national entities like the "United States" and "Border Patrol," but it does not use them to make a direct appeal to patriotism.
+
+Loaded Language – Yes – The term “Illegal alien” is emotionally charged and carries negative connotations that can influence the reader's perception of the individual and the broader issue.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other universally hated groups.
+
+Bandwagon – No – The text does not suggest an idea is correct because it is popular.
+
+Causal Oversimplification – Yes – By focusing exclusively on a single instance of a violent criminal who is also an immigrant, the text implicitly creates a simple and direct link between immigration and criminality, ignoring the much more complex reality of immigration.
+
+Obfuscation, intentional vagueness – No – The text is written in a clear, direct, and factual style.
+
+Appeal to authority – Yes – The final sentence, "All persons apprehended by the Border Patrol undergo criminal history checks using biometrics to ensure illegal immigrants with criminal histories are positively identified," is a statement from an authority (the Border Patrol) that serves to justify its actions and reinforce the narrative that their work is essential for public safety.
+
+Black & white fallacy – No – The text does not present only two choices or options.
+
+Thought-terminating clichés – No – The text does not use any clichés to shut down discussion.
+
+Red herring – No – All information presented is directly relevant to the subject of the report.
+
+Straw men – No – The text does not present or refute any arguments.
+
+Whataboutism – No – The text does not accuse any opponent of hypocrisy.
+
+Verdict – 85% – While the text reports on a factual event, it is framed in a way that strongly suggests a propagandistic motive. The use of loaded and dehumanizing language ("illegal alien"), the appeal to fear by immediately linking immigration status with "attempted murder" in the headline, and the causal oversimplification of presenting this single negative case as representative of a wider issue are all hallmarks of propaganda. The piece is not a neutral report; it is constructed to shape public opinion against immigrants by creating a strong association between them and violent crime, justifying the actions of the reporting authority in the process.

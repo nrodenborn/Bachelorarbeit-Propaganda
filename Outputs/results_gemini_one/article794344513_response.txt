@@ -1,0 +1,43 @@
+1. Name calling – Yes – The text labels its opponents as "tech giants" and the "plutocratic information-controlling establishment."
+
+2. Repetition – Yes – The poll question "Who should replace Nikki Haley as our ambassador to the U.N.?" is repeated three times in a row.
+
+3. Slogans – No – The text does not use a brief, memorable phrase as a rallying cry. The headline is a statement/allusion, not a slogan.
+
+4. Appeal to fear – Yes – The headline, "First They Came for Alex Jones — We Told You We Were Next — We Were," alludes to the famous poem by Martin Niemöller about the rise of the Nazis, instilling fear of a slippery slope towards total censorship and oppression.
+
+5. Doubt – Yes – The text questions the credibility of Facebook's stated reasons for the purge, for example by asking, "Does Facebook think it knows better than the 6 million people who clicked like on our page?"
+
+6. Exaggeration/minimization – Yes – The text exaggerates the effect of the ban by stating the tech giants attempted to "wipe out independent, liberty-minded, antiwar media from the airwaves." It also minimizes any potential wrongdoing by the banned pages, claiming they were solely "dedicated to spreading peace, bridging the divide, bringing humanity together and holding government accountable."
+
+7. Flag-Waving – No – The text appeals to ideals like "liberty" and "freedom" but does not use patriotic symbols or national identity to make its case.
+
+8. Loaded Language – Yes – The text uses emotionally charged words like "purge," "memory-holed," "egregious," and "corporate-state censorship" to frame the events in a negative light.
+
+9. Reduction ad Hitlerum – No – While the headline alludes to a poem about the Nazis, it does not directly state that the tech companies or their ideas are like those of the Nazis. It implies a parallel but doesn't make the direct comparison required by the definition.
+
+10. Bandwagon – Yes – The text appeals to the popularity of the banned pages as proof of their legitimacy: "Does Facebook think it knows better than the 6 million people who clicked like on our page? We also had close to 16,000 reviews on our page with an average 4.1 star rating, directly showing that people desired to see what we were putting out."
+
+11. Causal Oversimplification – Yes – The text asserts that the simple reason for the "purge" was the upcoming midterm elections and the threat independent media posed to the establishment, dismissing Facebook's more complex stated reasons of "spam and coordinated inauthentic behavior."
+
+12. Obfuscation, intentional vagueness – No – The article is direct and clear in its accusations and is not intentionally vague.
+
+13. Appeal to authority – Yes – The text quotes figures like Glenn Greenwald, Daniel McAdams, and Caitlin Johnstone, using their opinions and tweets as evidence to support its argument that the bans were a coordinated act of censorship.
+
+14. Black & white fallacy – Yes – The text presents the situation as a simple conflict between the virtuous, truth-telling independent media ("us") and the corrupt, censoring "plutocratic information-controlling establishment" ("them"), leaving no room for nuance.
+
+15. Thought-terminating clichés – No – The text does not use phrases to shut down discussion; rather, it seeks to provoke a specific line of thought and outrage.
+
+16. Red herring – Yes – The inclusion of the poll, "Who should replace Nikki Haley as our ambassador to the U.N.?", is entirely irrelevant to the article's topic of social media censorship and serves as a distraction to collect user data.
+
+17. Straw men – Yes – The article refutes a simplified version of Facebook's reasoning. It counters the charge of "inauthentic behavior" by stating their names and addresses were public, which does not address the core of the accusation, which could relate to how content is shared and amplified across networks, not just the identity of the page owners.
+
+18. Whataboutism – No – The text does not attempt to deflect criticism by accusing an opponent of hypocrisy. It mentions other "fake news" pages not being banned, but uses this as evidence of a targeted attack, not as a way to change the subject from its own behavior.
+
+***
+
+Verdict – 95% – The text is overwhelmingly a piece of propaganda. Its primary purpose is not to report facts neutrally but to persuade the reader to adopt a specific, highly emotional, and adversarial viewpoint. It achieves this by employing a vast array of propaganda techniques.
+
+The entire piece is framed as a black and white struggle between a heroic, victimized independent media and a sinister, coordinated "corporate-state" censorship machine. It uses emotionally loaded language ("purge," "memory-holed") and name-calling ("plutocratic... establishment") to create a clear enemy. The appeal to fear is established immediately with the headline's allusion to the Nazi regime, a powerful emotional trigger.
+
+Logical fallacies are central to its argument. It simplifies the complex issue of content moderation into a single, conspiratorial cause (Causal Oversimplification) and misrepresents Facebook's justification to more easily debunk it (Straw Man). It appeals to the authority of like-minded figures and to the popularity of its own pages (Bandwagon) as proof of its righteousness. The presence of a completely irrelevant red herring poll further undermines its credibility as a serious piece of journalism. The article's conclusion is a direct call to action, urging readers to follow them on other platforms and subscribe, cementing its role as a persuasive tool for a specific cause rather than an objective report.

@@ -1,0 +1,37 @@
+Name calling – Yes – Explanation: The text attacks the mayor with insulting labels such as "#Resistance Mayor" and "Oakland's radical leftist boss".
+
+Repetition – Yes – Explanation: The core message that the mayor's actions were illegal and dangerous is repeated using different phrases, such as "helping criminals and endangering ICE personnel," "Her actions were quite clearly illegal," "obstructed justice," and "irresponsible decision."
+
+Slogans – Yes – Explanation: The text uses the hashtag slogan "#Resistance" to label the mayor, as in "#Resistance Mayor".
+
+Appeal to fear – Yes – Explanation: The text instills fear by stating that because of the mayor's actions, "864 'criminal aliens and public safety threats remain at large in the community" and "that community's a lot less safe than it would've been."
+
+Doubt – Yes – Explanation: The text casts doubt on the mayor's credibility by stating she "claimed that she had cleared her actions with lawyers beforehand," using the word "claimed" to imply her statement may not be true.
+
+Exaggeration/minimization – Yes – Explanation: The text uses extreme exaggeration by stating, "And Dems have become honorary members of MS-13."
+
+Flag-Waving – No – Explanation: The text does not make a direct appeal to patriotism or national identity using symbols or overt patriotic language.
+
+Loaded Language – Yes – Explanation: The text is filled with emotionally charged words and phrases intended to create a negative impression, such as "illegal criminals," "radical leftist boss," "slammed," and "reckless decision."
+
+Reduction ad Hitlerum – No – Explanation: The text does not make any comparisons to Hitler or the Nazis to discredit the mayor or her actions.
+
+Bandwagon – No – Explanation: The text does not argue that its position is correct because it is popular or that "everyone is doing it."
+
+Causal Oversimplification – Yes – Explanation: The text presents a simple cause for a complex event by claiming the mayor's warning is the sole reason "over 800 significant public safety threat criminals ... [were] unable to locate," ignoring other potential factors in the raid's outcome.
+
+Obfuscation, intentional vagueness – No – Explanation: The text is not deliberately unclear; its accusations and point of view are stated directly and forcefully.
+
+Appeal to authority – Yes – Explanation: The text uses the statements of an authority figure, "Thomas Homan, the acting director of ICE," and the actions of an authoritative body, the "Department of Justice," as primary evidence for its claims.
+
+Black & white fallacy – Yes – Explanation: The text presents only two options: siding with federal law enforcement (ICE/DOJ) or collaborating with criminals, as stated in the line, "And those who collaborate with illegal alien gang members should face the consequences," ignoring any nuanced positions.
+
+Thought-terminating clichés – Yes – Explanation: The phrase "That's exactly it" is used after a quote to shut down further thought or discussion, implying the matter is simple and settled.
+
+Red herring – Yes – Explanation: The text introduces an irrelevant and inflammatory topic to distract from the specifics of the case by stating, "And Dems have become honorary members of MS-13," shifting the focus from the mayor's actions to a broad attack on a political party.
+
+Straw men – No – Explanation: The text focuses on attacking the mayor's actual actions and statements rather than misrepresenting her argument and then refuting the misrepresentation.
+
+Whataboutism – No – Explanation: The text does not attempt to charge the mayor or her supporters with hypocrisy.
+
+Verdict – 95% – Explanation: The text is highly likely to be propaganda. It employs a significant number of propaganda techniques (12 out of 18), including name-calling, appeal to fear, loaded language, and exaggeration. The narrative is extremely one-sided, relying solely on sources that support its biased viewpoint while demonizing the subject. The language is emotionally charged and inflammatory, designed not to inform but to persuade the reader to adopt a negative view of the mayor and, by extension, the entire Democratic party. The piece culminates in a red herring and a gross exaggeration ("Dems have become honorary members of MS-13"), which moves it from biased reporting into the realm of pure propaganda.

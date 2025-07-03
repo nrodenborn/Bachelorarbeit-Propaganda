@@ -1,0 +1,20 @@
+1. Name calling – No – The text uses descriptive terms like "paedophile priest," which describes a criminal action, rather than using it as a simple insult to attack a subject.
+2. Repetition – No – The text does not repeat a specific message to reinforce it; it quotes different sources and presents a sequence of events.
+3. Slogans – No – There are no brief, memorable phrases used to rally support.
+4. Appeal to fear – No – The article reports on past events and does not attempt to instill fear about future possibilities.
+5. Doubt – Yes – The entire premise of the article is to cast doubt on the Pope's credibility and his statements. Example: "Chile 'cover-up' letter contradicts Pope"
+6. Exaggeration/minimization – No – The article reports on statements that might be considered exaggerations or minimizations (e.g., the Pope calling allegations "slander"), but the article itself does not use the technique.
+7. Flag-Waving – No – The article does not appeal to patriotism or national identity.
+8. Loaded Language – Yes – The text uses emotionally charged words to influence the reader's perception. Example: "The Pope caused outrage after a visit to Chile last month by defending Bishop Barros"
+9. Reduction ad Hitlerum – No – There are no comparisons to Nazis or other hated groups.
+10. Bandwagon – No – The article does not suggest an idea is correct because it is popular.
+11. Causal Oversimplification – No – The article explores the complexities of the situation rather than assigning a simple cause.
+12. Obfuscation, intentional vagueness – No – The article aims to be clear and specific in its reporting, though it does report on the Vatican's refusal to comment, which is an act of obfuscation by the Vatican.
+13. Appeal to authority – Yes – The article uses the testimony of credible figures to support its claims and challenge the Pope's statements. Example: "Members of the Pope's own Commission for the Protection of Minors... told the Associated Press they hand-delivered the letter to Francis's top adviser on sex abuse, Cardinal Sean O'Malley, in April 2015."
+14. Black & white fallacy – No – The article presents multiple perspectives and pieces of evidence, avoiding a simple two-sided view.
+15. Thought-terminating clichés – No – The text does not use clichés to shut down discussion; it aims to create it.
+16. Red herring – No – All information presented is relevant to the central topic of the alleged cover-up.
+17. Straw men – No – The article directly addresses the Pope's claim of "no evidence" by presenting what it frames as evidence, which is a direct refutation, not a straw man.
+18. Whataboutism – No – The text does not try to deflect blame by accusing others of hypocrisy.
+
+Verdict – 40% – The text is a piece of investigative journalism from a major news outlet, and its primary purpose is to inform the public by presenting evidence that contradicts an official narrative. In this respect, it is not propaganda. However, it uses a specific framing and several techniques (Doubt, Loaded Language, Appeal to authority) that are also characteristic of propaganda to build a persuasive case and guide the reader to a specific conclusion—namely, that the Pope was not being truthful. The selection of emotionally charged words and the focus on authoritative sources who contradict the Pope are deliberate choices designed to influence the audience's perception. While based on factual reporting, this strong persuasive angle gives it propagandistic qualities.

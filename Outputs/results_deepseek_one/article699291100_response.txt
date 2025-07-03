@@ -1,0 +1,32 @@
+### Propaganda Technique Analysis:
+1. **Name calling** – Yes – "sordid tale" (describing the scandal), "journalists" in scare quotes (mocking CNN)  
+2. **Repetition** – Yes – Repeated emphasis on "Clinton Foundation," "Russian bribery," and "Obama administration" (e.g., mentioned 7+ times).  
+3. **Slogans** – No – No brief, memorable phrases used as rallying cries.  
+4. **Appeal to fear** – Yes – Implies national security threat: "Russian efforts to acquire 20% of America’s uranium reserves."  
+5. **Doubt** – Yes – Questions credibility: "the Obama administration denied [influence]... transactions that both the Clintons and the Obama administration denied had any influence."  
+6. **Exaggeration/minimization** – Yes – Exaggerates implications: "netting Clintons millions" (implying direct profit) while minimizing lack of evidence.  
+7. **Flag-Waving** – Yes – Appeals to patriotism: "Russian efforts to acquire 20% of America’s uranium reserves" (framed as betrayal of U.S. interests).  
+8. **Loaded Language** – Yes – Emotional terms: "threatened," "silenced," "corruption," "racketeering scheme."  
+9. **Reduction ad Hitlerum** – No – No Nazi/Vichy comparisons.  
+10. **Bandwagon** – No – No appeal to popularity.  
+11. **Causal Oversimplification** – Yes – Implies donations caused approval: "$145mm in donations... State Department approved the deal."  
+12. **Obfuscation** – Yes – Vagueness: "Confidential Source 1," unnamed "sources," and unspecified "memos."  
+13. **Appeal to authority** – Yes – Cites FBI informant, lawyer Victoria Toensing ("former Reagan official"), and "emails obtained by The Hill."  
+14. **Black & white fallacy** – Implicit – Presents deal as corrupt without nuance; omits CFIUS’s multi-agency approval.  
+15. **Thought-terminating clichés** – No – No phrases halting debate.  
+16. **Red herring** – Yes – Ends with irrelevant CNN jab: "‘journalists’ over at CNN are still trying to get to the bottom of... Facebook ads."  
+17. **Straw men** – No – No misrepresentation of opposing arguments.  
+18. **Whataboutism** – No – No direct hypocrisy accusations beyond the case.  
+
+---
+
+### Verdict – 85% – Detailed Explanation:  
+The text exhibits **high likelihood of propaganda** due to:  
+1. **Selective Framing**: Focuses exclusively on alleged Clinton/Obama corruption while ignoring exonerating context (e.g., CFIUS’s unanimous approval, lack of evidence linking donations to the deal).  
+2. **Emotional Manipulation**: Loaded language ("threatened," "corruption") and fear appeals (Russian control of uranium) dominate.  
+3. **Omission of Counter-Evidence**: Fails to note investigations (e.g., 2015 House report) finding no illegal activity by Clinton.  
+4. **Source Bias**: Relies on partisan outlets (Zero Hedge, The Hill’s John Solomon) and anonymous sources ("Confidential Source 1").  
+5. **Logical Fallacies**: Causal oversimplification (donations = approval) and red herrings (CNN distraction).  
+6. **Political Agenda**: Clearly targets Democrats/Clintons, aligning with conservative media narratives.  
+
+While based on real events (Uranium One deal), the text amplifies unproven allegations, uses manipulative techniques, and omits key facts to advance a specific narrative—hallmarks of propaganda. The 15% uncertainty reflects the existence of underlying factual events, though presented deceptively.

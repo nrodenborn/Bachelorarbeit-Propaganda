@@ -1,0 +1,37 @@
+1. Name calling – Yes – The text uses the label “criminal aliens” repeatedly to attack the subjects of the article, associating them with criminality from the outset.
+
+2. Repetition – Yes – The core message that ICE is arresting “criminal aliens” to ensure “public safety” is repeated throughout the text, from the headline (“targeting criminal aliens”) to the body (“Several of the aliens targeted… had prior criminal histories”) to the final quote (“focus on the arrest of individuals who are criminal aliens and public safety threats”).
+
+3. Slogans – No – The text does not use any brief, memorable phrases that function as standalone slogans.
+
+4. Appeal to fear – Yes – The text supports ICE’s operation by instilling fear. It does this by listing serious crimes allegedly committed by the arrestees, such as “child neglect, child abuse, drug offenses, fraud and larceny,” implying that these individuals are a direct threat to the community.
+
+5. Doubt – No – The text does not question the credibility of any other person, group, or source of information.
+
+6. Exaggeration/minimization – Yes – The text exaggerates the impact of the operation on public safety with the quote, “Because of the tireless efforts of these professional officers, there are fewer criminals in our communities,” implying a significant change from 20 arrests in a large metro area. It also minimizes the status of those arrested for non-criminal offenses by lumping them in with the "criminal aliens" and focusing the narrative entirely on the most severe cases.
+
+7. Flag-Waving – No – The text does not make an explicit appeal to patriotism or national identity.
+
+8. Loaded Language – Yes – The text uses emotionally charged and stereotypical language like “criminal aliens” and “public safety threats” to evoke a negative emotional response from the reader.
+
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups.
+
+10. Bandwagon – No – The text does not suggest that its actions are popular or that the audience should agree because others do.
+
+11. Causal Oversimplification – Yes – The text presents a simple cause for a complex problem. The quote, “Because of the tireless efforts of these professional officers, there are fewer criminals in our communities,” suggests that the sole cause of these specific crimes is the presence of these individuals, and their removal is the simple solution to improving public safety.
+
+12. Obfuscation, intentional vagueness – Yes – The text states that officers arrested “20 criminal aliens and immigration violators.” This phrasing is intentionally vague, as it conflates individuals with criminal records with those who have only committed civil immigration violations (like overstaying a visa). This encourages the reader to view all 20 individuals as dangerous criminals, even though the text only specifies that "several" had criminal histories.
+
+13. Appeal to authority – Yes – The text is a press release from a government authority (ICE) and uses a quote from an official, Ricardo Wong, “field office director for ERO Chicago,” to lend credibility and support to the message.
+
+14. Black & white fallacy – Yes – The text implicitly presents only two options: either ICE carries out these operations to ensure “public safety,” or dangerous “criminals” are left in the communities. This ignores other nuanced approaches to immigration and crime.
+
+15. Thought-terminating clichés – Yes – Phrases like “commitment to public safety” are used to frame the actions in a way that is difficult to argue against. Opposing the action could be misconstrued as opposing public safety, which discourages critical thought about the methods being used.
+
+16. Red herring – No – The text is highly focused on the arrests and does not introduce irrelevant material to distract the reader.
+
+17. Straw men – No – The text does not present or refute a counter-argument.
+
+18. Whataboutism – No – The text does not accuse any opponent of hypocrisy.
+
+Verdict – 90% – The text is a clear example of propaganda. While it is presented as a factual press release, its primary purpose is not to inform but to persuade the public that the actions of ICE are necessary and beneficial. It achieves this by employing a significant number of propaganda techniques. The language is carefully chosen to dehumanize the subjects by repeatedly labeling them “criminal aliens” (Name Calling, Loaded Language). It creates a sense of danger by highlighting the most severe criminal cases and linking them to the broader group of arrestees (Appeal to Fear, Obfuscation). It presents a simplified narrative where ICE’s actions are the direct and sole cause of safer communities (Causal Oversimplification, Black & White Fallacy). The entire message is reinforced through repetition and validated by a statement from an official (Repetition, Appeal to Authority). The text strategically omits any information that might create empathy for the arrested individuals or provide context for their situations, presenting only the information that supports ICE’s agenda. This one-sided, emotionally manipulative, and persuasive framing, disguised as a factual report, is the essence of propaganda.

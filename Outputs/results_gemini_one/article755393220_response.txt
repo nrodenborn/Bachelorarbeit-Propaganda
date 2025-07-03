@@ -1,0 +1,39 @@
+Name calling – Yes – The headline labels the audience of John Bolton's speech as "‘Former Terrorists’", and the text later refers to supporters of the policy as "neoconservative war hawks".
+
+Repetition – Yes – The poll question "Whom do you consider to be the most corrupt Democrat Politician?" is repeated three times consecutively in the middle of the text.
+
+Slogans – No – The text does not employ or promote brief, memorable phrases to encapsulate its message.
+
+Appeal to fear – Yes – The text warns that the plan for Iran "could kick of World War 3" and points to the "horrific death tolls and war-ravaged dystopias" in other countries as a result of US intervention to instill fear in the reader.
+
+Doubt – Yes – The entire article is constructed to cast doubt on the stated motives of US foreign policy and officials, for example by stating, "despite the neocon attempts to rewrite history, MEK have killed Americans".
+
+Exaggeration/minimization – Yes – The text exaggerates a potential outcome by claiming the plan could "kick of World War 3" and describes the idea of a beneficial intervention as "outright insane."
+
+Flag-Waving – No – The text is highly critical of US national policy and does not appeal to patriotism to make its case.
+
+Loaded Language – Yes – The text uses emotionally charged phrases such as "horrific death tolls," "war-ravaged dystopias," and "neoconservative war hawks" to create a strong emotional reaction rather than a reasoned one.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or the Nazis.
+
+Bandwagon – No – The text presents its viewpoint as a contrarian one for those "paying attention," rather than suggesting its ideas are popular and should be followed for that reason.
+
+Causal Oversimplification – Yes – The text presents a 2001 memo as the single cause for decades of complex military interventions, stating, "This is a memo that describes how we’re going to take out seven countries in five years... All presidents since Clinton have crossed countries off this list. Now it’s Trump’s turn."
+
+Obfuscation, intentional vagueness – No – The text is direct and specific in its accusations, naming individuals, organizations, and documents to support its claims.
+
+Appeal to authority – Yes – The text heavily relies on the credibility of others to support its claims, citing "Pulitzer Prize-winning journalist, Seymour Hersh" and "General Wesley Clark, former Supreme Allied Commander of NATO."
+
+Black & white fallacy – Yes – The text presents the situation as a choice between the "neocon agenda" which leads to a "war-ravaged dystopia," and the implied alternative of non-intervention, ignoring any other possible diplomatic outcomes or nuances.
+
+Thought-terminating clichés – No – The text uses detailed arguments to persuade the reader and does not rely on clichés to shut down critical thought.
+
+Red herring – Yes – The embedded poll asking "Whom do you consider to be the most corrupt Democrat Politician?" is entirely irrelevant to the article's argument about a bipartisan plan for regime change in Iran and serves only to distract and reinforce a separate partisan bias.
+
+Straw men – Yes – The text sets up and refutes a simplified version of its opponent's argument by stating, "the idea that US intervention or a violent revolution would be beneficial for the people of Iran or American citizens is outright insane," attacking a simplistic justification rather than the more complex geopolitical or national security arguments that proponents might actually use.
+
+Whataboutism – No – The text focuses its criticism on US figures and policy and does not attempt to deflect from this by charging an opponent with hypocrisy.
+
+***
+
+Verdict – 95% – The text is overwhelmingly an example of propaganda. It employs a vast majority (12 out of 18) of the listed techniques to construct a narrative designed not to inform, but to persuade the reader of a specific, conspiratorial worldview. The piece uses appeals to authority (Hersh, Clark) to lend itself a veneer of journalistic credibility, while simultaneously using loaded language ("war-ravaged dystopias"), appeals to fear ("World War 3"), and causal oversimplification (the "seven countries" memo) to build its case. The inclusion of a completely irrelevant and partisan poll (a red herring) further reveals its goal is not objective reporting but ideological persuasion. The article systematically frames a complex geopolitical issue as a simple, long-running conspiracy by a "neocon" cabal, leaving no room for nuance and guiding the reader to a predetermined conclusion.

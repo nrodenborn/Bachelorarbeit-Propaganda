@@ -1,0 +1,37 @@
+Name calling – Yes – The text quotes the Brady Campaign to Prevent Gun Violence describing 3D-printed firearms as "nothing short of a menace to society," which is an insulting label.
+
+Repetition – Yes – The phrase "untraceable, undetectable" is used multiple times in the text to describe the plastic weapons, reinforcing this key attribute.
+
+Slogans – No – The text does not contain any brief, memorable phrases used as a rallying cry. The statements included are either descriptive or part of longer arguments.
+
+Appeal to fear – Yes – The text reports that states argued the blueprints could allow "anyone -- from a teen to a 'lone wolf' gunman -- to make untraceable, undetectable plastic weapons," which instills fear about who could gain access to these firearms.
+
+Doubt – Yes – The text reports the White House's position, which questions the credibility of its own Justice Department's actions: "The Department of Justice made a deal without the president's approval."
+
+Exaggeration/minimization – Yes – The NRA's claim that a 1988 law made the current 3D-printed gun issue "moot" is an example of minimization, as the article immediately explains how the design in question circumvents that law.
+
+Flag-Waving – No – The text does not contain any appeals to patriotism or national identity. The arguments are framed around legal rights and public safety, not national pride.
+
+Loaded Language – Yes – The text quotes emotionally charged language, such as Cody Wilson's actions being described as "dangerous and reckless" and the firearms themselves as a "menace to society."
+
+Reduction ad Hitlerum – No – The text does not contain any comparisons of a person or idea to the Nazis or any other widely hated group.
+
+Bandwagon – Yes – The text quotes Cody Wilson stating that the blueprints had "already been downloaded thousands of times" and that "The files are in the public domain," suggesting that because the information is already widespread, the opposition is futile.
+
+Causal Oversimplification – Yes – The NRA's statement that "undetectable plastic guns have been illegal for 30 years" simplifies the complex issue by suggesting a single past law is a complete solution to the current problem of easily accessible online blueprints.
+
+Obfuscation, intentional vagueness – No – The text and the quotes within it are direct and aim to state a clear position rather than deliberately confuse the audience with obscure language.
+
+Appeal to authority – Yes – The text cites multiple authorities to lend weight to different positions, including a "US District Judge," the "White House," and the "National Rifle Association, the nation's most politically influential gun rights group."
+
+Black & white fallacy – No – The article presents a conflict between two sides, but it does not reduce the complex issue to only two possible options, instead including legal and technical nuances.
+
+Thought-terminating clichés – Yes – Cody Wilson is quoted as saying, "The debate is over," a phrase used to shut down further discussion and critical thought on the matter.
+
+Red herring – Yes – The NRA's statement focuses on the existing illegality of "undetectable plastic guns," distracting from the main issue raised by opponents, which is the widespread, easy publication of blueprints to create such weapons.
+
+Straw men – Yes – The NRA's statement, "undetectable plastic guns have been illegal for 30 years," refutes the idea that anyone is trying to make them legal. This misrepresents the opponents' actual argument, which is about preventing the easy distribution of the means to create them.
+
+Whataboutism – No – The text does not contain any instances of one party accusing another of hypocrisy to deflect criticism.
+
+Verdict – 40% – The text is a news report, and its primary function is to inform the public about a legal conflict. In its own voice, the article maintains a relatively neutral tone. However, it extensively quotes various parties (Cody Wilson, the White House, the NRA, gun control groups) who are actively using a wide array of propaganda techniques to promote their agendas. While the article is reporting *on* propaganda rather than creating it, it acts as a vehicle for these messages. By presenting numerous emotionally charged and manipulative statements directly to the reader, the text's overall effect is influenced by the propaganda it contains, blurring the line between objective reporting and the dissemination of propaganda.

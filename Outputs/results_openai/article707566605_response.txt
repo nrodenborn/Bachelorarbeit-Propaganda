@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack an object or subject.
+2. Repetition – Yes – The text repeatedly mentions the inevitability of antibiotic resistance and the overwhelming of the healthcare system.
+3. Slogans – No – The text does not use a brief and memorable phrase.
+4. Appeal to fear – Yes – The text instills fear by discussing the inevitability of antibiotic resistance and the potential for a global pandemic.
+5. Doubt – No – The text does not question the credibility of someone or something.
+6. Exaggeration/minimization – Yes – The text exaggerates the inevitability and impact of antibiotic resistance and the healthcare system being overwhelmed.
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – The text uses emotionally charged language such as "terrifying," "overwhelmed," and "scary."
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with hated groups.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – Yes – The text oversimplifies the cause of antibiotic resistance by suggesting it is inevitable due to antibiotic use.
+12. Obfuscation, intentional vagueness – No – The text is not deliberately unclear or obscure.
+13. Appeal to authority – Yes – The text cites experts and professors to support its claims.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought.
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 60% – The text exhibits several propaganda techniques, including repetition, appeal to fear, exaggeration, loaded language, causal oversimplification, and appeal to authority. These techniques suggest a likelihood of propaganda, as they aim to influence the audience's perception of the situation in Madagascar by emphasizing fear and inevitability. However, the text also provides factual information and expert opinions, which may reduce the overall likelihood of it being purely propaganda.

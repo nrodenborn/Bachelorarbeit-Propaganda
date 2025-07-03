@@ -1,0 +1,37 @@
+1. Name calling – No – There is no use of insulting labels against any individual or group in the text.
+
+2. Repetition – No – The text does not repeat the same message over and over.
+
+3. Slogans – No – There is no use of a brief and memorable phrase.
+
+4. Appeal to fear – No – The text does not support an idea by instilling fear against other alternatives.
+
+5. Doubt – Yes – The text questions the credibility of the Saudi government's denial of involvement in Khashoggi's disappearance.
+
+6. Exaggeration/minimization – No – The text does not exaggerate or minimize any details.
+
+7. Flag-Waving – No – There is no appeal to patriotism or identity.
+
+8. Loaded Language – No – The text does not use emotionally charged language to influence the audience.
+
+9. Reduction ad Hitlerum – No – There is no suggestion that an idea is popular with groups hated by the audience.
+
+10. Bandwagon – Yes – The text mentions that multiple countries and companies have withdrawn from the conference, suggesting a growing consensus or pressure.
+
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+
+12. Obfuscation, intentional vagueness – No – The text provides specific details about the events and statements.
+
+13. Appeal to authority – Yes – The text references statements from high-ranking officials like Mnuchin, Trump, and Pompeo as evidence.
+
+14. Black & white fallacy – No – The text does not present only two options among many.
+
+15. Thought-terminating clichés – No – There are no phrases used to discourage critical thought.
+
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main issue.
+
+17. Straw men – No – The text does not refute an argument that was not presented.
+
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 20% – The text contains some elements of propaganda, such as doubt and appeal to authority, but these are not strong or pervasive enough to classify the entire text as propaganda. The article primarily reports on events and statements related to the Khashoggi case, with a focus on factual information and direct quotes from officials. The presence of some propaganda techniques suggests a slight bias or influence, but the overall content remains largely informative and balanced.

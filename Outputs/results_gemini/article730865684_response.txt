@@ -1,0 +1,20 @@
+1. Name calling – No – The text uses the term "illegally" to describe the legal status of the homes, which is a factual descriptor in this context, not an insulting label aimed at a person or group.
+2. Repetition – Yes – The idea that homes were built without proper permits or adherence to code is mentioned multiple times: "built illegally," "without permits, insurance or inspections," "built illegally and without a permit," and "numerous homes have been built without any sort of permit at all."
+3. Slogans – No – The text does not contain any brief, memorable phrases intended to act as a slogan.
+4. Appeal to fear – No – The article describes a fearful situation but does not use fear as a tool to support an idea against alternatives.
+5. Doubt – No – The text reports information from various sources without questioning their credibility.
+6. Exaggeration/minimization – No – The numbers and descriptions provided are attributed to official sources and are not presented as being exaggerated or minimized.
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity to make its point.
+8. Loaded Language – No – While words like "crisis" and "devastation" are emotionally charged, they are appropriate and accurate descriptors for the situation and not used to manipulate.
+9. Reduction ad Hitlerum – No – The text makes no comparison to hated groups.
+10. Bandwagon – No – The text does not argue that an idea is valid because it is popular.
+11. Causal Oversimplification – Yes – The headline, "Puerto Rico Hurricane Recovery Worsened By Nearly 1 Million Homes Built Illegally," isolates a single factor to explain a complex event. The difficulty of recovery is due to many factors (e.g., island's bankruptcy, storm's intensity, federal response), but the headline and focus of the article simplify it to the issue of illegal construction.
+12. Obfuscation, intentional vagueness – No – The text is specific, providing numbers, names, and direct quotes from sources.
+13. Appeal to authority – Yes – The article repeatedly uses statements from authorities as evidence, such as quoting "Puerto Rico's housing secretary, Fernando Gil," the "National Weather Service," and "Puerto Rico Governor Ricardo Rosselló."
+14. Black & white fallacy – No – The text does not present an issue as having only two possible options.
+15. Thought-terminating clichés – No – The text does not use any phrases that are designed to stop critical thought.
+16. Red herring – No – All the information provided, such as details on evacuees and federal aid, is relevant to the overall topic of the hurricane's aftermath.
+17. Straw men – No – The article is a report and does not refute a mischaracterized argument.
+18. Whataboutism – No – The text does not attempt to deflect criticism by accusing another party of hypocrisy.
+
+Verdict – 40% – The text is presented as a news article and uses journalistic conventions like citing official sources and data, which lends it credibility. For this reason, it is not overt propaganda. However, it uses a key propaganda technique, Causal Oversimplification, in its headline and overall framing. By focusing so heavily on "illegally built homes" as the reason for the worsened recovery, it promotes a specific and simplified narrative for a highly complex situation. This framing can serve to shift blame or distract from other contributing factors, such as the adequacy of the government response or the island's pre-existing economic crisis. The use of Appeal to Authority, while standard in journalism, is employed here to reinforce this simplified cause-and-effect argument. The text is therefore a piece of biased journalism that uses propagandistic framing to shape the reader's understanding of the event.

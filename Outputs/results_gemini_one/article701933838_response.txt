@@ -1,0 +1,42 @@
+Name calling – No – The text uses factual descriptors such as "Guatemalan citizen" and "foreign fugitives," which are legal or descriptive terms, not insulting labels.
+
+Repetition – No – The text is a factual report and does not repeat any specific message or phrase for persuasive effect.
+
+Slogans – No – The text does not contain any brief, memorable phrases or slogans.
+
+Appeal to fear – Yes – The text highlights that the individual was wanted for "homicide" and then lists other serious crimes like "kidnapping, rape and murder" to describe the types of fugitives ICE removes. This is intended to create fear of dangerous criminals and justify ICE's actions.
+
+Doubt – No – The text does not question the credibility of any person or entity.
+
+Exaggeration/minimization – No – The text presents specific facts and figures without apparent exaggeration or minimization.
+
+Flag-Waving – No – The text does not use patriotic appeals or symbols to persuade the audience.
+
+Loaded Language – Yes – The text uses emotionally charged words like "homicide," "kidnapping, rape and murder." While these are names of crimes, their inclusion is meant to evoke a strong emotional reaction and cast the subjects of removal in the most negative light possible.
+
+Reduction ad Hitlerum – No – The text does not compare any person or idea to Hitler or the Nazis.
+
+Bandwagon – No – The text does not suggest that the reader should support the action because it is popular.
+
+Causal Oversimplification – No – The text describes a specific event with a clear sequence of causes and does not oversimplify a complex issue.
+
+Obfuscation, intentional vagueness – No – The text is specific, providing dates, names, and locations, rather than being intentionally vague.
+
+Appeal to authority – Yes – The text is a press release from a government agency (ICE) and cites the decision of an "immigration judge" to legitimize the removal, using its own authority and that of the judicial system as evidence of the action's correctness.
+
+Black & white fallacy – No – The text does not present a false dilemma or limit the options to only two choices.
+
+Thought-terminating clichés – No – The text does not use clichés to shut down critical thought.
+
+Red herring – Yes – The main story is about one individual. The text then introduces broad statistics: "Since Oct. 1, 2009, ERO has removed more than 1,700 foreign fugitives...". This information serves to distract from the specifics of the single case and instead promotes the overall effectiveness and necessity of the agency.
+
+Straw men – No – The text does not misrepresent or refute an opponent's argument.
+
+Whataboutism – No – The text does not deflect criticism by accusing an opponent of hypocrisy.
+
+Verdict – 70% – This text is a government press release, a form of public relations that inherently functions as propaganda by presenting the agency's actions in the most positive light. While the information presented is likely factual, it is carefully selected and framed to persuade the public of the agency's value and necessity. The text achieves this by:
+1.  **Cherry-picking an ideal case:** It focuses on a person wanted for a violent crime ("homicide"), making the removal seem unambiguously positive and necessary for public safety.
+2.  **Using loaded language and appealing to fear:** It lists serious, violent crimes ("kidnapping, rape and murder") to create an emotional response and associate undocumented immigrants with danger.
+3.  **Appealing to its own authority:** As an official government document, it presents its actions as procedurally correct and justified, citing an "immigration judge."
+4.  **Using a red herring:** It pivots from the single case to broad statistics about removing thousands of "foreign fugitives" with criminal records. This generalizes the "good deed" of this one case to the entirety of the agency's work, bolstering its image and distracting from more complex or controversial aspects of immigration enforcement.
+The primary purpose is not simply to inform, but to persuade the public that ICE's actions are heroic and essential, which makes it a piece of propaganda.

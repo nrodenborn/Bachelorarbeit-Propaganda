@@ -1,0 +1,37 @@
+Name calling – No – The text does not use any insulting labels to attack a person, group, or object. It describes Ebola as a "rare and deadly disease," which is a factual description, not an insult.
+
+Repetition – No – The text does not repeat the same message over and over to reinforce it. It presents information in a structured, non-repetitive news format.
+
+Slogans – No – There are no brief, memorable phrases used in the text.
+
+Appeal to fear – No – While the subject matter (a deadly disease) is inherently frightening, the text does not use fear to support an idea against alternatives. It reports facts about the disease's fatality rate in an informative, not manipulative, way.
+
+Doubt – No – The text does not question the credibility of any person or organization. In fact, it relies on the credibility of the WHO and the DRC government.
+
+Exaggeration/minimization – No – The text provides specific numbers ("Two cases were confirmed," "21 suspected cases," "17 deaths") and does not appear to exaggerate or minimize the situation.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+Loaded Language – No – The language used is factual and clinical. Phrases like "deadly disease" are standard descriptions for Ebola and are not used to appeal to emotion or stereotypes in a propagandistic way.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups like the Nazis.
+
+Bandwagon – No – The text does not suggest that an idea is correct because it is popular.
+
+Causal Oversimplification – No – The text does not offer a simplistic cause for a complex event. It correctly identifies the Ebola virus as the cause of the disease.
+
+Obfuscation, intentional vagueness – No – The text is clear and specific, providing names, locations, and numbers. It is not intentionally vague.
+
+Appeal to authority – Yes – The text cites official bodies as the source of its information to establish credibility. Example: "The government of the Democratic Republic of Congo declared an outbreak of Ebola hemorrhagic fever, a rare and deadly disease, on Tuesday, the World Health Organization reported."
+
+Black & white fallacy – No – The text does not present only two choices or options. It describes a situation and the planned response.
+
+Thought-terminating clichés – No – The text does not use any phrases that discourage critical thought.
+
+Red herring – No – The text does not introduce any irrelevant material to distract the reader. It stays focused on the Ebola outbreak.
+
+Straw men – No – The text is not an argument and does not refute a position that was not presented.
+
+Whataboutism – No – The text does not accuse anyone of hypocrisy.
+
+Verdict – 0% – This text is a factual news report, not propaganda. Its purpose is to inform the public about a health emergency. While it uses the "Appeal to authority" technique by citing the World Health Organization and the DRC government, this is a standard and essential practice in journalism to verify information and lend credibility to the report, rather than to manipulate the audience. The text is devoid of the other manipulative, emotional, or fallacious techniques characteristic of propaganda. It presents information neutrally and factually.

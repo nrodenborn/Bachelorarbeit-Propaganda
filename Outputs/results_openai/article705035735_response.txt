@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack an object or subject.
+2. Repetition – Yes – The text repeatedly emphasizes the severity and fatality of the Marburg virus.
+3. Slogans – Yes – The headline "New Virus With NO CURE Spreading: This Is WORSE Than The ‘Black Death’" acts as a memorable phrase.
+4. Appeal to fear – Yes – The text instills fear by comparing the virus to the Black Death and highlighting its high fatality rate.
+5. Doubt – No – The text does not question the credibility of someone or something.
+6. Exaggeration/minimization – Yes – The text exaggerates the threat by comparing it to the Black Death.
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – Words like "deadly," "highly fatal," and "crisis" appeal to emotions.
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with hated groups.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text provides specific information about the virus and outbreak.
+13. Appeal to authority – Yes – The text cites the World Health Organization as an authority.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use clichés that discourage critical thought.
+16. Red herring – No – The text stays focused on the Marburg virus outbreak.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 70% – The text employs several propaganda techniques, such as appeal to fear, exaggeration, loaded language, repetition, slogans, and appeal to authority, to emphasize the severity and urgency of the Marburg virus outbreak. While it provides factual information, the use of these techniques suggests a high likelihood of being propaganda aimed at evoking an emotional response and drawing attention to the issue.

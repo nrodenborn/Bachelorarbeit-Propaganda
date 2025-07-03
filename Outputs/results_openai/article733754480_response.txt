@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels against any individual or group.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use any brief and memorable phrases.
+4. Appeal to fear – No – The text does not attempt to instill fear against alternatives.
+5. Doubt – No – The text does not question the credibility of someone or something.
+6. Exaggeration/minimization – No – The text does not exaggerate or minimize any aspect of the event.
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – No – The text does not use language that appeals to emotions or stereotypes.
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with hated groups.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text provides clear information without being deliberately vague.
+13. Appeal to authority – No – The text does not use authority’s support as evidence.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought.
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 0% – The text is a straightforward news report about the arrest of a Brazilian arms dealer in the United States. It provides factual information without employing any propaganda techniques. The language is neutral, and the report focuses on the details of the arrest and the involvement of law enforcement agencies. There is no indication of bias or manipulation in the presentation of the information.

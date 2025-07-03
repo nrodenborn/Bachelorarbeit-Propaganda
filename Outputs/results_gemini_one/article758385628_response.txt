@@ -1,0 +1,37 @@
+Name calling – No – The text does not use any insulting labels to attack a person, group, or object. It uses descriptive terms like "abnormal" and "mysterious" to characterize the situation, not to insult a target.
+
+Repetition – No – While key facts are restated (e.g., the investigation, the comparison to Cuba), this is done for clarity and to attribute information from different sources, which is standard in news reporting. It is not the rhetorical repetition used to drill a message into the audience.
+
+Slogans – No – The text does not contain any brief, memorable phrases used as slogans.
+
+Appeal to fear – No – The article reports on a frightening event and includes a health warning. However, this is presented as a factual safety announcement, not as a tool to support one idea by instilling fear against an alternative.
+
+Doubt – No – The text reports on the uncertainty and doubts surrounding the cause of the illness (e.g., "FBI has not been able to verify any evidence to support the sonic weapon theory"). This is a reflection of the actual state of the investigation, not a propagandistic technique to undermine a specific entity's credibility.
+
+Exaggeration/minimization – No – The text uses precise, clinical language such as "mild traumatic brain injury (MTBI)" and describes symptoms as "subtle and vague". This appears to be an attempt at accuracy rather than an effort to exaggerate or downplay the incident.
+
+Flag-Waving – No – The text mentions the "American flag" and the "Chinese national emblem" in a photo caption and identifies the nationalities of the people involved. This is factual context, not an appeal to patriotism to sway the audience.
+
+Loaded Language – No – Words like "mysterious" or "piercing" are used to describe an unusual event. In this context, they are more descriptive than emotionally manipulative. The overall tone is factual and measured.
+
+Reduction ad Hitlerum – No – The text makes no comparisons to Nazis or any other universally hated groups.
+
+Bandwagon – No – The article does not suggest that an idea is true or should be adopted because it is popular.
+
+Causal Oversimplification – No – The text does the opposite; it emphasizes the complexity and uncertainty of the situation by repeatedly stating that the cause is "unknown" and that investigations are ongoing.
+
+Obfuscation, intentional vagueness – No – The article reports on a situation where the facts and symptoms are themselves vague. The reporting itself is not deliberately unclear; it clearly separates what is known from what is unknown.
+
+Appeal to authority – No – The text cites official sources like an "embassy spokeswoman" and a "State Department physician". This is standard journalistic sourcing to provide factual information, not a propaganda technique to assert an opinion as an indisputable fact.
+
+Black & white fallacy – No – The article does not present only two choices. It discusses several potential causes and outcomes while stressing that the actual cause remains unknown.
+
+Thought-terminating clichés – No – The text does not contain any phrases or clichés designed to discourage critical thought.
+
+Red herring – No – The extensive comparison to the incident in Cuba is directly relevant context for the story about a similar event in China. It is not an irrelevant distraction.
+
+Straw men – No – The text does not create and then refute a false argument. It reports on the facts and statements as they are known.
+
+Whataboutism – No – The text does not accuse any party of hypocrisy or deflect criticism by pointing to the faults of others.
+
+Verdict – 5% – The text is a standard news article, not a piece of propaganda. Its primary purpose is to inform the public about an event, not to persuade them to adopt a particular belief or take a specific action. The article consistently attributes its information to named or official sources (US embassy, AFP, State Department), uses neutral and descriptive language, and openly acknowledges the uncertainties of the situation ("cause remains unknown," "investigating all possibilities"). It avoids all the listed propaganda techniques, instead adhering to journalistic principles of sourcing, objectivity, and factual reporting. The low percentage acknowledges that any news report involves framing, but this text shows no evidence of the manipulative intent characteristic of propaganda.

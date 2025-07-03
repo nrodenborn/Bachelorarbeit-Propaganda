@@ -1,0 +1,37 @@
+Name calling – Yes – The text labels the subject of the article, Quentin Lamar Smith, as a "convicted felon" to attack his character and frame him negatively from the outset.
+
+Repetition – No – The text is short and does not repeat any specific message or phrase.
+
+Slogans – No – The text does not use any brief, memorable phrases to encapsulate an idea.
+
+Appeal to fear – Yes – The text implicitly stokes fear by linking a specific race to a "convicted felon who is not allowed to have a gun, even though he carried one everywhere," suggesting a hidden danger that the mainstream media is not reporting on.
+
+Doubt – Yes – The text questions the credibility and transparency of law enforcement and mainstream news organizations. Example: "VDARE.com was the first news organization to make his race known, even though he was well known to law enforcement. It took about 10 hours for law enforcement to release his name."
+
+Exaggeration/minimization – No – The text does not contain any clear exaggerations or minimizations of facts.
+
+Flag-Waving – No – The text does not contain appeals to patriotism or national identity within the body of the message.
+
+Loaded Language – Yes – The text uses language and speculation to appeal to racial stereotypes. Example: "The fact that there was a wedding makes me think she’s white. Also, she kind of sounds white in the 911 calls, but it’s hard to tell."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other widely hated groups.
+
+Bandwagon – No – The text does not suggest that an idea is popular and that the reader should adopt it.
+
+Causal Oversimplification – No – The text does not attempt to explain a complex event with a single simple cause.
+
+Obfuscation, intentional vagueness – No – While the author is vague in their speculation ("kind of sounds white"), the intent is not to confuse the audience but to insinuate a specific racial dynamic.
+
+Appeal to authority – Yes – The text presents VDARE.com as a credible and superior authority on the news. Example: "VDARE.com was the first news organization to make his race known..."
+
+Black & white fallacy – No – The text does not present only two choices.
+
+Thought-terminating clichés – No – The text does not use any phrases that discourage critical thought.
+
+Red herring – Yes – The text introduces speculation about the victim's race, which is irrelevant to the facts of the crime, in order to distract the reader and focus them on a racial narrative. Example: "I have been unable to determine the race of Quentin’s wife--the domestic violence victim. The fact that there was a wedding makes me think she’s white."
+
+Straw men – No – The text does not refute an argument that was not presented.
+
+Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 95% – The text is highly likely to be propaganda. Its primary purpose is not to inform but to persuade the audience to adopt a specific racial worldview. It achieves this by employing several propaganda techniques. It casts **Doubt** on mainstream information sources while using **Appeal to authority** to position an alternative source (VDARE.com) as more truthful. It uses **Loaded Language** and **Red Herring** by focusing obsessively on the race of the perpetrator and speculating on the race of the victim, which serves to stoke racial anxieties and stereotypes. This is combined with a subtle **Appeal to fear** by highlighting the danger posed by an armed felon whose race, it is implied, is being deliberately concealed by official sources. The use of these techniques together demonstrates a clear intent to manipulate the reader's emotions and perceptions about race, crime, and the media, rather than to present information objectively.

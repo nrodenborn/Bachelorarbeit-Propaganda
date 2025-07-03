@@ -1,0 +1,20 @@
+1. Name calling – No – The text reports that Reality Winner called Trump an “orange fascist,” but the article itself does not use name-calling.
+2. Repetition – No – The text does not repeat a specific message to persuade the reader.
+3. Slogans – No – The text does not use slogans.
+4. Appeal to fear – No – The text does not attempt to instill fear in the reader.
+5. Doubt – No – The text reports on Donald Trump casting doubt on Jeff Sessions (“Double Standard”), but the article itself does not cast doubt on anyone.
+6. Exaggeration/minimization – No – The article quotes Donald Trump using minimization (“‘small potatoes’ compared to what Hillary Clinton did!”) but does not use the technique in its own narrative.
+7. Flag-Waving – No – The text does not make an appeal to patriotism.
+8. Loaded Language – No – The text uses largely neutral, journalistic language. Phrases like "bizarre twist" are common journalistic idioms rather than deliberate emotional manipulation.
+9. Reduction ad Hitlerum – No – The text does not make this comparison. It reports that Reality Winner called Trump a "fascist," but this is attributed reporting.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not offer a simplified cause for the events it describes.
+12. Obfuscation, intentional vagueness – No – The text is written in a clear, journalistic style.
+13. Appeal to authority – No – The text cites sources, which is standard journalistic practice, but does not use an authority’s support as evidence for its own claims.
+14. Black & white fallacy – No – The text does not present a false dichotomy.
+15. Thought-terminating clichés – No – The text does not use such clichés.
+16. Red herring – No – The text reports on Donald Trump introducing a list of other issues as a potential red herring (“deleted Emails, Comey lies & leaks…”), but the article itself does not use this technique to distract its readers.
+17. Straw men – No – The text does not create or attack a straw man argument.
+18. Whataboutism – No – The text quotes Donald Trump using whataboutism (“‘small potatoes’ compared to what Hillary Clinton did!”), but the article itself does not employ this technique.
+
+Verdict – 5% – This text is a news report, not a piece of propaganda. Its purpose is to inform the reader about an event: Donald Trump's tweets regarding Reality Winner's sentence. The text itself does not use propaganda techniques; rather, it *reports on* the use of propaganda techniques by the subjects of the article. For example, it quotes Donald Trump using whataboutism, minimization, and casting doubt. It also reports on Reality Winner's past use of name-calling. The article maintains a neutral tone, attributes all statements to their sources, and provides context from multiple perspectives (Trump, Winner's mother, Winner's past actions). The very low 5% likelihood accounts for the inherent, unavoidable bias in journalism, such as the choice of which quotes to include or which events to report on, but the text is structured as objective reporting, not persuasion.

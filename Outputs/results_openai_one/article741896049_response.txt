@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack individuals or groups.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use a brief and memorable phrase.
+4. Appeal to fear – Yes – The text mentions criminal convictions and the potential for a felony punishable by up to 20 years in federal prison, which could instill fear about the individuals arrested.
+5. Doubt – No – The text does not question the credibility of someone or something.
+6. Exaggeration/minimization – No – The text does not exaggerate or minimize the situation.
+7. Flag-Waving – Yes – The statement “I applaud the brave men and women of ICE who put themselves in harm’s way daily to keep our community safe” appeals to patriotism and identity.
+8. Loaded Language – Yes – The text uses terms like “brave men and women” and “put themselves in harm’s way” to evoke an emotional response.
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text provides specific details about the arrests and charges.
+13. Appeal to authority – Yes – The text quotes Rebecca Adducci, field office director for ERO Detroit, to support the actions taken.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 40% – The text contains elements of propaganda, such as appeal to fear, flag-waving, loaded language, and appeal to authority. These techniques are used to present the ICE operation in a positive light and emphasize the threat posed by the individuals arrested. However, the text also provides factual information about the arrests and charges, which reduces the overall likelihood of it being pure propaganda.

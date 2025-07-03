@@ -1,0 +1,39 @@
+1. Name calling – No – The text uses sarcasm and loaded language but does not attack a subject with a direct insulting label.
+
+2. Repetition – No – The message is not repeated over and over in the short text.
+
+3. Slogans – Yes – The text ironically uses the slogan "Religion of Peace" to refer to Islam, employing a well-known phrase to make its point.
+
+4. Appeal to fear – No – The text does not attempt to instill fear of an alternative idea; it focuses on criticizing an existing one.
+
+5. Doubt – Yes – The text is built around casting doubt on a specific idea. The line, "Imagine spending all that time studying Islam and yet still misunderstanding its true, peaceful message," is designed to make the reader question whether the "peaceful message" is indeed the true one.
+
+6. Exaggeration/minimization – No – The text relies on irony and sarcasm rather than direct exaggeration or minimization of facts.
+
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+8. Loaded Language – Yes – The text uses emotionally charged and ironic language. Referring to Islam as the "Religion of Peace" in this context is sarcastic and loaded, as is calling Pope Francis and H.R. McMaster "learned imams."
+
+9. Reduction ad Hitlerum – Yes – The text disapproves of the idea that intensive study of Islam leads to peace by suggesting that this study is, in fact, what ISIS (a group hated and feared by the audience) does. The implication is that the ideology is popular with and core to this hated group.
+
+10. Bandwagon – No – The text does not suggest that the reader should agree because the idea is popular.
+
+11. Causal Oversimplification – Yes – The commentary implies a simple cause for a complex event: that studying Islam for eight hours a day is the direct cause of joining ISIS, dismissing the complex process of radicalization.
+
+12. Obfuscation, intentional vagueness – No – The author's point, while made through sarcasm, is intentionally clear rather than vague.
+
+13. Appeal to authority – No – The text mentions authorities (Pope Francis, H.R. McMaster) but does so sarcastically to mock them in this context, not to use their support as genuine evidence.
+
+14. Black & white fallacy – No – The text does not present the situation as a choice between only two options.
+
+15. Thought-terminating clichés – Yes – The ironic use of "Religion of Peace" acts as a thought-terminating cliché. It's used to mock and dismiss the counter-argument that Islam is peaceful without engaging in a nuanced discussion.
+
+16. Red herring – No – The commentary, while biased, is directly related to the subject of the news article it introduces.
+
+17. Straw men – Yes – The author sets up a simplified argument—that ISIS members simply "misunderstand" Islam—and then refutes it by pointing out how much time they spend studying the religion, implying their understanding is the correct one. This refutes a caricature of the opposing viewpoint.
+
+18. Whataboutism – No – The text does not deflect blame by charging an opponent with hypocrisy.
+
+***
+
+Verdict – 95% – The text is a clear example of propaganda. While it contains a factual news report from CBS News, this report is framed by a highly sarcastic and manipulative commentary attributed to Robert Spencer, a figure known for his critical views on Islam. The purpose of the commentary is not to inform, but to persuade the reader to adopt a specific, negative interpretation of the facts presented. It uses several propaganda techniques—most notably loaded language, doubt, causal oversimplification, and a straw man argument—to achieve this. The ironic use of phrases like "Religion of Peace" and the mocking suggestion that Pope Francis should explain Islam are designed to ridicule the idea that ISIS represents a perversion of the religion. Instead, the commentary guides the reader to conclude that the actions of the ISIS member are a logical outcome of seriously studying Islam, thereby using the news story as evidence for a pre-existing ideological position.

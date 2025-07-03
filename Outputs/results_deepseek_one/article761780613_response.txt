@@ -1,0 +1,32 @@
+### Analysis of Propaganda Techniques in the Text:  
+
+1. **Name calling** – **Yes** – *Explanation:* "The Russian Witch Hunt Hoax" is an insulting label attacking the legitimacy of the investigation.  
+2. **Repetition** – **No** – *Explanation:* No repeated phrases or ideas.  
+3. **Slogans** – **No** – *Explanation:* No brief, memorable phrases (e.g., no equivalent to "Build the Wall").  
+4. **Appeal to fear** – **Yes** – *Explanation:* "So many lives ruined" instills fear about the investigation's consequences.  
+5. **Doubt** – **Yes** – *Explanation:* "Sessions knew better than most that there was No Collusion" questions the probe's credibility.  
+6. **Exaggeration/minimization** – **Yes** – *Explanation:* Labeling the investigation a "Hoax" minimizes its legitimacy; "so many lives ruined" exaggerates impact.  
+7. **Flag-Waving** – **No** – *Explanation:* No appeal to patriotism or national identity.  
+8. **Loaded Language** – **Yes** – *Explanation:* "Witch Hunt Hoax" and "lives ruined" evoke anger/outrage.  
+9. **Reduction ad Hitlerum** – **No** – *Explanation:* No comparison to hated groups (e.g., Nazis).  
+10. **Bandwagon** – **No** – *Explanation:* No appeal to popularity.  
+11. **Causal Oversimplification** – **Yes** – *Explanation:* Blames Sessions’ recusal as the sole cause for the probe’s continuation ("all because Jeff Sessions didn’t tell me").  
+12. **Obfuscation** – **No** – *Explanation:* Statements are direct, not vague.  
+13. **Appeal to authority** – **No** – *Explanation:* Trump cites no external authority.  
+14. **Black & white fallacy** – **Yes** – *Explanation:* Implies only Sessions’ recusal caused the probe, ignoring other factors.  
+15. **Thought-terminating clichés** – **Yes** – *Explanation:* "So much time and money wasted" shuts down critique of the investigation.  
+16. **Red herring** – **No** – *Explanation:* No irrelevant distractions introduced.  
+17. **Straw men** – **No** – *Explanation:* No misrepresentation of opposing arguments.  
+18. **Whataboutism** – **No** – *Explanation:* No accusations of hypocrisy.  
+
+---
+
+### Verdict – 95% – Detailed Explanation:  
+The text is **highly likely propaganda** due to concentrated use of manipulative techniques. Trump’s statements dominate the narrative, employing:  
+- **Name-calling** ("Witch Hunt Hoax") to delegitimize the investigation.  
+- **Emotional appeals** ("lives ruined") to provoke fear/anger.  
+- **Causal oversimplification** and **black/white framing** to scapegoat Sessions.  
+- **Thought-terminating clichés** to discourage scrutiny.  
+- **Exaggeration/doubt** to undermine trust in institutions.  
+
+While CNN’s framing is factual, the quoted content serves Trump’s agenda: deflecting blame, discrediting investigators, and rallying supporters. The absence of counter-evidence or context (e.g., *why* Sessions recused) further signals propagandistic intent. The text’s core function is persuasion, not balanced reporting, warranting a 95% likelihood of propaganda (5% uncertainty reflects CNN’s neutral scaffolding).

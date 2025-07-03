@@ -1,0 +1,22 @@
+Here is the analysis of the text for each propaganda technique:
+
+1. Name calling – No – No insulting labels are used against any subject.
+2. Repetition – No – Key points are stated once; no deliberate repetition for emphasis.
+3. Slogans – No – No brief, memorable phrases are used to promote an idea.
+4. Appeal to fear – No – While Ebola's dangers are described, the tone is factual and informative, not fear-mongering to promote a specific action or alternative.
+5. Doubt – No – No questioning of the credibility of sources, institutions, or information.
+6. Exaggeration/minimization – No – Statistics (fatality rates, case numbers) and descriptions (symptoms, transmission) are presented factually without apparent overstatement or understatement.
+7. Flag-Waving – No – No appeals to patriotism, nationalism, or group identity.
+8. Loaded Language – No – Language is neutral and clinical (e.g., "hemorrhagic fever," "confirmed," "transmit"). No emotionally charged words or obvious stereotypes.
+9. Reduction ad Hitlerum – No – No association of ideas or groups with universally despised entities.
+10. Bandwagon – No – No appeal to the popularity of an idea or action.
+11. Causal Oversimplification – No – The explanation for outbreaks (contact with infected animals, human-to-human transmission, funeral practices) acknowledges complexity without oversimplifying a single cause. The origin of the 2014 outbreak is noted as *believed* to be bushmeat, not stated as absolute fact.
+12. Obfuscation, intentional vagueness – No – Information is presented clearly and specifically (locations, dates, numbers, transmission methods). Terms like "hemorrhagic fever" are standard medical terminology.
+13. Appeal to authority – No – While WHO and Congo's Health Ministry are cited as sources of information, their statements are reported as factual updates, not used as evidence to support a specific argument or claim beyond the outbreak's existence.
+14. Black & white fallacy – No – The text presents factual information about Ebola; it does not frame any issue as having only two possible choices or outcomes.
+15. Thought-terminating clichés – No – No simplistic phrases are used to shut down discussion or critical thinking. The text invites understanding through explanation.
+16. Red herring – No – The text stays focused on the outbreak, Ebola's characteristics, and its transmission. No irrelevant topics are introduced.
+17. Straw men – No – No misrepresented arguments are presented or refuted.
+18. Whataboutism – No – No accusations of hypocrisy are made against any opponent or group.
+
+**Verdict – 0% –** The text is a straightforward, factual news report about a new Ebola outbreak in the DRC. It presents information sourced from official health organizations (WHO, DRC Health Ministry) and provides background on the disease (symptoms, history, fatality rates, transmission) in a neutral, informative manner. There is no discernible attempt to manipulate the audience's emotions, promote a specific ideology or policy, discredit opponents, or use any of the defined propaganda techniques. The purpose appears purely informational and public health-oriented.

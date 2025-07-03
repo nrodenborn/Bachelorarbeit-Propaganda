@@ -1,0 +1,49 @@
+Name calling – No – The text reports on claims made by another person but does not itself use insulting labels to attack a subject.
+
+Repetition – No – While the idea of a "set-up" is the central theme, the text does not use the technique of repeating the same message or phrase over and over to reinforce it.
+
+Slogans – No – The text does not use a brief, memorable phrase as a rallying cry. The headline is a quote used as a hook, not a slogan.
+
+Appeal to fear – No – The text does not attempt to support its idea by instilling fear against an alternative. Its primary tool is doubt, not fear.
+
+Doubt – Yes – The entire purpose of the article is to question the credibility of the official narrative of the Las Vegas shooting.
+Example: “I’m not a big conspiracy theory guy, but it don’t sit right,” said Rick, before making the extraordinary claim that the whole shooting was a “set up” and that Paddock’s body may have been left in the hotel room while other assailants carried out the shooting.
+
+Exaggeration/minimization – No – The article reports on claims that may be exaggerated (e.g., "I can tell you 100%"), but the text itself does not create the exaggeration; it platforms it.
+
+Flag-Waving – No – The text makes no appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses words and phrases that appeal to emotion and suspicion to frame the narrative.
+Example: The use of words like “massacre” and the central, emotionally-charged phrase “set-up” are used to evoke strong feelings of suspicion and injustice.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+
+Bandwagon – No – The text does not suggest that the idea is popular or that "everyone" is starting to believe it. It presents the claim as coming from a single individual.
+
+Causal Oversimplification – No – The text does not assume a simple cause for the event. Instead, it introduces doubt and suggests a vague, unexplained alternative ("set-up") without committing to it as a simple cause.
+
+Obfuscation, intentional vagueness – Yes – The text relies on deliberately unclear and unsubstantiated claims to confuse the audience and create suspicion.
+Example: "The caller mentioned how some people in the crowd were warned 45 minutes before the shooting that they were going to die, suggesting that this was evidence of a wider plot and not a “lone wolf” attack." This claim is entirely vague, lacking any verifiable details.
+
+Appeal to authority – Yes – The text uses the supposed background of the caller to lend credibility to his claims.
+Example: "The man, a former Marine who called himself Rick..." and "As a firearms expert, he also questioned the lack of flashes..."
+
+Black & white fallacy – Yes – The text implicitly presents only two options: the official "lone wolf" story or the "set-up" conspiracy theory, ignoring any other possibilities or nuances.
+Example: The entire article frames the event as a choice between the official narrative and the caller's claim that it was a "set up".
+
+Thought-terminating clichés – No – The text does not use clichés to shut down critical thought. Instead, it actively encourages a specific line of non-critical thought by asking "What do you think?".
+
+Red herring – Yes – The text introduces an unverified, anecdotal story to distract from the official evidence and investigation of the event.
+Example: The entire testimony of "Rick" is a red herring, designed to shift the audience's focus from the facts of the case to a speculative and unsubstantiated conspiracy theory.
+
+Straw men – No – The text does not misrepresent or refute a specific counter-argument. It focuses on building its own alternative narrative.
+
+Whataboutism – No – The text does not charge any opponent with hypocrisy.
+
+***
+
+Verdict – 95% – This text is a clear example of propaganda. Its primary purpose is not to inform, but to persuade the reader to distrust the official narrative of the Las Vegas shooting and embrace a conspiracy theory. It achieves this by employing several key propaganda techniques.
+
+The entire piece is an exercise in **Doubt**, built around a **Red Herring** (the unsubstantiated story of "Rick"). It uses a weak **Appeal to Authority** by labeling the caller a "former Marine" and "firearms expert" to give his claims unearned credibility. The claims themselves are a form of **Obfuscation**, as they are intentionally vague and lack verifiable details (e.g., "some people... were warned"). This creates a **Black & White Fallacy**, framing the situation as a choice between the official story and the "set-up" theory.
+
+Furthermore, the article's structure is deliberately manipulative. It presents a disclaimer ("it is important to remember that... friends and neighbors express shock") to create a facade of objectivity, but immediately undermines it with the following sentence ("However, the neighbor’s claims are certain to attract more attention...") to pivot back to the conspiracy. The origin of the report, Infowars.com, is a media outlet known for producing this style of content, which further solidifies the text's nature as propaganda.

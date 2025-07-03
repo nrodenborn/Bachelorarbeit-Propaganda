@@ -1,0 +1,37 @@
+Name calling – No – The text uses descriptive labels like "space cigar" and "invader," but these are not used as insulting attacks to discredit the object. "Invader" is used in the context of an object entering our solar system from interstellar space, making it a descriptive rather than an insulting term.
+
+Repetition – No – While the central idea of 'Oumuamua tumbling is mentioned multiple times, it is done to explain and elaborate on the scientific finding, not as a propagandistic repetition of a single message to enforce belief.
+
+Slogans – No – The text does not contain any brief, memorable phrases intended to rally support or encapsulate an ideology.
+
+Appeal to fear – No – The text describes a "violent collision" but does not use this to instill fear in the audience or suggest any threat. The context is purely astronomical and historical.
+
+Doubt – No – The text describes the evolution of scientific understanding (from comet to asteroid to interstellar object), which is a normal part of the scientific process, not an attempt to question the credibility of scientists.
+
+Exaggeration/minimization – No – The text reports on scientific findings, such as the object tumbling for "billions of years." This is a scientific estimate, not a rhetorical exaggeration.
+
+Flag-Waving – No – The text is about an astronomical object and contains no appeals to patriotism or national identity.
+
+Loaded Language – No – While words like "violent" and "invader" are used, they serve a descriptive purpose within the scientific context rather than being used to appeal to emotions or stereotypes in a manipulative way.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups.
+
+Bandwagon – No – The text does not suggest that an idea is true because it is popular.
+
+Causal Oversimplification – No – The text does not offer an overly simple cause for a complex event. Instead, it presents a specific scientific hypothesis (a collision causing the tumbling) and acknowledges areas of uncertainty.
+
+Obfuscation, intentional vagueness – No – The text actively tries to clarify complex scientific terms, for example by explaining that “non-principal axis rotation” is better known as “tumbling.”
+
+Appeal to authority – Yes – The article bases its claims on the authority of scientists and a scientific publication. Example: "And the interstellar object will continue to spin for billions of years as it journeys through space, scientists have reported in a study published in Nature Astronomy."
+
+Black & white fallacy – No – The text does not present only two choices. It discusses multiple possibilities and acknowledges scientific uncertainty.
+
+Thought-terminating clichés – No – The text does not use any phrases designed to discourage critical thought.
+
+Red herring – No – All information in the text is relevant to the topic of 'Oumuamua.
+
+Straw men – No – The text is a report on a finding, not an argument. It does not refute any positions.
+
+Whataboutism – No – The text does not accuse anyone of hypocrisy.
+
+Verdict – 5% – The text is overwhelmingly an example of science journalism, not propaganda. Its primary purpose is to inform the public about a new scientific discovery. The one technique it uses, "Appeal to authority," is a fundamental and appropriate practice in science reporting, where the credibility of information is established by citing expert sources and peer-reviewed studies. This is distinct from the propagandistic use of the technique, which often involves citing irrelevant or biased authorities to shut down debate. The language is descriptive rather than manipulative, and the text embraces scientific nuance and uncertainty. It lacks any clear political, ideological, or manipulative agenda, which is the hallmark of propaganda.

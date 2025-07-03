@@ -1,0 +1,37 @@
+Name calling – No – The text criticizes "the authorities" and "the media" but does not attack them with a specific insulting label. It accuses them of actions (lying) rather than labeling them (e.g., "liars").
+
+Repetition – Yes – The idea of the security guard disappearing is repeated for emphasis, most notably with the phrase "vanished into thin air," which appears in the headline and is repeated in the body of the text.
+
+Slogans – No – The text does not use a brief, memorable phrase as a rallying cry.
+
+Appeal to fear – No – The text aims to create suspicion and doubt, but it does not directly instill fear of an alternative to its own viewpoint.
+
+Doubt – Yes – The entire article is built on questioning the official narrative. Example: "Of course, this leads many to believe that Campos didn’t even exist, to begin with."
+
+Exaggeration/minimization – Yes – The phrase "vanished into thin air" is a dramatic exaggeration of someone being unreachable or missing.
+
+Flag-Waving – No – The text does not make any appeals to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words and phrases to influence the reader's perception. Example: "His mere existence appears to have been fabricated by the very authorities who are cramming lies down our throats about this massacre for the sake of political agendas."
+
+Reduction ad Hitlerum – No – The text does not compare any person or group to the Nazis or other widely hated groups.
+
+Bandwagon – Yes – The text suggests that its viewpoint is becoming popular, encouraging the reader to join in. Example: "By now, we have all heard of Jesus Campos." and "this leads many to believe that Campos didn’t even exist".
+
+Causal Oversimplification – Yes – The text suggests a simple cause for the confusing narrative: it's a deliberate lie for political reasons, ignoring other potential causes like the chaos of a major investigation. Example: "His mere existence appears to have been fabricated by the very authorities who are cramming lies down our throats about this massacre for the sake of political agendas."
+
+Obfuscation, intentional vagueness – Yes – The text uses vague, unsubstantiated concepts to create suspicion without providing specifics. Example: "...for the sake of political agendas." (The specific agendas are never named).
+
+Appeal to authority – Yes – The text uses a quote from a union official to lend credibility to the idea that the disappearance is suspicious. Example: "“Right now I’m just concerned where my member is, and what his condition is. It’s highly unusual,” Hickey told media."
+
+Black & white fallacy – Yes – The text presents an implicit choice: either the official story is perfectly consistent and true, or it is a complete fabrication. It does not allow for the possibility of mistakes, confusion, or evolving information in a chaotic situation. Example: The entire premise that inconsistencies in the timeline mean the story is "fabricated" and "lies."
+
+Thought-terminating clichés – No – The text does not use clichés to shut down discussion; on the contrary, it seeks to provoke a specific line of thinking.
+
+Red herring – Yes – The intense focus on the inconsistencies surrounding Jesus Campos serves to distract from the larger body of evidence about the shooting, attempting to discredit the entire investigation by focusing on a confusing side-detail.
+
+Straw men – Yes – The text sets up the "official narrative" as a single, unchanging story and then attacks it for having "conflicting timelines." This refutes a simplified version of how information is released in a complex, ongoing investigation, where timelines are frequently revised as new facts emerge.
+
+Whataboutism – No – The text does not accuse any party of hypocrisy by pointing out their own past failings.
+
+Verdict – 95% – The text is overwhelmingly a piece of propaganda. Its primary purpose is not to inform, but to persuade the reader to adopt a specific conspiracy theory by undermining the official account of the Las Vegas shooting. It achieves this through a dense application of propaganda techniques. The foundation of the article is built on **Doubt**, using words like "allegedly" and questioning Campos's very existence. It heavily employs **Loaded Language** ("cramming lies down our throats," "mysteriously vanished") to create an atmosphere of suspicion and malice. The entire piece functions as a **Red Herring**, focusing on confusing details about one individual to cast doubt on the entire event. It uses logical fallacies like **Causal Oversimplification** (attributing all inconsistencies to a single malicious "political agenda") and the **Black & White Fallacy** (implying that any inconsistency means the entire story is a lie). The sheer number of techniques used in concert demonstrates a clear intent to manipulate the reader's emotions and perceptions rather than present a factual, balanced account.

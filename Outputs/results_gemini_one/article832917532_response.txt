@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use any insulting labels to attack a person or subject. It reports on the event and quotes political figures in a neutral manner.
+2. Repetition – No – The text is a news report and does not repeat a specific message or phrase to reinforce an idea.
+3. Slogans – No – The text does not contain any brief, memorable phrases intended to rally support for a cause.
+4. Appeal to fear – Yes – “Attempts to keep the collusion narrative alive, especially for political reasons, will only serve to further harm our political discourse and play into the hands of our foreign adversaries.” This quote from Sen. Grassley suggests a negative future outcome (harm, falling into enemy hands) to discourage a certain course of action.
+5. Doubt – No – The text itself does not question the credibility of any person or entity. It reports statements from others, such as Sen. Grassley noting the lack of evidence for collusion, but the article's narrative voice does not cast doubt.
+6. Exaggeration/minimization – No – The article reports facts and quotes without appearing to exaggerate or minimize them in its own voice.
+7. Flag-Waving – Yes – “...play into the hands of our foreign adversaries.” This part of Sen. Grassley's quote appeals to a sense of national security and patriotism by framing a political disagreement as something that would benefit enemies of the country.
+8. Loaded Language – No – The article uses neutral and objective language such as "announced," "submitted," and "reported" to convey information. The quoted language is attributed to specific speakers.
+9. Reduction ad Hitlerum – No – The text makes no comparisons to Nazis or other groups widely hated by the audience.
+10. Bandwagon – No – The text does not suggest that an idea is correct because it is popular. It presents differing opinions from various political figures.
+11. Causal Oversimplification – No – The text reports on the conclusion of an investigation; it does not attempt to explain the cause of a complex event in a simplistic way.
+12. Obfuscation, intentional vagueness – No – The language in the article is clear, direct, and specific.
+13. Appeal to authority – Yes – "A senior Justice Department official announced the development shortly after the special counsel submitted its final report to U.S. Attorney General William Barr." The entire article is structured around citing authoritative sources (the Justice Department, senators, the Attorney General) to report the news, which fits the provided definition.
+14. Black & white fallacy – No – The article does not present only two choices. It reports on the reactions of several different individuals and groups.
+15. Thought-terminating clichés – No – The text does not use any phrases or clichés intended to shut down discussion.
+16. Red herring – No – All the information presented in the text is directly relevant to the topic of the Mueller report's submission.
+17. Straw men – No – The article reports on direct statements and does not misrepresent or invent an argument to refute it.
+18. Whataboutism – No – The text does not contain any accusations of hypocrisy.
+
+Verdict – 10% – The text is a news report, not a piece of propaganda. Its primary purpose is to inform, not to persuade. It maintains a neutral tone and presents differing viewpoints from both Republican and Democratic figures, which is the opposite of how propaganda typically functions. While the article does contain quotes from a politician that use propaganda techniques (Appeal to Fear, Flag-Waving), the article itself is merely reporting these statements, not adopting them as its own position. The text’s reliance on 'Appeal to authority' is a fundamental characteristic of journalism (citing official sources) rather than a manipulative tactic. Therefore, the likelihood that the article itself is propaganda is very low.

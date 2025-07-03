@@ -1,0 +1,37 @@
+Name calling – No – The text does not attack a person, group, or subject with an insulting label. It describes a virus with factual and emotional terms but does not use name-calling as defined.
+
+Repetition – Yes – The text repeatedly emphasizes the deadly nature of the virus using phrases like “much more deadly,” “highly fatal virus,” “contagious and deadly,” “high mortality rate,” and “deadly Marburg outbreak.”
+
+Slogans – No – The text does not use any brief, memorable, or catchy phrases to promote an idea.
+
+Appeal to fear – Yes – The text heavily relies on instilling fear, starting with the headline “New Virus With NO CURE Spreading” and the comparison to the Black Death. It also mentions a fatality rate of “almost 90%” and that officials “worry this outbreak could spread rapidly.”
+
+Doubt – No – The text does not question the credibility of any person or organization; in fact, it uses authorities like the WHO to support its claims.
+
+Exaggeration/minimization – Yes – The headline “This Is WORSE Than The ‘Black Death’” is a significant exaggeration, as the Black Death killed a vast portion of the world's population, whereas this outbreak is described as having five identified cases.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words and phrases to create a sense of panic and crisis. Examples include “deadly outbreak,” “highly fatal virus,” “decimated West Africa,” and “devastating communities.”
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other groups widely hated by the audience.
+
+Bandwagon – No – The text does not suggest that an idea is correct or should be adopted because it is popular.
+
+Causal Oversimplification – No – The text does not reduce a complex event to a single, simple cause. It describes the potential origin of the outbreak without oversimplifying it.
+
+Obfuscation, intentional vagueness – No – The text is not deliberately vague; it provides specific details such as the name of the virus, fatality statistics, locations, and dates.
+
+Appeal to authority – Yes – The text repeatedly cites the World Health Organization (WHO) as a credible source to lend weight to its claims. For example: “the World Health Organization (WHO) has confirmed.”
+
+Black & white fallacy – No – The text does not present a situation as having only two possible outcomes or choices.
+
+Thought-terminating clichés – No – The text does not use any clichés or stock phrases to discourage critical thought.
+
+Red herring – No – The text does not introduce irrelevant material to distract the audience from the main point. The mention of the plague in Madagascar is used for comparison and context, not as a distraction.
+
+Straw men – No – The text does not misrepresent or refute an argument that was not made.
+
+Whataboutism – No – The text does not accuse any opponent of hypocrisy.
+
+Verdict – 90% – The text is highly likely to be propaganda. While it is based on a real event and contains factual elements (the existence of the Marburg virus, WHO statements), its primary purpose appears to be to provoke an emotional reaction of fear and panic rather than to inform objectively. This is achieved through the heavy use of several propaganda techniques, most notably a sensationalized and exaggerated headline ("WORSE Than The ‘Black Death’"), a strong and consistent appeal to fear, the use of loaded language ("decimated," "devastating"), and the repetition of the virus's deadly nature. The factual information is framed in the most alarming way possible to maximize emotional impact, which is a hallmark of propaganda.

@@ -1,0 +1,22 @@
+Here is the analysis of propaganda techniques in the text, followed by the verdict:
+
+1.  **Name calling** – No – While Patel is called "disrespectful" by an organizer, this is reported as a factual statement made *during the event*, not as the author's own label.
+2.  **Repetition** – No – The core message (event cutoff due to jokes) is stated once, not repeated.
+3.  **Slogans** – No – No brief, memorable phrases are used by the author to promote an idea.
+4.  **Appeal to fear** – No – No attempt is made to instill fear about alternatives.
+5.  **Doubt** – No – The author reports Patel's doubt ("claimed that he was being cut off because the audience didn’t like his jokes") and the organizers' reason ("tech had to leave early") neutrally, without casting doubt on either side.
+6.  **Exaggeration/minimization** – No – The description of events (joke content, tension, mic cut) and quotes appear factual without obvious exaggeration or downplaying.
+7.  **Flag-Waving** – No – No appeal is made to patriotism or identity to sway opinion.
+8.  **Loaded Language** – No – Language is relatively neutral and descriptive ("uncomfortable jokes," "tension increased," "questioned," "claimed"). Terms like "disrespectful" are attributed quotes.
+9.  **Reduction ad Hitlerum** – No – No association with hated groups is used to disapprove of Patel or the organizers.
+10. **Bandwagon** – No – No appeal is made to the popularity (or unpopularity) of Patel's jokes or the organizers' actions to persuade the reader.
+11. **Causal Oversimplification** – No – The article presents both Patel's claim (cut off due to disliked jokes) and the organizers' stated reason (tech leaving), without explicitly endorsing a single simple cause.
+12. **Obfuscation, intentional vagueness** – No – The reporting is clear: what happened, what jokes caused tension, what both sides said, and the current status (awaiting statement).
+13. **Appeal to authority** – No – While Patel appeals to his own experience ("I’m a generation older than all of you I know comedy"), the *author* does not use any authority figure's support as evidence for their reporting.
+14. **Black & white fallacy** – No – The article doesn't present the situation as having only two possible sides or outcomes.
+15. **Thought-terminating clichés** – No – No phrases are used by the author to shut down critical thought about the event.
+16. **Red herring** – No – The report stays focused on the event, the jokes, the cutoff, and the differing explanations.
+17. **Straw men** – No – The author accurately reports the arguments presented by both Patel (cut off due to dislike) and the organizers (tech reason, disrespect).
+18. **Whataboutism** – No – Neither the author nor the reported statements charge the other side with hypocrisy unrelated to the immediate event. Patel's claim of being cut for disliked jokes directly counters the organizers' tech reason, but it's not "whataboutism" as defined.
+
+**Verdict – 10% –** The text reads primarily as a straightforward news report detailing an incident. It presents facts (what happened, the controversial joke quote, the actions taken, the statements from both parties involved) and attributes claims clearly ("Patel continued to claim," "one organizer told Patel," "were told that their board is not yet prepared"). There is no discernible attempt by the *author* to manipulate the reader's opinion using the listed propaganda techniques. The author's tone is neutral and informational. The 10% acknowledges the inherent selection bias in news reporting (choosing *this* story, highlighting *this* joke) and the *potential* for the mere description of the joke/content to evoke strong reactions, but the text itself avoids employing propaganda techniques to shape opinion beyond factual reporting.

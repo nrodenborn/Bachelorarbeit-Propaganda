@@ -1,0 +1,20 @@
+1. Name calling – Yes – Explanation: The text directly insults a political figure by name, stating, "You, Dicky Durban [sic], are a complete FRAUD.”
+2. Repetition – Yes – Explanation: The poll question within the article is repeated three times in a row: "Who should replace Nikki Haley as our ambassador to the U.N.?"
+3. Slogans – No – Explanation: The text does not use any brief, memorable phrases that function as a slogan.
+4. Appeal to fear – No – Explanation: The article does not attempt to instill fear about a future outcome; its primary emotional appeal is to anger and a sense of injustice.
+5. Doubt – Yes – Explanation: The text seeks to cast doubt on the credibility of Christine Blasey Ford's accusation by labeling it "flimsy and meritless".
+6. Exaggeration/minimization – Yes – Explanation: The text minimizes the accusation against Brett Kavanaugh by calling it "flimsy and meritless accusations".
+7. Flag-Waving – No – Explanation: The text does not use patriotic appeals or symbols to make its argument.
+8. Loaded Language – Yes – Explanation: The text uses emotionally charged language to influence the reader, such as describing the Democratic establishment as "The Clinton machine".
+9. Reduction ad Hitlerum – No – Explanation: The text does not make any comparisons to Nazis or other similarly hated groups.
+10. Bandwagon – No – Explanation: The article does not argue that an idea is correct because it is popular.
+11. Causal Oversimplification – Yes – Explanation: The text simplifies a complex political situation by attributing the different responses to the two accusations solely to a "double standard," ignoring other potential political, social, and contextual factors.
+12. Obfuscation, intentional vagueness – No – Explanation: The text is direct and blunt in its accusations and is not intentionally vague.
+13. Appeal to authority – Yes – Explanation: The text cites a media appearance to bolster its claims: "Ms. Broaddrick said Wednesday on Fox News."
+14. Black & white fallacy – Yes – Explanation: The article presents a false dichotomy where the only two options are that Democrats are either consistent in believing all accusers or they are hypocrites, ignoring any nuanced reasons for treating the cases differently.
+15. Thought-terminating clichés – Yes – Explanation: The phrase, “That shows you the difference in the double standard that existed back then and still does today,” is used to present a conclusion as self-evident and shut down further critical thought.
+16. Red herring – Yes – Explanation: The article includes a completely unrelated poll: "Who should replace Nikki Haley as our ambassador to the U.N.?", which serves to distract the reader from the main topic.
+17. Straw men – Yes – Explanation: The text refutes a simplified version of the Democratic position, implying they hold a simplistic "believe all accusers" stance, and then attacks that position using Broaddrick's case, rather than addressing the more specific arguments about an FBI investigation for a Supreme Court nominee.
+18. Whataboutism – Yes – Explanation: The entire article is structured around this technique, deflecting from the issue of the Kavanaugh accusation by repeatedly asking what about the Broaddrick accusation against Bill Clinton. This is encapsulated in the line: "Where was mine?"
+
+Verdict – 95% – The text is overwhelmingly propagandistic. Its primary purpose is not to inform, but to persuade the reader by reinforcing a partisan viewpoint. This is achieved through the heavy use of numerous propaganda techniques, most notably Whataboutism, which forms the core structure of the argument. The article employs loaded language ("Clinton machine," "flimsy and meritless"), name-calling ("FRAUD"), and logical fallacies like the black & white fallacy and causal oversimplification to portray Democrats as hypocrites. It relies on emotional appeals to anger and injustice rather than a balanced presentation of facts, making it a clear example of political propaganda.

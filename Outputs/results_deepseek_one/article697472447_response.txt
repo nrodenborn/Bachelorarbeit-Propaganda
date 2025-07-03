@@ -1,0 +1,64 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – No  
+   *Explanation:* No insulting labels are applied to Campos or authorities. Terms like "infamous" describe his notoriety but aren’t direct insults.  
+
+2. **Repetition** – Yes  
+   *Explanation:* Phrases like "ever-changing narrative" (used twice) and "mystery" (repeated 3x) emphasize uncertainty about Campos’ story.  
+
+3. **Slogans** – No  
+   *Explanation:* No brief, memorable phrases (e.g., "Build the Wall") are used to simplify the message.  
+
+4. **Appeal to fear** – No  
+   *Explanation:* No attempt to instill fear about alternatives; it questions inconsistencies but doesn’t warn of dire consequences.  
+
+5. **Doubt** – Yes  
+   *Explanation:* Explicitly questions credibility: "What exactly do they want us to believe?" and "Did Campos call 911?" challenge the official account.  
+
+6. **Exaggeration/Minimization** – Yes  
+   *Explanation:* "Infamous security guard" exaggerates Campos’ notoriety. "Shattering" overstates narrative flaws, while "strangely" minimizes valid privacy concerns about his photo.  
+
+7. **Flag-Waving** – No  
+   *Explanation:* No appeals to patriotism, identity, or collective unity (e.g., "we the people").  
+
+8. **Loaded Language** – Yes  
+   *Explanation:* Emotionally charged terms like "infamous," "ever-changing narrative," "covering up," and "burning question" frame the story as suspicious.  
+
+9. **Reduction ad Hitlerum** – No  
+   *Explanation:* No comparisons to Nazis or universally hated groups.  
+
+10. **Bandwagon** – No  
+    *Explanation:* No appeal to popularity (e.g., "everyone agrees this is suspicious").  
+
+11. **Causal Oversimplification** – No  
+    *Explanation:* No single cause is blamed; multiple inconsistencies (timeline, photo, registration) are cited.  
+
+12. **Obfuscation** – No  
+    *Explanation:* The text seeks clarity, using specifics (e.g., timeline revisions) rather than vague language.  
+
+13. **Appeal to Authority** – No  
+    *Explanation:* No authoritative figures are cited to validate doubts; sources like police are questioned.  
+
+14. **Black & White Fallacy** – No  
+    *Explanation:* No false dichotomies (e.g., "either Campos is a hero or part of a cover-up"); nuances are acknowledged.  
+
+15. **Thought-Terminating Clichés** – No  
+    *Explanation:* No phrases shutting down debate (e.g., "it is what it is"); instead, questions invite critical thought.  
+
+16. **Red Herring** – No  
+    *Explanation:* All details (e.g., Campos’ photo absence, timeline shifts) directly relate to core inconsistencies.  
+
+17. **Straw Men** – No  
+    *Explanation:* The article refutes actual police statements (e.g., revised timeline), not misrepresented arguments.  
+
+18. **Whataboutism** – No  
+    *Explanation:* No accusations of hypocrisy (e.g., "what about X scandal?").  
+
+---
+
+### Verdict – 40%  
+*Explanation:* The text employs **Doubt**, **Repetition**, **Loaded Language**, and **Exaggeration** to challenge the official Las Vegas shooting narrative, framing Campos’ story as suspicious through rhetorical questions ("Did Campos call 911?") and emotive terms ("ever-changing narrative," "covering up"). However, it stops short of overt propaganda:  
+- **Persuasive but not manipulative**: It highlights verifiable inconsistencies (timeline changes, lack of photo/registration) without inventing false claims.  
+- **Balance**: Quotes police and sources (e.g., McMahill, Rodriguez) while questioning gaps.  
+- **Intent**: Aims to provoke scrutiny rather than blindly persuade; concludes with open-ended queries ("What exactly do they want us to believe?").  
+The 40% likelihood reflects its use of selective emphasis and emotional framing to cast doubt, but it remains rooted in cited anomalies rather than fabrication or overt manipulation.

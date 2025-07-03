@@ -1,0 +1,37 @@
+Name calling – No – The text does not use insulting labels to attack any person, group, or country.
+
+Repetition – No – While the subject of the mission is mentioned multiple times for clarity, no single message is repeated excessively to influence the reader.
+
+Slogans – No – The text does not contain any brief, memorable phrases intended to act as slogans.
+
+Appeal to fear – No – The text does not attempt to instill fear in the reader about any alternatives to the mission.
+
+Doubt – No – The text reports on challenges and delays factually, but does not aim to cast doubt on the credibility of any organization or country.
+
+Exaggeration/minimization – No – The text presents the mission's goals and challenges in a balanced and factual manner without significant exaggeration or minimization.
+
+Flag-Waving – No – While the article is about a national project for India, it does not use patriotic appeals to persuade the audience. It reports the nationality of the mission as a fact.
+
+Loaded Language – No – The text uses neutral, informative language and avoids words intended to appeal to emotions or stereotypes.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups.
+
+Bandwagon – No – The text does not suggest that the mission is desirable because other countries are also pursuing lunar exploration.
+
+Causal Oversimplification – No – The text does not reduce complex events to a single, simple cause for the purpose of misleading the audience.
+
+Obfuscation, intentional vagueness – No – The text is written clearly and aims to inform the reader, not confuse them with vague or obscure language.
+
+Appeal to authority – No – The text mentions authorities like President Trump and organizations like NASA, but only to state facts or context, not to use their authority as the sole evidence for a claim.
+
+Black & white fallacy – No – The text does not present a false dichotomy of only two choices.
+
+Thought-terminating clichés – No – The text does not use any clichés intended to stop critical thought.
+
+Red herring – No – The text stays on topic and does not introduce irrelevant information to distract the reader.
+
+Straw men – No – The text is informative and does not create or refute any misrepresented arguments.
+
+Whataboutism – No – The text does not deflect any potential criticism by accusing others of hypocrisy.
+
+Verdict – 0% – The text is a factual news report and shows no signs of being propaganda. Its primary purpose is to inform the reader about India's Chandrayaan-2 mission, its objectives, its context in relation to other countries' space programs, and its challenges. The language used is neutral, objective, and devoid of emotional appeals, loaded words, or logical fallacies. It presents information, including setbacks like the delay caused by Russia backing out and potential limitations like the mission's short lifespan, in a balanced way. This transparency and focus on factual reporting are characteristic of journalism, not propaganda.

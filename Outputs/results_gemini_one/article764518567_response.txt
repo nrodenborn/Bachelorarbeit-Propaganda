@@ -1,0 +1,37 @@
+1. Name calling – Yes – The title itself, "A Slap On The Wrist," is a label used to insult the outcome of the Inspector General's report, framing it as weak and inadequate. Another example is calling the tarmac meeting "infamous."
+
+2. Repetition – Yes – The core message that the OIG report was insufficient and failed to find obvious bias is repeated throughout the text using different phrasings, such as "disappointingly watered-down form," "it was reasonable to expect something more," and "as disappointing as the rigged outcome of the e-mail investigation itself."
+
+3. Slogans – Yes – The text uses the memorable phrase "Get Out of Jail Free card" to summarize its view on the effect of Comey's actions on Hillary Clinton.
+
+4. Appeal to fear – No – The text focuses on criticizing past events and individuals rather than instilling fear about a future threat or alternative.
+
+5. Doubt – Yes – The entire article is an exercise in casting doubt on the OIG report's credibility. For example: "In analyzing the highly anticipated OIG report’s conclusions, it is clear that either Mr. Horowitz himself decided to pull his punches or that the final version... emerged in a disappointingly watered-down form."
+
+6. Exaggeration/minimization – Yes – The text minimizes the criticisms in the OIG report as "the equivalent of a departmental employee review" while exaggerating the certainty of wrongdoing by stating, "The fix was in as early as May 2016."
+
+7. Flag-Waving – No – The text does not make appeals to patriotism or national identity to support its arguments.
+
+8. Loaded Language – Yes – The text is filled with emotionally charged words and phrases. Example: "The failure to at least empanel a grand jury to compel testimony from Hillary Clinton and key witnesses was itself a complete dereliction of duty, which could have only been motivated by a desire to treat Hillary Clinton with kid gloves for improper reasons."
+
+9. Reduction ad Hitlerum – No – The text does not compare any person or idea to Nazis or other universally hated groups.
+
+10. Bandwagon – No – The text does not argue that its position is correct because it is popular. It presents its own analysis.
+
+11. Causal Oversimplification – Yes – The text asserts that a single wording change was the key to the outcome: "Comey’s substitution of a legally meaningless phrase, 'extremely careless,' for the 'gross negligence' statutory legal standard he had originally used, had the effect of prejudging the facts in Hillary Clinton’s favor."
+
+12. Obfuscation, intentional vagueness – No – The article is direct and clear in its accusations and does not use vague or obscure expressions to confuse the audience. It accuses others of obfuscation but does not employ the technique itself.
+
+13. Appeal to authority – Yes – The text uses an admission from James Comey's own book as evidence to support its claim that the investigation's outcome was predetermined. Example: "Indeed, Comey admitted in his book that 'we started the Clinton investigation aware that it was unlikely to be a case that career prosecutors at the Department of Justice would prosecute.'”
+
+14. Black & white fallacy – Yes – The text presents the OIG report's conclusion as one of two extremes: either it should have found clear, prosecutable bias, or it is a failure. Example: "Mr. Horowitz’s report thus concluded, 'We did not identify evidence of bias or improper considerations.' This conclusion defies common sense." This dismisses the possibility that the report could be thorough yet not find evidence that meets a specific legal standard for bias.
+
+15. Thought-terminating clichés – Yes – The text uses the phrase "This conclusion defies common sense" to dismiss the OIG's findings without engaging in a nuanced discussion of the evidence, thereby discouraging critical thought.
+
+16. Red herring – Yes – The text introduces the Steele dossier and the FISA surveillance of Carter Page, only to state that the OIG report did not cover them. This serves to introduce unrelated, negative information to distract and poison the well against the FBI and DOJ. Example: "Moreover, this report did not address whether the Department of Justice or FBI abused the Foreign Intelligence Surveillance Act... or the government’s reliance on former British intelligence agent Christopher Steele’s salacious and unverified 'dossier'..."
+
+17. Straw men – Yes – The text misrepresents the OIG's findings to make them easier to attack. The OIG concluded it found no evidence that bias *affected the outcome*, but the article reframes this as the IG simply accepting questionable behavior. Example: "Inspector General Horowitz saw no problem with this pattern of obfuscation regarding the deletion of the legally significant phrase 'gross negligence' from Comey’s statement."
+
+18. Whataboutism – No – The text criticizes multiple parties (Comey, Lynch, McCabe, Strzok, Page, Horowitz) but does not deflect criticism from one by pointing to the alleged hypocrisy of another.
+
+Verdict – 95% – The text is overwhelmingly an example of propaganda. It is not a neutral analysis or summary of the OIG report but a highly biased opinion piece designed to persuade the reader of a specific, politically charged narrative. The title, "A Slap On The Wrist," immediately frames the official report as a failure. The author systematically employs numerous propaganda techniques, including loaded language ("rigged," "dereliction of duty," "kid gloves"), name-calling ("infamous"), and casting doubt to undermine the credibility of the Inspector General and his report. It relies on causal oversimplification (the "grossly negligent" wording change) and straw man arguments (misrepresenting the report's conclusions) to build its case. The piece selectively highlights information from the report that supports its thesis while dismissing the report's official conclusions as defying "common sense." The clear intent is not to inform the reader about the report's contents in a balanced way, but to provoke outrage and reinforce a belief that the entire government investigation was a corrupt "fix."

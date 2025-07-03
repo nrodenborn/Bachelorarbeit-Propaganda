@@ -1,0 +1,39 @@
+Name calling – No – The text uses descriptive labels like "gunman," "killer," and "ammo seller" based on the events and roles of the individuals. It does not use insulting labels to attack a subject's character in a propagandistic way.
+
+Repetition – No – The article repeats key facts for context and clarity, which is standard in news reporting. It does not repeat a specific message or phrase over and over to indoctrinate the reader.
+
+Slogans – No – The text is a news report and does not contain any brief, memorable phrases designed to rally support for or against an idea.
+
+Appeal to fear – No – The article describes a frightening event, but it does so to provide factual context for the arrest. It does not use fear to advocate for a specific idea or to warn against alternatives.
+
+Doubt – No – The article reports on conflicting statements and evidence which naturally raises questions about credibility, but it does not actively use rhetorical techniques to cast doubt. It presents the facts of the case as reported by different sources.
+
+Exaggeration/minimization – No – The article itself does not exaggerate or minimize facts. It reports on the subject, Douglas Haig, potentially minimizing his role ("no contribution"), but it balances this by presenting the official charges and other evidence.
+
+Flag-Waving – No – The text does not contain any appeals to patriotism or national identity to persuade the audience.
+
+Loaded Language – Yes – The text uses emotionally charged words and phrases to describe the event, which is a form of appealing to emotion. Example: "It is the deadliest mass shooting in modern US history."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups to discredit an idea or person.
+
+Bandwagon – No – The article does not suggest an idea is true or should be adopted because it is popular.
+
+Causal Oversimplification – No – The article does not offer a simple cause for the complex event of the massacre. It focuses on a specific aspect of the investigation without making broad, unsupported causal claims.
+
+Obfuscation, intentional vagueness – No – The article attempts to be clear and precise, defining terms like "tracer ammunition" and specifying what information is not yet known. This is the opposite of intentional vagueness.
+
+Appeal to authority – No – The text cites official sources like the FBI, police, and court documents as evidence. This is standard journalistic sourcing, not a fallacious appeal to an authority figure's opinion as proof of truth.
+
+Black & white fallacy – No – The article presents a nuanced view, including Haig's defense and the specific, limited nature of the charges against him. It does not present only two extreme options.
+
+Thought-terminating clichés – No – The text does not use any phrases or clichés intended to shut down critical thought.
+
+Red herring – No – All the information presented, including the details of the massacre, is relevant context for the story about Haig's arrest. No irrelevant material is introduced to distract.
+
+Straw men – No – The article does not misrepresent anyone's argument in order to refute it. It presents the claims from both Haig and the legal complaint directly.
+
+Whataboutism – No – The text does not attempt to charge anyone with hypocrisy or deflect from the main issue by pointing to other supposed wrongdoings.
+
+***
+
+Verdict – 5% – The text is overwhelmingly a factual news report, not a piece of propaganda. Its primary purpose is to inform the public about an event by presenting verifiable facts and statements from multiple, cited sources (the FBI, court documents, the accused, and his lawyer). It avoids nearly all propaganda techniques, including logical fallacies, slogans, and appeals to fear or patriotism. The only technique present is a minor use of Loaded Language, with phrases like "deadliest mass shooting," which are emotionally charged but also factually descriptive of the horrific event serving as context. This use of language is common in journalism covering tragedies and does not override the article's fundamental nature as an informational, rather than persuasive, piece.

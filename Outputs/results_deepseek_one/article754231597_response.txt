@@ -1,0 +1,50 @@
+### Analysis of Propaganda Techniques in the Text:
+1. **Name calling** – No  
+   *Explanation*: No insulting labels are used against subjects (e.g., Ebola is described clinically, not with pejorative terms).  
+2. **Repetition** – No  
+   *Explanation*: Key phrases (e.g., "outbreak") are not repeated excessively for emphasis.  
+3. **Slogans** – No  
+   *Explanation*: No brief, memorable phrases designed to rally support (e.g., no calls to action like "Stop Ebola Now!").  
+4. **Appeal to fear** – No  
+   *Explanation*: While Ebola’s severity is noted ("deadly virus," "severe bleeding"), the tone is factual, not alarmist. No fear is weaponized against alternatives.  
+5. **Doubt** – No  
+   *Explanation*: No questioning of credibility (e.g., authorities like WHO or the Congo government are cited neutrally).  
+6. **Exaggeration/minimization** – No  
+   *Explanation*: Statistics (2 confirmed cases, 0 deaths) are reported without embellishment or downplaying.  
+7. **Flag-Waving** – No  
+   *Explanation*: No appeals to patriotism, nationalism, or group identity.  
+8. **Loaded Language** – No  
+   *Explanation*: Language is clinical ("hemorrhagic fever," "organ failure") rather than emotionally charged (e.g., "horrific plague" is absent).  
+9. **Reduction ad Hitlerum** – No  
+   *Explanation*: No comparisons to Nazis or other vilified groups.  
+10. **Bandwagon** – No  
+    *Explanation*: No appeal to popularity (e.g., "Join global efforts!" is missing).  
+11. **Causal Oversimplification** – No  
+    *Explanation*: Outbreak causes are not discussed; focus is on response, not origins.  
+12. **Obfuscation** – No  
+    *Explanation*: Details (location, cases, response steps) are clear and specific.  
+13. **Appeal to authority** – **Yes**  
+    *Explanation*: Dr. Moeti (WHO) is cited to validate response efforts: "WHO will work closely... to support national response." This uses institutional authority as evidence of credibility.  
+14. **Black & white fallacy** – No  
+    *Explanation*: No false dilemmas (e.g., "Only WHO can save us").  
+15. **Thought-terminating clichés** – No  
+    *Explanation*: No phrases halting debate (e.g., "Trust the experts" is absent).  
+16. **Red herring** – No  
+    *Explanation*: No irrelevant distractions; all details relate to the outbreak.  
+17. **Straw men** – No  
+    *Explanation*: No misrepresented arguments are refuted.  
+18. **Whataboutism** – No  
+    *Explanation*: No accusations of hypocrisy (e.g., no comparisons to past failures).  
+
+---
+
+### Verdict – 5% –   
+*Explanation*: The text is **overwhelmingly factual and non-propagandistic**. It reports:  
+- Objective details (location, cases, sources).  
+- Neutral language (e.g., "deadly virus" is clinically accurate).  
+- Authorities cited for context (WHO, Congo government), not manipulation.  
+The *only minor element* is an **appeal to authority** (WHO’s role), common in credible public health reporting. This does not distort facts or push an agenda.  
+**Why 5%?**  
+- 95% of the text is purely informational (who, what, when, where).  
+- 5% reflects the inherent bias in *any* selective reporting (e.g., highlighting WHO’s involvement without criticizing it). No techniques manipulate emotion or ideology.  
+**Conclusion**: This is **standard news reporting**, not propaganda. It aims to inform, not persuade.

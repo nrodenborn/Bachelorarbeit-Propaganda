@@ -1,0 +1,22 @@
+Based on the definitions provided, here is the analysis of propaganda techniques in the text:
+
+1.  **Name calling** – **Yes** – "punch a zionist" (tweet by Igor Sadikov). This is an insulting label used to attack a group.
+2.  **Repetition** – **No** – No specific phrase or message is repeated throughout the text to reinforce it.
+3.  **Slogans** – **No** – No brief, memorable phrases are used to encapsulate a message within the reporting. ("Democratize SSMU" is a group name, not a slogan used propagandistically in this text).
+4.  **Appeal to fear** – **No** – While Rabbi Poupko mentions "profoundly disturbing and unpleasant" encounters, the text reports this as his assessment, not as an attempt to instill fear to support a specific idea against alternatives within the narrative.
+5.  **Doubt** – **No** – The text reports on the investigation's conclusion (Boudreau couldn't determine intent) and subsequent clarification (acknowledging effects), but it doesn't itself actively question the credibility of a specific person or thing beyond reporting others' actions/criticisms.
+6.  **Exaggeration/minimization** – **No** – The text reports facts, allegations, and statements from various parties without apparent exaggeration or minimization by the author. (The *groups* involved might be accused of this, but the *text reporting* does not exhibit it).
+7.  **Flag-Waving** – **No** – The text does not appeal to patriotism, nationalism, or group identity to persuade.
+8.  **Loaded Language** – **Yes** – "profoundly disturbing and unpleasant" (Rabbi Poupko describing encounters for Jewish activists). This phrase appeals strongly to emotions. "punch a zionist" is also loaded language, though primarily classified under Name Calling.
+9.  **Reduction ad Hitlerum** – **No** – No idea is disapproved by linking it to Nazis or other universally hated groups.
+10. **Bandwagon** – **No** – The text does not argue for something based solely on its popularity.
+11. **Causal Oversimplification** – **No** – The text presents a complex situation involving motivations (intent vs. effect), multiple incidents, and administrative responses without attributing it to a single, simple cause.
+12. **Obfuscation, intentional vagueness** – **No** – The text is relatively clear in reporting the events, the report findings, the clarification, and the various perspectives. It doesn't use deliberately unclear language to confuse.
+13. **Appeal to authority** – **No** – While authorities are quoted (Lew, Boudreau, Fortier, Poupko), the text uses their statements as sources of information or their positions/opinions, not as definitive proof to shut down an argument. The report itself was an investigation, not an appeal to authority *within* the text's argument.
+14. **Black & white fallacy** – **No** – The text acknowledges nuance, particularly Boudreau's distinction between anti-Semitic *intent* and anti-Semitic *effects*, and presents multiple perspectives without reducing the situation to only two extreme options.
+15. **Thought-terminating clichés** – **No** – No phrases are used that inherently shut down critical thinking or discussion. The quotes are substantive statements or opinions.
+16. **Red herring** – **No** – The text stays focused on the core issue of the vote, the allegations of anti-Semitism, the report, and its fallout. No irrelevant material is introduced to distract.
+17. **Straw men** – **No** – The text does not misrepresent or refute an argument that wasn't actually made by any party involved.
+18. **Whataboutism** – **No** – No party in the text charges another with hypocrisy to deflect criticism.
+
+**Verdict – 10% –** The text is primarily a straightforward news report detailing a specific incident, an investigation into it, reactions from involved parties, and related context. It presents multiple perspectives (Lew, Boudreau, Fortier, Poupko, Democratize SSMU's apology) and reports facts and statements without overtly attempting to manipulate the reader towards a specific conclusion beyond informing them. While it quotes individuals using techniques like *Name Calling* ("punch a zionist") and *Loaded Language* ("profoundly disturbing and unpleasant"), these are presented as part of the reported events and statements, not as techniques employed *by the text itself* for persuasive effect. The overall tone is informational and journalistic, not propagandistic. The low percentage reflects the presence of quoted propaganda techniques within the subject matter, not the text's own intent or method.

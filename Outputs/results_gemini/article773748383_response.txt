@@ -1,0 +1,39 @@
+1. Name calling – Yes – The title, “The Goal Of Eliminating Guns Is Ultimately A Fool’s Errand,” attacks the idea of gun control, and by extension its advocates, by labeling their goal as a foolish endeavor.
+
+2. Repetition – Yes – The core message that regulating 3D-printed guns is impossible is repeated throughout the text using different phrasing, such as “difficult, if not impossible, for the government to regulate,” “3D printers make the already extremely difficult job of controlling access to guns practically impossible,” and “It's difficult to see how 'ghost guns' could ever be regulated by the government.”
+
+3. Slogans – Yes – The text uses brief, memorable phrases to frame the issue, such as “fool’s errand” in the title and the term “ghost guns” to describe the product.
+
+4. Appeal to fear – Yes – The text stokes fear by suggesting the inability to stop criminals and gangs: “Even if printers are registered with the government, what is going to stop gangs from stealing them?”
+
+5. Doubt – Yes – The text actively casts doubt on the effectiveness of government policies: “It will be even more difficult to impose background checks, which have proven quite useless anyway.”
+
+6. Exaggeration/minimization – Yes – The text exaggerates the impact of the settlement by claiming it “essentially deals a death blow to gun control advocates” and minimizes the effectiveness of existing regulations by calling background checks “quite useless anyway.”
+
+7. Flag-Waving – Yes – The text appeals to patriotism and American identity by framing the issue as a victory for constitutional rights: “This is an important victory for First Amendment rights.”
+
+8. Loaded Language – Yes – The text uses emotionally charged words to influence the reader, such as “fool’s errand,” “death blow,” “ruckus,” and “capitulated.”
+
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler, the Nazis, or other similarly hated groups.
+
+10. Bandwagon – Yes – The text highlights the popularity of downloading the gun blueprints to suggest a widespread movement: “In just two days, 100,000 copies of the handgun blueprint were downloaded from Wilson’s website.”
+
+11. Causal Oversimplification – Yes – The text presents a simplistic cause for a complex issue: “That isn’t too surprising, as drug gangs are the source of both illegal drugs and guns.”
+
+12. Obfuscation, intentional vagueness – No – The text’s argument, while biased, is presented in a direct and clear manner. It does not rely on being intentionally obscure.
+
+13. Appeal to authority – Yes – The text uses the Justice Department's settlement as an authoritative validation of its position: “The Justice Department’s recent settlement with Wilson is very favorable to him... This is an important victory for First Amendment rights.”
+
+14. Black & white fallacy – Yes – The text presents the situation as one where gun control is now completely impossible, ignoring any potential for nuanced regulatory solutions. The embedded poll also presents a binary choice: “Will Brett Kavanaugh be confirmed to the Supreme Court? * Yes, he will be confirmed. No, he will not be confirmed.”
+
+15. Thought-terminating clichés – Yes – The phrase “fool’s errand” in the title serves to dismiss the entire concept of gun control without argument. The statement, “The ability to build an untraceable, unregistered gun is definitely a game changer,” is presented as an unchallengeable fact that ends the discussion.
+
+16. Red herring – Yes – The repeated poll asking “Will Brett Kavanaugh be confirmed to the Supreme Court?” is entirely irrelevant to the topic of 3D-printed guns and serves as a distraction.
+
+17. Straw men – Yes – The title, “The Goal Of Eliminating Guns Is Ultimately A Fool’s Errand,” refutes the extreme position of total gun elimination, which is not the stated goal of most gun control advocates, making the opposing argument seem weaker than it is.
+
+18. Whataboutism – No – The text criticizes opponents and their policies but does not deflect criticism by accusing them of hypocrisy on other, unrelated issues.
+
+***
+
+Verdict – 95% – The text is overwhelmingly propaganda. While it is structured around a real news event (the DOJ settlement with Defense Distributed), its primary purpose is not to inform but to persuade the reader to adopt a specific, one-sided viewpoint. It employs a vast array of propaganda techniques to achieve this goal. The argument is built on a straw man foundation (that the goal is to "eliminate" guns), uses loaded language ("fool's errand," "death blow") and exaggeration to create a sense of crisis and futility for gun control, and appeals to patriotic identity by framing the issue as a "victory for First Amendment rights." It consistently casts doubt on the effectiveness of any government regulation while using causal oversimplification to blame "drug gangs" for illegal guns. The inclusion of an irrelevant red herring poll further undermines its credibility as a serious piece of journalism. The cumulative effect of these techniques is a highly manipulative text designed to shut down critical thought and push a specific political agenda.

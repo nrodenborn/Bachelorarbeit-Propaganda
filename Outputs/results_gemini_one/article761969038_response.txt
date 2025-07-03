@@ -1,0 +1,37 @@
+Name calling – Yes – The text uses insulting or diminishing labels for subjects it opposes, such as referring to the "once-great U.S. economy" and the "Main Stream Media".
+
+Repetition – Yes – The text repeatedly pushes the central message that foreign-born workers are displacing native-born workers, first by using Hispanic/non-Hispanic data and then by using the new BLS data, reinforcing the concept of "displacement" throughout the article.
+
+Slogans – Yes – The text coins and uses a brief, memorable phrase to represent its core idea: "We label this 'The New VDAWDI'".
+
+Appeal to fear – Yes – The text instills fear by suggesting a dire economic future and a threat to a specific group. Example: "A rough patch—or a double-dip recession?", "the picture is still bleaker", and "Time is running out for native-born workers—a.k.a. Americans."
+
+Doubt – Yes – The text questions the credibility of others, particularly the media and the government. Example: "It now seems obvious that one of those mysterious memos has gone out to the Main Stream Media saying that no-one can mention the immigration moratorium solution." and "Can the same be said for the Obama Administration?"
+
+Exaggeration/minimization – Yes – The text exaggerates a statistic to support its point. Example: "Over that same period Hispanic employment rose by 3.9 million, up a whopping 24.2%."
+
+Flag-Waving – Yes – The text appeals to patriotism by explicitly linking its cause to the national identity. Example: "Time is running out for native-born workers—a.k.a. Americans."
+
+Loaded Language – Yes – The text uses words with strong emotional connotations to influence the reader. Examples include "befuddled", "panic", "bleaker", and "whopping".
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other groups widely hated by the audience.
+
+Bandwagon – No – The text does not appeal to the popularity of an idea; instead, it presents itself as a unique source of information.
+
+Causal Oversimplification – Yes – The text presents a single, simple cause for a complex problem by blaming immigration for the employment issues of native-born workers. Example: "This Hispanic/non-Hispanic divide was, of course, a convenient proxy for VDARE.com's primary interest: foreign-born workers and their role in displacing their native-born counterparts."
+
+Obfuscation, intentional vagueness – Yes – The text uses deliberately vague expressions to suggest a conspiracy without providing evidence. Example: "It now seems obvious that one of those mysterious memos has gone out to the Main Stream Media".
+
+Appeal to authority – Yes – The text presents itself as an authority on the subject and selectively uses data from an official authority (BLS) to bolster its own credibility and custom-made index. Example: "VDARE.com has long argued that the household survey captures the employment of illegal aliens".
+
+Black & white fallacy – Yes – The text presents the job market as a simple, two-sided conflict between native-born and foreign-born workers, ignoring other economic factors. Example: "In all but a few months of the Obama Administration, native-born workers have lost ground to immigrants".
+
+Thought-terminating clichés – No – The text does not use common clichés to shut down thought; it actively tries to guide the reader's thinking in a specific direction.
+
+Red herring – No – The text stays focused on its central argument and does not introduce irrelevant material to distract the audience.
+
+Straw men – No – The text does not misrepresent or refute a specific counter-argument that was not presented.
+
+Whataboutism – No – The text does not attempt to deflect criticism by charging an opponent with hypocrisy.
+
+Verdict – 95% – The text is highly propagandistic. It is not a neutral presentation of economic data but a persuasive article constructed to promote a specific anti-immigration narrative. It employs a wide array of propaganda techniques to achieve this goal. The article uses **Loaded Language** ("panic," "bleaker") and **Appeal to Fear** to create an atmosphere of crisis. It establishes a clear enemy by using **Causal Oversimplification** and a **Black & White Fallacy**, framing the complex issue of unemployment as a simple battle between "native-born workers—a.k.a. Americans" (**Flag-Waving**) and immigrants. It casts **Doubt** on the "Main Stream Media" and the government through vague, conspiratorial suggestions. The author positions their own organization as a lone, credible authority, creating its own branded index, "The New VDAWDI" (**Slogan**), to lend a veneer of scientific legitimacy to its biased interpretation. The sheer number and combination of these techniques show a clear intent to manipulate the reader's emotions and perceptions rather than to inform them objectively.

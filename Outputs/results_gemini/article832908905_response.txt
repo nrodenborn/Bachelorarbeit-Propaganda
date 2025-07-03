@@ -1,0 +1,20 @@
+1. Name calling – Yes – The text quotes President Trump's description of the probe as a “witch hunt.”
+2. Repetition – No – The text itself does not repeat a message; it reports on a single event and the immediate reactions to it.
+3. Slogans – Yes – The text quotes President Trump's phrase “witch hunt” and Rep. Mark Meadows' concluding statement, “Because there was no collusion.”
+4. Appeal to fear – Yes – The text quotes the Democratic leaders' statement that the investigation “focused on questions that go to the integrity of our democracy itself: whether foreign powers corruptly interfered in our elections.”
+5. Doubt – Yes – The text quotes Alan Dershowitz, who urged the public “to withhold final judgment until they hear the other side of the story,” questioning the completeness of the report.
+6. Exaggeration/minimization – Yes – Rep. Mark Meadows' tweet emphasizes the lack of collusion indictments (“without ONE collusion related indictment. Not even one”) to minimize the significance of the 200 other charges and six indictments of Trump advisers.
+7. Flag-Waving – Yes – The statement from Pelosi and Schumer appeals to patriotism by mentioning “the integrity of our democracy” and stating, “The American people have a right to the truth.”
+8. Loaded Language – Yes – The text quotes the use of “witch hunt” by Trump and “sneak preview” by Pelosi and Schumer, both of which are emotionally charged phrases.
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or similarly hated groups.
+10. Bandwagon – No – The text does not suggest an idea is correct because it is popular.
+11. Causal Oversimplification – Yes – Rep. Mark Meadows suggests the simple reason for a lack of collusion indictments is, “Because there was no collusion,” ignoring the complexities of the two-year investigation.
+12. Obfuscation, intentional vagueness – No – The text and the quotes within it are direct and not intentionally vague or confusing.
+13. Appeal to authority – No – While the text quotes many authorities (lawyers, politicians, professors), it does so to report their different viewpoints on an event, which is a standard journalistic practice. The article itself does not use an authority's support as the sole evidence for its own claim.
+14. Black & white fallacy – No – The text presents multiple perspectives from various sources (Trump, Democrats, Dershowitz, Meadows) and does not reduce the situation to only two choices.
+15. Thought-terminating clichés – Yes – The phrase “witch hunt” is used to dismiss the legitimacy of the entire investigation without engaging in a nuanced discussion of its findings.
+16. Red herring – No – The text and the quotes within it remain focused on the Mueller report and do not introduce irrelevant material to distract.
+17. Straw men – No – The arguments quoted in the text are direct reactions to the delivery of the report, not misrepresentations of other arguments.
+18. Whataboutism – No – The text does not contain any instances of charging an opponent with hypocrisy to deflect criticism.
+
+Verdict – 15% – The text itself is a news report, not a piece of propaganda. Its primary purpose is to inform the public about the delivery of the Mueller report and to present the immediate reactions from key political figures. The article maintains a neutral, journalistic tone by attributing all opinions and statements to their specific sources (e.g., "Trump has maintained," "His attorneys said," "Pelosi and Schumer released a joint statement"). However, the text *quotes* multiple statements from political figures that use a variety of propaganda techniques (e.g., Trump's "witch hunt," the Democrats' "appeal to fear," Meadows' "causal oversimplification"). Therefore, while the article's content contains clear examples of propaganda, the article's structure and intent are journalistic. The low percentage reflects that the text is a vehicle for reporting on propaganda rather than being propaganda itself.

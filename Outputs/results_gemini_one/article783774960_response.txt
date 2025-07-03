@@ -1,0 +1,28 @@
+1. Name calling – Yes – The text uses insulting labels such as "Muslim jihadis," "Islamists," and "little jihadis" to attack the subjects of the article instead of using neutral terms like "suspects" or "defendants."
+2. Repetition – Yes – The poll question "Who should replace Nikki Haley as our ambassador to the U.N.?" is repeated three times in a row. Additionally, the district attorney's failure is mentioned multiple times ("failed to file for a preliminary hearing within 10 days and didn’t even bother to show up for court").
+3. Slogans – No – The text does not use any brief, memorable phrases to rally support.
+4. Appeal to fear – Yes – The text instills fear by describing the compound as a place where "11 other children were being trained to commit jihad in mass school shootings," creating a terrifying image to provoke an emotional response.
+5. Doubt – Yes – The text actively works to make the reader question the credibility of multiple authorities, including the district attorney ("failed to file... didn't even bother to show up"), the FBI ("as trustworthy as the FBI in this matter"), and the President ("why were you not involved in the first place, Mr. President?").
+6. Exaggeration/minimization – Yes – The author exaggerates the lack of action on the most serious charges by stating, "And the death of the three-year-old? Nothing! And what of the training of little jihadis? Nothing!" This minimizes the fact that federal charges were filed and the DA was pursuing grand jury indictments.
+7. Flag-Waving – Yes – The author appeals to patriotism and constitutional principles by directly addressing the President's duties: "According to the Constitution, you, and you alone, are the sole head of the executive branch..."
+8. Loaded Language – Yes – The text is filled with emotionally charged words intended to provoke a reaction, such as "Jihad compound," "terror compound," and "Islamists."
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or similarly hated groups.
+10. Bandwagon – No – The text does not suggest an idea is correct because it is popular; in fact, it presents a viewpoint critical of mainstream authorities.
+11. Causal Oversimplification – Yes – The text suggests a simple reason for the FBI's actions, stating, "This latest move, while welcome, may only be a response to President Donald Trump's vow to 'get involved.'" This reduces a complex legal and jurisdictional situation to a simple political reaction.
+12. Obfuscation, intentional vagueness – No – The author's points and accusations are direct and clear, not intentionally vague or confusing.
+13. Appeal to authority – No – While the text quotes authorities like the AP and the District Attorney, it does so to criticize them and cast doubt on their statements, not to use their authority as evidence for its own argument.
+14. Black & white fallacy – Yes – The text presents a false choice by implying that either the suspects are prosecuted for murder and terrorism immediately, or that "Nothing!" is being done. It ignores the complexities of the legal process, such as the filing of different federal and state charges.
+15. Thought-terminating clichés – No – The text does not use clichés to shut down discussion; rather, it seeks to provoke a specific line of thought.
+16. Red herring – Yes – The text introduces a poll, "Who should replace Nikki Haley as our ambassador to the U.N.?," which is completely irrelevant to the New Mexico case and serves to distract the reader.
+17. Straw men – Yes – The author refutes an unstated argument that the federal firearms charges are a sufficient response to the situation. By exclaiming "Nothing!" after listing these charges, the author frames the official action as a total failure, misrepresenting the legal steps being taken.
+18. Whataboutism – Yes – After noting the "welcome" news of the FBI arrests, the author immediately pivots to charging the President with hypocrisy: "However, I ask, why were you not involved in the first place, Mr. President?" This deflects from the development in the case to criticize a political figure.
+
+***
+
+Verdict – 95% – The text is overwhelmingly likely to be propaganda. Its primary purpose is not to objectively inform the reader but to persuade them to adopt a specific, highly emotional, and conspiratorial viewpoint. This is achieved through the extensive use of 13 of the 18 listed propaganda techniques.
+
+The article relentlessly employs emotional manipulation through **Loaded Language** ("terror compound," "jihadis") and **Name Calling** to dehumanize the subjects, while using **Appeal to Fear** (children trained for "mass school shootings") to bypass rational analysis.
+
+It systematically distorts the reality of the situation by using **Exaggeration/Minimization** (claiming "Nothing!" was done), presenting a **Black & White Fallacy** regarding the justice system's options, and attacking a **Straw Man** argument that the federal charges were meant to be the final word on the matter.
+
+Furthermore, the author's narrative is built on casting **Doubt** on every official institution involved (the DA, the FBI, the President) and using **Whataboutism** and **Causal Oversimplification** to frame events in a politically charged manner. The inclusion of a completely irrelevant **Red Herring** poll further demonstrates that the article's intent is not journalistic integrity but audience manipulation and engagement for a specific agenda. The sheer density and combination of these techniques confirm the text as a piece of propaganda.

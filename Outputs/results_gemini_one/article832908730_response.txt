@@ -1,0 +1,37 @@
+Name calling – Yes – The text reports that “Trump has also vigorously denied any wrongdoing and has repeatedly branded the probe as a ‘total witch hunt.’”
+
+Repetition – No – The text does not repeat the same message over and over.
+
+Slogans – No – The text does not use any brief and memorable phrases to promote an idea.
+
+Appeal to fear – No – The text does not attempt to instill fear in the reader.
+
+Doubt – No – The text does not question the credibility of any person or entity in its own voice.
+
+Exaggeration/minimization – No – The text does not exaggerate or minimize events; it reports on them.
+
+Flag-Waving – No – The text does not make an appeal to patriotism.
+
+Loaded Language – Yes – The text uses words like “clamor” and “transfixed the nation” which are emotionally charged.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or hated groups.
+
+Bandwagon – No – The text does not appeal to the popularity of an idea.
+
+Causal Oversimplification – No – The text does not offer a simple cause for a complex event; in fact, it details the complexity of the investigation.
+
+Obfuscation, intentional vagueness – No – The text is a news report that aims to be clear and informative, not vague.
+
+Appeal to authority – Yes – The text is structured around statements from authorities to report the facts. For example: “A Justice Department official told the Associated Press that Mueller is not recommending any further indictments.” and “In a letter to the heads of the Senate and House judiciary committees, Barr described Mueller’s submission as a ‘confidential report...’”
+
+Black & white fallacy – No – The text does not present only two options.
+
+Thought-terminating clichés – No – The text does not use any phrases that discourage critical thought.
+
+Red herring – No – The text does not introduce irrelevant material to distract the reader.
+
+Straw men – No – The text does not refute an argument that was not presented.
+
+Whataboutism – No – The text does not charge anyone with hypocrisy.
+
+Verdict – 10% – The text is a news report, and its primary purpose is to inform the public about the conclusion of the Mueller investigation by presenting facts and quoting relevant figures. It is not structured as a piece of propaganda. However, it does contain elements that fit the technical definitions of propaganda techniques. The use of "Name calling" is a direct quote from President Trump, reported as a fact of his response. The use of "Loaded Language" is very mild (e.g., "clamor," "transfixed") and falls within the realm of common journalistic practice. "Appeal to authority" is fundamental to news reporting, as journalists cite official sources to convey information. Because these techniques are present but are not used with the clear intent to manipulate or deceive the audience, the text has a very low likelihood of being propaganda.

@@ -1,0 +1,37 @@
+1. Name calling – No – The text does not use insulting labels to attack an object or subject.
+   
+2. Repetition – No – The text does not repeat the same message over and over.
+
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+
+4. Appeal to fear – No – The text does not support an idea by instilling fear against other alternatives.
+
+5. Doubt – Yes – The text questions the credibility of the Obama administration by stating, "Eleven months of Trump has not come close to undoing the damage done by eight years of Obama."
+
+6. Exaggeration/minimization – Yes – The text minimizes the positive impact of the Obama administration and exaggerates the impact of the Trump administration, e.g., "Trump may have done more for blacks in 11 months than Obama did in eight years."
+
+7. Flag-Waving – Yes – The text appeals to patriotism by emphasizing "ADVANTAGE AMERICANS" and suggesting that native-born Americans are benefiting more under Trump's policies.
+
+8. Loaded Language – Yes – The text uses emotionally charged language, such as "real people live and work," and "Trump Effect," to evoke a positive emotional response towards Trump's policies.
+
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+
+11. Causal Oversimplification – Yes – The text assumes a simple cause for complex events, such as attributing the decline in black unemployment solely to Trump's immigration policies.
+
+12. Obfuscation, intentional vagueness – No – The text does not use deliberately unclear expressions to confuse the audience.
+
+13. Appeal to authority – Yes – The text references the Labor Department employment report to support its claims, using authority as evidence.
+
+14. Black & white fallacy – Yes – The text presents only two options, implying that the Obama administration was damaging while the Trump administration is beneficial.
+
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main argument.
+
+17. Straw men – No – The text does not refute an argument that was not presented.
+
+18. Whataboutism – Yes – The text charges the Obama administration with hypocrisy by comparing its performance unfavorably to Trump's.
+
+**Verdict – 70% – The text exhibits several propaganda techniques, including doubt, exaggeration/minimization, flag-waving, loaded language, causal oversimplification, appeal to authority, black & white fallacy, and whataboutism. These techniques are used to present a biased view that favors the Trump administration and criticizes the Obama administration, suggesting a high likelihood of the text being propaganda.**

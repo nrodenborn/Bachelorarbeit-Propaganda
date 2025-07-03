@@ -1,0 +1,43 @@
+Name calling – Yes – The text refers to Peter Strzok as a “disgraced anti-Trump FBI agent.”
+
+Repetition – Yes – The central idea that Google colluded with or improperly assisted the Clinton campaign is repeated multiple times using phrases like “colluded with Clinton campaign,” “real ‘collusion’ between Google and the Hillary Clinton campaign,” and “Google’s attempts to interfere on Clinton’s behalf.”
+
+Slogans – No – The text does not use any brief, memorable phrases in a slogan-like manner.
+
+Appeal to fear – No – The text focuses on generating anger and suspicion about past events rather than instilling fear about future alternatives.
+
+Doubt – Yes – The text is built around questioning the credibility of Google, stating it “likely violated federal election laws — not to mention the privacy of its users,” and also questions the mainstream narrative about Russian interference by calling it a “notion that the establishment continues to push.”
+
+Exaggeration/minimization – Yes – The text minimizes the established narrative of Russian interference as just “a couple hundred thousand dollars of ad spends and some Russian bots,” while framing Google’s actions as “real ‘collusion’.”
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity to make its case.
+
+Loaded Language – Yes – The text uses emotionally charged words and phrases like “colluded,” “silent donations,” “disgraced anti-Trump FBI agent,” and “spy on the Trump campaign” to influence the reader's emotions.
+
+Reduction ad Hitlerum – No – The text does not compare any person or idea to Hitler or the Nazi party.
+
+Bandwagon – No – The text positions its argument as an uncovered truth against the "establishment," rather than suggesting its ideas are popular.
+
+Causal Oversimplification – Yes – The text suggests a simple cause (distraction from Google/Clinton collusion) for a complex event (the focus on Russian election interference).
+
+Obfuscation, intentional vagueness – No – The text is direct and clear in its accusations, not deliberately obscure.
+
+Appeal to authority – Yes – The text cites Tucker Carlson, Julian Assange, and a tweet from Donald Trump as authorities to support its claims.
+
+Black & white fallacy – Yes – The text presents a false dichotomy between the “notion” of Russian interference and the “real ‘collusion’” of Google, implying one must be chosen over the other.
+
+Thought-terminating clichés – Yes – The phrase “Of course, anyone who paid attention was aware” is used to dismiss skepticism and discourage critical examination of the claim.
+
+Red herring – Yes – The text introduces the topic of Peter Strzok, his mistress, and FISA warrants, which is irrelevant to the main claim about Google's actions, to distract and reinforce a broader narrative of wrongdoing against Trump.
+
+Straw men – Yes – The text misrepresents the argument for Russian interference as simply “a couple hundred thousand dollars of ad spends and some Russian bots,” a simplified version that is easier to attack than the full argument.
+
+Whataboutism – Yes – The entire premise of the article is a response to the narrative of Russian collusion, deflecting from that issue by saying, “what about” the alleged collusion between Google and the Clinton campaign.
+
+***
+
+Verdict – 95% – The text is overwhelmingly propagandistic. Its primary purpose is not to inform but to persuade the reader to adopt a specific, highly partisan viewpoint by employing a wide array of propaganda techniques.
+
+The piece is framed using **Whataboutism**, deflecting from the issue of Russian interference to focus on the alleged actions of Google. It sets up a **Straw Man** by minimizing the Russian interference narrative to make its own claims about "real 'collusion'" seem more significant. This is presented through a **Black & White Fallacy**, where the reader is implicitly asked to choose between two competing collusion narratives.
+
+Throughout the text, **Loaded Language** ("disgraced," "spy on") and **Name Calling** are used to create a strong emotional bias against the subjects of the article. The central claim is reinforced through **Repetition**. The argument relies heavily on **Appeal to Authority**, citing partisan figures like Tucker Carlson and Donald Trump as credible sources. It actively sows **Doubt** about official narratives and institutions ("establishment," "DOJ or FBI"). Finally, it introduces a **Red Herring** (the Strzok-Page texts) to add more weight to its general theme of a conspiracy against Trump, even though it's unrelated to the main point about Google. The sheer number and combination of these techniques indicate a deliberate effort to manipulate the reader's perception rather than present a balanced and factual account.

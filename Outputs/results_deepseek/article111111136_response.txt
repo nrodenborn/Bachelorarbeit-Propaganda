@@ -1,0 +1,22 @@
+Here's the analysis of each propaganda technique in the text:
+
+1.  **Name calling** – No – No insulting labels are used against any specific subject.
+2.  **Repetition** – No – The core message is stated clearly but not repeated excessively.
+3.  **Slogans** – No – While the PM says "do whatever it takes," it's presented as a statement of resolve within context, not a crafted, standalone slogan.
+4.  **Appeal to fear** – No – The text describes violent events and public worry, but it presents them as factual context and reported concerns ("Swedes are worried," "increasing numbers of Swedes worried"), not as a deliberate technique by the *text* to instill fear to support a specific idea. Akesson's quote uses sarcasm but is presented as his statement.
+5.  **Doubt** – No – The text doesn't explicitly question the credibility of individuals or institutions. It reports *others* expressing doubt (e.g., confidence falling in police).
+6.  **Exaggeration/minimization** – No – Statistics (murder rate, shootings, funding) are presented neutrally. Descriptions of events ("people are shot to death", "killed by hand grenades") are factual reports of incidents.
+7.  **Flag-Waving** – No – While discussing national issues (crime, law and order, immigration), the text doesn't overtly appeal to patriotism or national identity to rally support.
+8.  **Loaded Language** – **Yes** – Jimmie Akesson uses highly emotive and sarcastic language: "This is the new Sweden; the new, exciting dynamic, multicultural paradise..." This phrase appeals to emotions (fear, resentment) and relies on stereotypes about multiculturalism leading to crime.
+9.  **Reduction ad Hitlerum** – No – No attempt is made to link ideas to universally hated groups (e.g., Nazis).
+10. **Bandwagon** – No – The text reports on public concern but doesn't use the popularity of that concern as a primary argument to persuade the audience.
+11. **Causal Oversimplification** – No – The text presents multiple factors (gangs, drugs, protection rackets, immigration debate) without asserting one simple cause for the complex issue of gang violence. Akesson implies a link to immigration policy, but this is presented as his opinion within the political debate.
+12. **Obfuscation, intentional vagueness** – No – The text uses clear language and provides specific details (statistics, quotes, measures, funding).
+13. **Appeal to authority** – No – The PM's statements are presented as his position or government policy, not cited as evidence based solely on his authority.
+14. **Black & white fallacy** – No – The text presents multiple perspectives (PM, opposition, statistics, public concern) and doesn't frame the issue as having only two solutions or outcomes.
+15. **Thought-terminating clichés** – No – The text doesn't use simplistic phrases to shut down discussion. It reports complex statements and differing viewpoints.
+16. **Red herring** – No – All material presented is relevant to the topic of gang violence, its impact, public concern, political responses, and the upcoming election debate.
+17. **Straw men** – No – Arguments are presented directly (PM's stance, Akesson's criticism). The text doesn't misrepresent or refute a position not actually held.
+18. **Whataboutism** – No – No party in the text deflects criticism by charging opponents with hypocrisy on unrelated issues.
+
+**Verdict – 15% –** The text is overwhelmingly a news report presenting factual information (statistics, events), government policy statements, and reported public sentiment regarding gang violence in Sweden. The primary intent appears to be informational, providing context for a significant national issue and upcoming election debate. While it includes a quote from Jimmie Akesson (Sweden Democrats) that uses **Loaded Language** (sarcastically calling Sweden a "multicultural paradise"), this is clearly attributed to him as a political figure within the context of the parliamentary debate. The inclusion of this quote reflects the political dimension of the issue but doesn't transform the entire text into propaganda. The core reporting remains neutral and fact-based. The low percentage reflects the presence of one identifiable propaganda technique used within a single attributed quote, within an otherwise standard news report structure.

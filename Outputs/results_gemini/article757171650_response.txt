@@ -1,0 +1,22 @@
+1. Name calling – No – The text does not use insulting labels to attack any person, group, or idea.
+2. Repetition – No – While the phrase "explosive increase" is mentioned twice, it is used to quote a source and emphasize a key point, not as a repetitive tool to indoctrinate the reader.
+3. Slogans – Yes – The headline "We Now Have Urban Ebola" acts as a brief, memorable, and alarming phrase to encapsulate the main point of the article.
+4. Appeal to fear – Yes – The text uses phrases like "explosive increase," "urban Ebola, which is a very different animal," and descriptions of the disease ("most feared for the internal and external bleeding") to instill fear and urgency in the reader about the outbreak.
+5. Doubt – No – The text does not question the credibility of any source; in fact, it relies on the credibility of sources like the WHO and the BBC.
+6. Exaggeration/minimization – No – The text reports on strong language used by officials (e.g., "explosive increase"), but it does not appear to exaggerate or minimize these statements itself. It attributes the strong language to its sources.
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity.
+8. Loaded Language – Yes – The text uses emotionally charged words and phrases like “explosive increase,” “very different animal,” and “most feared” to create a sense of alarm and danger.
+9. Reduction ad Hitlerum – No – The text makes no comparisons to hated groups.
+10. Bandwagon – No – The text does not suggest the reader should believe something because it is popular.
+11. Causal Oversimplification – No – The text does not offer a simple cause for a complex event. It points to the complexity of the situation, such as the virus spreading to a major transportation hub.
+12. Obfuscation, intentional vagueness – No – The text is specific, providing names, locations, statistics, and direct quotes. It is not intentionally vague.
+13. Appeal to authority – Yes – The entire article is built on citing authorities like the World Health Organization (WHO), Health Minister Oly Ilunga Kalenga, and media outlets like the BBC to lend credibility to its report. For example, "Senior World Health Organization (WHO) official Peter Salama said the spread to Mbandaka meant there was the potential for an ‘explosive increase’ in cases."
+14. Black & white fallacy – No – The text does not present a false dichotomy or limit the options to only two.
+15. Thought-terminating clichés – No – The text does not use phrases intended to shut down critical thought.
+16. Red herring – No – The information presented is all relevant to the Ebola outbreak being discussed.
+17. Straw men – No – The text does not misrepresent or refute an opposing argument.
+18. Whataboutism – No – The text does not deflect criticism by accusing others of hypocrisy.
+
+Verdict – 50% – The text is a borderline case between informative journalism and propaganda. On one hand, it is structured as a news report that collates information from credible authorities like the WHO and the BBC. The use of "Appeal to authority" is standard journalistic practice to establish the credibility of the information presented. The core facts—the number of cases, the location, and the concerns of health officials—are presented as reported by these sources.
+
+On the other hand, the text heavily employs techniques designed to provoke a strong emotional response rather than just to inform. The framing of the article, starting with the slogan-like headline "We Now Have Urban Ebola," immediately sets an alarming tone. The consistent use of "Appeal to fear" and "Loaded Language" (e.g., "explosive increase," "very different animal," "most feared," "body bags") is chosen to maximize the sense of dread and urgency in the reader. While the information is sourced, the selection and presentation of that information are curated for emotional impact, a key characteristic of propaganda. Therefore, it can be seen as factual reporting presented through a propagandistic lens of sensationalism and fear.

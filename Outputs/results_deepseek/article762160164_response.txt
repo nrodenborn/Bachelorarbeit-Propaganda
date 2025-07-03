@@ -1,0 +1,24 @@
+Here's the analysis of the text against each propaganda technique, followed by the verdict:
+
+1. **Name calling** – Yes – "Obama Inc." and "dirty deal" are insulting labels attacking the Obama administration.  
+2. **Repetition** – Yes – "Scandal-free administration, folks. Not a single scandal to see here. Not a one" repeats the sarcastic message for emphasis.  
+3. **Slogans** – No – No brief, memorable phrases used as slogans (e.g., no equivalents to "Yes We Can").  
+4. **Appeal to fear** – No – The text criticizes actions but does not instill fear about alternatives (e.g., no "this will lead to disaster").  
+5. **Doubt** – Yes – "The question is how many more are there?" questions the credibility/transparency of the Obama administration.  
+6. **Exaggeration/minimization** – Yes – "Worthless assurances" exaggerates the failure of officials' statements; "dirty deal" minimizes the complexity of diplomatic efforts.  
+7. **Flag-Waving** – No – No appeal to patriotism or national identity (e.g., no "this betrays America").  
+8. **Loaded Language** – Yes – "Dirty deal," "disgraced themselves," "scandal-free" (sarcastic), and "assault" are emotionally charged.  
+9. **Reduction ad Hitlerum** – No – No comparison to Nazis or universally hated groups.  
+10. **Bandwagon** – No – No emphasis on popularity to sway opinion (e.g., no "everyone knows this was wrong").  
+11. **Causal Oversimplification** – Yes – "And that's part of why Spygate is happening" oversimplifies a complex event (Spygate) by linking it vaguely to Iran dealings.  
+12. **Obfuscation, intentional vagueness** – No – The text is direct and specific (e.g., cites dollar amounts, timelines, officials).  
+13. **Appeal to authority** – No – No authoritative figures or institutions cited as evidence (the Senate report is evidence, not an authority invoked for validation).  
+14. **Black & white fallacy** – No – No false dichotomy presented (e.g., no "either support this or support Iran").  
+15. **Thought-terminating clichés** – No – No phrases like "end of story" to shut down debate; the text invites questions.  
+16. **Red herring** – Yes – "And that's part of why Spygate is happening" introduces an irrelevant distraction (Spygate) from the Iran banking issue.  
+17. **Straw men** – No – No misrepresentation of an opposing argument (e.g., it addresses actual Treasury actions).  
+18. **Whataboutism** – No – No accusations of hypocrisy (e.g., no "but what about Trump?").  
+
+---
+
+**Verdict – 90% –** The text is highly likely propaganda due to its heavy use of manipulative techniques. It employs **name-calling** ("Obama Inc."), **loaded language** ("dirty deal," "disgraced"), **exaggeration** ("worthless assurances"), and **doubt** to vilify the Obama administration. It also uses a **red herring** ("Spygate") and **causal oversimplification** to link unrelated issues. While based on factual elements (e.g., the Senate report), the language is persistently emotive, sarcastic, and one-sided, aiming to provoke outrage rather than inform. The lack of neutral framing, repetition of inflammatory claims, and absence of counter-evidence further indicate a persuasive intent typical of propaganda. The 10% uncertainty accounts for the factual foundation of the Treasury license, though its presentation is distorted.

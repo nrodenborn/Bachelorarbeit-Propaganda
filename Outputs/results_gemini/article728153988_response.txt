@@ -1,0 +1,20 @@
+1. Name calling – Yes – The headline uses the term “Illegal alien,” which, while a legal term, is also used as a pejorative and insulting label to dehumanize the subject.
+2. Repetition – No – The text is a short report and does not repeat any specific phrase or message multiple times.
+3. Slogans – No – The text does not contain any brief, memorable phrases.
+4. Appeal to fear – Yes – The text directly links an individual who entered the country illegally with a violent crime, “attempted first degree murder,” thereby instilling fear that dangerous criminals are crossing the border.
+5. Doubt – No – The text does not question the credibility of any person or entity; it presents information as factual from an official source.
+6. Exaggeration/minimization – Yes – By highlighting a single, extreme case of an individual wanted for attempted murder, the text implicitly exaggerates the prevalence of violent criminals among those crossing the border, framing it as a common event that the system is designed to catch.
+7. Flag-Waving – No – The text does not use patriotic language or symbols to appeal to the audience's national pride.
+8. Loaded Language – Yes – The term “Illegal alien” is emotionally charged and carries negative stereotypes beyond its legal definition.
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or other groups widely hated by the audience.
+10. Bandwagon – No – The text does not suggest an idea is popular and therefore correct.
+11. Causal Oversimplification – Yes – The text presents a simple narrative: a dangerous criminal was apprehended at the border due to Border Patrol procedures. This oversimplifies the complex issue of immigration by focusing on a single criminal event to represent a broader phenomenon.
+12. Obfuscation, intentional vagueness – No – The text is specific, providing a name, age, location, and specific criminal charge.
+13. Appeal to authority – Yes – The entire text is framed as an official report from the Border Patrol. It uses the agency's authority as the source of the information, which is presented as fact without external verification.
+14. Black & white fallacy – No – The text reports on a single event and does not present it as one of only two possible options.
+15. Thought-terminating clichés – No – The text does not use any phrases that are designed to stop critical thought.
+16. Red herring – No – All information presented is directly relevant to the arrest being reported.
+17. Straw men – No – The text is not engaged in a debate and does not refute a mischaracterized argument.
+18. Whataboutism – No – The text does not deflect criticism by accusing another party of hypocrisy.
+
+Verdict – 80% – The text is highly likely to be propaganda, specifically in the form of a public relations press release from a government agency. While it reports on a factual event, its primary purpose is not to inform neutrally but to shape public opinion. It achieves this by selectively highlighting a dramatic and frightening case—an "illegal alien" wanted for "attempted murder." This narrative employs several propaganda techniques, including loaded language ("illegal alien"), appeal to fear, and exaggeration by presenting an extreme example as representative. The final sentence generalizes the event, framing the Border Patrol's procedures as a necessary shield against "illegal immigrants with criminal histories." This causal oversimplification creates a simple, emotionally resonant narrative: the border is dangerous, and the Border Patrol is keeping you safe. The text omits any broader context, such as what percentage of apprehended migrants have violent criminal records, thus skewing the audience's perception of the issue. The goal is to generate public support for the agency and its mission by focusing on a worst-case scenario.

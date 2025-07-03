@@ -1,0 +1,37 @@
+1. Name calling – No – The text reports on a disagreement and uses descriptive words like “incredulous” but does not attack a subject with a direct insulting label.
+
+2. Repetition – Yes – The idea that there is “credible evidence” of a terror link is repeated. Example: “...I have been made aware of what I believe to be credible evidence, credible information regarding potential terrorist infiltration...” and later, “...I have received what I feel to be and believe to be credible evidence of a possible terrorist nexus...”
+
+3. Slogans – No – While the text contains memorable phrases, none are used as a brief, repeatable slogan to encapsulate an idea or movement.
+
+4. Appeal to fear – Yes – The text supports the idea of a government cover-up by instilling fear of terrorists infiltrating the country. Example: “ISIS terrorists, he said, infiltrated the U.S. via the southern border prior to the attack...”
+
+5. Doubt – Yes – The entire premise of the article is to question the credibility of the official investigation into the massacre. Example: “Meanwhile, the local law enforcement investigative services are telling us there is no terrorist connection–lone gunman, again, something is not adding up,”
+
+6. Exaggeration/minimization – Yes – The headline uses exaggeration to frame the story and attract readers. Example: “Lawmaker makes shocking claim about the Vegas massacre”
+
+7. Flag-Waving – No – The text discusses national security but does not make a direct appeal to patriotism or national identity to persuade the audience.
+
+8. Loaded Language – Yes – The text uses words and phrases with strong emotional connotations to influence the audience. Examples include “shocking claim,” “devastating Las Vegas shooting,” and “ISIS terrorists.”
+
+9. Reduction ad Hitlerum – No – The text does not attempt to discredit an idea by associating it with a group hated by the audience.
+
+10. Bandwagon – No – The text does not appeal to the popularity of an idea; in fact, it presents a viewpoint that is contrary to the official and widely reported narrative.
+
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event. Instead, it argues that the accepted "simple" cause (a lone gunman) is likely incorrect and that the cause is more complex.
+
+12. Obfuscation, intentional vagueness – Yes – The lawmaker repeatedly refers to evidence without ever presenting it, using vague terms to imply knowledge he will not or cannot share. Example: “...I have received what I feel to be and believe to be credible evidence of a possible terrorist nexus, and we’re gonna have to wait… until the situation develops.”
+
+13. Appeal to authority – Yes – The text presents the claims of a lawmaker, using his title and position to give his unsubstantiated claims credibility. Example: “During an appearance with Tucker Carlson on Fox, Rep. Scott Perry (R-Pa.) said he’s seen credible evidence...”
+
+14. Black & white fallacy – Yes – The text frames the situation as a choice between two exclusive options: the official "lone gunman" story or a covered-up ISIS terror plot, ignoring other possibilities. Example: “Meanwhile, the local law enforcement investigative services are telling us there is no terrorist connection–lone gunman, again, something is not adding up,”
+
+15. Thought-terminating clichés – Yes – The text uses a phrase that discourages critical thought by offering a simple, conclusive-sounding statement. Example: “...something is not adding up.” This phrase is used to dismiss the official narrative without providing evidence.
+
+16. Red herring – Yes – The lawmaker introduces the topic of prior ISIS warnings to distract from the fact that he has no specific evidence for his claim, as requested by the lawyer. Example: “If ISIS warns about an attack and then an attack occurs and claims responsibility after the fact, it seems to me that at a minimum, they should have some portion of the investigation to clearly debunk that claim...”
+
+17. Straw men – No – The text does not misrepresent or refute an argument that was not presented by another character in the exchange.
+
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy to deflect criticism.
+
+Verdict – 95% – The text is highly likely to be propaganda. Its primary purpose is not to inform but to persuade the reader to doubt official institutions and believe a specific, fear-based narrative. The article, sourced from a publication named "Personal Liberty," uses a sensational headline (“shocking claim”) to immediately frame the story with loaded language. It heavily platforms a viewpoint that relies on numerous propaganda techniques, chiefly Appeal to Fear (ISIS infiltration), Doubt (questioning the FBI), Obfuscation (the unspecified "credible evidence"), and Appeal to Authority (using a congressman's status to validate the claims). While it includes a counterpoint, the lawmaker's vague and ominous statements are given significant space and are reinforced with thought-terminating clichés like "something is not adding up." The overall effect is to promote a conspiracy theory by generating suspicion and anxiety, which is a core function of propaganda.

@@ -1,0 +1,20 @@
+Name calling – No – The text does not use any insulting labels. It refers to the virus, people, and organizations by their proper names.
+Repetition – No – The text presents a series of facts without repeating a specific message or phrase for persuasive effect.
+Slogans – No – There are no brief, memorable phrases used to rally support or create a lasting impression.
+Appeal to fear – No – While the subject matter (Ebola) is inherently frightening, the text describes it factually ("deadly virus that causes severe bleeding and organ failure") rather than using fear to promote a specific idea against an alternative.
+Doubt – No – The text does not question the credibility of any person or organization; in fact, it relies on them for information.
+Exaggeration/minimization – No – The text reports the specific numbers ("two cases," "five samples," "no deaths") without appearing to exaggerate or downplay the situation.
+Flag-Waving – No – There is no appeal to patriotism or national identity.
+Loaded Language – No – The language used is clinical and informative. Phrases like "deadly virus" and "unpleasant symptoms" are accurate descriptions, not emotionally charged words intended to manipulate.
+Reduction ad Hitlerum – No – The text makes no comparisons to hated groups.
+Bandwagon – No – The text does not suggest that an idea is popular and should therefore be adopted.
+Causal Oversimplification – No – The text does not offer a simplified cause for the outbreak.
+Obfuscation, intentional vagueness – No – The text is specific, providing details like the province name (Bikoro), the number of cases, and the names of the organizations involved.
+Appeal to authority – Yes – "WHO will work closely with health authorities and partners to support the national response," Moeti added. The text cites the World Health Organization and the DRC's Health Ministry as sources of information, using their authority to establish the facts of the report.
+Black & white fallacy – No – The text does not present a situation with only two choices.
+Thought-terminating clichés – No – The text does not use any phrases that discourage critical thought.
+Red herring – No – All information presented is directly relevant to the Ebola outbreak.
+Straw men – No – The text is a report, not an argument, and does not refute any positions.
+Whataboutism – No – The text does not accuse anyone of hypocrisy.
+
+Verdict – 5% – The text is a factual news report. Its primary purpose is to inform the public about a public health event, not to persuade or manipulate the audience. It uses neutral, specific, and clinical language. While it does use "Appeal to authority" by citing the WHO and the DRC Health Ministry, this is a standard and necessary practice in credible journalism to source information, rather than a manipulative technique to force an opinion on the reader. The text lacks the emotional manipulation, biased framing, and persuasive intent that are hallmarks of propaganda.

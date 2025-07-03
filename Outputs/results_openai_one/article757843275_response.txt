@@ -1,0 +1,37 @@
+1. Name calling – No – The text does not use any insulting labels to attack an object or subject.
+
+2. Repetition – No – The text does not repeat the same message over and over.
+
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+
+4. Appeal to fear – Yes – The text describes Ebola as "one of the world’s most feared diseases" and details its symptoms in a way that could instill fear.
+
+5. Doubt – Yes – The text questions the effectiveness of the experimental vaccine by stating, "An experimental vaccine is one that has never been tried on humans before."
+
+6. Exaggeration/minimization – Yes – The text minimizes the threat by saying, "Since the virus is spread through direct contact, and isn’t airborne, it isn’t nearly as deadly as it could be."
+
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+
+8. Loaded Language – Yes – The text uses emotionally charged language, such as "terrifying enough level" and "urgent," to evoke a strong emotional response.
+
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+
+12. Obfuscation, intentional vagueness – No – The text provides specific information about the vaccine and the situation in Congo.
+
+13. Appeal to authority – Yes – The text cites the World Health Organization and Minister of Health Oly Ilunga as authorities on the situation.
+
+14. Black & white fallacy – No – The text does not present only two options among many.
+
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+
+17. Straw men – No – The text does not refute an argument that was not presented.
+
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 40% – The text contains some elements of propaganda, such as appeal to fear, doubt, exaggeration/minimization, loaded language, and appeal to authority. However, it also provides factual information about the Ebola situation and the experimental vaccine. The presence of these propaganda techniques suggests a moderate likelihood that the text is intended to influence public perception or opinion, but it is not overwhelmingly propagandistic.

@@ -1,0 +1,37 @@
+Name calling – No – The text does not use any insulting labels to attack a person, group, or object. It uses formal names like "World Health Organization" and "Congo's Health Ministry".
+
+Repetition – No – The text does not repeat the same message. It is structured in a question-and-answer format, with each section providing new and distinct information about the Ebola outbreak.
+
+Slogans – No – The text does not contain any brief, memorable phrases intended to rally support or encapsulate a message.
+
+Appeal to fear – No – While the subject matter (a deadly disease) is inherently frightening, the text does not use this fear to promote one idea over an alternative. It factually describes the dangers of the virus (e.g., "The average Ebola fatality rate is about 50 percent") to inform, not to manipulate the reader against another option.
+
+Doubt – No – The text does not question the credibility of any person or organization. Instead, it presents information from sources like the WHO as factual.
+
+Exaggeration/minimization – No – The text uses specific data and figures from official sources (e.g., "two of the five samples," "21 cases," "17 deaths") and avoids hyperbole or understatement.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity. The focus is on a public health issue in the DRC.
+
+Loaded Language – No – The language is clinical and informative. Words like "deadly" are used in a descriptive, factual context to describe the nature of the virus, not to evoke an unnecessary emotional response.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+
+Bandwagon – No – The text does not suggest that an idea is correct or should be adopted because it is popular.
+
+Causal Oversimplification – No – The text avoids oversimplification by explaining the complex transmission cycle of the Ebola virus, involving animal hosts, bushmeat, and human-to-human contact.
+
+Obfuscation, intentional vagueness – No – The text is written with clarity. It uses a question-and-answer format to make complex information easily understandable.
+
+Appeal to authority – Yes – The text cites information from credible health organizations to support its claims. Example: "The World Health Organization (WHO) said on Tuesday that it was taking steps to help deal with a new outbreak of Ebola" and "Congo's Health Ministry said two of the five samples it sent... came back positive".
+
+Black & white fallacy – No – The text does not present a situation as having only two possible outcomes or choices. It is a factual report, not an argument.
+
+Thought-terminating clichés – No – The text does not use any phrases that are designed to discourage critical thought. It aims to provide information.
+
+Red herring – No – All information presented in the text is directly relevant to the Ebola outbreak and its context. No irrelevant topics are introduced to distract the reader.
+
+Straw men – No – The text is not an argumentative piece and does not refute any arguments, real or misrepresented.
+
+Whataboutism – No – The text does not accuse any party of hypocrisy or deflect criticism by pointing to the faults of others.
+
+Verdict – 0% – This text is a factual news report, not propaganda. Its primary purpose is to inform the public about a health crisis in a clear and objective manner. It relies on verifiable facts and cites credible authorities like the WHO. The text lacks the manipulative and emotional characteristics of propaganda, such as name-calling, loaded language, fear-mongering, or logical fallacies. The one technique used, Appeal to Authority, is employed in a standard journalistic way to attribute information to its source, which adds to the article's credibility rather than making it propagandistic.

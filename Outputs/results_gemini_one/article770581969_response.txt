@@ -1,0 +1,20 @@
+1. Name calling – No – The text uses descriptive but not insulting labels. Terms like "bizarre" describe the nature of the attacks, not a targeted subject being insulted.
+2. Repetition – Yes – The text repeatedly mentions the core concepts of "sonic attacks," the locations (Cuba, China), and the symptoms experienced by diplomats to reinforce the message of a widespread and consistent threat.
+3. Slogans – No – The text does not use any brief, memorable phrases as a rallying cry or slogan.
+4. Appeal to fear – Yes – The text instills fear by detailing severe symptoms like "mild brain damage," "hearing loss," "dizziness," and "cognitive issues," and by describing an "agonizing sound." The government travel warnings also contribute to a sense of danger.
+5. Doubt – Yes – The text casts doubt on the official response by stating, "The U.S. State Department has remained all but silent on the issue as well," suggesting a lack of transparency or competence.
+6. Exaggeration/minimization – Yes – The headline claims the attacks have reached "Epic Proportions," which is a clear exaggeration used to create a sense of massive crisis.
+7. Flag-Waving – No – While the victims are American diplomats and citizens, the text does not use patriotic appeals to persuade the audience.
+8. Loaded Language – Yes – The text uses emotionally charged words like "bizarre," "grinding, blaring cacophony," "agonizing sound," and "debilitating conditions" to evoke a strong emotional reaction from the reader.
+9. Reduction ad Hitlerum – No – The text makes no comparisons to Nazis or similarly hated groups.
+10. Bandwagon – No – The text reports that the problem is spreading to other embassies, but it does not appeal to the popularity of an idea to persuade the reader to adopt it.
+11. Causal Oversimplification – No – The text does the opposite, emphasizing that the cause of the events is unknown and the situation is a complex mystery.
+12. Obfuscation, intentional vagueness – No – The text is reporting on a situation that is inherently vague and mysterious. The vagueness is a feature of the topic itself, not a technique used to confuse the audience.
+13. Appeal to authority – Yes – The text cites various sources like The Daily Mail, WND, and a U.S. Embassy spokesperson to lend credibility to its claims. Example: "The Chinese government has assured us they are also investigating and taking appropriate measures,” Lee continued."
+14. Black & white fallacy – No – The text does not present the situation as having only two possible outcomes or options.
+15. Thought-terminating clichés – No – The text does not use any clichés to shut down critical thought.
+16. Red herring – Yes – The text introduces politically charged figures with tenuous connections to the events, which can serve as a distraction. Example: "Several of the affected diplomats were recent arrivals at the embassy, which reopened in 2015 as part of Barack Obama’s reestablishment of diplomatic relations with Cuba."
+17. Straw men – No – The text does not set up and refute a false argument.
+18. Whataboutism – No – The text does not accuse any party of hypocrisy.
+
+Verdict – 85% – The text is highly likely to be propaganda. While it reports on real-world events, it employs numerous propaganda techniques to frame the information in a specific way. The use of Exaggeration in the headline ("Epic Proportions"), Loaded Language ("agonizing," "debilitating"), and a strong Appeal to Fear (listing frightening medical symptoms like "brain damage") are all intended to provoke an emotional response of anxiety and alarm rather than to inform objectively. Furthermore, it casts Doubt on the official government response and uses Appeals to Authority (including other biased media sources) to build its narrative of a widespread, terrifying, and mysterious crisis. The inclusion of politically charged Red Herrings distracts and adds a layer of political intrigue. The combination of these techniques shows a clear intent to persuade and sensationalize, which is the hallmark of propaganda.

@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack any person, group, or country. It reports on events and statements from officials.
+2. Repetition – No – The text develops a story with new information rather than repeating the same message.
+3. Slogans – No – The text does not contain any brief, memorable phrases designed to be repeated.
+4. Appeal to fear – Yes – The text reports on a U.S. State Department health alert warning citizens of a potential danger, which inherently appeals to fear. For example: "While in China, if you experience any unusual acute auditory or sensory phenomena... do not attempt to locate their source... Instead, move to a location where the sounds are not present."
+5. Doubt – No – The text reports on an uncertain situation but does not actively cast doubt on the credibility of any specific person or entity.
+6. Exaggeration/minimization – No – The text uses specific and seemingly measured language from official sources, such as "mild traumatic brain injury" and "subtle and vague," rather than exaggerating or minimizing the situation.
+7. Flag-Waving – No – While the story involves U.S. citizens and government actions, it does not use patriotic appeals to persuade the audience.
+8. Loaded Language – Yes – The text uses the phrase "'sonic attacks'" in the headline and body. While often in quotes, this term is emotionally charged and frames the event as a deliberate, hostile act, evoking fear and suspicion before a cause is confirmed.
+9. Reduction ad Hitlerum – No – The text does not make any comparison to hated groups like Nazis.
+10. Bandwagon – No – The text does not suggest an idea is true because it is popular.
+11. Causal Oversimplification – No – The text explicitly states that the cause is unknown and under investigation ("working to determine the cause and impact of the incident"), avoiding a simplistic explanation for a complex event.
+12. Obfuscation, intentional vagueness – No – The text is a straightforward news report that clearly states what is known and what is not. It reports on vague symptoms but is not itself intentionally vague.
+13. Appeal to authority – Yes – The article's entire basis is information from official sources. It uses statements from the U.S. State Department, Secretary of State Mike Pompeo, and embassy spokespeople as evidence for the events described. For example: "'The medical indications are very similar, and entirely consistent with, the medical indications that were taking place to Americans working in Cuba,' Secretary of State Mike Pompeo said Wednesday..."
+14. Black & white fallacy – No – The text does not present a false dichotomy of only two choices.
+15. Thought-terminating clichés – No – The text does not use any phrases designed to end discussion.
+16. Red herring – No – The text does not introduce irrelevant material to distract. The comparison to the events in Cuba is presented as directly relevant.
+17. Straw men – No – The text is a report on an event and does not misrepresent or refute an opposing argument.
+18. Whataboutism – No – The text does not attempt to discredit an opponent by charging them with hypocrisy.
+
+Verdict – 35% – The text is presented as a factual news report and largely adheres to journalistic standards, such as attributing information to specific sources (an Appeal to authority, which is standard practice in journalism) and acknowledging uncertainty about the cause. However, it contains subtle but significant elements of propaganda. The primary technique is the use of Loaded Language with the term "'sonic attacks'" in the headline and text. This frames an ambiguous event as a deliberate, hostile act, which works in tandem with the Appeal to Fear inherent in reporting on a government health warning. By immediately linking this single incident in China to the "wave" of cases in Cuba, the article amplifies a narrative of a mysterious and coordinated threat against U.S. personnel. While not overt propaganda, the framing and word choice guide the reader toward a specific emotional response (fear, suspicion) and interpretation (that the U.S. is under attack) before all facts are known.

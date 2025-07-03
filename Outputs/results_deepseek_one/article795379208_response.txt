@@ -1,0 +1,46 @@
+### Analysis of Propaganda Techniques in the Text:
+
+1. **Name calling** – No  
+   *Explanation*: No insulting labels are used against subjects (e.g., Saudi rulers are described neutrally as "authoritarian regime," which is factual).  
+2. **Repetition** – Yes  
+   *Explanation*: Pompeo reiterates the "importance of the investigation" at least three times, emphasizing it to deflect scrutiny.  
+3. **Slogans** – No  
+   *Explanation*: No brief, memorable phrases are used (e.g., "BUILD THE WALL"); statements are descriptive.  
+4. **Appeal to fear** – Yes  
+   *Explanation*: Pompeo warns of risks to energy/security ties with Saudi Arabia, invoking fear of losing an ally against Iran ("world’s largest supporter of terrorism").  
+5. **Doubt** – Yes  
+   *Explanation*: Trump casts doubt on accusations with "guilty until proven innocent," questioning the credibility of allegations against Saudi rulers.  
+6. **Exaggeration/minimization** – Yes  
+   *Explanation*: Saudi Arabia is called "great partners," minimizing their authoritarianism and alleged role in Khashoggi’s death.  
+7. **Flag-Waving** – No  
+   *Explanation*: No appeals to patriotism or national identity; focus is on alliances, not U.S. pride.  
+8. **Loaded Language** – No  
+   *Explanation*: Language is neutral (e.g., "authoritarian regime" is factual); emotional terms like "tortured" are attributed to Turkish officials.  
+9. **Reduction ad Hitlerum** – No  
+   *Explanation*: No comparisons to Nazis or universally hated groups.  
+10. **Bandwagon** – No  
+    *Explanation*: No appeal to popularity (e.g., "everyone supports this").  
+11. **Causal Oversimplification** – No  
+    *Explanation*: Complexity is acknowledged (e.g., multiple investigations, political ties); no single cause is blamed.  
+12. **Obfuscation, intentional vagueness** – Yes  
+    *Explanation*: Pompeo avoids facts ("I don’t want to talk about any of the facts") and uses vague pledges like Saudis will "show the entire world" results.  
+13. **Appeal to authority** – No  
+    *Explanation*: Pompeo’s role as Secretary of State lends authority, but he does not invoke external figures/institutions as evidence.  
+14. **Black & white fallacy** – No  
+    *Explanation*: No false dichotomies; nuances like "reserving judgment" are present.  
+15. **Thought-terminating clichés** – No  
+    *Explanation*: No phrases like "trust the plan" to halt debate; Pompeo’s "They gave me their word" is specific, not clichéd.  
+16. **Red herring** – Yes  
+    *Explanation*: Pompeo distracts from Khashoggi by shifting focus to U.S.-Saudi ties (energy, Iran) when discussing consequences.  
+17. **Straw men** – No  
+    *Explanation*: Critics’ concerns about Saudi credibility are fairly represented, not misrepresented.  
+18. **Whataboutism** – No  
+    *Explanation*: No accusations of hypocrisy (e.g., no "what about Iran’s crimes?").  
+
+---
+
+### Verdict – 30%  
+**Explanation**:  
+The text is primarily factual news reporting by the *Los Angeles Times*, citing events, statements, and evidence (e.g., Turkish claims of recordings). However, it highlights the Trump administration’s use of propaganda techniques in quoted statements:  
+- **Repetition** (Pompeo’s focus on the investigation), **appeal to fear** (risks to U.S. interests), **doubt** (Trump’s "guilty until proven innocent"), **exaggeration/minimization** (calling Saudis "great partners"), **obfuscation** (vagueness from Pompeo), and **red herring** (diverting to Iran/energy ties).  
+These techniques serve to shield Saudi Arabia, reflecting the administration’s political agenda. Yet the article itself remains neutral, presenting counterpoints (e.g., critics questioning Saudi credibility, details of Khashoggi’s alleged torture). Only 30% of the text propagates propaganda, as the core is journalistic reporting on diplomatic maneuvering. The embedded techniques are attributable to sources, not the article’s narrative.

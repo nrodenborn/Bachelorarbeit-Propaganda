@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use any insulting labels to attack an object or subject.
+2. Repetition – Yes – The phrase "Whom do you consider to be the most corrupt Democrat Politician?" is repeated multiple times.
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+4. Appeal to fear – Yes – The text suggests that the US is "hell-bent on continuing to put its nose into other countries' politics," which could instill fear about foreign policy decisions.
+5. Doubt – Yes – The text questions the credibility of US foreign policy decisions by stating, "Why can't America focus on its own issues and solve those?"
+6. Exaggeration/minimization – Yes – The text minimizes the threat posed by Iran by stating, "Iran is not an actual threat to the United States."
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – The text uses emotionally charged language, such as "hypocritically pointing at other countries" and "warmongering."
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – Yes – The text oversimplifies the cause of protests in Iran by attributing them solely to US sanctions.
+12. Obfuscation, intentional vagueness – No – The text does not use deliberately unclear expressions to confuse the audience.
+13. Appeal to authority – No – The text does not use authority's support as evidence.
+14. Black & white fallacy – Yes – The text presents only two options regarding Iran's government: either support regime change or accept a nuclear-armed Iran.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought.
+16. Red herring – Yes – The text introduces irrelevant material by discussing issues like the Kurds and Catalonia, which distracts from the main topic.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – Yes – The text charges the US with hypocrisy by pointing out its interference in other countries' politics while criticizing others for similar actions.
+
+Verdict – 80% – The text exhibits several propaganda techniques, including repetition, appeal to fear, doubt, exaggeration/minimization, loaded language, causal oversimplification, black & white fallacy, red herring, and whataboutism. These elements suggest a high likelihood that the text is propagandistic, as it seeks to influence the reader's perception of US foreign policy and Iran through emotional appeals, oversimplifications, and distractions.

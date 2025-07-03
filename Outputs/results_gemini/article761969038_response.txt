@@ -1,0 +1,37 @@
+Name calling – Yes – The text uses a subtle form of name-calling by referring to the "Main Stream Media," a derogatory term used to imply bias and a hidden agenda.
+
+Repetition – Yes – The core message that immigrants (proxied by Hispanics and later "foreign-born") are taking jobs from native-born Americans is repeated throughout the article using different data points and framing, reinforcing the central theme of "American Worker Displacement."
+
+Slogans – Yes – The text creates and uses its own slogan-like term, "VDAWDI—VDARE.com's American Worker Displacement Index," and later "The New VDAWDI," to brand its concept. The concluding sentence, "Time is running out for native-born workers—a.k.a. Americans," also functions as a memorable, impactful slogan.
+
+Appeal to fear – Yes – The text instills fear by portraying a dire economic situation for a specific group, using phrases like "Wall Street is plainly beginning to panic," "the picture is still bleaker," and "Time is running out for native-born workers."
+
+Doubt – Yes – The text casts doubt on the media and government, for example: "It now seems obvious that one of those mysterious memos has gone out to the Main Stream Media" and "the federal government declined to provide data on immigrant vs. non-immigrant unemployment."
+
+Exaggeration/minimization – Yes – The text uses exaggeration with the phrase "up a whopping 24.2%" to emphasize Hispanic employment growth. It uses minimization when it dismisses recent data favorable to native-born workers as "atypical statistical noise."
+
+Flag-Waving – Yes – The text explicitly appeals to patriotism and national identity by equating its target audience with the nation itself: "Time is running out for native-born workers—a.k.a. Americans."
+
+Loaded Language – Yes – The text uses emotionally charged words to frame the narrative, such as "befuddled," "panic," "bleaker," and "displacing," to create a sense of crisis and injustice.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or groups hated by the audience in that specific manner.
+
+Bandwagon – No – The text does not claim its idea is popular. Instead, it positions itself as a unique and lone voice against the mainstream ("VDARE.com has long argued," "still unique").
+
+Causal Oversimplification – Yes – The text simplifies the complex issue of unemployment by attributing it almost entirely to a single cause: the displacement of native-born workers by immigrants, ignoring other major economic factors.
+
+Obfuscation, intentional vagueness – Yes – The text is intentionally vague when it refers to "one of those mysterious memos" sent to the media, creating a sense of conspiracy without providing evidence.
+
+Appeal to authority – Yes – The text presents its own website and its proprietary index, "VDAWDI," as an authority on the subject ("VDARE.com's American Worker Displacement Index, unveiled in 2004 and still unique").
+
+Black & white fallacy – Yes – The article presents the job market as a simple, zero-sum conflict between two distinct groups: "immigrants" and "native-born workers," where a gain for one is necessarily a loss for the other.
+
+Thought-terminating clichés – Yes – The phrase "Simply put, the 21st century has not been good for non-Hispanic job seekers" is used to offer a simplistic conclusion that discourages deeper analysis of the complex economic trends of the 21st century.
+
+Red herring – Yes – The text introduces the timing of President Obama's inauguration ("By an amazing coincidence, January 2009—the month President Obama took office...") to distract from a purely economic analysis and shift blame onto a political figure.
+
+Straw men – Yes – The text refutes an argument that is never actually made by its opponents. It implies the "Main Stream Media" is actively suppressing the "immigration moratorium solution" by not mentioning it, then builds its entire case around proving this suppressed point is valid.
+
+Whataboutism – No – The text does not deflect criticism by accusing an opponent of hypocrisy.
+
+Verdict – 95% – The text is highly likely to be propaganda. It employs a vast array of propaganda techniques (16 out of 18 listed) to promote a specific, highly biased viewpoint. The article frames a complex economic issue as a simple, zero-sum conflict between an in-group ("native-born workers—a.k.a. Americans") and an out-group (immigrants). It uses fear, loaded language, and appeals to patriotism to evoke an emotional response. It simplifies the cause of unemployment, casts doubt on established media and government sources while positioning itself as a unique authority, and uses red herrings to introduce political blame. The consistent and deliberate use of these techniques is aimed at persuading the audience through manipulation rather than presenting a balanced and objective analysis.

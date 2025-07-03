@@ -1,0 +1,20 @@
+1. Name calling – No – The text uses descriptive but dramatic labels like “space invader” and “strange cigar-shaped visitor,” but these are not used as insults to attack the object or a person. They are used to create a sense of wonder and otherness.
+2. Repetition – Yes – The central idea that 'Oumuamua is tumbling chaotically due to a collision is repeated multiple times. For example, the headline states it "Is Still Spinning From Mysterious Violent Collision," and the first paragraph says it "is tumbling chaotically as the result of a violent collision."
+3. Slogans – No – The text does not use any brief, memorable phrases intended to be repeated or to encapsulate an ideology.
+4. Appeal to fear – No – The text does not attempt to instill fear. While it uses the term "invader," it is in the context of an object entering our solar system from elsewhere, not to suggest a threat.
+5. Doubt – No – The article does not question the credibility of any person or finding. Instead, it builds credibility by citing a scientific journal and a university researcher.
+6. Exaggeration/minimization – Yes – The language used is somewhat sensationalized to create drama. Examples include calling the collision "violent" and the object a "space invader" with a "topsy-turvy spin," which exaggerates the event for popular appeal.
+7. Flag-Waving – No – There is no appeal to patriotism or national identity in the text.
+8. Loaded Language – Yes – The text uses emotionally charged words to make the story more exciting. Examples include “strange,” “mysterious,” “violent collision,” and “space invader.”
+9. Reduction ad Hitlerum – No – The text does not associate any idea with a hated group.
+10. Bandwagon – No – The article does not suggest that the idea is correct because it is popular. It attributes the findings to a specific research team.
+11. Causal Oversimplification – No – The text presents a specific cause (a collision) for a specific effect (the tumbling) based on scientific research. It also acknowledges complexities, such as the uncertainty about when the collision occurred.
+12. Obfuscation, intentional vagueness – No – The text attempts to clarify complex scientific terms for the reader, for example, explaining that an “excited rotational state” is better known as “tumbling.”
+13. Appeal to authority – Yes – The article relies on the credibility of experts and institutions to support its claims. Examples include citing a "study published in Nature Astronomy" and quoting "Queen's University, Belfast, research fellow and lecturer Wes Fraser."
+14. Black & white fallacy – No – The text does not present only two choices. It mentions the evolution of scientific thought on the object (from comet to asteroid to its current classification).
+15. Thought-terminating clichés – No – The text does not use any phrases that are designed to shut down critical thought.
+16. Red herring – No – The article stays focused on the topic of 'Oumuamua's rotation and its cause.
+17. Straw men – No – The text does not misrepresent or refute an argument that was not made. It simply reports on a new finding.
+18. Whataboutism – No – The text does not accuse any party of hypocrisy.
+
+Verdict – 15% – The text is unlikely to be propaganda in the manipulative or deceptive sense. Its primary purpose is to inform the public about a new scientific discovery in an engaging way. However, it does employ several techniques common in popular journalism that overlap with propaganda definitions. The use of Loaded Language and Exaggeration ("space invader," "violent collision") serves to sensationalize the topic for a general audience. The Appeal to authority (citing scientists and a respected journal) is a standard practice in journalism to establish credibility, not necessarily to mislead. While these techniques are present, they are used to make the information more accessible and interesting rather than to push a harmful ideology or deceive the reader.

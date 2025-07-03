@@ -1,0 +1,37 @@
+1. Name calling – No – The text does not use any insulting labels to attack a subject or object.
+   
+2. Repetition – No – The text does not repeat the same message over and over.
+
+3. Slogans – No – The text does not use a brief and memorable phrase.
+
+4. Appeal to fear – No – The text does not support an idea by instilling fear against other alternatives.
+
+5. Doubt – Yes – The text questions the credibility of the Obama Administration with the statement, "Can the same be said for the Obama Administration?"
+
+6. Exaggeration/minimization – No – The text does not exaggerate or minimize any information.
+
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+
+8. Loaded Language – No – The text does not use emotionally charged or stereotypical language.
+
+9. Reduction ad Hitlerum – No – The text does not disapprove an idea by associating it with groups hated by the audience.
+
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+
+12. Obfuscation, intentional vagueness – Yes – The text uses vague language, such as "one of those mysterious memos," which lacks clarity.
+
+13. Appeal to authority – No – The text does not use authority’s support as evidence.
+
+14. Black & white fallacy – No – The text does not present only two options among many.
+
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+
+17. Straw men – No – The text does not refute an argument that was not presented.
+
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+**Verdict – 30% – The text shows some characteristics of propaganda, particularly through the use of doubt and intentional vagueness. The questioning of the Obama Administration's credibility and the vague reference to "mysterious memos" suggest an attempt to cast doubt and create confusion. However, the text primarily presents statistical data and analysis, which reduces the likelihood of it being propaganda. The presence of only a couple of propaganda techniques indicates a moderate but not overwhelming likelihood of the text being propaganda.**

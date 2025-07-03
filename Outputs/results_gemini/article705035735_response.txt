@@ -1,0 +1,43 @@
+Name calling – No – The text does not use insulting labels to attack any person, group, or subject.
+
+Repetition – Yes – The text repeatedly emphasizes the deadliness and high fatality rate of the virus. For example: "fatality rate of almost 90%", "much more deadly than the black death", "highly fatal virus", "fatal in up to 88% of cases", "contagious and deadly Marburg virus disease", "high mortality rate".
+
+Slogans – No – The text does not use any brief, memorable phrases as slogans.
+
+Appeal to fear – Yes – The text is constructed to create fear and anxiety. The headline itself is a primary example: "New Virus With NO CURE Spreading: This Is WORSE Than The ‘Black Death’".
+
+Doubt – No – The text does not question the credibility of any source; in fact, it uses the WHO to bolster its own credibility.
+
+Exaggeration/minimization – Yes – The text exaggerates the scale and immediate threat of the outbreak by comparing it to the Black Death. For example: "This Is WORSE Than The ‘Black Death’". While the fatality *rate* is high, comparing an outbreak of five cases to a pandemic that killed tens of millions is a significant exaggeration of its overall impact.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words to create a sense of panic and crisis. For example: "plaguing Madagascar", "decimated West Africa", "devastating communities".
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to groups hated by the audience.
+
+Bandwagon – No – The text does not suggest that an idea is popular and that the reader should adopt it for that reason.
+
+Causal Oversimplification – No – The text does not propose an overly simple cause for a complex event. It mentions the likely origin (a game hunter near a bat cave) which is consistent with scientific understanding.
+
+Obfuscation, intentional vagueness – No – The text is not deliberately vague. It provides specific details such as the name of the virus, the location of the outbreak, dates, and case numbers.
+
+Appeal to authority – Yes – The text uses the World Health Organization (WHO) as an authority to lend credibility to its claims. For example: "the World Health Organization (WHO) has confirmed" and "according to the World Health Organization."
+
+Black & white fallacy – No – The text does not present only two choices or options.
+
+Thought-terminating clichés – No – The text does not use any clichés to shut down critical thought.
+
+Red herring – No – The text does not introduce irrelevant material to distract from the main point. The mention of the plague in Madagascar is used to heighten the sense of crisis, not to distract from it.
+
+Straw men – No – The text does not refute an argument that was not presented by an opponent.
+
+Whataboutism – No – The text does not charge any opponent with hypocrisy.
+
+***
+
+Verdict – 85% – The text is highly likely to be propaganda, specifically a form of sensationalized journalism or "clickbait" designed to provoke an emotional response rather than to inform neutrally. While the core of the article contains factual information likely sourced from a real event and credible organizations like the WHO (the Marburg virus, its fatality rate, and an outbreak in Uganda are real), the framing is pure manipulation.
+
+The primary evidence is the heavy use of techniques like **Appeal to Fear**, **Exaggeration**, and **Loaded Language**. The headline, "New Virus With NO CURE Spreading: This Is WORSE Than The ‘Black Death’", is a masterclass in these techniques. It creates immediate panic ("NO CURE") and uses a wild exaggeration (comparing a handful of cases to the historical Black Death) to maximize shock value. Throughout the article, words like "deadly," "plaguing," and "decimated" are used to maintain this high level of fear. The **Repetition** of the high fatality rate reinforces this single, terrifying message.
+
+Crucially, the article uses **Appeal to Authority** by citing the WHO to wrap its sensationalism in a cloak of credibility. This makes the propaganda more effective, as the reader might mistake the fear-mongering tone for a reflection of the WHO's own assessment. The purpose is not to provide a balanced report on a localized public health issue, but to generate clicks, shares, and ad revenue by triggering a strong fear reaction in the reader.

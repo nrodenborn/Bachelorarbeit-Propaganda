@@ -1,0 +1,22 @@
+### Propaganda Technique Analysis:
+1. **Name calling** – No – No insulting labels are used against any subject.  
+2. **Repetition** – Yes – The phrase "mutate and become untreatable" is repeated in paragraphs 2, 3, and 6.  
+3. **Slogans** – No – No brief, memorable phrases are used (e.g., no rallying cries like "Stop the Plague!").  
+4. **Appeal to fear** – Yes – Warnings that the plague could "mutate and become untreatable," spread globally via air travel, and references to the Black Death (which "devastated Europe") instill fear.  
+5. **Doubt** – No – No questioning of credibility; authorities (WHO, Professor Hunter) are presented as reliable.  
+6. **Exaggeration/minimization** – Yes – Exaggeration: Calling it a "Deadly Plague" in the headline and comparing it to Ebola/the Black Death amplifies threat. Minimization: Antibiotics' effectiveness is noted but buried late in the text.  
+7. **Flag-Waving** – No – No appeals to patriotism or national identity.  
+8. **Loaded Language** – Yes – Emotional terms like "Deadly Plague," "devastated," "untreatable," and "highly unusual" evoke dread.  
+9. **Reduction ad Hitlerum** – No – No association of the plague with hated groups.  
+10. **Bandwagon** – No – No emphasis on the idea’s popularity to persuade.  
+11. **Causal Oversimplification** – No – Complex factors (e.g., urban transmission, cultural practices) are acknowledged, not oversimplified.  
+12. **Obfuscation** – No – Information is clear and specific (e.g., case numbers, transmission methods).  
+13. **Appeal to authority** – Yes – Professor Paul Hunter and the WHO are cited to validate claims.  
+14. **Black & white fallacy** – No – No false dilemmas; nuances (e.g., isolated cases in advanced nations vs. spread in Madagascar) are presented.  
+15. **Thought-terminating clichés** – No – No phrases that shut down debate (e.g., "It is what it is").  
+16. **Red herring** – No – All details (e.g., "dancing with the dead," antibiotic shipments) are relevant to the outbreak.  
+17. **Straw men** – No – No misrepresentation of opposing arguments.  
+18. **Whataboutism** – No – No accusations of hypocrisy.  
+
+### Verdict  
+**Verdict – 20% –** The text uses *some* propaganda techniques (e.g., fear appeal, loaded language, repetition), primarily to sensationalize a public health threat. However, it cites credible sources (WHO, Professor Hunter), provides factual data (case numbers, transmission methods), and avoids overt manipulation like false dilemmas or distortion. The tone leans toward alarmist journalism rather than systematic propaganda, as its core claims are grounded in verifiable events and expert warnings. The 20% likelihood reflects mild sensationalism but not deceptive intent.

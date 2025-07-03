@@ -1,0 +1,25 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – No – No insulting labels are used to attack any subject. The term "illegally built" is descriptive, not derogatory.  
+2. **Repetition** – No – No key phrases or messages are repeated excessively. Information is presented factually.  
+3. **Slogans** – No – No memorable rallying phrases (e.g., "BUILD THE WALL") appear. The headline is descriptive, not slogan-like.  
+4. **Appeal to fear** – No – The text describes damage and challenges but does not exaggerate threats to manipulate emotions.  
+5. **Doubt** – No – No questioning of credibility (e.g., "Can we trust this?"). Sources are cited neutrally.  
+6. **Exaggeration/minimization** – No – Statistics (e.g., "1 million homes," "155 mph winds") are reported without apparent distortion.  
+7. **Flag-Waving** – No – No appeals to patriotism or national identity. Focus remains on factual recovery efforts.  
+8. **Loaded Language** – No – Language is neutral (e.g., "crisis," "exacerbates" are contextually appropriate). No emotionally charged stereotypes.  
+9. **Reduction ad Hitlerum** – No – No comparisons to Nazis or other vilified groups.  
+10. **Bandwagon** – No – No appeals to popularity (e.g., "Everyone agrees...").  
+11. **Causal Oversimplification** – No – The crisis is attributed to multiple factors (poverty, illegal construction, hurricanes), not a single cause.  
+12. **Obfuscation** – No – Details are specific (e.g., wind speeds, funding amounts). No deliberate vagueness.  
+13. **Appeal to authority** – **Yes** – Officials (Gil, Rosselló, NWS) are cited to validate claims, e.g., *"Government officials say about half of the housing... was built illegally."*  
+14. **Black & white fallacy** – No – No false dichotomies (e.g., "only two options"). Complex realities are acknowledged.  
+15. **Thought-terminating clichés** – No – No phrases (e.g., "It is what it is") to shut down discussion.  
+16. **Red herring** – No – All details relate directly to housing/recovery. No irrelevant distractions.  
+17. **Straw men** – No – No misrepresented arguments are refuted.  
+18. **Whataboutism** – No – No accusations of hypocrisy (e.g., "What about X?").  
+
+---
+
+### Verdict – 20% –  
+The text is **not propaganda** but a factual news report. It cites credible sources (officials, agencies), avoids emotional manipulation, and presents balanced context (e.g., pre-hurricane housing issues, aid efforts). The sole *appeal to authority* is standard journalistic practice, not manipulative. However, the headline’s focus on "illegal homes" risks subtly framing the crisis as self-inflicted, potentially downplaying systemic poverty and U.S. policy impacts—though this falls short of deliberate propaganda. Overall, the tone is informative, not persuasive.

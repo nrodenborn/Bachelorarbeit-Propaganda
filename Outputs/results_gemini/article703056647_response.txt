@@ -1,0 +1,41 @@
+1. Name calling – No – The text does not use insulting labels to attack a person, group, or idea.
+
+2. Repetition – Yes – The idea that the epidemic could "explode" is repeated multiple times, such as in the headline "Airborne Black Death Epidemic Could ‘Explode’," the phrase "epidemic could explode anytime," and "infected explode exponentially."
+
+3. Slogans – No – The text does not use brief and memorable phrases as slogans.
+
+4. Appeal to fear – Yes – The text is built around instilling fear, using phrases like "unleashing the sickness on the globe," "deadlier pneumonic strain," "experts are fearful," and warning that it could spread to "British honeymoon paradises."
+
+5. Doubt – No – The text does not primarily seek to question the credibility of a source; on the contrary, it uses official sources to build its own credibility.
+
+6. Exaggeration/minimization – Yes – The text uses exaggerated language to heighten the sense of crisis, such as stating the outbreak is "taking Madagascar to its knees" and could "unleash[] the sickness on the globe."
+
+7. Flag-Waving – No – While it mentions specific nations (e.g., "British honeymoon paradises"), it does not make a direct appeal to patriotism or national identity as a persuasive tool.
+
+8. Loaded Language – Yes – The text uses emotionally charged words and phrases like "deadlier pneumonic strain," "medieval disease," and the description of Famadihana as "dancing with the dead" to create an emotional response.
+
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups.
+
+10. Bandwagon – No – The text does not argue that an idea is true simply because it is popular.
+
+11. Causal Oversimplification – Yes – The text states the outbreak "has been fueled by performing the ancient practice of Famadihana." While the practice is cited by an official as a transmission risk, presenting it as a primary "fuel" for a complex epidemic is a potential oversimplification of various factors like poverty, healthcare infrastructure, and sanitation.
+
+12. Obfuscation, intentional vagueness – No – The text is not deliberately vague; it uses specific numbers, names, and details to support its alarming claims.
+
+13. Appeal to authority – Yes – The text heavily relies on the statements of authorities to support its claims, citing "Officials," "The Foreign Office," "the country’s health chief," and "British aid workers."
+
+14. Black & white fallacy – No – The text does not present the situation as a choice between only two distinct options.
+
+15. Thought-terminating clichés – No – The text does not use clichés to discourage critical thought.
+
+16. Red herring – No – All the information presented is framed as being relevant to the central topic of the plague outbreak.
+
+17. Straw men – No – The text does not misrepresent or refute an argument that was not made.
+
+18. Whataboutism – No – The text does not attempt to charge an opponent with hypocrisy.
+
+***
+
+Verdict – 85% – The text is highly likely to be propaganda, or at the very least, journalism that uses propaganda techniques to achieve a sensationalist effect. While it is based on a real event and cites real sources, its primary goal is not to inform neutrally but to persuade the reader of an impending and terrifying crisis.
+
+The piece is constructed almost entirely on an **Appeal to fear**, using **Loaded Language** ("deadlier," "medieval disease") and **Exaggeration** ("explode," "unleashing the sickness on the globe") to maximize emotional impact. It uses **Repetition** of the word "explode" to drill in the sense of imminent catastrophe. The narrative is given a veneer of credibility through a strong **Appeal to authority**, quoting various officials and organizations. However, the selection and framing of these quotes appear chosen to support the most alarming narrative possible. The mention of the Famadihana ritual, while factually relevant to transmission, is presented as a primary cause (**Causal Oversimplification**), adding an exotic and frightening cultural element to the story that enhances its sensationalism. A neutral report would present the facts and risks without the breathless, speculative, and crisis-focused language that defines this text.

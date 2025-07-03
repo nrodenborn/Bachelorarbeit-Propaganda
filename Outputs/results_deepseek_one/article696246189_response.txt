@@ -1,0 +1,25 @@
+### Analysis of Propaganda Techniques:
+
+1. **Name calling** – **Yes** – "Scumbag shooter Stephen Paddock" (insulting label).  
+2. **Repetition** – **No** – No phrase is repeated excessively.  
+3. **Slogans** – **No** – No brief, memorable phrases used as slogans.  
+4. **Appeal to fear** – **No** – No fear-based persuasion against alternatives.  
+5. **Doubt** – **Yes** – "WHY IS MEDIA NOT REPORTING THIS?" (questions media credibility).  
+6. **Exaggeration/minimization** – **Yes** – "govt. is hiding from us" (exaggerates concealment).  
+7. **Flag-Waving** – **No** – No appeal to patriotism/identity.  
+8. **Loaded Language** – **Yes** – "Scumbag shooter," "cover-up conspiracies" (emotive/stereotypical terms).  
+9. **Reduction ad Hitlerum** – **No** – No Nazi/Vichy comparisons.  
+10. **Bandwagon** – **Yes** – Retweeted messages (e.g., "#StephenPaddock suicide note... hiding from us") imply widespread belief.  
+11. **Causal Oversimplification** – **No** – Motives remain "unclear"; no simplistic cause asserted.  
+12. **Obfuscation** – **No** – Details are clarified (e.g., note explained as ballistic calculations).  
+13. **Appeal to authority** – **Yes** – Cites police/investigators to debunk the "suicide note" theory.  
+14. **Black & white fallacy** – **No** – No false dichotomies presented.  
+15. **Thought-terminating clichés** – **No** – No phrases halting critical thought.  
+16. **Red herring** – **Yes** – Sudden focus on the "mystery woman" prostitute distracts from the note’s clarification.  
+17. **Straw men** – **No** – No misrepresentation of arguments.  
+18. **Whataboutism** – **No** – No accusations of hypocrisy.  
+
+---
+
+### Verdict – 40% – Detailed Explanation:  
+The text **contains elements of propaganda** but is primarily factual. Propaganda techniques appear in embedded social media posts (e.g., loaded language, doubt, bandwagon) and the red herring diversion to the "mystery woman." However, the core reporting clarifies misinformation (e.g., revealing the note’s true purpose via police testimony) and avoids emotional manipulation in its narrative. The sensationalism is largely confined to quoted tweets, while the body of the article focuses on investigative updates. This mix reduces its propagandistic weight, though selective emphasis on conspiracy theories (before debunking) shows mild bias. Thus, it is more **sensational journalism** than outright propaganda, but uses propagandistic tactics in ≈40% of its content.

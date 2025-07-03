@@ -1,0 +1,20 @@
+1. Name calling – Yes – The text quotes Rand Paul describing Gina Haspel as having expressed “joyful glee” at being involved in torture programs, which is an attack on her character.
+2. Repetition – No – The text does not repeat the same message or phrase multiple times.
+3. Slogans – No – The text does not use any brief, memorable phrases to encapsulate an idea.
+4. Appeal to fear – Yes – The text quotes Rand Paul’s concern that the nominees would “advocate for a war with Iran next,” using the fear of a new war to support opposition to them.
+5. Doubt – Yes – The entire premise of the article is to cast doubt on the nominees, quoting Senator McCain who “wanted answers about Haspel’s background” and Paul who is “perplexed by the nomination.”
+6. Exaggeration/minimization – Yes – The text quotes Paul’s description of Haspel having “joyful glee” at torture, which is a potential exaggeration to create a stronger negative image.
+7. Flag-Waving – Yes – The text appeals to the identity of Trump supporters by quoting Paul’s statement that the nominations “goes against most of the things President Trump campaigned on.”
+8. Loaded Language – Yes – The text uses emotionally charged and stereotypical phrases like “torture programs” and “deep state” to influence the reader's perception.
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or groups hated by the audience.
+10. Bandwagon – No – The text does not suggest the opposition is popular; in fact, it notes Paul is the “first Republican” to state he will block the nominees.
+11. Causal Oversimplification – No – The text does not propose a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – While the term “deep state” can be vague, the article is generally direct and not intentionally confusing.
+13. Appeal to authority – Yes – The article centers its entire argument on the authority of U.S. Senators (Rand Paul and John McCain) to lend credibility to the opposition against the nominees.
+14. Black & white fallacy – No – The text describes a political situation and does not present a false dichotomy to the reader.
+15. Thought-terminating clichés – No – The text does not use clichés to shut down debate.
+16. Red herring – No – All the information presented is relevant to the central topic of the nominations and the opposition to them.
+17. Straw men – No – The text does not create and refute a false argument from the opposing side.
+18. Whataboutism – Yes – The text quotes Rand Paul charging President Trump with hypocrisy by pointing out that his nominations contradict what he “campaigned on.”
+
+Verdict – 85% – The text is highly likely to be propaganda. While it reports on factual events (Trump’s tweet, Paul’s statements), it is not a balanced news report. It is published by an outlet with a clear ideological name ("Personal Liberty") and exclusively presents a one-sided narrative aimed at persuading the reader to oppose Trump's nominees. It employs a significant number of propaganda techniques, most notably Loaded Language (“torture programs,” “deep state”), Appeal to Fear (the threat of a “war with Iran”), and Appeal to Authority (basing the entire argument on the statements of two senators). The piece frames the issue not as a complex political decision but as a clear-cut case of principled senators standing up against war, torture, and a president betraying his own platform. The lack of any balancing viewpoint or comment from supporters of the nominees confirms its purpose as persuasion rather than objective reporting.

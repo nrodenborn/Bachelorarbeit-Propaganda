@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use any insulting labels to attack an object or subject.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use a brief and memorable phrase.
+4. Appeal to fear – No – The text does not support an idea by instilling fear against other alternatives.
+5. Doubt – Yes – The text questions the credibility of the Obama Administration: "The Obama administration misled the American people and Congress because they were desperate to get a deal with Iran."
+6. Exaggeration/minimization – Yes – The text suggests exaggeration by describing the situation as "widely overblown."
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – The text uses emotionally charged language, such as "misled the American people."
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text provides specific details and does not use deliberately unclear expressions.
+13. Appeal to authority – Yes – The text references authority figures like Sen. Rob Portman and Jarrett Blanc to support claims.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 40% – The text contains elements of propaganda, such as doubt, exaggeration, loaded language, and appeal to authority. These techniques suggest a bias against the Obama Administration's actions regarding the Iran nuclear deal. However, the text also includes responses from former Obama officials, providing a counter-narrative and some balance. The presence of these propaganda techniques indicates a moderate likelihood of the text being propaganda, but the inclusion of multiple perspectives reduces the overall percentage.

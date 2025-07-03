@@ -1,0 +1,37 @@
+Name calling – No – The text uses the term "sonic attack," but it is attributed to a government official to describe an event, not used as an insulting label against a person or group.
+
+Repetition – Yes – The message that the incident in China is similar to the ones in Cuba is repeated multiple times. Example: "Pompeo said a brain injury sustained by an American official in a "sonic attack" in China was similar to those that affected US and Canadian diplomats in Cuba... Pompeo told the House Foreign Affairs Committee the "sonic attack" in China was similar to the incidents in Cuba last year. 'The medical indications are very similar and entirely consistent with the medical indications that have taken place to Americans working in Cuba,' he said."
+
+Slogans – No – The text does not contain any brief, memorable phrases meant to be chanted or used as a rallying cry.
+
+Appeal to fear – No – While the subject matter (mysterious brain injuries) may be frightening, the text itself does not use fear to advocate for a specific idea or against an alternative. It reports on the event and the official reaction.
+
+Doubt – No – The text does not actively question the credibility of any person or entity. It notes that "China's foreign ministry did not comment immediately," which is a factual statement about the lack of response at the time of writing, not an attempt to cast doubt.
+
+Exaggeration/minimization – No – The text reports on a range of symptoms from "mild brain injury" to "permanent hearing loss," reflecting the information provided by officials and other reports. It does not appear to be exaggerating or minimizing these facts itself.
+
+Flag-Waving – No – The text mentions the nationalities of those involved (American, Canadian, Chinese) because it is central to the story as an international incident, not as an appeal to patriotism.
+
+Loaded Language – Yes – The term "sonic attack" is emotionally charged language that suggests a deliberate, hostile act with a specific type of weapon, even though the text later clarifies the cause is "still-unexplained." Example: "US Secretary of State Mike Pompeo said a brain injury sustained by an American official in a 'sonic attack' in China was similar to those that affected US and Canadian diplomats in Cuba."
+
+Reduction ad Hitlerum – No – The text makes no comparisons to Nazis or other hated groups.
+
+Bandwagon – No – The text does not suggest that the reader should believe something simply because many other people do.
+
+Causal Oversimplification – No – The text avoids this by stating the incidents are "still-unexplained" and listing multiple potential causes being investigated, such as "a sonic attack, an electromagnetic weapon, or a flawed spying device."
+
+Obfuscation, intentional vagueness – No – The text uses phrases like "subtle and vague, but abnormal, sensations" but it is doing so to describe the unclear nature of the symptoms reported by the victim, not to deliberately confuse the audience.
+
+Appeal to authority – Yes – The article's claims are almost entirely based on statements from officials, which are presented as evidence. Example: "US Secretary of State Mike Pompeo said a brain injury sustained by an American official in a 'sonic attack' in China was similar to those that affected US and Canadian diplomats in Cuba."
+
+Black & white fallacy – No – The text does not present only two choices. In fact, it presents multiple theories for the cause of the injuries.
+
+Thought-terminating clichés – No – The text does not use any phrases that are designed to shut down critical thought.
+
+Red herring – No – All the information presented is relevant to the central news story.
+
+Straw men – No – The text is a report, not an argument, and does not misrepresent or refute any opposing position.
+
+Whataboutism – No – The text does not accuse anyone of hypocrisy to deflect criticism.
+
+Verdict – 25% – The text is a news report from a media organization, and its primary purpose is to inform the public about statements made by a government official. In this respect, it is not a pure propaganda piece. However, it exhibits some characteristics of propaganda by being a vehicle for an official narrative. The article relies heavily on **Appeal to Authority**, building its entire story from the press conference of the Secretary of State. It uses **Repetition** to emphasize the key talking point: the similarity between the China and Cuba incidents. Most importantly, it adopts the **Loaded Language** ("sonic attack") used by the official in its headline and reporting. By framing the story around this unproven and evocative term, the article sensationalizes the event and uncritically amplifies the government's chosen narrative, thus serving a propagandistic function even while adhering to some journalistic conventions like attribution.

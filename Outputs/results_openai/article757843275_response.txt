@@ -1,0 +1,20 @@
+1. Name calling – No – There is no use of insulting labels against an object or subject in the text.
+2. Repetition – Yes – The term "experimental vaccine" is repeated multiple times to emphasize its untested nature.
+3. Slogans – No – There is no brief and memorable phrase used in the text.
+4. Appeal to fear – Yes – The text describes Ebola as "one of the world’s most feared diseases" and details its symptoms and high mortality rate, which could instill fear.
+5. Doubt – Yes – The text questions the effectiveness and safety of the experimental vaccine and ZMapp by highlighting their untested status.
+6. Exaggeration/minimization – Yes – The text minimizes the threat by stating "it isn’t nearly as deadly as it could be" because it isn’t airborne.
+7. Flag-Waving – No – There is no appeal to patriotism or identity in the text.
+8. Loaded Language – Yes – Words like "feared," "deadly," and "urgent" appeal to emotions.
+9. Reduction ad Hitlerum – No – There is no suggestion that the idea is popular with groups hated by the audience.
+10. Bandwagon – No – There is no appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for the complex event of the Ebola outbreak.
+12. Obfuscation, intentional vagueness – No – The text provides specific details about the situation and the vaccine.
+13. Appeal to authority – Yes – The text references the World Health Organization and health officials to support its claims.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – There are no phrases that discourage critical thought or meaningful discussions.
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main topic.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – There is no charge of hypocrisy against an opponent.
+
+Verdict – 60% – The text contains several elements of propaganda, such as repetition, appeal to fear, doubt, exaggeration/minimization, loaded language, and appeal to authority. These techniques are used to emphasize the seriousness of the Ebola outbreak and the uncertainty surrounding the experimental vaccine. However, the text also provides factual information and quotes from authorities, which balances the propagandistic elements. Overall, while there are clear signs of propaganda, the text also aims to inform, leading to a moderate likelihood of being propaganda.

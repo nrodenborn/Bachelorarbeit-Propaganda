@@ -1,0 +1,39 @@
+Name calling – Yes – The text uses the term "criminal aliens" repeatedly. While this may be a legal or technical term, in a public press release it functions as an insulting label that conflates a person's immigration status with criminality to create a negative impression.
+
+Repetition – Yes – The core message that ICE is removing dangerous criminals to ensure public safety is repeated throughout the text, especially in the quote from the ERO Chicago director: "strive to make our communities safer," "put our communities at risk," and "improving public safety." The term "criminal aliens" is also used multiple times.
+
+Slogans – No – The text does not use any brief, memorable, or catchy phrases designed for easy repetition by an audience.
+
+Appeal to fear – Yes – The text explicitly lists serious crimes such as "sexual assault, kidnapping, assault, assault with a weapon" and highlights a case involving pending charges for "sexually assaulting a child." The quote from the director also states that sanctuary policies "put our communities at risk," directly instilling fear about the alternative to ICE's actions.
+
+Doubt – Yes – The text questions the credibility and judgment of local law enforcement by stating, "local law enforcement failed to honor an immigration detainer placed on the individuals by ICE" and specifically calls out the "Cook County Sheriff’s Office."
+
+Exaggeration/minimization – Yes – The text exaggerates the threat by focusing almost exclusively on the most severe criminal histories of those arrested. While the headline mentions "immigration violators" were also arrested, the body of the text and the detailed examples are all about "criminal aliens" with serious convictions, creating an exaggerated impression of the danger posed by the entire group.
+
+Flag-Waving – Yes – The text appeals to patriotism and national identity by framing its actions as necessary to "protect the nation, uphold public safety, and protect the integrity of our immigration laws and border controls."
+
+Loaded Language – Yes – The text uses emotionally charged phrases like "criminal aliens," "immigration fugitives," and "reckless sanctuary policies" to influence the audience's perception and appeal to emotion rather than reason.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other universally hated groups.
+
+Bandwagon – No – The text does not suggest that its actions or ideas are popular and that the reader should join the majority.
+
+Causal Oversimplification – Yes – The text presents a simple cause-and-effect relationship: "reckless sanctuary policies... put our communities at risk." This simplifies the complex issues of crime, immigration, and law enforcement into a single problem with a single solution (ICE enforcement).
+
+Obfuscation, intentional vagueness – No – The text is quite specific, providing exact numbers, locations, nationalities, and lists of crimes. Its bias comes from selection and framing, not from being vague.
+
+Appeal to authority – Yes – The text is a press release from a government agency (ICE) and quotes its own official, "Ricardo Wong, field office director of ERO Chicago," using its own authority to validate its actions and narrative.
+
+Black & white fallacy – Yes – The text presents only two options: ICE's enforcement, which leads to "improving public safety," or "reckless sanctuary policies that... put our communities at risk." This creates a false dichotomy, ignoring any other potential perspectives or solutions.
+
+Thought-terminating clichés – No – The text does not use any common clichés to shut down debate.
+
+Red herring – No – The text stays focused on the topic of the arrests and does not introduce irrelevant material to distract the audience.
+
+Straw men – No – The text attacks sanctuary policies directly but does not misrepresent or invent a specific counter-argument from an opponent to then refute.
+
+Whataboutism – No – The text criticizes other entities (Cook County) but does not do so by accusing them of hypocrisy in response to a charge against itself.
+
+***
+
+Verdict – 95% – The text is highly likely to be propaganda. While it presents factual data (numbers, locations, criminal records), it is not a neutral report. It is a government press release strategically crafted to persuade the public and justify the agency's actions. It achieves this by employing numerous propaganda techniques. The most prominent are **Appeal to Fear** (by listing terrifying crimes), **Loaded Language** and **Name Calling** (using "criminal aliens" and "reckless sanctuary policies"), and **Exaggeration** (by selectively focusing on the most dangerous individuals to represent the whole). It establishes a **Black & White Fallacy** where ICE's actions are the only way to achieve "public safety" against the "risk" of sanctuary policies. The entire piece is an **Appeal to its own Authority**, designed to shape a specific narrative: that ICE is a heroic force protecting the nation from dangerous criminals who are being irresponsibly released by local governments. The selection and framing of information are deliberately skewed to evoke an emotional response and build support for the agency's political goals, which is the primary function of propaganda.

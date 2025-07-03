@@ -1,0 +1,20 @@
+1. Name calling – No – There are no insulting labels used against any object or subject in the text.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – There are no brief and memorable phrases used in the text.
+4. Appeal to fear – No – The text does not use fear to support any idea.
+5. Doubt – No – The text does not question the credibility of someone or something.
+6. Exaggeration/minimization – No – The text does not exaggerate or minimize any information.
+7. Flag-Waving – No – There is no appeal to patriotism or identity in the text.
+8. Loaded Language – No – The text does not use language that appeals to emotions or stereotypes.
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text is clear and does not use deliberately unclear expressions.
+13. Appeal to authority – Yes – The text mentions the reputation of Robert Mueller for integrity and thoroughness as a form of authority.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought.
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 5% – The text largely reports on the developments surrounding the submission of Robert Mueller's report without employing propaganda techniques. The only potential technique identified is an appeal to authority, where Mueller's reputation is mentioned. However, this is a minor element in the overall context of the report and does not significantly contribute to the text being classified as propaganda. Therefore, the likelihood of the text being propaganda is very low.

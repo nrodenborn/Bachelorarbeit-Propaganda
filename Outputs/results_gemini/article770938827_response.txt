@@ -1,0 +1,26 @@
+1. Name calling – Yes – The text labels the Obama presidency as "the dark years of Obama" and the people involved in the case as "Obama's Victims."
+2. Repetition – Yes – The central message that the Obama administration was unjust and President Trump brought justice is repeated in various forms throughout the text (e.g., "This was unjust," "overzealous appeal," "These pardons cleanse another stain from our nation's history").
+3. Slogans – Yes – The phrase "While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers" is a brief, memorable, and slogan-like phrase used to summarize a political position.
+4. Appeal to fear – No – The text primarily appeals to anger, resentment, and a sense of injustice rather than instilling fear of a future threat.
+5. Doubt – Yes – The text actively seeks to create doubt about the credibility of the media ("The media very deliberately misreported the Bundy standoff") and the judiciary ("Aiken was unqualified for her role").
+6. Exaggeration/minimization – Yes – The text minimizes the crime by describing it as a fire that "leaked onto a small portion" of land, while exaggerating the Obama era as "the dark years of Obama."
+7. Flag-Waving – Yes – The text appeals to a sense of national identity and patriotism by framing the pardons as an act that will "cleanse another stain from our nation's history."
+8. Loaded Language – Yes – The text is filled with emotionally charged words like "murder," "overzealous," "unjust," and "dark years" to provoke an emotional response rather than a rational one.
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or similarly hated groups.
+10. Bandwagon – No – The text does not claim the idea is good because it is popular. It frames it as a righteous decision by a leader, not a popular movement.
+11. Causal Oversimplification – Yes – The text reduces the complex legal reasoning for the Hammonds' sentencing to a simple cause: the political motivations of the Obama administration and a judge who was a "Dem fundraiser."
+12. Obfuscation, intentional vagueness – No – The text is not vague; it is very direct and clear in its accusations and who it blames.
+13. Appeal to authority – Yes – The text cites the original sentencing judge, Judge Hogan, and his opinion that the mandatory sentence would "shock the conscience" as evidence that the final sentence was unjust.
+14. Black & white fallacy – Yes – The text presents a false dichotomy: "While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers," implying these are the only two choices and realities.
+15. Thought-terminating clichés – Yes – Statements like "This was unjust" are presented as simple, absolute facts that discourage any nuanced discussion of the law or the case.
+16. Red herring – Yes – The text introduces the "Bundy standoff" and the comparison to "drug dealers and gang members" to distract from the specific legal facts of the Hammond arson case and to stir unrelated emotions.
+17. Straw men – Yes – The text refutes a simplified, hypocritical argument that the Obama administration was against all mandatory minimums except for ranchers, a position the administration likely never held, thereby misrepresenting their actual legal stance in this specific case.
+18. Whataboutism – Yes – The text charges the Obama administration with hypocrisy by stating, "The same administration that was against mandatory minimums for its drug dealers and gang members went to court to defend mandatory minimums" for the Hammonds, deflecting from the legal arguments of the case.
+
+***
+
+Verdict – 95% – The text is a clear and potent example of propaganda. Its primary purpose is not to inform but to persuade the reader to adopt a highly specific and biased viewpoint. This is achieved through the overwhelming use of propaganda techniques (15 out of the 18 listed).
+
+The text constructs a simple good-versus-evil narrative. The Hammonds (and by extension, ranchers) are portrayed as sympathetic victims, and President Trump as a just hero. Conversely, the Obama administration, the media, and a specific federal judge are cast as politically motivated villains.
+
+This narrative is built using techniques like **Loaded Language** ("murder," "dark years"), **Name Calling** ("Obama's Victims"), and **Causal Oversimplification** (blaming the entire outcome on a judge being a "Dem fundraiser"). It employs a **Black & White Fallacy** to create a stark, false choice between being for ranchers or for drug dealers. It systematically uses **Doubt** to undermine faith in institutions like the media and the judiciary while using an **Appeal to Authority** (the first judge) to bolster its own claims. The entire piece is designed to provoke an emotional response of anger and vindication, while actively discouraging critical thought about the legal complexities of the case.

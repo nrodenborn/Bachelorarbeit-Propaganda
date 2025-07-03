@@ -1,0 +1,37 @@
+Name calling – Yes – The text reports that Abid Awan’s attorney referred to the stepmother, Samina Gilani, as a “wacko lunatic.” The headline also uses a label, "Muslim Dem IT Aides," to frame the subjects of the article by their religion and political affiliation.
+
+Repetition – Yes – The poll question "Whom do you consider to be the most corrupt Democrat Politician?" is repeated three times in a row. The fact that "Imran wired nearly $300,000 to Pakistan" is also mentioned twice in close succession.
+
+Slogans – No – The text does not contain any brief, memorable phrases intended for mass repetition as a slogan.
+
+Appeal to fear – Yes – The text stokes fear by linking the subjects to serious crimes that threaten national security, stating the House Office of Inspector General alleged they made “unauthorized access” to congressmen’s data and quoting a relative who says, “There are possibilities that [Imran] or them might have been selling [House] information.”
+
+Doubt – Yes – The entire article is structured to cast doubt on the Awan family. It also explicitly questions the credibility of Abid Awan on the witness stand: "Judge: I don’t understand why the witness is having such trouble with the question. Your job is to answer the question."
+
+Exaggeration/minimization – Yes – Abid Awan minimizes his own intelligence to evade a question on the witness stand, saying, "I’m not very smart, so it takes a while sometimes…"
+
+Flag-Waving – Yes – The article appeals to patriotism by framing the events as a threat to American institutions, mentioning the "House Office of Inspector General," "congressmen's data," the "FBI," and the "House sargent-at-arms," implying the Awans' actions were a betrayal of the country.
+
+Loaded Language – Yes – The text uses emotionally charged and stereotypical language to influence the reader's perception, such as describing the stepmother as an "elderly, burka-clad widow" and quoting the lawyer calling her a "wacko lunatic."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or the Nazis.
+
+Bandwagon – Yes – The poll, "Whom do you consider to be the most corrupt Democrat Politician?", encourages the reader to join in the act of condemning Democrats, implying that this is a widespread activity and the only question is who to single out.
+
+Causal Oversimplification – No – The article presents a complex web of accusations rather than attributing a complex event to a single, simple cause.
+
+Obfuscation, intentional vagueness – Yes – The text uses vague suggestions to create suspicion without providing concrete proof. For example: “There are possibilities that [Imran] or them might have been selling [House] information.”
+
+Appeal to authority – Yes – The article cites official bodies to lend credibility to its negative framing of the Awans, stating, "the FBI arrested Imran" and "prosecutors wrote" that there were "strong indications of flight in this case."
+
+Black & white fallacy – Yes – The poll presents a list of Democrats and asks the reader to choose "the most corrupt," which falsely implies that corruption is a given and that no other options (such as politicians from other parties, or none of them) exist.
+
+Thought-terminating clichés – Yes – The lawyer's dismissal of the stepmother, "She’s a wacko lunatic, what are you going to do?", is a phrase used to shut down any consideration of her claims.
+
+Red herring – Yes – The article introduces the fact that the stepmother's lawyer, Michael Hadeed, "was convicted in 2010 of conspiracy and immigration fraud." This information is irrelevant to the merits of the life insurance case and serves only to distract and discredit the stepmother's side by association.
+
+Straw men – No – The text focuses on making accusations and insinuations rather than misrepresenting and refuting a specific counter-argument.
+
+Whataboutism – No – The text does not attempt to deflect criticism by accusing an opponent of hypocrisy.
+
+Verdict – 95% – The text is overwhelmingly propagandistic. It is not a neutral report on a legal dispute but a politically motivated piece designed to associate the Democratic party with criminality and unpatriotic behavior. The article masterfully weaves together numerous propaganda techniques to achieve this effect. It begins with a headline that uses **Name-calling** (linking "Muslim" and "Dem" to a crime) and continues with **Loaded Language** ("burka-clad widow," "wacko lunatic") and **Appeal to Fear** (allegations of spying and data theft). It uses **Appeal to Authority** (FBI, prosecutors) to legitimize its claims while simultaneously using **Obfuscation** ("There are possibilities...") to make unsubstantiated allegations. The repeated **Bandwagon** poll creates a **Black & White Fallacy** that presupposes Democratic corruption. The use of **Red Herring** (focusing on a lawyer's past conviction) serves to discredit opposing views without addressing their substance. The sheer density and combination of these techniques show a clear intent to manipulate the reader's opinion rather than to inform them objectively.

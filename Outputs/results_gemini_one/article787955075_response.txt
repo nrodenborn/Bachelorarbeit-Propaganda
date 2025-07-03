@@ -1,0 +1,37 @@
+Name calling – Yes – The text refers to "disgraced FBI figures Peter Strzok and Lisa Page," which is an insulting label used to attack their character and credibility.
+
+Repetition – No – The text does not repeat the same message or phrase over and over.
+
+Slogans – No – The text does not use any brief, memorable phrases as slogans.
+
+Appeal to fear – Yes – The text states, "it is safe to say that Democrats are probably panicking right about now." This is an unsubstantiated claim designed to instill a sense of impending negative revelation about the Democratic party.
+
+Doubt – Yes – The inclusion of Carter Page's quote calling the investigation "so incredibly stupid" and a "mockery it made out of the Constitution" is used to question the credibility and legitimacy of the entire investigation.
+
+Exaggeration/minimization – No – The text itself does not directly exaggerate or minimize information; for instance, it correctly states that the 21 pages are a "small part of the 412 pages."
+
+Flag-Waving – Yes – The text quotes Carter Page saying, "My biggest concern is all the damage that this did to the U.S. government [and] the mockery it made out of the Constitution." This is an appeal to patriotism by framing the investigation as an attack on the U.S. Constitution.
+
+Loaded Language – Yes – The text uses emotionally charged words like "disgraced" to describe the FBI figures and includes the quote from Carter Page calling the investigation "incredibly stupid" and a "mockery."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+
+Bandwagon – No – The text does not suggest an idea is correct because it is popular.
+
+Causal Oversimplification – No – The text does not propose a simple cause for a complex event.
+
+Obfuscation, intentional vagueness – No – The text is specific about the documents and individuals involved.
+
+Appeal to authority – Yes – The text quotes Carter Page, a central figure in the events, presenting his opinion as an authoritative take on the investigation: "My biggest concern is all the damage that this did to the U.S. government."
+
+Black & white fallacy – No – The text does not present only two choices.
+
+Thought-terminating clichés – No – The text does not use any phrases that discourage critical thought.
+
+Red herring – No – The text remains focused on the topic of the declassification of documents.
+
+Straw men – No – The text does not refute an argument that was not presented.
+
+Whataboutism – No – The text does not charge an opponent with hypocrisy to deflect criticism.
+
+Verdict – 85% – The text is highly likely to be propaganda. While it is structured as a news report and contains factual information (e.g., President Trump did order the declassification of documents), it employs several propaganda techniques to frame the story with a strong political bias. It uses Name Calling and Loaded Language ("disgraced") to discredit individuals from the outset. It casts Doubt on the Russia investigation and appeals to patriotism (Flag-Waving) through the selective use of a quote from Carter Page. Most tellingly, it includes a purely speculative and emotional Appeal to Fear ("Democrats are probably panicking") to persuade the reader that the declassification will reveal wrongdoing by the President's political opponents. The combination of these techniques shows a clear intent to influence the reader's opinion rather than to report events objectively.

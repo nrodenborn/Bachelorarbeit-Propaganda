@@ -1,0 +1,22 @@
+Name calling – Yes – The text labels the official account of the Gulf of Tonkin incident as a “lie” and “Fake News,” and refers to the media as a “de facto government employee.”
+Repetition – Yes – The poll question “Will Brett Kavanaugh be confirmed to the Supreme Court?” is repeated three times consecutively.
+Slogans – No – While it uses charged phrases, it does not employ a distinct, brief, and memorable phrase as a central rallying cry in the way a slogan is typically used.
+Appeal to fear – Yes – The article stokes fear of future wars based on false pretenses, quoting a colonel who warns, “we could very well be treated to something like that in the Gulf.”
+Doubt – Yes – The entire article is built on casting doubt on the credibility of the government and the media, starting with the phrase, “If you are to believe the official story…”
+Exaggeration/minimization – Yes – The text makes the sweeping and unsubstantiated claim that “nearly all wars in US history have been started over false information.”
+Flag-Waving – No – The text does not appeal to patriotism to garner support for an idea. Instead, it criticizes a past national action and its negative impact on the nation's reputation.
+Loaded Language – Yes – The text uses emotionally charged words like “slaughtered,” “flagrant lies,” and “fictitious creation” to evoke a strong emotional response from the reader.
+Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or the Nazi party.
+Bandwagon – No – The text does not argue that its position is correct because it is popular. It cites evidence and authority figures, not popular opinion, as its basis.
+Causal Oversimplification – Yes – The article’s central thesis, summarized in its title, reduces the complex origins of the Vietnam War to a single cause: a deliberate lie (“Fake News”) by the government and media.
+Obfuscation, intentional vagueness – No – The article’s language is direct and its accusations are specific. It does not use intentionally vague or obscure expressions.
+Appeal to authority – Yes – The text cites several authorities to support its claims, including former Secretary of Defense Robert S. McNamara, Vietnamese General Võ Nguyên Giáp, and Col. Macgregor.
+Black & white fallacy – Yes – The text presents a stark dichotomy between the “official story” (portrayed as a complete lie) and the “truth” (as presented by the article), dismissing any possibility of historical nuance, confusion, or partial truths.
+Thought-terminating clichés – No – The text does not use clichés to end discussion; on the contrary, its goal is to provoke discussion and doubt about the official historical narrative.
+Red herring – Yes – The text inserts a completely irrelevant poll about Brett Kavanaugh’s Supreme Court confirmation in the middle of an article about the Vietnam War, serving as a major distraction.
+Straw men – No – The article directly attacks the "official story" of the Gulf of Tonkin incident rather than misrepresenting it or creating a weaker version of an opponent's argument to refute.
+Whataboutism – No – The text does not deflect criticism by accusing an opponent of hypocrisy. It is the source of the criticism itself.
+
+Verdict – 95% – The text is overwhelmingly likely to be propaganda. It employs a significant number of propaganda techniques (10 out of 18) to advance a specific ideological viewpoint. While the core claim—that the Gulf of Tonkin incident was misrepresented to justify escalating the war—is a legitimate topic of historical debate supported by evidence (such as McNamara's own admissions), this article frames the information in a manipulative way.
+
+The primary goal is not just to inform, but to persuade the reader to adopt a position of extreme distrust towards the government and "mainstream media." This is achieved through a combination of **Name Calling** (“Fake News,” “lie”), **Loaded Language** (“slaughtered”), and **Causal Oversimplification** (blaming the entire war on this single event). It uses **Appeal to Authority** to lend credibility to its narrative while simultaneously employing a **Black & White Fallacy** to frame the issue as a simple battle between official lies and the "truth" it is providing. The use of **Appeal to Fear** to suggest similar deceptions are imminent and the inclusion of a blatant **Red Herring** (the Kavanaugh poll) further underscore its propagandistic nature, moving it away from objective analysis and firmly into the realm of persuasion and ideological recruitment.

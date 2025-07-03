@@ -1,0 +1,31 @@
+### Analysis of Propaganda Techniques in the Text:
+1. **Name calling** – **Yes** – "Nation of Islam **hate group leader** Louis Farrakhan", "**notorious anti-Semite**".  
+2. **Repetition** – **Yes** – Repeated emphasis on media ignoring the story: "Almost **no national media outlet has covered the story**", "CNN only mentioned it...", "they'll ignore it".  
+3. **Slogans** – **No** – No brief, memorable phrases used as slogans.  
+4. **Appeal to fear** – **No** – No explicit instillation of fear against alternatives.  
+5. **Doubt** – **Yes** – Questions credibility of ADL/JTA: "The JTA's **awkward attempt to whitewash**", "**But the ADL and the JTA will whitewash this again**".  
+6. **Exaggeration/minimization** – **Yes** – Minimizes Farrakhan's bigotry: "**The world is so much bigger than Farrakhan and the Jewish question**".  
+7. **Flag-Waving** – **No** – No appeal to patriotism or group identity.  
+8. **Loaded Language** – **Yes** – Emotionally charged terms: "**whitewash**", "**hate group leader**", "**satanic**".  
+9. **Reduction ad Hitlerum** – **Yes** – Links Farrakhan to Hitler/Nazism: "**praised Adolf Hitler as a ‘very great man’**", "**talk about the ‘Jewish question’ are generally anti-Semites**".  
+10. **Bandwagon** – **No** – No appeal to popularity of an idea.  
+11. **Causal Oversimplification** – **No** – No oversimplified cause-effect claims.  
+12. **Obfuscation** – **No** – Language is direct, not intentionally vague.  
+13. **Appeal to authority** – **No** – No authoritative sources cited for validation.  
+14. **Black & white fallacy** – **Yes** – Presents a false dichotomy: "**black leaders have gotten away with playing that game...** [vs.] **a white congressman would [not] get away**".  
+15. **Thought-terminating clichés** – **Yes** – Dismisses criticism: "**it ain’t my thing**", "**that’s their thing**".  
+16. **Red herring** – **Yes** – Irrelevant distraction: "**Somehow I don’t think a white congressman would get away with saying... David Duke**".  
+17. **Straw men** – **Yes** – Misrepresents ADL/JTA: ADL relayed Davis’ denial, but text claims "**ADL is wrong**" as if they invented the denial.  
+18. **Whataboutism** – **Yes** – Charges hypocrisy: "**But black leaders have gotten away...** [vs.] **white congressman**".  
+
+---
+
+### Final Verdict:  
+**Verdict – 85% –**  
+The text exhibits **multiple propaganda techniques** with clear intent to shape perception:  
+- **Loaded language** and **name-calling** vilify Farrakhan and those defending him.  
+- **Doubt**, **straw men**, and **whataboutism** discredit critics (ADL/JTA) and imply racial double standards.  
+- **Minimization** downplays Farrakhan’s anti-Semitism, while **reduction ad Hitlerum** amplifies his ties to Nazism.  
+- **Repetition** of media "embargo" frames a conspiracy of silence.  
+- **Emotional manipulation** (e.g., "whitewash") overshadows factual reporting.  
+The text’s goal is to delegitimize Davis, the ADL, and mainstream media while excusing Farrakhan’s extremism—a hallmark of propaganda. The 15% uncertainty stems from partial factual basis (e.g., Farrakhan’s history), but its selective framing and techniques overwhelmingly serve a partisan narrative.

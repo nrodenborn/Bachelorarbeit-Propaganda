@@ -1,0 +1,32 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – No – No insulting labels are used against Haig or others; neutral terms like "person of interest" are factual.  
+2. **Repetition** – No – No phrase or idea is repeated excessively; the text reports events linearly.  
+3. **Slogans** – No – No brief, memorable phrases (e.g., "BUILD THE WALL!"); descriptions are detailed.  
+4. **Appeal to fear** – No – The text describes events factually without instilling fear about alternatives.  
+5. **Doubt** – No – No questioning of credibility (e.g., "Can the same be said for Obama?"); reports uncertainties neutrally (e.g., "it's unclear").  
+6. **Exaggeration/minimization** – No – No hyperbolic language; casualties are stated objectively ("killed 58, wounded hundreds").  
+7. **Flag-Waving** – No – No appeals to patriotism or identity (e.g., "We the People"); focuses on investigation.  
+8. **Loaded Language** – No – Language is neutral (e.g., "strongly denies," "unclear"); no emotional triggers or stereotypes.  
+9. **Reduction ad Hitlerum** – No – No comparisons to hated groups (e.g., Nazis/Vichy); only factual reporting.  
+10. **Bandwagon** – No – No appeal to popularity (e.g., "Time for US to do same"); cites individual actions.  
+11. **Causal Oversimplification** – No – No oversimplified causes; acknowledges complexity (e.g., "motive still unknown").  
+12. **Obfuscation, intentional vagueness** – No – Clear language (e.g., "sold Paddock 720 rounds"); no deliberate confusion.  
+13. **Appeal to authority** – No – Authorities are cited for facts (e.g., police warrants), not as unquestionable evidence.  
+14. **Black & white fallacy** – No – Presents nuances (e.g., Haig denies conspiracy; police suspect involvement).  
+15. **Thought-terminating clichés** – No – No phrases halting debate (e.g., "That’s all"); includes open questions (e.g., "What did I miss?").  
+16. **Red herring** – No – No irrelevant distractions; stays focused on Haig’s role and investigation.  
+17. **Straw men** – No – No misrepresentation of arguments; quotes Haig and police directly.  
+18. **Whataboutism** – No – No accusations of hypocrisy (e.g., "Trump avoided military service"); focuses solely on Haig.  
+
+---
+
+### Verdict – 5% – Detailed Explanation:  
+The text is **highly unlikely to be propaganda**. It is a factual news report with the following characteristics:  
+- **Neutral Tone**: Uses objective language (e.g., "Haig says," "police believe") without loaded words, emotional appeals, or bias.  
+- **Balanced Reporting**: Presents multiple perspectives: Haig’s denial of involvement versus police suspicions from search warrants.  
+- **Attribution**: Sources claims (e.g., "Haig said," "warrant records say," "attorneys say") and notes investigative uncertainty (e.g., "unclear if he’s still under investigation").  
+- **No Manipulative Tactics**: Absence of all 18 propaganda techniques; avoids fear-mongering, oversimplification, or partisan framing.  
+- **Contextual Purpose**: Informs about an ongoing investigation, cites evidence (e.g., tracer ammunition, Amazon box), and includes human elements (e.g., Haig’s remorse) without sensationalism.  
+
+The 5% likelihood acknowledges that *any* media could carry implicit bias, but here, propaganda intent is negligible. The text prioritizes transparency over persuasion, aligning with standard journalistic practice.

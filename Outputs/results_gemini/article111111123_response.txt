@@ -1,0 +1,41 @@
+1. Name calling – No – The text uses descriptive labels like "lawmaker," "ex-girlfriend," and "congressman," but does not use insulting labels to attack any subject.
+
+2. Repetition – No – The article does not repeat the same message over and over; it presents a sequence of events and statements from different parties.
+
+3. Slogans – No – There are no brief, memorable phrases used to encapsulate an idea or campaign.
+
+4. Appeal to fear – No – The text does not attempt to instill fear in the audience about alternatives. It reports on an existing controversy.
+
+5. Doubt – Yes – The article reports on information intended to question the credibility of the accuser, Karen Monahan. Explanation: "A draft report obtained by the AP noted Monahan's shifting rationale for refusing to produce the video footage, including that it was lost, was on a USB drive in storage and would be too embarrassing and traumatic to release it."
+
+6. Exaggeration/minimization – No – The article reports on the events and statements without overtly exaggerating or minimizing them from a neutral, authorial standpoint.
+
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity. It discusses party politics, but not in a flag-waving context.
+
+8. Loaded Language – No – While the events described are emotional, the article's language is largely journalistic and neutral. Words like "slammed" are common journalistic shorthand and do not rise to the level of a propaganda technique in this context.
+
+9. Reduction ad Hitlerum – No – The text does not compare any idea or person to a group hated by the audience.
+
+10. Bandwagon – No – The text does not suggest an idea is popular and should therefore be adopted. In fact, it highlights a division in opinion.
+
+11. Causal Oversimplification – No – The article presents a complex situation involving multiple factors and does not attribute it to a single, simple cause.
+
+12. Obfuscation, intentional vagueness – No – The article is specific, naming the individuals, organizations, and key details of the investigation and allegations.
+
+13. Appeal to authority – Yes – The Democratic party and Keith Ellison use the findings of the lawyer they hired, an authority on the matter, as evidence. Explanation: "In a statement, Ellison thanked Ellingstad for conducting a 'thorough, independent, and fair review.'"
+
+14. Black & white fallacy – No – The article presents a nuanced situation with multiple perspectives and possibilities, rather than reducing it to only two options.
+
+15. Thought-terminating clichés – Yes – The text quotes Karen Monahan using a phrase that discourages further critical thought about her claims. Explanation: "I have nothing to prove to anyone, I simply shared my story. People can believe it or not."
+
+16. Red herring – Yes – The text quotes Keith Ellison attempting to divert attention from the allegations to a different topic. Explanation: "At this time, I will be focusing on the issues of this important election."
+
+17. Straw men – No – The text does not feature any party refuting an argument that was not actually presented by an opponent.
+
+18. Whataboutism – Yes – The text explicitly reports on Karen Monahan charging the Democratic Party with hypocrisy by comparing her case to another. Explanation: "Monahan slammed the Democratic Party for its response to her allegations when compared to its treatment of Christine Blasey Ford."
+
+***
+
+Verdict – 25% – The text is primarily a news report, not a piece of propaganda. Its main purpose is to inform the audience about a political development. A key indicator that it is not propaganda is that it presents multiple, conflicting viewpoints from the central figures involved: the DFL's official position via its chairman, Keith Ellison's personal statement, and Karen Monahan's counter-claims and frustrations. This multi-faceted approach encourages the reader to evaluate the situation rather than accept a single, biased conclusion.
+
+However, the text is not entirely neutral. It *reports on* the use of several propaganda techniques by the political actors (e.g., Ellison's red herring, the DFL's appeal to authority, Monahan's whataboutism). Furthermore, the framing of the article, particularly the headline ("Domestic abuse allegations against Keith Ellison cannot be substantiated, Dems' lawyer says"), prioritizes the conclusion of the DFL-hired lawyer. This editorial choice gives more weight to one side of the controversy from the outset. While this represents a degree of journalistic bias, the article's overall commitment to quoting different sides prevents it from being classified as overt propaganda.

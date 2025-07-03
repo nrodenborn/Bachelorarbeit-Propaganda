@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack an object or subject of the propaganda.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use a brief and memorable phrase.
+4. Appeal to fear – Yes – The text suggests that the nomination of Gina Haspel could have negative consequences for the CIA’s future and moral authority, which may instill fear about her appointment.
+5. Doubt – Yes – The text questions Gina Haspel's past involvement in torture programs, suggesting doubt about her suitability for the CIA Director position.
+6. Exaggeration/minimization – No – The text does not exaggerate or minimize any aspect of the situation.
+7. Flag-Waving – Yes – The text appeals to patriotism by referencing American values, the Constitution, and the country's leadership in human rights.
+8. Loaded Language – Yes – The text uses emotionally charged language, such as “darkest chapters in American history” and “desperately misguided decision,” to evoke strong emotions.
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text is clear and specific about the issues being discussed.
+13. Appeal to authority – Yes – The text uses John McCain’s authority and statements to support the argument against Gina Haspel’s nomination.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main issue.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 50% – The text exhibits several propaganda techniques, such as appeal to fear, doubt, flag-waving, loaded language, and appeal to authority. These elements suggest that the text is attempting to influence the audience's perception of Gina Haspel's nomination by appealing to emotions and authority figures. However, the text also provides factual information and context, which balances the presence of propaganda techniques. Therefore, the likelihood of the text being propaganda is moderate.

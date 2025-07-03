@@ -1,0 +1,30 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – No – No insulting labels used against subjects.  
+2. **Repetition** – Yes – Pompeo reiterates "the importance of the investigation" at least three times.  
+3. **Slogans** – No – No brief, memorable phrases used to simplify complex ideas.  
+4. **Appeal to fear** – Yes – Pompeo urges Americans to consider consequences to U.S. energy/security ties if Saudi relations sour.  
+5. **Doubt** – Yes – Pompeo states, "I don’t want to talk about any of the facts" and reserves judgment on Saudi denials.  
+6. **Exaggeration/minimization** – Yes – Minimizes Saudi culpability by accepting "rogue killers" narrative and calling Saudis "great partners."  
+7. **Flag-Waving** – Yes – Pompeo emphasizes U.S.-Saudi ties (security, counterterrorism) to justify leniency.  
+8. **Loaded Language** – Yes – "Great partners," "thorough, complete, and transparent investigation" (despite evidence to the contrary).  
+9. **Reduction ad Hitlerum** – No – No comparisons to Hitler/Nazis.  
+10. **Bandwagon** – No – No appeal to popularity of an idea.  
+11. **Causal Oversimplification** – Yes – Blames Khashoggi’s death on accidental "interrogation gone awry" by "rogue killers."  
+12. **Obfuscation** – Yes – Pompeo avoids facts: "I don’t want to talk about any of the facts. They didn’t want to either."  
+13. **Appeal to authority** – Yes – Pompeo cites Saudi leaders’ "commitment" and "word" as credible.  
+14. **Black & white fallacy** – No – No false dichotomies presented.  
+15. **Thought-terminating clichés** – Yes – Trump’s "guilty until proven innocent" shuts down scrutiny of Saudi actions.  
+16. **Red herring** – Yes – Shifts focus to Iran ("world’s largest supporter of terrorism") to deflect from Saudi culpability.  
+17. **Straw men** – No – No misrepresented arguments refuted.  
+18. **Whataboutism** – No – No accusations of hypocrisy against critics.  
+
+---
+
+### Verdict – 15% –   
+The text is **not propaganda** but **documentation of propaganda techniques** used by U.S. officials. The article reports statements by Pompeo and Trump that employ minimization, obfuscation, red herrings, and appeals to fear/authority to deflect Saudi accountability. However, the article itself maintains journalistic balance:  
+- It cites Turkish evidence of torture/murder.  
+- Notes Saudi denials shifted from ignorance to "rogue killers."  
+- Quotes critics questioning Saudi credibility.  
+- Highlights contradictions (e.g., Trump’s "severe punishment" vs. "guilty until proven innocent").  
+The *Los Angeles Times* frames these events critically, exposing administration tactics without endorsing them. Propaganda techniques are present in the *quoted statements* (Pompeo/Trump), but the article functions as investigative reporting, not advocacy. The 15% likelihood reflects embedded propaganda in official quotes, not the article’s intent.

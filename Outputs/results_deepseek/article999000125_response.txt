@@ -1,0 +1,22 @@
+Based on the definitions provided and the text, here is the analysis for each propaganda technique:
+
+1.  **Name calling** – No – While the jokes are *described* as being "criticized as racist and homophobic" and "inappropriate," the text itself reports this criticism from AAA officials and Warren, rather than the author directly applying these labels.
+2.  **Repetition** – No – The core message (comedian removed for offensive jokes, differing perspectives on the removal) is presented once, not repeated throughout.
+3.  **Slogans** – No – The text reports the event name ("cultureSHOCK: Reclaim") and quotes individuals, but does not employ any brief, memorable phrases as slogans itself.
+4.  **Appeal to fear** – No – The text reports reactions to jokes but does not attempt to instill fear against alternatives to support a specific idea.
+5.  **Doubt** – No – The text presents differing opinions but does not specifically question the credibility of any person or group within its own narrative.
+6.  **Exaggeration/minimization** – No – The reporting appears factual and descriptive regarding the event, the jokes described, and the reactions. There's no clear indication the author is exaggerating or minimizing events.
+7.  **Flag-Waving** – No – The text discusses an event focused on Asian American identity, but the reporting itself doesn't appeal to patriotism or identity to persuade.
+8.  **Loaded Language** – No – While words like "offensive," "inappropriate," "denounced," "provoking," and "perpetuate" have emotional weight, they are used descriptively to report the views and actions of the participants (AAA, Patel, audience members) or characterize the event's aim ("breakthrough harmful stereotypes"), not to manipulate the reader's emotions directly.
+9.  **Reduction ad Hitlerum** – No – No comparison to universally despised groups (like Nazis) is made to disapprove of an idea.
+10. **Bandwagon** – No – While differing audience reactions are reported, the text doesn't explicitly or implicitly argue that an idea is correct *because* it's popular.
+11. **Causal Oversimplification** – No – The removal is presented as a complex event with multiple stated reasons (offensive jokes contradicting event theme, specific joke about gay black man) and differing perspectives, not reduced to a single simplistic cause.
+12. **Obfuscation, intentional vagueness** – No – The text is relatively clear in describing what happened: the interruption, the reason given (inappropriate jokes, specifically mentioning one), the differing audience reactions, and the event's purpose.
+13. **Appeal to authority** – No – The text cites statements from officials and audience members, but does not use an authority's support as evidence *for the author's own argument*. It reports their perspectives as part of the story.
+14. **Black & white fallacy** – No – The text presents multiple perspectives on the event (AAA/Warren vs. Ferguson vs. Jao), showing nuance and differing viewpoints rather than presenting only two absolute options.
+15. **Thought-terminating clichés** – No – The text doesn't employ phrases designed to shut down critical thought. It reports viewpoints that involve critical thought (e.g., Jao's critique of "exposed to the real world").
+16. **Red herring** – No – The text stays focused on the event, the jokes, the removal, and the reactions. It doesn't introduce irrelevant material to distract.
+17. **Straw men** – No – The text reports the actual reasons given for the removal (jokes deemed offensive/inappropriate, contradicting the event theme) and Patel's actual defense. It doesn't misrepresent a position to refute it.
+18. **Whataboutism** – No – The text doesn't feature any participant charging an opponent with hypocrisy to deflect criticism.
+
+**Verdict – 10% –** The text is overwhelmingly a straightforward news report detailing an event (comedian removed from stage), the stated reasons from involved parties (AAA organizers, audience members), the comedian's response, and background context. It presents multiple perspectives without overtly favoring one. While it covers a controversial topic involving accusations of offensive speech and censorship, the *text itself* does not employ the listed propaganda techniques to manipulate the reader towards a specific conclusion. Its primary purpose is informative reporting, not persuasion through propaganda. The slight percentage (10%) acknowledges the inherent potential for bias in any reporting or selection of quotes, but no overt propaganda techniques are detected.

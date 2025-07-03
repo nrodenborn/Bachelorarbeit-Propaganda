@@ -1,0 +1,23 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – Yes – "Willfully Ignorant FBI" (insulting label targeting the FBI).  
+2. **Repetition** – Yes – Repeated emphasis on the FBI’s failure to find a terror motive (e.g., "We don’t have any nexus of terrorism," "trying to figure out motive").  
+3. **Slogans** – No – No brief, memorable phrases used as slogans.  
+4. **Appeal to fear** – Yes – Warns of a "war" with Islamic groups targeting Americans (e.g., "there is a war going on... Islamic State, al-Qaeda... called upon Muslims... to kill").  
+5. **Doubt** – Yes – Questions FBI credibility (e.g., "given their track record of denial and deception, they may still be searching").  
+6. **Exaggeration/minimization** – Yes – Exaggerates FBI’s actions as "deep, deep corruption" and "astronomical and catastrophic" waste; minimizes alternative explanations for the attack.  
+7. **Flag-Waving** – Yes – Uses WWII analogy ("U.S. Army... German soldier... Ardennes Forest") to invoke patriotism and national defense.  
+8. **Loaded Language** – Yes – Emotionally charged terms like "Muslim Jihadi," "global jihad," "willful ignorance," and "corruption."  
+9. **Reduction ad Hitlerum** – Yes – Compares FBI inaction to interrogating German soldiers linked to Hitler ("Adolf Hitler’s war aims").  
+10. **Bandwagon** – No – No appeal to popularity or group consensus.  
+11. **Causal Oversimplification** – Yes – Attributes the attack solely to Islamic jihad (e.g., "when a Muslim drives into a U.S. Air Force Base... probably this has something to do with global jihad"), ignoring other motives.  
+12. **Obfuscation, intentional vagueness** – No – Language is direct, not deliberately obscure.  
+13. **Appeal to authority** – No – No authoritative figures cited to support claims.  
+14. **Black & white fallacy** – Yes – Presents only two options: attack is part of Islamic jihad or FBI is corrupt (e.g., "treats each act of Islamic terror as... unrelated... So each time... they’re back at Square One").  
+15. **Thought-terminating clichés** – Yes – "Willful ignorance" shuts down critical analysis of FBI’s investigation.  
+16. **Red herring** – Yes – WWII analogy distracts from FBI’s investigation details.  
+17. **Straw men** – Yes – Misrepresents FBI’s stance (e.g., claims FBI requires an "ISIS membership card" as evidence, though FBI states no terror nexus was found "at this point").  
+18. **Whataboutism** – No – No accusations of hypocrisy targeting opponents.  
+
+### Verdict – 95% – Propaganda  
+**Explanation:** The text heavily employs propaganda techniques to manipulate perception. It uses *name-calling* ("Willfully Ignorant FBI"), *loaded language* ("Muslim Jihadi," "corruption"), and *fear appeals* to frame the incident as part of a broader Islamic jihad, despite the FBI’s lack of evidence. It constructs a *black-and-white fallacy* (jihad vs. FBI incompetence) and a *straw man* (misrepresenting FBI criteria for terrorism). Historical analogies (*reduction ad Hitlerum*, *red herring*) distract from factual investigation, while *exaggeration* ("astronomical and catastrophic") and *thought-terminating clichés* ("willful ignorance") discourage critical scrutiny. The text’s goal is to advance a narrative of systemic Islamic threats and institutional failure, aligning with Robert Spencer’s known ideological bias (cited at the end). While it includes factual elements (e.g., quotes from the FBI), these are weaponized to support a predetermined conclusion, making it overwhelmingly propagandistic.

@@ -1,0 +1,24 @@
+Here's the analysis of the text using the specified propaganda techniques:
+
+1. Name calling – **No** – No insulting labels are applied to the subject (plague, healthcare system, or authorities). Terms like "medieval disease" are descriptive, not pejorative.  
+2. Repetition – **No** – While concepts like antibiotic resistance and healthcare strain are mentioned multiple times, this reflects thematic emphasis in reporting, not deliberate repetition to manipulate.  
+3. Slogans – **No** – No brief, memorable phrases are used to simplify or rally support (e.g., no catchphrases like "Stop the Plague Now!").  
+4. Appeal to fear – **Yes** – "The disease will have control of the nation" and "making this disease much more terrifying" amplify fear about antibiotic resistance. "Should the disease actually spread to the African mainland, it will be all but impossible to control" instills fear of uncontrollable escalation.  
+5. Doubt – **No** – No questioning of credibility. Experts and officials are cited authoritatively.  
+6. Exaggeration/minimization – **No** – Statistics (e.g., 2,034 infections) and warnings (e.g., healthcare limitations) are presented as factual reports, not exaggerated/minimized. Terms like "inevitable" reflect expert predictions.  
+7. Flag-Waving – **No** – No appeals to patriotism, nationalism, or group identity.  
+8. Loaded Language – **Yes** – Words like "terrifying," "deadly," "overwhelmed," "medieval disease," and "on the brink" evoke strong emotional responses beyond neutral description.  
+9. Reduction ad Hitlerum – **No** – No association of the plague or policies with hated groups.  
+10. Bandwagon – **No** – No emphasis on popularity to persuade (e.g., "everyone agrees").  
+11. Causal Oversimplification – **No** – Antibiotic resistance is directly linked to overuse (a scientifically supported cause), not oversimplified.  
+12. Obfuscation – **No** – Language is clear and specific (e.g., case numbers, bed counts).  
+13. Appeal to authority – **Yes** – Relies on expert quotes (e.g., Professor McFadden and Dr. Gatherer) to validate claims about antibiotic resistance and healthcare strain.  
+14. Black & white fallacy – **No** – No false dilemmas presented (e.g., acknowledges international aid mitigates outcomes).  
+15. Thought-terminating clichés – **No** – No phrases that shut down critical analysis (e.g., "it is what it is").  
+16. Red herring – **No** – All content focuses on the plague outbreak and its implications.  
+17. Straw men – **No** – No misrepresentation of opposing arguments.  
+18. Whataboutism – **No** – No accusations of hypocrisy.  
+
+---
+
+**Verdict – 10% –** The text is primarily factual reporting on a health crisis, citing verifiable statistics (e.g., 2,034 infections, 6,000 hospital beds) and expert sources. While it uses emotionally loaded language (Appeal to Fear, Loaded Language) and appeals to authority—common in sensationalized journalism—these do not dominate or distort the core message. The absence of techniques like Name-Calling, Doubt, or False Dilemmas indicates a lack of intent to smear opponents or suppress debate. The 10% likelihood reflects minor sensationalism but aligns with legitimate public health communication about risks. No political agenda or manipulative distortion is evident.

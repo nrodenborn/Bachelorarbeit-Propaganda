@@ -1,0 +1,20 @@
+1. Name calling – No – The text reports on President Trump’s use of the label “fake news” but does not use name-calling in its own narrative voice.
+2. Repetition – No – The text is a factual news report and does not repeat a specific message to persuade the audience.
+3. Slogans – No – The text does not use any brief, memorable phrases to promote an idea.
+4. Appeal to fear – No – The article reports on the events of the court case and does not use fear to support an idea.
+5. Doubt – No – The text presents the arguments from both CNN and the White House without questioning the credibility of either side.
+6. Exaggeration/minimization – No – The text quotes statements from CNN and the White House that could be seen as exaggeration or minimization, but the article itself reports these statements neutrally.
+7. Flag-Waving – Yes – The text quotes a CNN statement that appeals to patriotism: “Our sincere thanks to all who have supported not just CNN, but a free, strong and independent American press.”
+8. Loaded Language – Yes – The text quotes emotionally charged language used by the involved parties, such as the White House describing Acosta’s behavior as “rude and aggressive” and CNN’s suit calling the White House’s actions an “unabashed attempt to censor the press.”
+9. Reduction ad Hitlerum – No – There are no comparisons to Hitler or the Nazis in the text.
+10. Bandwagon – Yes – The text notes that “CNN had the broad support of other news organizations” and later lists them, appealing to the idea that CNN's position is correct because it is popular among its peers.
+11. Causal Oversimplification – No – The text avoids this by detailing the complex legal arguments and the history of the conflict rather than assigning a simple cause.
+12. Obfuscation, intentional vagueness – No – The article is written in a clear, journalistic style intended to inform the reader, not confuse them.
+13. Appeal to authority – Yes – The text quotes Mark Lukasiewicz, identified as the “dean of The Lawrence Herbert School of Communication at Hofstra University,” using his expert status to lend weight to the analysis of the court’s decision.
+14. Black & white fallacy – No – The text presents a nuanced situation, explaining that the judge ruled on due process but not yet on the First Amendment, thus avoiding a simple two-sided view.
+15. Thought-terminating clichés – No – The text is an informational report and does not use phrases that discourage critical thought.
+16. Red herring – No – The information presented, including the historical context of the Obama administration and Fox News, is relevant to the topic of press access and is not used to distract.
+17. Straw men – No – The article presents the actual arguments made by both sides in the legal dispute, not misrepresentations of them.
+18. Whataboutism – No – The text draws a parallel to the Obama administration and Fox News as relevant historical context, not as a tactic to deflect blame or accuse hypocrisy.
+
+Verdict – 10% – The text is a news report, not a piece of propaganda. Its primary purpose is to inform the public about a legal ruling, not to persuade the audience to adopt a specific viewpoint. While the text contains several propaganda techniques (Flag-Waving, Loaded Language, Bandwagon, Appeal to Authority), these are almost exclusively found within quotes attributed to the parties involved in the conflict (CNN, the White House) or are used as standard journalistic conventions (quoting an expert for analysis). The article itself maintains a neutral tone, attributes its sources, presents arguments from both sides, and provides relevant context. The low percentage reflects that any journalistic piece involves editorial choices in what to include, but this text strongly adheres to the principles of objective reporting rather than persuasive propaganda.

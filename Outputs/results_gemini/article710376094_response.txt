@@ -1,0 +1,22 @@
+1. Name calling – No – The text does not use any insulting labels to attack the subject. The term “potentially hazardous” is a formal classification, not an insult.
+2. Repetition – No – While the term “potentially hazardous” is used more than once, it is not repeated excessively to the point of becoming a propaganda technique. It is used to introduce the concept and then to attribute it to the official source.
+3. Slogans – No – The text does not use any brief, memorable phrases to promote an idea.
+4. Appeal to fear – Yes – The headline and the use of the phrase “potentially hazardous” are designed to instill a sense of fear or alarm to grab the reader's attention. Example: “Asteroid Will Skim By Earth Days Before Christmas: It Is ‘Potentially Hazardous’”
+5. Doubt – No – The text does not question the credibility of any person or organization; in fact, it relies on the credibility of NASA and the Minor Planet Center.
+6. Exaggeration/minimization – Yes – The headline uses the word "skim" which exaggerates the proximity of the asteroid's pass to create a more dramatic effect. Example: “An asteroid called 3200 Phaethon will skim past the Earth”
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity.
+8. Loaded Language – Yes – The text uses emotionally charged words and references to create a sense of drama and urgency. Example: “…after the Greek demi-god who, according to legend, nearly set the Earth on fire”
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups.
+10. Bandwagon – No – The text does not suggest that an idea is popular and that the reader should also adopt it.
+11. Causal Oversimplification – No – The text does not present a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text is quite specific, providing exact names, distances, and dates, and citing its sources.
+13. Appeal to authority – Yes – The text uses the authority of scientific organizations to support its claims and provide credibility. Example: “…classified as “potentially hazardous” by the Minor Planet Center.”
+14. Black & white fallacy – No – The text does not present a false dichotomy of only two choices.
+15. Thought-terminating clichés – No – The text does not use any phrases designed to stop critical thought.
+16. Red herring – No – All the information presented, such as the origin of the Geminid meteor shower, is relevant to the central topic of the asteroid.
+17. Straw men – No – The text is not arguing against any position and therefore does not misrepresent one.
+18. Whataboutism – No – The text does not accuse any party of hypocrisy.
+
+Verdict – 10% – The text is highly unlikely to be propaganda, though it uses some techniques commonly found in it. The techniques identified (Appeal to Fear, Exaggeration, Loaded Language) are concentrated in the headline and the introduction. Their purpose is not to manipulate the reader into a specific belief or action for a political or ideological cause, but rather to serve as a journalistic "hook" to capture attention and encourage readership—a practice often referred to as "clickbait."
+
+The body of the article immediately counteracts the initial alarm by providing factual context that minimizes the actual danger (e.g., the pass is "27 times the distance of the moon" and "Much closer flybys have occurred"). Furthermore, the text relies on legitimate appeals to authority (NASA, Minor Planet Center) to provide factual, scientific information, and it educates the reader on related topics like the Geminid meteor shower and the difference between asteroids and comets. The primary intent of the text is to inform, not to deceive. Therefore, it functions as a piece of popular science journalism, not propaganda.

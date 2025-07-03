@@ -1,0 +1,43 @@
+Name calling – No – The text attacks the actions and credibility of individuals and groups but does not use insulting labels or slurs to do so.
+
+Repetition – Yes – The text repeatedly states that the FBI had evidence of a Russian bribery scheme before the Obama administration approved the Uranium One deal. For example, it says, "In short, the FBI had ample evidence of the Russian bribery plot before the Obama administration approved the Uranium One deal," and later, "By the time the sale of Uranium One was approved by the Obama Administration, the FBI’s investigators had already gathered substantial evidence..."
+
+Slogans – No – The text does not use any brief, memorable phrases in a repetitive, slogan-like manner.
+
+Appeal to fear – Yes – The text stokes fears about national security being compromised. For example: "The Russians were compromising American contractors in the nuclear industry with kickbacks and extortion threats, all of which raised legitimate national security concerns," and "At the time everyone was concerned about Russia’s ties to Iran, we still are."
+
+Doubt – Yes – The text is constructed to cast doubt on the integrity of the Department of Justice and several high-ranking officials. For example: "Moreover, both Robert Mueller and current deputy Attorney General Rod Rosenstein were directly involved – and current Attorney General Jeff Sessions and other Justice Department officials appear to be covering for them."
+
+Exaggeration/minimization – Yes – The text exaggerates the direct connection between the Lambert indictment and the approval of the Uranium One deal, framing the former as definitive proof of corruption in the latter. For example: "Based on what the FBI knew – including evidence which purportedly includes a video of Russians preparing briefcases of bribe money – the Uranium One deal never should have gone through."
+
+Flag-Waving – Yes – The text appeals to patriotism by framing the issue as one of national security and foreign infiltration of American markets. For example: "The Russians were compromising American contractors in the nuclear industry..." and it raises concerns about "Russia’s intentions and reach into the U.S. energy market."
+
+Loaded Language – Yes – The text uses emotionally charged and dramatic words to influence the reader's perception. Examples include "FBI mole deeply embedded," "iron-clad gag order," "explosive report," and "massive Russian 'nuclear money laundering apparatus'."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or groups hated by the audience in that manner.
+
+Bandwagon – No – The text does not argue that its position is correct because it is popular. Instead, it frames its position as an uncovered truth known by a select few.
+
+Causal Oversimplification – Yes – The text presents a simple cause for a complex event by suggesting that knowledge of a bribery scheme involving a transport company should have automatically and single-handedly stopped the multi-agency CFIUS approval of the Uranium One sale. For example: "It is hard to fathom how such a transaction could have been approved without the existence of the underlying corruption being disclosed."
+
+Obfuscation, intentional vagueness – Yes – The text relies on anonymous sources and vague connections to build its case, creating an air of conspiracy without providing concrete, verifiable proof. For example: "a person who worked on the case told The Hill, speaking on condition of anonymity for fear of retribution," and "an unnamed U.S. Intelligence official told Carter."
+
+Appeal to authority – Yes – The text uses the statements of authority figures, primarily Republican politicians and a former Justice Department official, as evidence for its claims. For example: "Rep. Ron DeSantis, (R-Fla.) told The Hill," and "Senate Judiciary Committee Chairman Chuck Grassley (R-Iowa) sent a similar rebuke."
+
+Black & white fallacy – Yes – The text presents the situation as a choice between a corrupt Obama administration covering up a crime and the whistleblowers telling the truth, ignoring other possibilities or nuances. For example, the statement "the Uranium One deal never should have gone through" presents the situation as a simple, binary decision with no room for complexity.
+
+Thought-terminating clichés – No – The text does not use common, generic phrases to shut down debate.
+
+Red herring – Yes – The main subject of the article, the indictment of Mark Lambert, is used as a red herring to pivot to a larger, more politically charged argument about the Obama administration, Robert Mueller, and the Uranium One deal, distracting from the specifics of the indictment itself.
+
+Straw men – Yes – The text refutes a simplified version of an opposing argument. It states, "Attorney General Sessions seemed to say that the bribery... offenses... occurred after the approval of the Uranium One deal," and then refutes this by showing the investigation started in 2009. This refutes the simplest interpretation of "no connection" rather than a more nuanced argument about whether the connection was legally sufficient to stop the deal.
+
+Whataboutism – No – The text does not deflect criticism by accusing an opponent of hypocrisy on another issue. It maintains a direct line of attack on its subjects.
+
+***
+
+Verdict – 95% – The text is a strong example of propaganda. While it is centered on a factual event (a DOJ indictment), its primary purpose is not to inform neutrally but to persuade the reader of a specific, politically charged narrative. It achieves this by employing a multitude of propaganda techniques.
+
+The article uses a kernel of truth—the indictment of a transport executive for bribery—and builds a larger conspiratorial framework around it. It heavily utilizes `Appeal to authority` by selectively quoting politicians who support its narrative, and `Doubt` to question the integrity of government institutions and officials like the DOJ, Mueller, and Rosenstein. The use of `Loaded Language` ("mole," "explosive report," "iron-clad gag order") and `Appeal to Fear` (invoking "national security concerns") creates a dramatic and urgent tone.
+
+Crucially, the piece relies on `Causal Oversimplification` and `Red Herring` to conflate the bribery case of a transport company with the complex, multi-agency approval of the Uranium One sale, suggesting the former is direct proof of corruption in the latter. The reliance on vague, anonymous sources (`Obfuscation`) further supports the narrative without providing falsifiable evidence. The entire article is structured not as a report, but as an argument designed to convince the reader of a cover-up, making it a clear piece of propaganda.

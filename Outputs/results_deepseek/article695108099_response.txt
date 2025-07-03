@@ -1,0 +1,22 @@
+Here is the analysis of propaganda techniques in the text, followed by the verdict:
+
+1.  **Name calling** – No – No insulting labels are used against subjects.
+2.  **Repetition** – No – Key points (receipt details, date discrepancy) are stated but not excessively repeated.
+3.  **Slogans** – No – No brief, memorable phrases are used as slogans.
+4.  **Appeal to fear** – Yes – "Authorities must surely now be on the hunt..." and the mention of the woman reportedly telling concert-goers "they were 'going to die'" are used to instill fear about potential co-conspirators and official incompetence.
+5.  **Doubt** – Yes – Explicitly questions authorities: "Why did police lie and say he checked in on Sep. 28th?" and highlights discrepancies in dates/statements throughout.
+6.  **Exaggeration/minimization** – Yes – "Authorities must surely now be on the hunt..." assumes and exaggerates the certainty and intensity of the investigation. Minimizes the possibility of mundane explanations for date discrepancies.
+7.  **Flag-Waving** – No – No appeal to patriotism or group identity.
+8.  **Loaded Language** – Yes – Words like "massacre," "plot," and "lie" evoke strong negative emotions and imply nefarious intent.
+9.  **Reduction ad Hitlerum** – No – No association with hated groups is made.
+10. **Bandwagon** – No – No appeal to the popularity of an idea.
+11. **Causal Oversimplification** – Yes – Assumes the date discrepancy is definitively a "lie" by police ("Why did police lie...?"), presenting a simple explanation (deception) for a potentially complex situation (record-keeping error, miscommunication, etc.).
+12. **Obfuscation, intentional vagueness** – No – The details presented (receipt info, dates) are presented as clear evidence, not obscured.
+13. **Appeal to authority** – Weak/Indirect – Cites sources (Facebook post, "another source" via Laura Loomer, Infowars/PJW) but these lack established credibility; leans more on presenting "evidence" than authoritative endorsement.
+14. **Black & white fallacy** – Yes – Presents the date discrepancy as proof authorities "lied," implying deliberate deception as the only possible explanation ("Why did police lie...?"), ignoring other potential reasons.
+15. **Thought-terminating clichés** – No – No phrases used to shut down critical thought.
+16. **Red herring** – Yes – The mention of the woman who "reportedly told concert-goers they were 'going to die'" introduces an emotionally charged but unverified and largely irrelevant detail distracting from the core receipt/date claims.
+17. **Straw men** – No – Does not refute an argument not actually presented by opponents.
+18. **Whataboutism** – No – Does not charge opponents with hypocrisy.
+
+**Verdict – 70% –** The text exhibits several key propaganda techniques: **Appeal to fear** (hunt for accomplice, "going to die" report), **Doubt** (questioning official timeline), **Loaded language** ("massacre," "plot," "lie"), **Causal oversimplification** (assuming police lied about dates), **Black & white fallacy** (presenting the discrepancy solely as a lie), and **Red herring** (introducing the "going to die" woman). Its core purpose is to cast significant doubt on the official narrative surrounding the Las Vegas shooting by presenting selective "evidence" (the receipt, date claims) in an emotionally charged manner that implies conspiracy and official deception, while originating from a source (Infowars) known for promoting conspiracy theories. While it presents factual elements (the receipt details, the existence of the social media posts), its framing, selective emphasis, and use of the techniques above strongly align it with propagandistic intent to manipulate perception rather than provide neutral reporting. The percentage reflects the strong presence of manipulative techniques but acknowledges the inclusion of some factual anchors.

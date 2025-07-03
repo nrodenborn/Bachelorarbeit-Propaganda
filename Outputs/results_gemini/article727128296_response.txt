@@ -1,0 +1,22 @@
+1. Name calling – No – The text uses descriptive terms like "gunman" for Stephen Paddock and "person of interest" for Douglas Haig, which are factual within the context of the events, rather than insulting labels intended to persuade.
+2. Repetition – No – While key facts are reiterated as the story develops, there is no single message repeated excessively to persuade the audience.
+3. Slogans – No – The text does not contain any brief, memorable phrases designed to be repeated or to encapsulate an ideology.
+4. Appeal to fear – No – The text reports on a frightening event but does not use fear to advocate for a particular idea or to warn against alternatives.
+5. Doubt – Yes – The text creates doubt by contrasting official documents with personal testimony. For example, it states that a search warrant says Haig "'may have conspired with Stephen Paddock,'" and immediately follows with "Haig strongly denies that." This forces the reader to question the credibility of both the authorities' suspicions and Haig's claims.
+6. Exaggeration/minimization – No – The text reports facts and quotes without overtly exaggerating or minimizing them for persuasive effect.
+7. Flag-Waving – No – There is no appeal to patriotism or national identity in the text.
+8. Loaded Language – No – The text uses factual and descriptive language. While the event described is emotional, the article avoids using emotionally charged words or stereotypes to manipulate the reader's feelings.
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups to discredit an idea.
+10. Bandwagon – No – The text does not suggest that an idea is correct because it is popular.
+11. Causal Oversimplification – No – The text explicitly avoids this by stating, "Las Vegas gunman's motive still unknown," acknowledging the complexity and lack of a simple explanation for the event.
+12. Obfuscation, intentional vagueness – No – The text aims to clarify the situation based on available information. It reports on the lack of clarity from official sources ("It's unclear whether Haig is still a person of interest") rather than being intentionally vague itself.
+13. Appeal to authority – Yes – The text cites official sources as evidence for its claims, such as "newly released search warrant records filed last fall by the Las Vegas Metropolitan Police Department say Haig 'may have conspired...'" and information from "investigators."
+14. Black & white fallacy – No – The text presents multiple facets of the situation: the official suspicion, Haig's denial, and the uncertainty of the investigation, rather than reducing it to two simple options.
+15. Thought-terminating clichés – No – The text does not use any phrases designed to discourage critical thought.
+16. Red herring – No – All the information presented is directly relevant to the story of Douglas Haig and the Las Vegas investigation.
+17. Straw men – No – The text does not misrepresent or invent an argument to then refute it.
+18. Whataboutism – No – The text does not attempt to deflect criticism by accusing others of hypocrisy.
+
+Verdict – 5% – This text is overwhelmingly a piece of journalism, not propaganda. Its primary purpose is to inform the public about new developments in an ongoing investigation. It attributes its sources (CBS News, search warrants, attorneys) and presents multiple perspectives, including those of the person of interest, his lawyers, and law enforcement.
+
+The few techniques identified ("Appeal to authority" and "Doubt") are used in a manner consistent with standard journalistic reporting. Citing an authority like a police warrant is a fundamental part of verifying and reporting news, not a fallacious attempt to win an argument. Likewise, creating doubt by presenting conflicting accounts (the warrant vs. Haig's denial) is a hallmark of balanced reporting on an unresolved issue, allowing the reader to see the complexity of the situation. The text does not advocate for a specific viewpoint or action, but rather lays out the known facts of a story, which is the antithesis of propaganda's goal to persuade and manipulate.

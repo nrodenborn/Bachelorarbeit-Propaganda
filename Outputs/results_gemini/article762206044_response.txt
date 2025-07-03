@@ -1,0 +1,39 @@
+1. Name calling – Yes – The text refers to Imran Awan as a “Muslim IT spy” in the headline and the first paragraph, attaching a negative label to him based on his religion and an unproven accusation.
+
+2. Repetition – Yes – The poll question “Whom do you consider to be the most corrupt Democrat Politician?” is repeated verbatim three times in the middle of the text.
+
+3. Slogans – No – The text does not use any brief, memorable phrases in a repeated, slogan-like manner.
+
+4. Appeal to fear – Yes – The text describes the situation as “what could be the biggest crime of spying in US history,” creating fear about a massive national security threat posed by political opponents.
+
+5. Doubt – Yes – The very first sentence questions the credibility of the media: “One of the biggest stories of 2017 and 2018 is being ignored by the mainstream media”.
+
+6. Exaggeration/minimization – Yes – The text exaggerates the potential scale of the issue by calling it “the biggest crime of spying in US history.”
+
+7. Flag-Waving – No – The text does not make a direct appeal to patriotism or American identity to support its claims.
+
+8. Loaded Language – Yes – The text uses emotionally charged and stereotypical language, such as “Muslim IT spy,” “Aided & Abetted,” and describes Wasserman Schultz as “frantic, not normal.”
+
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other groups widely hated by the audience.
+
+10. Bandwagon – Yes – The phrase “and we all know why that is” suggests that the reason for the media’s alleged silence is a commonly held belief, encouraging the reader to join this consensus.
+
+11. Causal Oversimplification – Yes – The text presents a simple reason for the lack of media coverage: “It's because it implicates dozens of House Democrats,” ignoring other potential factors like the story's complexity, sourcing, or newsworthiness compared to other events.
+
+12. Obfuscation, intentional vagueness – Yes – The phrase “we all know why that is” is intentionally vague, implying a conspiracy without having to state or prove what that conspiracy is.
+
+13. Appeal to authority – Yes – The text heavily relies on the reporting of “Luke Rosiak of The Daily Caller” and the Pakistani publication “Dawn” to lend credibility to its claims.
+
+14. Black & white fallacy – Yes – The poll, “Whom do you consider to be the most corrupt Democrat Politician?” presents a limited list of Democrats, implying that one of them must be the most corrupt and that corruption is a given, ignoring any other possibility.
+
+15. Thought-terminating clichés – Yes – The phrase “we all know why that is” is used to shut down critical thought about why the story might not be widely covered, presenting the author's premise as an undeniable truth.
+
+16. Red herring – Yes – The text mentions that “Wasserman Schultz’s brother is a prosecutor in the same office handling the case,” introducing an irrelevant fact to imply a conflict of interest and sow suspicion without providing any evidence of his involvement.
+
+17. Straw men – Yes – The text refutes an argument that Wasserman Schultz did not solely make. It presents her statement as, “my office was provided no evidence to indicate that laws had been broken,” while downplaying her stated concerns about “due process, fair treatment and potential ethnic and religious profiling,” making her position easier to attack.
+
+18. Whataboutism – No – The text focuses its attack on one group (Democrats) and does not attempt to deflect criticism by accusing an opponent of hypocrisy.
+
+***
+
+Verdict – 95% – The text is overwhelmingly propagandistic. It employs a vast majority (15 out of 18) of the listed techniques to construct a narrative designed to persuade the reader rather than objectively inform them. The article opens by immediately casting doubt on the mainstream media and using loaded language and name-calling (“Muslim IT spy”). It frames the story with exaggeration (“biggest crime of spying in US history”) and appeals to fear. The use of bandwagon fallacies (“we all know why that is”), repetition (the poll), and red herrings (the mention of DWS’s brother) all serve to guide the reader to a predetermined conclusion: that a massive, spy-related crime and cover-up is being perpetrated by the Democratic party. While it cites sources (appeal to authority), the information is presented within this highly biased and emotionally charged framework, making its primary purpose persuasion, not journalism.

@@ -1,0 +1,37 @@
+1. Name calling – No – The text does not use insulting labels to attack individuals directly. It discusses actions and decisions without using derogatory terms.
+
+2. Repetition – No – The text does not repeat any specific message or phrase multiple times.
+
+3. Slogans – No – The text does not use a brief and memorable phrase to convey its message.
+
+4. Appeal to fear – No – The text does not attempt to instill fear against alternatives or outcomes.
+
+5. Doubt – Yes – The text questions the credibility of Obama and Comey by suggesting they were lenient with Hillary Clinton. Example: "Barack Obama and former FBI director James Comey let Hillary off the hook before the election."
+
+6. Exaggeration/minimization – Yes – The text minimizes Saucier’s actions and exaggerates Clinton’s alleged violations. Example: "My conviction and subsequent sentence for a minor military infraction compared to the treatment of politically connected individuals..."
+
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+
+8. Loaded Language – Yes – The text uses emotionally charged language to describe actions, such as "scapegoated" and "overzealous." Example: "Saucier told Fox News he was scapegoated by Obama officials..."
+
+9. Reduction ad Hitlerum – No – The text does not compare the actions or individuals to groups hated by the audience.
+
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+
+11. Causal Oversimplification – Yes – The text oversimplifies the legal actions against Saucier and Clinton by attributing them to political motivations without acknowledging the complexity of legal proceedings. Example: "Saucier says that that action was 'unfair' and 'unequal' compared to the corruption and criminal activity of Hillary Clinton."
+
+12. Obfuscation, intentional vagueness – No – The text is relatively clear in its accusations and does not use deliberately vague language.
+
+13. Appeal to authority – No – The text does not use an authority’s support as evidence for its claims.
+
+14. Black & white fallacy – Yes – The text presents the situation as a clear-cut case of double standards without acknowledging other possible explanations. Example: "My conviction and subsequent sentence for a minor military infraction compared to the treatment of politically connected individuals is a glaring example of a violation of the rights of all Americans..."
+
+15. Thought-terminating clichés – No – The text does not use clichés that discourage critical thought or discussion.
+
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main argument.
+
+17. Straw men – No – The text does not refute an argument that was not presented.
+
+18. Whataboutism – Yes – The text charges Obama and Comey with hypocrisy by comparing their actions regarding Saucier and Clinton. Example: "Saucier’s federal lawsuit alleges that the United States government was 'overzealous' in prosecuting him...while going easy on former Secretary of State Hillary Clinton."
+
+**Verdict – 70% – The text exhibits several propaganda techniques, including doubt, exaggeration/minimization, loaded language, causal oversimplification, black & white fallacy, and whataboutism. These techniques suggest a significant likelihood of the text being propaganda, as it aims to influence the audience's perception of the legal actions against Saucier and Clinton by presenting a biased and emotionally charged narrative.**

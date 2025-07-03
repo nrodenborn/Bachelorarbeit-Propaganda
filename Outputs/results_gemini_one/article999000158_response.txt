@@ -1,0 +1,22 @@
+1. Name calling – Yes – The text attacks Keith Ellison with insulting labels such as “Hakim Muhammad,” “pathological liar,” “accused woman abuser,” and “flea-infested political con man.”
+2. Repetition – Yes – The poll question “Should military force be used to stop the caravan of migrants marching toward the U.S. border?” is repeated three times in a row. Additionally, the text of Michael Ahrens' tweet is printed immediately after the embedded tweet.
+3. Slogans – No – The text does not use a brief, memorable phrase to rally support for an idea.
+4. Appeal to fear – Yes – The text attempts to instill fear by associating Ellison with Farrakhan, who it claims “has called on 10,000 blacks to stalk and murder white people.”
+5. Doubt – Yes – The text repeatedly questions Keith Ellison’s credibility with phrases like “Yeah, right, Hakim!”, “Keith, you're lying,” and “understand how pathological liar and accused woman abuser Keith Ellison seeks to deceive you.”
+6. Exaggeration/minimization – Yes – The text exaggerates by labeling Ellison as a “totalitarian-minded individual.”
+7. Flag-Waving – No – The text does not make a direct appeal to patriotism or national identity to make its case against Ellison.
+8. Loaded Language – Yes – The text uses emotionally charged and stereotypical language, such as describing Ellison and Farrakhan as having “the same devil as their father.”
+9. Reduction ad Hitlerum – Yes – The text disapproves of Ellison by associating him with groups hated by the intended audience: “Ellison is a totalitarian-minded individual, who has been supported by Communists and Islamists alike.”
+10. Bandwagon – No – The text does not argue that its position is correct because it is popular.
+11. Causal Oversimplification – Yes – The text presents a simple cause for a complex issue by stating, “Both of these men have the same devil as their father because both men are following after the teaching of the Koran.”
+12. Obfuscation, intentional vagueness – No – The text is direct and aggressive in its claims and language, not deliberately unclear.
+13. Appeal to authority – Yes – The text uses a tweet from “Michael Ahrens of GOP.com” as evidence to support its claims against Ellison.
+14. Black & white fallacy – Yes – The poll included in the text presents only two options for a complex issue: “* Yes, military force should be used. No, keep the military out of it.”
+15. Thought-terminating clichés – Yes – The text uses the cliché, “As the old saying goes, ‘If you like down with dogs, you're going to get fleas,’” to discourage a more nuanced consideration of political associations.
+16. Red herring – Yes – The text introduces a poll about a “caravan of migrants marching toward the U.S. border,” which is entirely irrelevant to the topic of Keith Ellison and Louis Farrakhan, in order to distract the reader.
+17. Straw men – No – The text does not misrepresent Ellison’s argument to refute it; instead, it directly accuses him of lying and presents what it claims is counter-evidence.
+18. Whataboutism – No – The text draws a parallel between Ellison and Obama’s situations but does not deflect criticism of Ellison by accusing his opponent of hypocrisy.
+
+***
+
+Verdict – 95% – The text is highly propagandistic. It employs a vast array of propaganda techniques with high frequency. The primary goal is not to inform the reader but to persuade them to adopt an extremely negative view of Keith Ellison. This is achieved by relentlessly attacking his character through **Name Calling** (“pathological liar,” “flea-infested political con man”) and **Loaded Language** (“devil as their father”). It consistently works to create **Doubt** about his statements (“Keith, you’re lying”) and uses an **Appeal to Fear** by linking him to violent rhetoric. The article also features clear logical fallacies, including a **Red Herring** (the unrelated poll on migrants), a **Black & White Fallacy** (the poll's binary options), and **Causal Oversimplification** (blaming the Koran for their actions). The sheer density and combination of these emotional appeals and logical fallacies, all aimed at discrediting a political figure, strongly indicate that the text is a piece of propaganda.

@@ -1,0 +1,20 @@
+1. Name calling – No – The text describes the professor's belief as "incorrect," which is a factual statement within the context of the story, not an insulting label.
+2. Repetition – Yes – The statement that Australia is a country is repeated multiple times to emphasize the professor's error. Example: "Australia is a country. Just so we're all clear." and "Australia is, in fact, a country." and "Australia is both a continent and a country."
+3. Slogans – No – The text does not use any brief, memorable phrases to rally support.
+4. Appeal to fear – No – The text is a report on a grading dispute and does not attempt to instill fear.
+5. Doubt – Yes – The entire article is framed to cast doubt on the professor's competence and credibility by focusing on their factual error. Example: "A professor at Southern New Hampshire University failed one of her student's assignments because the professor incorrectly thought Australia 'is not a country'..."
+6. Exaggeration/minimization – No – The article appears to report the events of the story directly without obvious exaggeration or minimization.
+7. Flag-Waving – No – The mention of the US and Australia is for contextual purposes related to the assignment, not an appeal to patriotism.
+8. Loaded Language – No – The article uses a generally neutral, journalistic tone and avoids emotionally charged words.
+9. Reduction ad Hitlerum – No – The text makes no comparisons to hated groups.
+10. Bandwagon – No – The text states a widely accepted fact but does not appeal to its popularity as the reason to believe it.
+11. Causal Oversimplification – No – The cause of the event (a failed grade) is presented as a direct result of the professor's error, which is not an oversimplification in this context.
+12. Obfuscation, intentional vagueness – No – The article is written with clarity and is easy to understand.
+13. Appeal to authority – Yes – The student appeals to the authority of an official government source to prove her point. Example: "...Arnold correctly asserted that Australia is a country, linking to the 'About Australia' section of the country's website:"
+14. Black & white fallacy – No – The text does not present a false dichotomy.
+15. Thought-terminating clichés – No – The text does not use phrases to discourage critical thought.
+16. Red herring – No – The article stays focused on the incident and does not introduce irrelevant material to distract.
+17. Straw men – No – The article addresses the professor's actual argument ("Australia is a continent; it is not a country") directly.
+18. Whataboutism – No – The text does not charge anyone with hypocrisy.
+
+Verdict – 20% – The text is primarily a news article reporting on a human-interest story. However, it is not entirely neutral and employs some persuasive techniques, giving it a low likelihood of being considered propaganda. The article clearly sides with the student and uses techniques like **Repetition** and **Doubt** to frame the professor as incompetent and guide the reader's opinion. The author's editorial interjections, such as "Just so we're all clear," demonstrate a clear bias. While it is not promoting a large-scale political ideology, it is shaping the audience's perception of the specific people and institutions involved, which is a function of propaganda. The low percentage reflects that its primary purpose is to inform and entertain rather than to push a major agenda.

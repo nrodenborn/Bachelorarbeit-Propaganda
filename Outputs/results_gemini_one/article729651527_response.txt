@@ -1,0 +1,39 @@
+1. Name calling – Yes – The text reports on the use of name-calling by quoting an elected representative, Igor Sadikov, who tweeted: “punch a zionist.” It also reports that the group Democratize SSMU alleged “layers of corruption” within the student government.
+
+2. Repetition – No – The text is a news report and does not use the technique of repeating a specific message or phrase to influence the reader.
+
+3. Slogans – Yes – The text quotes a tweet that functions as a brief, memorable, and aggressive phrase: “punch a zionist.”
+
+4. Appeal to fear – Yes – The text quotes Rabbi Reuben Poupko, who supports the idea that there is a problem by instilling fear, stating that any Jewish students involved in student politics “will have encounters that are profoundly disturbing and unpleasant.”
+
+5. Doubt – Yes – The text reports that the group Democratize SSMU questioned the credibility of the student government by alleging “layers of corruption” and “favouritism in appointing board members.”
+
+6. Exaggeration/minimization – No – The text, as a whole, does not overtly exaggerate or minimize the situation. It reports on various claims and perspectives in a journalistic manner.
+
+7. Flag-Waving – Yes – The text reports that students were targeted based on their identity, specifically for having “pro-Israel viewpoints” and for their affiliation with the “Canadian Jewish Political Affairs Committee,” which is an appeal to identity.
+
+8. Loaded Language – Yes – The text contains several examples of reported loaded language, most notably the violent and emotionally charged phrase “punch a zionist.”
+
+9. Reduction ad Hitlerum – No – The text does not contain any comparisons to Hitler or the Nazis.
+
+10. Bandwagon – Yes – The text quotes Rabbi Reuben Poupko stating that the issue at McGill is part of a “continent-wide phenomenon within student politics,” appealing to the prevalence of the idea to suggest its validity.
+
+11. Causal Oversimplification – Yes – The article reports on the central claim that the students were voted off the board simply because “they were identified as having pro-Israel viewpoints,” which presents a single cause for what is likely a more complex political event.
+
+12. Obfuscation, intentional vagueness – Yes – The text describes Spencer Boudreau's initial report as being vague, where he “could not determine if students who organized against the three board members had anti-Semitic intentions” but also “understood why the students felt they were targeted.” This vagueness necessitated a later clarification.
+
+13. Appeal to authority – Yes – The article heavily relies on quoting figures of authority to lend credibility to the information presented, including “McGill Principal Suzanne Fortier,” “Spencer Boudreau, a retired professor of education and former ombudsperson for students,” and “Rabbi Reuben Poupko, the co-chair for Quebec of the Centre for Israel and Jewish Affairs.”
+
+14. Black & white fallacy – No – The text avoids this fallacy by presenting a nuanced situation, such as reporting that McGill is generally a “safe space” while also having a specific problem within its student politics.
+
+15. Thought-terminating clichés – No – The text does not use any common, simple phrases designed to stop critical thought.
+
+16. Red herring – Yes – The text reports that the group Democratize SSMU, when faced with criticism for targeting Jewish students, introduced the issues of “layers of corruption” and “favouritism,” which can be seen as an attempt to distract from the original allegation of anti-Semitism.
+
+17. Straw men – No – The text does not feature any examples of an individual or group refuting an argument that was not actually made by their opponent.
+
+18. Whataboutism – No – The text does not contain any instances of a person or group deflecting criticism by charging an opponent with hypocrisy.
+
+Verdict – 15% – The text is a news article, not a piece of overt propaganda. Its primary purpose is to inform the public about a series of events and the reactions to them. It follows journalistic conventions by attributing information to specific sources, quoting multiple perspectives (Noah Lew, Spencer Boudreau, Suzanne Fortier, Reuben Poupko), and noting that one of the involved parties ("Democratize SSMU") did not respond to a request for an interview.
+
+However, the text is not entirely neutral. While the author does not use propaganda techniques directly, the article's structure is built around reporting the propaganda techniques used by the subjects of the story (e.g., name-calling, appeal to fear, red herrings). The selection and framing of these quotes create a narrative that is more sympathetic to Noah Lew and the Jewish groups. The headline itself, "Student says anti-Semitism still an issue in McGill student government," frames the entire article from one perspective. The lack of a counter-narrative from Democratize SSMU (due to their non-response) further weights the article toward one side. Therefore, while it functions primarily as journalism, its framing and the inherent nature of reporting on persuasive and emotional language give it a low likelihood of being perceived as or functioning as subtle propaganda.

@@ -1,0 +1,41 @@
+Name calling – Yes – The author attacks Nigel Farage by labeling him a “mainstream hack politician” and accuses him of a “stance of denial and appeasement.”
+
+Repetition – Yes – The poll question “Whom do you consider to be the most corrupt Democrat Politician?” is repeated three times in a row.
+
+Slogans – No – The text does not use brief, memorable phrases intended as slogans.
+
+Appeal to fear – Yes – The text builds a case that Islam is inherently at war with the non-Muslim world, citing historical texts about exterminating infidels (“the great Temur always strove to exterminate the infidels”) and subjugation (“dhimmitude”) to create fear and suggest that Farage’s more moderate approach is dangerous.
+
+Doubt – Yes – The author questions Farage’s credibility and knowledge by asking “Now how does Farage propose to do that?” and stating his statement “manifests a remarkable ignorance of history.”
+
+Exaggeration/minimization – Yes – The author exaggerates the meaning of Farage’s statement, claiming his warning against a “battle between us and the entire religion” is a call to “not speak about how jihadis find justification for their actions in the Qur’an and Sunnah.”
+
+Flag-Waving – Yes – The text appeals to a sense of Western identity by framing the conflict as a “Battle Between the West and Islam” and a need to get Muslims “more attuned to Western values.”
+
+Loaded Language – Yes – The text uses emotionally charged words and phrases such as “sabotage,” “denial and appeasement,” “global jihad threat,” and “mainstream hack politician” to evoke an emotional response from the reader.
+
+Reduction ad Hitlerum – No – The text does not compare any person or idea to Hitler or the Nazis.
+
+Bandwagon – No – The text does not suggest that the reader should agree with an idea because it is popular.
+
+Causal Oversimplification – Yes – The text simplifies the complex issue of modern terrorism by suggesting its sole cause is a historical, theological imperative within Islam (“many Muslims throughout history have considered their entire religion to be at war with the entire non-Muslim world”), ignoring other complex geopolitical and social factors.
+
+Obfuscation, intentional vagueness – No – The author’s argument, while biased, is presented clearly and directly, not with intentional vagueness.
+
+Appeal to authority – Yes – The author cites himself as an authority (“I document this abundantly in my new book The History of Jihad From Muhammad to ISIS”) and uses historical figures and texts as authorities to support his argument.
+
+Black & white fallacy – Yes – The text presents a false choice between the author’s view (that Islam is inherently at war with the West) and Farage’s supposed view (“denial and appeasement”), ignoring a wide spectrum of other possible approaches and interpretations.
+
+Thought-terminating clichés – No – The article attempts to build an argument rather than using simple phrases to shut down discussion.
+
+Red herring – Yes – The inserted poll, “Whom do you consider to be the most corrupt Democrat Politician?”, is completely irrelevant to the article’s topic of Nigel Farage and Islam, serving only to distract the reader and push a separate political agenda.
+
+Straw men – Yes – The author refutes an argument that Farage did not make. Farage warns against making the issue a “battle between us and the entire religion,” which the author misrepresents as a call to “not speak about how jihadis find justification for their actions in the Qur’an,” an easier position to attack.
+
+Whataboutism – No – The text criticizes Farage for changing his stance but does not use the technique of deflecting criticism by accusing an opponent of hypocrisy on another issue.
+
+Verdict – 95% – The text is overwhelmingly an example of propaganda. Its primary purpose is not to inform but to persuade the reader to adopt a specific, hostile viewpoint towards Islam and to discredit a political figure (Nigel Farage) for adopting what the author considers a weak stance.
+
+The article systematically employs a vast number of propaganda techniques to achieve this goal. It frames the entire issue as a **Black & White Fallacy** and an appeal to **Flag-Waving**: a civilizational "Battle Between the West and Islam." It attacks Farage directly using **Name-Calling** ("hack politician"), questions his competence using **Doubt**, and misrepresents his position using a **Straw Man** argument to make him easier to attack.
+
+The core of the author's argument relies on **Appeal to Fear**, using historical quotes about violence and subjugation to create a sense of imminent threat. This is supported by an **Appeal to Authority** (the author's own book and cherry-picked historical sources) and a **Causal Oversimplification** that presents modern, complex geopolitical conflicts as a simple, unbroken religious war. The language throughout is highly emotional and **Loaded**. The inclusion of a completely irrelevant **Red Herring** poll further demonstrates that the article's purpose is not journalistic integrity but partisan persuasion. The sheer density and combination of these techniques confirm its nature as propaganda.

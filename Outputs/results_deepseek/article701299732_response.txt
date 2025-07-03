@@ -1,0 +1,24 @@
+### Propaganda Technique Analysis:
+1. **Name calling** – No – The term "Black Death" is a historical reference to bubonic plague, not an insulting label targeting a group/idea.  
+2. **Repetition** – Yes – Phrases like "spread rapidly" (used 3 times), "airborne," and "deadly" are repeated to emphasize urgency.  
+3. **Slogans** – No – No brief, memorable phrases are coined (e.g., no equivalents to "Make America Great Again").  
+4. **Appeal to fear** – Yes – Highlights rapid spread, 24-hour mortality ("some people will die within 24 hours"), and uncontrollable transmission ("disease spreads so fast it sort of gets out of control").  
+5. **Doubt** – No – No questioning of credibility; sources (WHO, Dr. Chopra) are presented as reliable.  
+6. **Exaggeration/minimization** – No – Statistics (124 deaths, 1,300 infected) and scientific descriptions (e.g., pneumonic plague’s airborne nature) are factual.  
+7. **Flag-Waving** – No – No appeals to patriotism or national identity.  
+8. **Loaded Language** – Yes – Emotionally charged terms like "deadly," "alarming warnings," and "out of control" amplify threat perception.  
+9. **Reduction ad Hitlerum** – No – No associations with hated groups.  
+10. **Bandwagon** – Yes – Notes nine countries issuing warnings and WHO involvement to imply consensus ("WHO has now issued alarming warnings in nine countries too").  
+11. **Causal Oversimplification** – No – Attributes spread to airborne transmission and travel logistics without ignoring complexity (e.g., mentions containment challenges).  
+12. **Obfuscation** – No – Language is clear and specific (e.g., explains pneumonic vs. bubonic forms).  
+13. **Appeal to authority** – Yes – Uses experts (Dr. Chopra, IFRC’s Christine South) and WHO to validate claims.  
+14. **Black & white fallacy** – No – No false dilemmas; acknowledges solutions (antibiotics with timely treatment).  
+15. **Thought-terminating clichés** – No – No phrases halting debate (e.g., "trust the science" or "case closed").  
+16. **Red herring** – No – All content relates directly to the plague outbreak.  
+17. **Straw men** – No – No misrepresentation of opposing arguments.  
+18. **Whataboutism** – No – No accusations of hypocrisy.  
+
+---
+
+### Verdict – 40% –  
+**Explanation**: The text exhibits *some* propaganda techniques (Appeal to Fear, Repetition, Loaded Language, Bandwagon, Appeal to Authority), primarily amplifying urgency and validating threats through experts. However, it remains largely **informational**, citing specific sources, data (death tolls, transmission facts), and balanced context (e.g., treatment options). The techniques serve to emphasize legitimate public health risks rather than manipulate toward unrelated agendas. The 40% likelihood reflects persuasive framing of a real crisis without significant distortion, misdirection, or ideological coercion.

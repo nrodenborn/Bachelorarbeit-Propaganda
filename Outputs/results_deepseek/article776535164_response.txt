@@ -1,0 +1,22 @@
+Here is the analysis of propaganda techniques in the text, followed by the verdict:
+
+1. Name calling – **No** – No insulting labels are used against subjects (e.g., "failed to protect" is descriptive, not an epithet).  
+2. Repetition – **No** – The core message (purge due to failure to protect children) is stated once, not repeated excessively.  
+3. Slogans – **No** – No brief, memorable phrases are used to summarize the message.  
+4. Appeal to fear – **No** – The text reports actions taken (purging names, releasing accused list) but does not use fear to promote an idea or alternative.  
+5. Doubt – **No** – No questioning of credibility (e.g., grand jury inquiry is cited factually, not undermined).  
+6. Exaggeration/minimization – **No** – Language is measured (e.g., "credibly accused," "collectively failed"); no hyperbolic or dismissive terms.  
+7. Flag-Waving – **No** – No appeals to patriotism, religion, or group identity to sway opinion.  
+8. Loaded Language – **No** – Emotionally neutral terms are used (e.g., "predators," "abuse" are factual descriptors in context).  
+9. Reduction ad Hitlerum – **No** – No association of subjects/ideas with universally hated groups.  
+10. Bandwagon – **No** – No emphasis on popularity (e.g., notes this purge is unprecedented, contrary to bandwagoning).  
+11. Causal Oversimplification – **No** – The abuse scandal is presented as complex (e.g., lists multiple actions: grand jury, waiving agreements, guidelines).  
+12. Obfuscation – **No** – Clear, specific details are provided (e.g., "71 clergy," "since 1947," "new guidelines").  
+13. Appeal to authority – **No** – Authorities (e.g., NYT, AG spokesman) are cited for facts, not as proof of an argument.  
+14. Black & white fallacy – **No** – No false dichotomies; acknowledges nuance (e.g., Gainer delayed releasing names pending investigation).  
+15. Thought-terminating clichés – **No** – No phrases that halt critical thought (e.g., explanations are detailed).  
+16. Red herring – **No** – All details (McCarrick case, grand jury) directly relate to the abuse scandal.  
+17. Straw men – **No** – No misrepresentation of opposing arguments; focuses on reported events.  
+18. Whataboutism – **No** – No accusations of hypocrisy to deflect criticism.  
+
+**Verdict – 5%** – The text is factual news reporting, not propaganda. It neutrally documents events (name purging, list release, investigations) with specific details, attributed sources (NYT, AG spokesman), and contextual background (McCarrick case). While the topic is sensitive, the language avoids emotional manipulation, oversimplification, or persuasive tactics. The 5% accounts for potential inherent bias in selecting/emphasizing negative church actions, but no overt propaganda techniques are deployed.

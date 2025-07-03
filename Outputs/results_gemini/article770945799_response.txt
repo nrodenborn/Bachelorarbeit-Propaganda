@@ -1,0 +1,41 @@
+Name calling – Yes – The text quotes Saucier referring to the actions of Hillary Clinton as "corruption and criminal activity," which are insulting labels used to attack her.
+
+Repetition – Yes – The central idea of a double standard or unequal treatment is repeated multiple times using different phrases, such as "unequal protection of the law," "let Hillary off the hook... while Kristian Saucier served hard time," "unfair and unequal," and "double standard that let Clinton get off scot-free."
+
+Slogans – Yes – The text uses brief, memorable phrases like "let Hillary off the hook" and "get off scot-free" to simplify a complex legal situation.
+
+Appeal to fear – Yes – The text stokes fear of government overreach by framing Saucier's situation as "persecution by the government" and a "violation of the rights of all Americans," implying that the same could happen to the reader.
+
+Doubt – Yes – The entire lawsuit described in the text is an exercise in casting doubt on the credibility and motives of the Obama administration and the FBI, particularly with the claim that Saucier was "scapegoated."
+
+Exaggeration/minimization – Yes – The text quotes Saucier minimizing his own crime as a "minor military infraction" while simultaneously exaggerating the case against Clinton by labeling it "corruption and criminal activity."
+
+Flag-Waving – Yes – The text appeals to patriotism by quoting Saucier's reference to "The U.S. Constitution" and framing his fight as one for the "rights of all Americans to have equal protection under the law."
+
+Loaded Language – Yes – The text is filled with emotionally charged words intended to sway the reader, such as "scapegoated," "hard time," "persecution," "overzealous," and "scot-free."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler, Nazis, or other similarly hated groups.
+
+Bandwagon – No – The text does not suggest that the viewpoint is popular or that the reader should agree with it because many others do. It focuses on the claims of a single individual.
+
+Causal Oversimplification – Yes – The text promotes the simple explanation that Saucier was prosecuted solely because he was a convenient "scapegoat" amid the Clinton email scandal, ignoring the complex legal distinctions and facts of each individual case.
+
+Obfuscation, intentional vagueness – No – The text is not vague; its accusations against Obama, Comey, and Clinton are direct and clearly stated.
+
+Appeal to authority – Yes – The text immediately establishes Saucier's credibility by noting he was "pardoned by President Donald Trump," using the authority of the presidency. It also appeals to the ultimate authority of "The U.S. Constitution."
+
+Black & white fallacy – Yes – The text presents a false dichotomy by framing the situation as one where either both Saucier and Clinton should be prosecuted or neither should be. This ignores the vast middle ground of legal nuance, intent, and context that could justify different outcomes.
+
+Thought-terminating clichés – Yes – Phrases like "double standard" are used to shut down critical thought. By framing the issue this way, any attempt to discuss the differences between the two cases is preemptively dismissed as defending a "double standard."
+
+Red herring – Yes – The text introduces the issue of Saucier's lawyer being barred from practicing by a New York court, implying it was a conspiracy to "hinder his court fight." This is likely irrelevant to the merits of his federal lawsuit and serves to distract by suggesting a wider plot against him.
+
+Straw men – No – The text does not set up and refute a mischaracterized argument from an opponent. It focuses on direct accusation and comparison.
+
+Whataboutism – Yes – The text is a clear example of whataboutism. It deflects from the substance of Saucier's own admitted wrongdoing by repeatedly redirecting the focus with the charge of hypocrisy: "What about Hillary Clinton?"
+
+***
+
+Verdict – 95% – The text is overwhelmingly propagandistic. While it reports on a factual event (the filing of a lawsuit), its entire structure, tone, and content are designed to promote a specific political narrative rather than to inform objectively. The article exclusively presents Saucier's point of view, heavily supplemented with quotes from a single, politically-aligned news source (Fox News), without including any opposing viewpoints or neutral legal analysis.
+
+The piece relies heavily on a core of whataboutism, which is then supported by a wide array of other techniques. It uses loaded language ("persecution," "scapegoat") to create an emotional response of sympathy for Saucier and anger at his "persecutors." It employs a black & white fallacy to create a false equivalence between two legally distinct cases, and it minimizes Saucier's actions while exaggerating Clinton's. The appeal to patriotism via the Constitution (flag-waving) and the validation from a presidential pardon (appeal to authority) are used to lend his claims a legitimacy they may not otherwise have. The purpose is not to report news, but to persuade the reader of a political grievance and reinforce a narrative of partisan injustice.

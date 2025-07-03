@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack an object or subject.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use a brief and memorable phrase.
+4. Appeal to fear – Yes – The text includes statements that could instill fear about "illegal immigration" and "sanctuary cities," such as ICE Director Thomas Homan's statement about endangering lives.
+5. Doubt – Yes – The text questions the credibility of San Francisco's policies and ICE's actions.
+6. Exaggeration/minimization – Yes – Trump's tweet exaggerates Garcia Zarate's criminal history and the impact of border security.
+7. Flag-Waving – Yes – Trump's use of "BUILD THE WALL!" appeals to national identity and patriotism.
+8. Loaded Language – Yes – Terms like "villainized," "perils," and "travesty of justice" are emotionally charged.
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with hated groups.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – Yes – The text oversimplifies the cause of Steinle's death by attributing it solely to immigration policies.
+12. Obfuscation, intentional vagueness – No – The text provides detailed information rather than being deliberately unclear.
+13. Appeal to authority – Yes – The text uses statements from ICE Director Thomas Homan and President Trump as evidence.
+14. Black & white fallacy – Yes – The text presents the situation as either supporting or opposing "sanctuary cities" without acknowledging other options.
+15. Thought-terminating clichés – No – The text does not use clichés that discourage critical thought.
+16. Red herring – Yes – The text introduces issues like ICE's judicial warrants to distract from the main argument about Garcia Zarate's actions.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – Yes – The text mentions criticism of ICE to deflect from the main issue of Garcia Zarate's actions.
+
+Verdict – 70% – The text contains several propaganda techniques, including appeal to fear, exaggeration, flag-waving, loaded language, causal oversimplification, appeal to authority, black & white fallacy, red herring, and whataboutism. These elements suggest a significant likelihood of the text being propaganda, as it presents a biased narrative that supports a specific viewpoint on immigration and "sanctuary cities." However, the text also provides detailed information and includes multiple perspectives, which slightly reduces the overall likelihood.

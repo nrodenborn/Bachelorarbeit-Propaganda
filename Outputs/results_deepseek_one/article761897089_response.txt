@@ -1,0 +1,22 @@
+Based on the definitions provided, here is the analysis of the text for each propaganda technique:
+
+1.  **Name calling** – **Yes** – "corrupt Democrat Politician" (in the poll), "Barack Hussein Obama Soetoro Sobarkah" (using multiple names in a potentially derogatory manner).
+2.  **Repetition** – **Yes** – The poll question "Whom do you consider to be the most corrupt Democrat Politician?" is repeated verbatim three times.
+3.  **Slogans** – **No** – No distinct, brief, memorable phrase is used repeatedly as a slogan within the core text.
+4.  **Appeal to fear** – **No** – While injustice is implied, the text doesn't explicitly instill fear *against alternatives* to support a specific course of action beyond the lawsuit.
+5.  **Doubt** – **Yes** – "why does the known criminal Hillary Clinton remain at large...", "we were promised a special counsel... It's time that occurred" directly question the credibility/actions of Clinton and the current administration regarding justice.
+6.  **Exaggeration/minimization** – **Yes** – Minimization: Saucier's actions described as "simply took some pictures of his submarine". Exaggeration: Clinton's email server described as resulting in "at least one death" and her as a "known criminal" who is "trashing our Republic".
+7.  **Flag-Waving** – **Yes** – References to "our country", "our Republic", and "the American people" appeal to national identity and patriotism.
+8.  **Loaded Language** – **Yes** – Numerous examples: "corrupt Democrat Politician", "illegal email server", "national security breach", "known criminal", "corrupt foundation", "trashing our Republic", "two-tier justice system", "good people" (used sarcastically about Clintons).
+9.  **Reduction ad Hitlerum** – **No** – No comparisons to Nazis, Hitler, or universally hated groups like the Vichy example.
+10. **Bandwagon** – **Yes** – "I continue to ask what a lot of Americans continue to ask" appeals to the popularity of the sentiment questioning Clinton's status.
+11. **Causal Oversimplification** – **No** – The text focuses on perceived injustice in *application* of law, not oversimplifying a complex event's cause.
+12. **Obfuscation, intentional vagueness** – **No** – The text is direct and accusatory, not vague or confusing about its points.
+13. **Appeal to authority** – **No** – No authority figure is cited to support the claims made in the opinion sections; quotes are from Saucier, his lawyers, or the author.
+14. **Black & white fallacy** – **Yes** – Presents the justice system purely as a "two-tier justice system" (good vs. corrupt, Saucier vs. Clinton) with no nuance or middle ground acknowledged.
+15. **Thought-terminating clichés** – **No** – No phrases like "it is what it is" used to shut down discussion; the text invites outrage and action.
+16. **Red herring** – **No** – The core argument (Saucier vs. Clinton treatment) is central throughout; the poll and specific accusations against Clinton are directly used to support the main point of unequal justice.
+17. **Straw men** – **No** – The text argues against the perceived *actions* (not prosecuting Clinton, prosecuting Saucier harshly) of the named defendants/figures, not a misrepresented argument.
+18. **Whataboutism** – **Yes** – The core defense/accusation relies entirely on comparing Saucier's treatment to Hillary Clinton's ("They interpreted the law in my case... but they didn’t prosecute Hillary Clinton", "We’ll highlight the differences...", "But hey, Hillary is free, right?").
+
+**Verdict – 95% –** The text exhibits a very high concentration of propaganda techniques. It heavily relies on **Loaded Language** ("corrupt," "illegal," "trashing our Republic," "known criminal"), **Name Calling**, **Exaggeration/Minimization** (downplaying Saucier's crime, exaggerating Clinton's consequences), **Whataboutism** (the central argument comparing Saucier to Clinton), **Bandwagon** (implying widespread American agreement), **Black & White Fallacy** (presenting a purely "two-tier" system), **Doubt** (questioning authorities), and **Flag-Waving**. The inclusion of a repetitive, loaded poll further reinforces the propagandistic nature. The core purpose is not balanced reporting but to provoke outrage by framing Saucier as a victim of politically motivated persecution contrasted with Clinton's perceived immunity, using emotionally charged and manipulative language characteristic of propaganda. The near-universal application of relevant techniques indicates a very strong likelihood this is propaganda.

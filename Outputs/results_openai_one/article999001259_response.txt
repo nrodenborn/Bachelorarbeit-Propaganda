@@ -1,0 +1,37 @@
+1. Name calling – Yes – The phrase "Obama Judge" is used to label Judge Amy Totenberg in a potentially derogatory manner, implying bias due to her appointment by President Obama.
+   
+2. Repetition – Yes – The phrase "Should Jim Acosta have gotten his press pass back?" is repeated multiple times in the text.
+
+3. Slogans – No – The text does not contain a brief and memorable phrase that serves as a slogan.
+
+4. Appeal to fear – Yes – The phrase "The fix is in" suggests manipulation and corruption, potentially instilling fear about the integrity of the election process.
+
+5. Doubt – Yes – The question "Who didn’t see this coming?" implies skepticism about the fairness of the judicial ruling.
+
+6. Exaggeration/minimization – Yes – The statement "They stole Arizona" is an exaggeration, suggesting election theft without evidence.
+
+7. Flag-Waving – No – The text does not appeal to patriotism or identity in a way that fits the definition of flag-waving.
+
+8. Loaded Language – Yes – The use of the term "stole" in "They stole Arizona" is emotionally charged and intended to provoke a reaction.
+
+9. Reduction ad Hitlerum – No – The text does not compare the subject to groups hated by the audience, such as Nazis.
+
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+
+12. Obfuscation, intentional vagueness – No – The text is not deliberately unclear or obscure.
+
+13. Appeal to authority – Yes – The text mentions Judge Amy Totenberg's ruling and her appointment by President Obama as a form of authority.
+
+14. Black & white fallacy – No – The text does not present only two options among many.
+
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main issue.
+
+17. Straw men – No – The text does not refute an argument that was not presented.
+
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+**Verdict – 60% – The text exhibits several propaganda techniques, including name calling, repetition, appeal to fear, doubt, exaggeration, and loaded language. These elements suggest an attempt to influence the reader's perception of the election and judicial ruling. However, not all techniques are present, and the text also contains factual information about the court ruling and election process, which reduces the overall likelihood of it being pure propaganda.**

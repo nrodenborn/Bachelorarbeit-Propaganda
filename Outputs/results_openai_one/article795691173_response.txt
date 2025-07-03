@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack an object or subject.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use a brief and memorable phrase.
+4. Appeal to fear – No – The text does not support an idea by instilling fear against other alternatives.
+5. Doubt – Yes – The text questions the credibility of the Saudi government's denial of knowledge about the alleged murder.
+6. Exaggeration/minimization – No – The text does not exaggerate or minimize any aspect of the situation.
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – No – The text does not use language that appeals to emotions or stereotypes.
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – Yes – The text mentions that multiple countries and organizations have already withdrawn from the conference, suggesting a popular movement.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text provides specific details and does not use unclear expressions.
+13. Appeal to authority – Yes – The text references statements from high-ranking officials like Pompeo and Trump as evidence.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main issue.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 20% – The text contains elements that could be seen as propaganda, such as doubt, bandwagon, and appeal to authority. However, these elements are not dominant, and the text primarily reports on events and statements related to the Khashoggi case. The overall tone is informative rather than persuasive, and it does not strongly push a particular agenda or viewpoint.

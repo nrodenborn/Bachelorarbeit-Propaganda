@@ -1,0 +1,20 @@
+Name calling – No – The text does not use any insulting labels to attack a person, group, or object. It speaks positively about NASA and its mission.
+Repetition – No – While the concept of the "farthest" distance is mentioned multiple times, it is for emphasis on the key fact of the news story, not a propagandistic repetition of a message to indoctrinate the audience.
+Slogans – No – The text does not use any brief, memorable phrases to rally support for a cause.
+Appeal to fear – No – The text does not attempt to instill fear or suggest negative consequences of any alternative.
+Doubt – No – The text does not question the credibility of any person or entity; in fact, it reinforces NASA's credibility.
+Exaggeration/minimization – No – The text describes the achievement in enthusiastic terms ("stunning," "remarkable") but also accurately minimizes the quality of the images ("somewhat grainy") to highlight that the distance is the main achievement. This is balanced reporting, not propagandistic distortion.
+Flag-Waving – No – The text reports on an achievement by a US agency (NASA) but presents it as a milestone for "mankind," not as a nationalistic victory.
+Loaded Language – No – While words like "stunning" and "gorgeously detailed eye candy" are used, they serve to convey excitement about a scientific discovery, not to manipulate emotions towards a biased agenda or stereotype.
+Reduction ad Hitlerum – No – There is no comparison of any idea or group to hated figures like the Nazis.
+Bandwagon – No – The text reports on a factual achievement and does not suggest that the reader should believe something simply because it is popular.
+Causal Oversimplification – No – The text does not explain a complex event with an overly simple cause.
+Obfuscation, intentional vagueness – No – The text is clear and direct, even clarifying specific details like the exact distance.
+Appeal to authority – Yes – “New Horizons has long been a mission of firsts — first to explore Pluto, first to explore the Kuiper Belt, fastest spacecraft ever launched,” New Horizons Principal Investigator Alan Stern, of the Southwest Research Institute in Boulder, Colorado, notes in a statement.
+Black & white fallacy – No – The text does not present only two choices or outcomes.
+Thought-terminating clichés – No – The text does not use any phrases that discourage critical thought.
+Red herring – No – The text stays focused on the topic of the New Horizons mission and its images.
+Straw men – No – The text does not misrepresent or refute an argument that was not made.
+Whataboutism – No – The text does not accuse any party of hypocrisy.
+
+Verdict – 0% – This text is a factual news report about a scientific achievement. It is informational in nature and aims to educate the reader about a specific event. It lacks any of the manipulative intent, emotional exploitation, or biased framing that characterizes propaganda. The single identified technique, "Appeal to authority," is used in a standard journalistic context to provide a credible source for the information (quoting the mission's lead scientist), which is a hallmark of legitimate reporting, not propaganda. The tone is enthusiastic but not deceptive.

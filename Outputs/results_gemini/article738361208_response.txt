@@ -1,0 +1,43 @@
+1. Name calling – Yes – The text uses insulting labels to attack the subjects, such as calling the incoming CIA director a “top spook” in the headline and describing Gina Haspel as a “big fan of torture.”
+
+2. Repetition – Yes – The text repeats the core message that the new appointments are a continuation of past administrations' policies. This is stated as: “If you enjoyed Hillary Clinton’s tenure as Secretary of State, you’ll like Pompeo’s,” and then again as: “Again, if you liked Obama-era, world-on-fire, Russians everywhere State Department shenanigans, this is your guy,” and concluded with: “Bottom line, George W. Bush/Barack Obama era foreign policy and intelligence doctrines aren’t going anywhere under Trump.”
+
+3. Slogans – No – The text does not use any brief, memorable phrases in a repeated, slogan-like manner.
+
+4. Appeal to fear – No – The text does not primarily support an idea by instilling fear of an alternative. Instead, it generates disapproval and fear of the current decision itself (e.g., suggesting Pompeo's policies could lead to a "Russian proxy war").
+
+5. Doubt – Yes – The entire article is framed to cast doubt on the wisdom of Trump's appointments and the character of the appointees. The line “The move creates some big questions about both the administration’s foreign policy ambitions as well as the president’s relationship with the deep state” explicitly introduces this theme of doubt.
+
+6. Exaggeration/minimization – Yes – The text uses exaggeration to create a more dramatic effect, for instance by describing the Obama-era foreign policy as “world-on-fire.”
+
+7. Flag-Waving – No – The text does not appeal to patriotism to make its case.
+
+8. Loaded Language – Yes – The text is filled with emotionally charged words intended to create a negative impression, such as “shenanigans,” “gruesome torture,” and “world-on-fire.”
+
+9. Reduction ad Hitlerum – Yes – The text disapproves of Pompeo by associating him with groups the presumed audience would hate or distrust. It states, “If you enjoyed Hillary Clinton’s tenure as Secretary of State, you’ll like Pompeo’s. Like Clinton and her Democrat allies, Pompeo has long subscribed to the belief that Russia is perpetually meddling in U.S. affairs.” This links Pompeo to Clinton and Democrats, who are presented as the disliked group.
+
+10. Bandwagon – No – The text does not suggest that its viewpoint is popular or that the reader should agree because many others do.
+
+11. Causal Oversimplification – No – The text focuses on the consequences and character of the appointees rather than providing a simplified cause for their appointment.
+
+12. Obfuscation, intentional vagueness – No – The text is direct and clear in its criticism, not vague or obscure.
+
+13. Appeal to authority – Yes – The text cites several authorities to support its claims against Haspel, including “The Washington Post,” “The Intercept,” the “Senate Intelligence Committee’s report on torture,” and 9/11 commission chairs “Lee Hamilton and Thomas Keane.”
+
+14. Black & white fallacy – Yes – The text presents a false dichotomy by implying there are only two options: a true departure from the "deep state" or a complete continuation of Bush/Obama/Clinton policies. It frames Pompeo as being exactly like Clinton, ignoring any potential nuances or differences in their positions.
+
+15. Thought-terminating clichés – Yes – The text uses a phrase to shut down further discussion and present a final, oversimplified conclusion: “Bottom line, George W. Bush/Barack Obama era foreign policy and intelligence doctrines aren’t going anywhere under Trump.”
+
+16. Red herring – No – All the information presented, while biased, is relevant to the central argument that the new appointments are not a positive change.
+
+17. Straw men – Yes – The text refutes the unstated, implicit argument that these appointments represent a positive change or a fulfillment of Trump's campaign promises. It sets up this positive interpretation as a "straw man" and then proceeds to knock it down with its criticisms.
+
+18. Whataboutism – No – The text does not try to deflect criticism by accusing an opponent of hypocrisy.
+
+***
+
+Verdict – 95% – The text is a clear example of propaganda. While it is structured around factual events (the firing of Tillerson and the appointments of Pompeo and Haspel), it is not a neutral news report. Its primary purpose is to persuade the reader to adopt a specific, highly negative viewpoint of these appointments.
+
+The author achieves this by employing a dense combination of propaganda techniques. The piece relies heavily on **Loaded Language** (“top spook,” “shenanigans,” “gruesome torture”) and **Name Calling** (“big fan of torture”) to create an immediate emotional aversion to the subjects. It uses **Reduction ad Hitlerum** by repeatedly associating Pompeo with Hillary Clinton and Barack Obama, figures likely disliked by the intended audience. This core message—that the appointments are a continuation of the "deep state" status quo—is hammered home through **Repetition**.
+
+Furthermore, the text uses logical fallacies like the **Black & White Fallacy** to present a simplified world where these appointees are identical to their predecessors, and a **Straw Man** argument by refuting the unstated positive case for the appointments. It lends credibility to its most severe accusations by using an **Appeal to Authority**, citing news outlets and official reports, but frames this information within its biased narrative. Finally, it shuts down critical thought with a **Thought-terminating cliché** ("Bottom line..."). The sheer number and variety of these techniques indicate a deliberate effort to manipulate the reader's perception rather than to inform them objectively.

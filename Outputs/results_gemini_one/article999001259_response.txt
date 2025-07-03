@@ -1,0 +1,39 @@
+Name calling – Yes – The text labels the judge as an “Obama Judge” in the headline (“Obama Judge Rules To Upend Georgia Election”) and in the body of the text (“Totenberg, who was appointed by President Obama...”). This is used to attack her credibility by associating her with a political party, implying her ruling is partisan rather than based on law.
+
+Repetition – Yes – The poll question "Should Jim Acosta have gotten his press pass back?" is repeated three times in a row.
+
+Slogans – Yes – The text uses short, memorable phrases like "The fix is in." and "They stole Arizona." to convey a simple, powerful message.
+
+Appeal to fear – No – The text focuses more on generating outrage and doubt about the present situation rather than instilling fear about a future alternative.
+
+Doubt – Yes – The text opens with the rhetorical question, “Who didn’t see this coming?” which immediately casts doubt on the legitimacy of the judicial process and suggests it was a predetermined, corrupt outcome.
+
+Exaggeration/minimization – Yes – The headline, "Obama Judge Rules To Upend Georgia Election," exaggerates the impact of the ruling, which was to delay certification and protect provisional ballots, not to completely overturn or invalidate the election.
+
+Flag-Waving – No – The text does not use appeals to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words to influence the reader, such as describing the election as "stole" ("They stole Arizona") and using the word "blasted" to describe the lawsuit's claims ("The suit blasted the state’s 'provisional ballot scheme'").
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or the Nazis.
+
+Bandwagon – No – The text does not argue that an idea is correct because it is popular.
+
+Causal Oversimplification – Yes – The text presents the simple assertion "They stole Arizona" as the sole cause for a complex election result, ignoring all other factors.
+
+Obfuscation, intentional vagueness – Yes – Phrases like "The fix is in" and "They stole Arizona" are intentionally vague. They do not specify who "they" are or how the "fix" or "theft" was accomplished, confusing the audience and allowing them to fill in the blanks with their own biases.
+
+Appeal to authority – No – While the text cites various authorities (campaign managers, election experts, court documents), it does so in the context of reporting their statements rather than using their authority as standalone evidence for its own biased claims.
+
+Black & white fallacy – Yes – The poll about Jim Acosta presents a binary choice: "Yes, he should have gotten it back" versus "No, you can't act like a child and keep your pass," simplifying a complex issue into two opposing options.
+
+Thought-terminating clichés – Yes – The phrase "The fix is in" is used as a thought-terminating cliché. It's a simple, definitive statement that discourages nuanced discussion or critical analysis of the actual legal proceedings.
+
+Red herring – Yes – The text introduces a poll about CNN's Jim Acosta ("Should Jim Acosta have gotten his press pass back?"), which is completely irrelevant to the story about the Georgia election, serving to distract the reader.
+
+Straw men – No – The text does not misrepresent an opponent's argument in order to refute it.
+
+Whataboutism – No – The text does not attempt to charge an opponent with hypocrisy.
+
+***
+
+Verdict – 95% – The text is overwhelmingly likely to be propaganda. It is framed as a news report but employs a high concentration of propaganda techniques to promote a specific, partisan narrative. The article begins not with facts, but with slogans and assertions ("The fix is in," "They stole Arizona") designed to establish a conspiratorial framework. The headline itself uses name-calling ("Obama Judge") and exaggeration ("Upend Georgia Election") to discredit the judicial ruling before the reader even engages with the details. The piece strategically mixes factual reporting with these techniques, alongside a blatant red herring (the Jim Acosta poll), to manipulate the reader's perception. The primary goal is not to inform but to persuade the audience that the election was illegitimate and stolen by political enemies, which is a hallmark of propaganda.

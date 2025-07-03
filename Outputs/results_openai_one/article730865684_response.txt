@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use any insulting labels to attack an object or subject.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+4. Appeal to fear – No – The text does not support an idea by instilling fear against other alternatives.
+5. Doubt – No – The text does not question the credibility of someone or something.
+6. Exaggeration/minimization – No – The text does not exaggerate or minimize the situation; it provides factual information about the housing crisis and hurricane impact.
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – No – The text does not use emotionally charged or stereotypical language.
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for the complex event of the housing crisis and hurricane recovery.
+12. Obfuscation, intentional vagueness – No – The text provides clear and specific information about the housing crisis and hurricane recovery efforts.
+13. Appeal to authority – No – The text does not use authority’s support as evidence.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main issue.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 0% – The text is a factual report on the housing situation and hurricane recovery efforts in Puerto Rico. It provides specific data and quotes from officials and residents without employing propaganda techniques. The information is presented clearly and without bias, focusing on the challenges and responses to the crisis.

@@ -1,0 +1,39 @@
+Name calling – No – The text does not use insulting labels to attack any person, group, or idea.
+
+Repetition – Yes – The phrase "mutate and become untreatable" is used multiple times, including in the headline and the body, to reinforce the primary fear being presented.
+
+Slogans – Yes – The headline "Deadly Plague Could MUTATE And Become Untreatable As It Spreads Globally" acts as a brief, memorable, and alarming phrase to encapsulate the article's main point.
+
+Appeal to fear – Yes – The entire article is framed to instill fear, using phrases like "Deadly Plague," "killed 143," "fatal 24-48 hours after infection," and focusing on a potential global spread.
+
+Doubt – No – The text does not question the credibility of anyone; on the contrary, it uses authorities to bolster its own credibility.
+
+Exaggeration/minimization – Yes – The text exaggerates the immediate threat by focusing heavily on the speculative, worst-case scenario that the plague "could mutate and become untreatable," presenting it as a primary and likely outcome.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words and phrases like "Deadly Plague," "black death," and "devastated Europe's population" to evoke a strong emotional response of fear and dread.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to groups hated by the audience.
+
+Bandwagon – No – The text does not suggest an idea is true because it is popular.
+
+Causal Oversimplification – No – The text does not attribute the complex outbreak to a single, simple cause. It mentions several contributing factors like its spread to urban areas and certain traditions.
+
+Obfuscation, intentional vagueness – No – The text is not deliberately unclear; it provides specific statistics and names.
+
+Appeal to authority – Yes – The text uses the statements of "Professor Paul Hunter," a "disease expert," and information from the "World Health Organization" to support its claims and lend them credibility.
+
+Black & white fallacy – No – The text does not present a scenario with only two possible outcomes.
+
+Thought-terminating clichés – No – The text does not use phrases or clichés intended to stop discussion.
+
+Red herring – No – The text does not introduce irrelevant material to distract the audience.
+
+Straw men – No – The text does not refute an argument that was not presented by an opponent.
+
+Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+***
+
+Verdict – 80% – While the article is based on a real event and contains factual information (e.g., death tolls, WHO involvement, expert quotes), its primary purpose is not to inform but to alarm. It heavily employs propaganda techniques to achieve this. The framing is built around an Appeal to Fear, using Exaggeration by focusing on a speculative worst-case scenario (mutation) and repeating it constantly. It uses Loaded Language ("Deadly Plague," "black death") to maximize the emotional impact. It then lends this sensationalized narrative a veneer of credibility by using an Appeal to Authority (quoting a professor and the WHO). A purely informational piece would have presented the facts more soberly, contextualized the risk of mutation as a general possibility for many diseases, and focused more on the current, successful containment and treatment efforts rather than future speculative horrors. The selection, framing, and repetition of information are all geared towards creating fear, which is a hallmark of propaganda.

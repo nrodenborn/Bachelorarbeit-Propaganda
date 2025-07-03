@@ -1,0 +1,41 @@
+Here is the analysis of the text for each propaganda technique:
+
+Name calling – Yes – The text explicitly labels the official non-partisan status of the group Voto Latino as a "sham."
+
+Repetition – Yes – The central idea that Google was actively trying to help Hillary Clinton win the election is stated repeatedly throughout the article, such as in the title "Google Was ‘Working To Get Hillary Clinton Elected’", the phrase "effort to help Hillary Clinton win", and the conclusion "despite Google’s best efforts to help Clinton win the election".
+
+Slogans – No – The text does not use any brief, memorable phrases to promote its own message.
+
+Appeal to fear – No – The text focuses on exposing alleged past actions and generating outrage, rather than instilling fear about a future negative outcome.
+
+Doubt – Yes – The text is constructed to cast doubt on the integrity and neutrality of Google, for instance by rhetorically asking, "Maybe that’s why they refused to appear before Congress last week?"
+
+Exaggeration/minimization – Yes – The text uses exaggerated language to frame its findings, such as "Tucker Carlson just blew the cover off the 2016 election influence charade," which presents the information as a dramatic exposé.
+
+Flag-Waving – No – The article does not make appeals to patriotism or national identity to support its claims.
+
+Loaded Language – Yes – The text uses emotionally charged words and phrases like "charade," "sham," and "caught red-handed" to provoke an emotional response from the reader rather than present information neutrally.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+
+Bandwagon – No – The text presents its information as an exposé of something hidden, which is the opposite of claiming an idea is true because it is already popular.
+
+Causal Oversimplification – Yes – The text presents the actions of a few employees and related groups as a monolithic, coordinated effort by Google with the singular cause of trying to "throw the election," which is a simplification of the complex factors involved in an election and the internal workings of a large corporation.
+
+Obfuscation, intentional vagueness – No – The article is direct in its accusations and uses specific, quoted material to make its points, rather than relying on vague language.
+
+Appeal to authority – Yes – The text builds its entire argument by citing media figures and outlets (Tucker Carlson, Breitbart), political operatives (Andrew Surabian), and academic researchers (Dr. Robert Epstein) as authorities to validate its claims.
+
+Black & white fallacy – Yes – The text implicitly frames the situation as a binary choice: either Google is a completely neutral platform or it is a fully partisan tool for the Clinton campaign, ignoring more complex possibilities.
+
+Thought-terminating clichés – No – The text does not use clichés to discourage critical thought.
+
+Red herring – Yes – The article introduces the issue of Google's search results for the word "Idiot" at the very end. This is a separate topic from the core evidence about 2016 campaign emails and serves as an irrelevant distraction to reinforce the overall claim of bias.
+
+Straw men – Yes – The text sets up the official "non-partisan" status of Voto Latino as an argument which it then easily knocks down by calling it a "sham" and citing partisan statements, attacking the label rather than engaging with the specifics of the group's actions or legal status.
+
+Whataboutism – No – The text does not deflect criticism of one party by accusing another of hypocrisy.
+
+***
+
+Verdict – 95% – The text is highly likely to be propaganda. It is not a piece of objective journalism but a one-sided argument designed to persuade the reader of a specific viewpoint. It achieves this by heavily employing numerous propaganda techniques. The entire article is built on an **appeal to authority**, using quotes from partisan sources like Tucker Carlson and Breitbart to build its case. It uses emotionally **loaded language** ("charade," "sham," "caught red-handed") and **exaggeration** to create a conspiratorial and outraged tone. The argument relies on logical fallacies such as **causal oversimplification** (attributing a complex election to a single company's "silent donation") and a **black & white fallacy** (framing Google as either perfectly neutral or a secret political weapon). It also uses a **red herring** (the "Idiot" search result) to add a final, distracting piece of "evidence." The text selectively presents information, such as snippets from emails, without providing the full context or any counter-arguments from the accused parties, which is a key characteristic of propaganda.

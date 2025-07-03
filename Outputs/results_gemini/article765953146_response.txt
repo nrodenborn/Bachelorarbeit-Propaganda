@@ -1,0 +1,37 @@
+Name calling – Yes – The text uses the term “deep state plot” to apply an insulting label to the actions of government officials, framing them as conspirators.
+
+Repetition – Yes – The text repeatedly highlights the idea of James Comey acting alone and making unilateral decisions, first in Trey Gowdy’s quote (“Jim Comey and Jim Comey alone deciding”) and later by stating Comey made a “unilateral announcement.”
+
+Slogans – Yes – The phrase “textbook definition of bias” is used as the title and a central, memorable quote. The concluding phrase “deep state plot” also functions as a short, impactful slogan.
+
+Appeal to fear – Yes – The final sentence, “none of this would be happening if the deep state plot to ‘stop’ Trump had succeeded,” instills fear by suggesting a dangerous alternative where a secret cabal successfully subverted a presidential election.
+
+Doubt – Yes – The text is built on creating doubt. It states the IG report “solved none of the lingering mysteries,” questions Horowitz’s knowledge (“I’ll have to get back to you,” “not sure”), and quotes a congressman who “charged that the FBI gave the IG ‘false information’”.
+
+Exaggeration/minimization – Yes – The text exaggerates the impact of a line of questioning by calling it a “devastating exchange.” It also minimizes the official conclusion of the IG report (that bias did not affect decisions) by focusing almost exclusively on details that suggest bias.
+
+Flag-Waving – No – The text does not make an appeal to patriotism, national symbols, or a shared national identity. Its appeal is to a political, rather than national, identity.
+
+Loaded Language – Yes – The text uses emotionally charged words and phrases like “predictable performance,” “lingering mysteries,” “devastating exchange,” and “deep state plot” to create a sense of suspicion and drama.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or the Nazi party to discredit an idea.
+
+Bandwagon – No – The text does not argue that an idea is correct because it is popular. It frames the Republican viewpoint as a struggle against the established narrative.
+
+Causal Oversimplification – Yes – The final sentence simplifies a complex series of political and investigative events by attributing them to a single cause: a “deep state plot to ‘stop’ Trump.”
+
+Obfuscation, intentional vagueness – No – The text itself is not intentionally vague; it is quite direct in its accusations. It does, however, accuse Inspector General Horowitz of being vague in his testimony.
+
+Appeal to authority – Yes – The text selectively appeals to the authority of Republican congressmen, presenting their questions and statements as powerful critiques. For example, it presents Trey Gowdy’s opinion as the “textbook definition of bias.”
+
+Black & white fallacy – Yes – The text presents the situation as a simple, two-sided conflict: the Republicans seeking the truth versus a unified group (Democrats, FBI, DOJ) engaged in a cover-up, ignoring more nuanced possibilities like incompetence or procedural errors.
+
+Thought-terminating clichés – Yes – The phrase “deep state plot” serves as a simple, all-encompassing explanation for events that discourages more critical analysis of the complex actions and motivations of the individuals involved.
+
+Red herring – Yes – The inclusion of the detail that Peter Strzok was “‘escorted’ from the FBI building” is largely irrelevant to the substance of the congressional testimony but is included to add drama and imply guilt, distracting the reader.
+
+Straw men – Yes – The text relentlessly attacks the idea that there was "no bias" in the FBI. This is a straw man of the IG report's actual, more nuanced conclusion, which found that while some individuals showed bias, there was no evidence it improperly impacted the investigation's outcome.
+
+Whataboutism – Yes – The text quotes Trey Gowdy directly using this technique to deflect an accusation against the Attorney General: “When the reality is it was Jim Comey who softened and watered down his press release.”
+
+Verdict – 95% – The text is a clear and strong example of propaganda. It does not attempt to provide a balanced or objective account of the congressional hearings. Instead, it selectively presents facts, quotes, and events to construct a specific, one-sided narrative. The entire piece is framed by a title (“Textbook Definition of Bias”) taken from a friendly source and a concluding sentence (“deep state plot”) that presents a conspiracy theory as a fact. The article heavily employs numerous propaganda techniques, including loaded language (“devastating exchange”), causal oversimplification, creating doubt, and building a straw man argument against the IG report's actual findings. The author's goal is not to inform the reader about the hearings but to persuade them that a conspiracy against President Trump exists, effectively ignoring the official report's conclusion that bias did not influence the final decisions.

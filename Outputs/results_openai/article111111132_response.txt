@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack any object or subject.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use a brief and memorable phrase.
+4. Appeal to fear – No – The text does not support an idea by instilling fear against other alternatives.
+5. Doubt – Yes – The text questions the credibility of the Bible class program by highlighting the lawsuit and the arguments against it.
+6. Exaggeration/minimization – No – The text does not exaggerate or minimize any aspect of the situation.
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – The text uses emotionally charged language, such as "vulnerable to bullying" and "foundation of lies," to evoke an emotional response.
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – Yes – The text mentions the widespread support for the Bible classes and how almost every child attends, suggesting popularity as a reason for continuation.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text is fairly clear and detailed in its presentation of the situation.
+13. Appeal to authority – Yes – The text quotes religious leaders and legal experts to support various viewpoints.
+14. Black & white fallacy – No – The text presents multiple perspectives on the issue, not just two options.
+15. Thought-terminating clichés – No – The text does not use clichés that discourage critical thought.
+16. Red herring – No – The text stays focused on the issue of the Bible class and does not introduce irrelevant material.
+17. Straw men – No – The text does not refute arguments that were not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 30% – The text contains elements that could be considered propaganda, such as the use of loaded language, appeal to authority, and bandwagon techniques. However, it also presents multiple perspectives on the issue, including arguments from both supporters and opponents of the Bible class. The presence of these propaganda techniques suggests some bias, but the overall presentation of the issue is relatively balanced, reducing the likelihood of the text being pure propaganda.

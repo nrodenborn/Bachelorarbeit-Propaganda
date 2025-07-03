@@ -1,0 +1,43 @@
+Name calling – No – The text does not use insulting labels to attack a specific person, group, or country.
+
+Repetition – Yes – The phrase “sonic attacks” and the idea that they are causing illness in diplomats are repeated throughout the text.
+
+Slogans – No – The text does not use any brief, memorable phrases designed to be repeated as a rallying cry.
+
+Appeal to fear – Yes – The text instills fear by detailing severe symptoms like “mild brain damage,” “hearing loss,” and “cognitive issues,” and by mentioning that the attacks have spread to multiple countries, reaching “epic proportions.”
+
+Doubt – Yes – The text questions the U.S. State Department’s handling of the situation by stating it has “remained all but silent on the issue,” which can create doubt about the government's transparency or effectiveness.
+
+Exaggeration/minimization – Yes – The headline “Strange ‘Sonic Attacks’ Against Diplomats Reach Epic Proportions” is an example of exaggeration, as the number of reported illnesses (over 200) may not be considered "epic" in a global context.
+
+Flag-Waving – Yes – The text focuses on the harm done to “US diplomats” and includes a travel warning for “Americans,” appealing to a sense of national identity and concern for fellow citizens.
+
+Loaded Language – Yes – The text uses emotionally charged words and phrases such as “bizarre,” “epic proportions,” “agonizing sound,” and “debilitating conditions” to evoke a strong emotional response from the reader.
+
+Reduction ad Hitlerum – No – The text does not suggest that any idea is popular with a hated group like the Nazis.
+
+Bandwagon – No – The text does not suggest that the reader should believe something simply because it is a popular idea.
+
+Causal Oversimplification – Yes – The text repeatedly frames the complex and unexplained medical symptoms as being caused by “sonic attacks,” which simplifies a mysterious phenomenon into a single, understandable, and hostile cause without definitive proof.
+
+Obfuscation, intentional vagueness – No – While the subject matter is mysterious, the text itself is not deliberately unclear or obscure; it attempts to provide specific details about the events and symptoms.
+
+Appeal to authority – Yes – The text cites various sources such as “The Daily Mail,” “WND,” the “U.S. State Department,” and an “Embassy spokesperson” to lend credibility to its claims.
+
+Black & white fallacy – No – The text does not present only two choices as the only possibilities.
+
+Thought-terminating clichés – No – The text does not use phrases or clichés intended to shut down critical thought.
+
+Red herring – Yes – The mention of the incident occurring “in conjunction with President Trump’s recent visit with Kim Jong-Un” could be seen as a red herring, introducing a high-profile political event to add intrigue without providing direct evidence of a connection.
+
+Straw men – No – The text does not misrepresent or refute an opponent's argument.
+
+Whataboutism – No – The text does not deflect criticism by accusing an opponent of hypocrisy.
+
+Verdict – 90% – The text is highly likely to be propaganda. It employs a significant number of propaganda techniques to construct a narrative that is more emotionally persuasive than it is objectively informative. The primary goal appears to be to generate fear and suspicion.
+
+The piece heavily relies on **Appeal to Fear** by detailing frightening medical symptoms like "mild brain damage" and **Loaded Language** ("bizarre," "agonizing," "debilitating") to create a sense of alarm. This is amplified by **Exaggeration** in the headline ("Epic Proportions").
+
+It uses **Causal Oversimplification** by repeatedly labeling the unexplained events as "sonic attacks," which frames a complex medical mystery as a deliberate, hostile act without presenting conclusive evidence. This term is then reinforced through **Repetition**.
+
+The article builds a veneer of credibility through **Appeal to Authority**, citing various news outlets and government statements. However, it also uses **Doubt** to subtly undermine faith in the government's response ("remained all but silent"). Finally, it uses **Flag-Waving** by focusing exclusively on the harm to Americans, fostering an "us vs. them" mentality. The combination of these techniques moves the text from objective reporting to a piece of persuasive propaganda designed to shape the reader's emotional state and perception of world events.

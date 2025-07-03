@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use any insulting labels to attack a person, group, or idea.
+2. Repetition – Yes – The central idea that the situation is worsening is repeated. For example, "the number of residents without clean drinking water and electricity continues to rise," which is then reinforced with specific data: "Yesterday, 84% of people in Puerto Rico had no power... Today, it's gone up, to 90% without power."
+3. Slogans – No – The text does not use any brief, memorable phrases as slogans.
+4. Appeal to fear – Yes – The text instills fear about the situation on the island to highlight its severity. Phrases like "survival will get more difficult" and "many are finding life too difficult should they remain on the island and isolated" create a sense of dread and fear for the residents.
+5. Doubt – No – The text reports facts and quotes officials; it does not directly question the credibility of any person or entity.
+6. Exaggeration/minimization – No – The text uses strong language ("all but completely destroyed") but provides specific data from government sources to support its claims, suggesting the descriptions are appropriate for the scale of the disaster rather than being exaggerated.
+7. Flag-Waving – Yes – The text makes a point to appeal to a shared national identity by repeatedly referring to the island's inhabitants as "United States citizens" and "American citizens of Puerto Rico," which encourages a sense of patriotic duty and empathy from a mainland US audience.
+8. Loaded Language – Yes – The text uses emotionally charged words to influence the reader's perception. Words like "wrath," "devastated," "struggling," and "hurricane-ravaged" are used to evoke strong emotions of pity and alarm.
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups.
+10. Bandwagon – No – The text does not suggest the reader should adopt a viewpoint because it is popular.
+11. Causal Oversimplification – No – The text attributes the crisis to a major natural disaster (Hurricane Maria) and mentions other contributing factors like the destruction of the electrical grid and the expiration of the Jones Act waiver, avoiding oversimplification.
+12. Obfuscation, intentional vagueness – No – The text is direct and provides specific data, dates, and sources, making it clear rather than vague.
+13. Appeal to authority – Yes – The text uses the support of authorities as evidence for its claims by citing "Puerto Rico’s government," quoting Governor Ricardo Rosselló, and referencing a journalist's tweet with government statistics.
+14. Black & white fallacy – No – The text describes a complex situation and does not reduce it to only two simple options.
+15. Thought-terminating clichés – No – The text does not use any clichés intended to stop critical thought.
+16. Red herring – No – All information presented, such as the funding request and the Jones Act, is directly relevant to the crisis in Puerto Rico.
+17. Straw men – No – The text is a report, not an argument, and does not refute any unstated positions.
+18. Whataboutism – No – The text does not deflect criticism by accusing others of hypocrisy.
+
+Verdict – 35% – The text is primarily a piece of journalism reporting on a humanitarian crisis. Its foundation is factual, relying on cited statistics, official reports, and direct quotes. In this respect, it is not propaganda. However, it deliberately uses several persuasive techniques to frame the story and elicit a specific emotional response from the audience. The use of Loaded Language ("wrath," "devastated"), a subtle Appeal to Fear regarding the residents' survival, and Flag-Waving (emphasizing the "American citizenship" of Puerto Ricans) are all techniques designed to shape perception and encourage sympathy and outrage. While it doesn't use the more deceptive forms of propaganda (like name-calling or straw men), its calculated use of emotional and patriotic appeals pushes it beyond neutral reporting into the realm of advocacy, meaning it contains significant propagandistic elements.

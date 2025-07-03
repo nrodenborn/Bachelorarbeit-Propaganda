@@ -1,0 +1,20 @@
+1. Name calling – No – The text describes the professor's belief as "incorrect" and an "error," which are factual assessments of the situation rather than insulting labels aimed at attacking the professor's character.
+2. Repetition – Yes – The text repeatedly states the fact that Australia is a country. For example: "Australia is a country," "Australia is, in fact, a country," and "Australia is both a continent and a country."
+3. Slogans – No – The text does not use any brief, memorable phrases to promote an idea; the repeated phrases are simple statements of fact.
+4. Appeal to fear – No – The text does not instill fear to support an idea. It reports on a factual dispute.
+5. Doubt – Yes – The entire premise of the article is to cast doubt on the professor's credibility and knowledge. For example: "A professor at Southern New Hampshire University failed one of her student's assignments because the professor incorrectly thought Australia 'is not a country'".
+6. Exaggeration/minimization – No – The text reports the events as they were sourced from BuzzFeed News without appearing to exaggerate or minimize the situation.
+7. Flag-Waving – No – The text mentions the US and Australia but does not appeal to patriotism or national identity for either country.
+8. Loaded Language – No – The language used is journalistic and factual, avoiding emotionally charged words or stereotypes.
+9. Reduction ad Hitlerum – No – The text does not associate any idea with a hated group.
+10. Bandwagon – No – The text does not argue that Australia is a country because it is a popular belief, but rather presents it as a verifiable fact.
+11. Causal Oversimplification – No – The cause of the student's grade is clearly and directly attributed to the professor's factual error, which is not an oversimplification of a complex event.
+12. Obfuscation, intentional vagueness – No – The text is intentionally very clear, in direct contrast to this technique. The author even writes, "just so we're clear here."
+13. Appeal to authority – Yes – The student is reported to have used an appeal to authority to prove her point. For example: "I provided a resource in the first email that clarifies that for you," referring to the country's official website. The article itself also cites BuzzFeed News as its authority.
+14. Black & white fallacy – No – The text does not present only two options. In fact, it corrects the professor's false black and white view that Australia can only be a continent or a country by stating it is both.
+15. Thought-terminating clichés – No – The text does not use any phrases to discourage critical thought. It is a report on a situation where critical thought and fact-checking were required.
+16. Red herring – No – The article remains focused on the central topic of the student's grade and the professor's error without introducing distracting material.
+17. Straw men – No – The text directly addresses the argument made by the professor ("Australia is a continent; it is not a country") rather than refuting a different, unstated argument.
+18. Whataboutism – No – The text does not attempt to charge anyone with hypocrisy.
+
+Verdict – 5% – The text is overwhelmingly a piece of journalistic reporting, not propaganda. Its primary purpose is to inform the reader about a specific, unusual event. While it technically uses a few techniques that can be found in propaganda (Repetition, Doubt, Appeal to Authority), their application in this context is to establish a verifiable fact and report on the consequences of its denial. The repetition is used for clarity and emphasis on a fact, not an opinion. The doubt cast on the professor is a direct result of their reported factual error, and the appeals are made to legitimate authorities (an official government website, a news outlet) to substantiate the report's claims. Propaganda typically uses these techniques to manipulate emotions and push a biased agenda, whereas this text uses them to support a factual narrative.

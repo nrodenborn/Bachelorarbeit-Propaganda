@@ -1,0 +1,37 @@
+Name calling – No – The text uses negative characterizations like "desperate," but it does not use direct insulting labels to attack the subject in the way defined by the example "Public Enemy Number 1."
+
+Repetition – Yes – The core accusation that the Obama administration misled Congress and sought to give Iran access to the US financial system is repeated multiple times, starting in the headline, the first paragraph, and in Senator Portman's direct quote.
+
+Slogans – No – There are no brief, memorable phrases used to rally support for an idea in the text.
+
+Appeal to fear – No – The text focuses on accusing a past administration of wrongdoing; it does not attempt to instill fear about a future threat or alternative course of action.
+
+Doubt – Yes – "The Obama administration misled the American people and Congress because they were desperate to get a deal with Iran," said Sen. Rob Portman. This statement is a direct attempt to question the credibility and honesty of the previous administration.
+
+Exaggeration/minimization – Yes – The text quotes a former official who states the story "'is widely overblown,'" which is a direct claim of exaggeration by the Republican senators. Conversely, the GOP report frames a legal transaction as a secret plot to "dodge sanctions," which exaggerates its intent.
+
+Flag-Waving – No – While the text mentions "the American people" and "Congress," it does not make a direct or strong appeal to patriotism or national identity to make its case.
+
+Loaded Language – Yes – "Senate Republicans on Wednesday accused the Obama Administration of secretly trying to give Tehran access to the US financial system..." The words "secretly" and the accusation of "misled" are emotionally charged to suggest deceit and impropriety.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other groups widely hated by the audience.
+
+Bandwagon – No – The text does not suggest that an idea is correct because it is popular or that "everyone is doing it."
+
+Causal Oversimplification – Yes – "The Obama administration misled the American people and Congress because they were desperate to get a deal with Iran." This statement reduces the complex motivations and legal obligations of the nuclear deal to a single, negative cause: desperation.
+
+Obfuscation, intentional vagueness – No – The article and the quotes within it, while presenting conflicting views, use specific details (e.g., "$5.7 billion," "Bank Muscat," the specific license) rather than being deliberately unclear.
+
+Appeal to authority – Yes – "A report released by Republican senators on the Permanent Subcommittee on Investigation said..." The entire premise of the accusation relies on the authority of a Senate subcommittee report. The defense, in turn, appeals to the authority of former officials like "Jarrett Blanc, the former State Department coordinator."
+
+Black & white fallacy – Yes – The Republican report's framing presents two options: either the Obama administration was being forthright, or they were "desperate" and "misled" Congress. This ignores the more nuanced possibility presented by the former officials: that they were fulfilling complex but legal obligations under the deal.
+
+Thought-terminating clichés – No – The text is composed of arguments and counter-arguments, which invite thought rather than discourage it with simplistic, dismissive phrases.
+
+Red herring – No – The text mentions President Trump's withdrawal from the Iran deal, but it is used as relevant context to explain the timing and motivation for the report's release, not as an irrelevant distraction.
+
+Straw men – Yes – The GOP report is accused of creating a straw man by claiming the Obama administration was trying to give Iran broad "access to the US financial system." A former official refutes this by listing all the specific forms of access that were *not* granted, implying the accusation was an exaggeration of what was actually being considered.
+
+Whataboutism – No – The text does not contain any instances of charging an opponent with hypocrisy to deflect from the argument at hand.
+
+Verdict – 80% – The text is a news report about a political document (the GOP report) that is heavily laden with propaganda. While the news article itself maintains a semblance of journalistic balance by including rebuttals from Obama-era officials, its primary function is to report on and amplify the accusations from the GOP report. Therefore, the content consumed by the reader is saturated with propaganda techniques. The high likelihood rating is because the central claims of the article are derived directly from a source (the GOP report) that uses numerous techniques, including Loaded Language ("secretly," "misled"), Doubt, Causal Oversimplification (attributing actions to "desperation"), Appeal to Authority (the subcommittee itself), and a Straw Man argument (the claim of giving Iran broad "access"). The article serves as a vehicle for these propaganda claims, even while providing the counter-narrative.

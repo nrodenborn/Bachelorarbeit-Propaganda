@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not attack an object/subject with an insulting label.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use a brief and memorable phrase.
+4. Appeal to fear – Yes – The text suggests a terrorist infiltration and ISIS connection to instill fear.
+5. Doubt – Yes – The text questions the mainstream narrative by suggesting alternative explanations.
+6. Exaggeration/minimization – Yes – The text exaggerates the certainty of the claims by stating "conclusive fact" and "credible evidence."
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – Words like "shocking" and "surprising" are used to evoke emotions.
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – Yes – The text suggests a simple cause (terrorist infiltration) for a complex event (Las Vegas Massacre).
+12. Obfuscation, intentional vagueness – Yes – The text uses vague terms like "secret intel" and "credible evidence" without specifics.
+13. Appeal to authority – Yes – The text uses Congressman Scott Perry's position as an authority to support the claims.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use clichés to discourage critical thought.
+16. Red herring – Yes – The mention of Paddock’s girlfriend deleting her Facebook page distracts from the main argument.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 70% – The text exhibits several propaganda techniques, including appeal to fear, doubt, exaggeration, loaded language, causal oversimplification, obfuscation, appeal to authority, and red herring. These elements suggest a high likelihood of the text being propaganda, as it uses emotional and authoritative appeals, along with vague and exaggerated claims, to influence the audience's perception of the Las Vegas Massacre.

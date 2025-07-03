@@ -1,0 +1,37 @@
+Name calling – Yes – The text quotes President Trump referring to Jose Ines Garcia Zarate with an insulting label: "The Kate Steinle killer came back and back over the weakly protected Obama border..."
+
+Repetition – No – The text itself does not repeat a message. While it mentions that Trump "frequently" used the case, the article's own structure and language are not repetitive.
+
+Slogans – Yes – The text quotes a brief and memorable phrase used by President Trump in a tweet: "BUILD THE WALL!"
+
+Appeal to fear – Yes – The text quotes the ICE Director's statement which is intended to instill fear: "It is unconscionable that politicians across this country continue to endanger the lives of Americans with sanctuary policies..."
+
+Doubt – Yes – The text directly questions the credibility of a statement by pointing out its falsehood: "Early on Friday, Trump also falsely claimed on Twitter that Garcia Zarate had previously committed violent crimes..."
+
+Exaggeration/minimization – Yes – The text includes a quote from President Trump that contains an exaggeration about Garcia Zarate's past: "...always committing crimes and being violent..."
+
+Flag-Waving – Yes – The text quotes President Trump appealing to patriotism and national security by connecting the case to border protection: "The Kate Steinle killer came back and back over the weakly protected Obama border... BUILD THE WALL!"
+
+Loaded Language – Yes – The text uses emotionally charged language to describe the reaction to the verdict: "The surprise acquittal... set off a firestorm of outrage Thursday night..."
+
+Reduction ad Hitlerum – No – The text does not contain any examples of disapproving an idea by comparing it to groups like the Nazis.
+
+Bandwagon – No – The text does not suggest that an idea is correct because it is popular. It reports on different groups' opinions without implying one should join them.
+
+Causal Oversimplification – Yes – The text describes how some groups assumed a simple cause for the complex event: "...critics of so-called 'sanctuary cities' pinned blame for Steinle's death on illegal immigration and insufficiently aggressive deportation policies."
+
+Obfuscation, intentional vagueness – No – The text is written to clarify the complex details of the case, the legal proceedings, and the political context, not to be intentionally vague.
+
+Appeal to authority – Yes – The text quotes an authority figure, the ICE Director, presenting his opinion as fact: "This tragedy could have been prevented if San Francisco had simply turned the alien over to ICE as we requested..."
+
+Black & white fallacy – No – The text does the opposite of this fallacy by presenting multiple nuanced viewpoints, including the prosecution's, the defense's, Trump's, ICE's, and the Steinle family's.
+
+Thought-terminating clichés – No – The text does not use any phrases that are meant to discourage critical thought; instead, it provides detailed information to encourage it.
+
+Red herring – Yes – The text explains how President Trump used the specific case as a distraction to promote a broader, separate political goal: "Trump frequently villainized Garcia Zarate and cited Steinle's death during his presidential campaign, using the case to bolster his argument for a border wall..."
+
+Straw men – No – The text presents arguments and counter-arguments directly without misrepresenting or refuting an argument that was not actually made.
+
+Whataboutism – Yes – The text describes how, after ICE blamed San Francisco, a counter-charge was leveled against ICE for its own failures: "But ICE has faced criticism of its own over not seeking a judicial warrant to legally obtain custody of Garcia Zarate..."
+
+Verdict – 10% – The text itself is not propaganda; it is a piece of journalism that reports on the propaganda used by various political actors surrounding the Kate Steinle case. The author's purpose appears to be to inform the reader by presenting a balanced view of a complex event. It includes multiple perspectives (prosecution, defense, ICE, San Francisco, the victim's family), explains the nuances of the case (the ricochet, the type of gun), and even fact-checks a false statement made by President Trump. These are hallmarks of journalism, which seeks to expose and clarify, rather than propaganda, which seeks to persuade through manipulation and obfuscation. The text is a vehicle that contains many examples of propaganda, but it frames them as quotes and reports on them critically, rather than adopting them as its own voice. The low 10% likelihood accounts for minor editorial choices in language, such as "firestorm of outrage," but the overwhelming function of the text is to analyze and expose propaganda, not to be it.

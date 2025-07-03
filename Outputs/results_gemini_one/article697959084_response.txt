@@ -1,0 +1,37 @@
+Name calling – No – The text accuses authorities of actions like lying and covering up, but it does not use a specific insulting label to attack them.
+
+Repetition – Yes – The core message that the official story is a lie and that there was a cover-up is repeated throughout the text. For example: "contradicts the official story", "authorities have so far done everything in their power to cover-up", and "it is strikingly obvious that authorities have lied to the American people".
+
+Slogans – No – The text does not use any brief, memorable, or chant-like phrases.
+
+Appeal to fear – Yes – The text instills fear by suggesting that the authorities (police, FBI) are deliberately lying to the public about the "worst mass shooting in American history," implying a conspiracy and that citizens cannot trust those in charge of their safety.
+
+Doubt – Yes – The entire purpose of the text is to cast doubt on the credibility of the official narrative. For example: "In yet another astonishing eyewitness report that contradicts the official story" and "Slowly but surely we are starting to see the official narrative regarding the Las Vegas Massacre be completely destroyed."
+
+Exaggeration/minimization – Yes – The text uses exaggerated language to strengthen its claims. For example: "official narrative regarding the Las Vegas Massacre be completely destroyed" and "At this point it is strikingly obvious that authorities have lied".
+
+Flag-Waving – Yes – The text appeals to national identity by framing the alleged deception as a betrayal of the American public. For example: "police and the FBI has hidden from the American people" and "authorities have lied to the American people about the worst mass shooting in our countries history."
+
+Loaded Language – Yes – The text uses emotionally charged words to influence the reader. Examples include "astonishing eyewitness report", "confessional", "crescendo of screams", and "strikingly obvious".
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other universally hated groups.
+
+Bandwagon – Yes – The text suggests that a growing number of people are realizing the "truth," creating an appeal to join the popular opinion. For example: "This testimony also backs up claims by another eyewitness, Rene Downs" and "Slowly but surely we are starting to see the official narrative... be completely destroyed."
+
+Causal Oversimplification – Yes – The text presents a simple cause (a deliberate cover-up by authorities) for a complex situation (conflicting reports during a chaotic mass-casualty event), ignoring other potential explanations like mass panic, confusion, or misinterpretation of sounds.
+
+Obfuscation, intentional vagueness – No – The text is direct in its accusations and is not deliberately unclear or obscure.
+
+Appeal to authority – Yes – The text presents an "eyewitness" as the primary authority and evidence for its claims, treating his personal account as infallible proof. For example: "The eyewitness then goes on to directly say that he and his wife were involved in an active shooter situation... There is no mistake in my mind about it".
+
+Black & white fallacy – Yes – The text presents only two options: either the official story is a complete lie and a cover-up, or the eyewitness account is the absolute truth. It does not allow for nuance, such as the possibility of the eyewitness being mistaken in a chaotic situation.
+
+Thought-terminating clichés – Yes – The text uses phrases that present a conclusion as settled fact to discourage further questioning. For example: "At this point it is strikingly obvious that authorities have lied to the American people."
+
+Red herring – No – The text remains focused on its central claim and does not introduce irrelevant material to distract the audience.
+
+Straw men – No – The text attacks the actual "official story" rather than misrepresenting it or refuting an argument that was not made.
+
+Whataboutism – No – The text does not attempt to charge authorities with hypocrisy by deflecting to an unrelated issue.
+
+Verdict – 95% – The text is overwhelmingly propagandistic. Its primary purpose is not to inform but to persuade the reader to adopt a specific conspiracy theory. It achieves this by employing a wide array of propaganda techniques. The piece heavily relies on casting **Doubt** on official institutions and uses emotionally **Loaded Language** and **Appeals to Fear** to create a sense of betrayal and urgency. It presents its case using a **Black & White Fallacy**, where the only options are the official "lie" or the eyewitness "truth." The argument is bolstered by **Exaggeration** ("completely destroyed," "strikingly obvious"), **Repetition** of the core conspiracy claim, and an **Appeal to Authority** that treats anecdotal testimony as indisputable fact. By framing the issue as a deception of "the American people" (**Flag-Waving**), it creates an in-group (those who know the "truth") and an out-group (the lying authorities). The cumulative effect of these techniques is a powerful piece of persuasion designed to bypass critical analysis and promote a specific, unsubstantiated narrative.

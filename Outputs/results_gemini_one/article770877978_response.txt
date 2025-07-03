@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack any person or group. It uses factual descriptors like "ranchers" and "protesters."
+2. Repetition – No – The text is a news report and does not repeat a specific message to influence the reader.
+3. Slogans – No – The text does not contain any brief, memorable phrases intended as slogans.
+4. Appeal to fear – No – The text reports on past events and does not attempt to instill fear in the reader about alternative outcomes.
+5. Doubt – Yes – The text quotes the White House statement which calls the resentencing of the Hammonds "unjust," thereby questioning the credibility and fairness of the 9th U.S. Circuit Court of Appeals' decision.
+6. Exaggeration/minimization – Yes – The text quotes the White House statement, which minimizes the arson conviction by describing it as "a fire that leaked onto a small portion of neighboring public grazing land."
+7. Flag-Waving – No – The text itself does not make an appeal to patriotism. It reports on a dispute over federal land, which can be a patriotic issue for some, but the article's language is neutral.
+8. Loaded Language – Yes – The text quotes the White House statement, which uses emotionally appealing language to describe the Hammonds, such as: “[They] are devoted family men, respected contributors to their local community... Justice is overdue for Dwight and Steven Hammond, both of whom are entirely deserving of these Grants of Executive Clemency.”
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+10. Bandwagon – Yes – The text quotes the White House statement which claims the Hammonds "have widespread support from their neighbors, local law enforcement, and farmers and ranchers across the West," suggesting their cause is popular and therefore correct.
+11. Causal Oversimplification – No – The text avoids oversimplification by presenting multiple perspectives on the events, including the Hammonds' stated motives, the government's counter-claims, and the legal history of the case.
+12. Obfuscation, intentional vagueness – No – The text is a straightforward news report and uses clear language to explain the events.
+13. Appeal to authority – Yes – The article is centered on a presidential pardon, an act of executive authority. It also quotes Susie Hammond expressing faith in the president's authority: “If anyone is going to help them, he'd be the one."
+14. Black & white fallacy – Yes – The text quotes protest leader Ammon Bundy presenting only two options: “Do we allow this to go on, or do we make a stand?”
+15. Thought-terminating clichés – No – The text does not use clichés to shut down discussion.
+16. Red herring – No – All the information presented in the text, such as the background of the armed standoff, is relevant to the context of the presidential pardons.
+17. Straw men – No – The text does not misrepresent or invent an argument in order to refute it.
+18. Whataboutism – No – The text does not attempt to charge anyone with hypocrisy.
+
+Verdict – 20% – The text is a news article from a mainstream source (POLITICO) and its primary purpose is to inform, not to persuade. The language used by the author of the article is largely neutral and factual. However, the article contains several propaganda techniques within direct quotations, primarily from the official White House statement justifying the pardons. By reporting these statements, the article acts as a vehicle for techniques like Loaded Language, Minimization, Bandwagon, and Doubt. Because the text itself is framed as a news report and includes context and different sides of the issue (e.g., the original reason for the conviction), it is not a pure piece of propaganda. The 20% likelihood reflects that while the article's structure is journalistic, it uncritically includes and amplifies statements that are clearly propagandistic in nature.

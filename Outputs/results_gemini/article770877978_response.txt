@@ -1,0 +1,22 @@
+1. Name calling – No – The text does not use insulting labels to attack any person or group. It uses legal terms like "arson" to describe the conviction.
+2. Repetition – No – The text does not repeat the same message over and over. It repeats key facts for clarity, which is standard for a news article, but does not use repetition for persuasive effect.
+3. Slogans – No – The text does not use any brief, memorable phrases to promote an idea.
+4. Appeal to fear – No – The text does not attempt to instill fear in the reader about any alternatives.
+5. Doubt – No – The article itself does not question the credibility of any party; it reports the different positions of the parties involved (the Hammonds' claims vs. the federal government's).
+6. Exaggeration/minimization – Yes – The White House statement, as quoted in the text, minimizes the event by stating the fire "leaked onto a small portion of neighboring public grazing land."
+7. Flag-Waving – Yes – The White House statement appeals to a regional/professional identity by noting the Hammonds have "widespread support from their neighbors, local law enforcement, and farmers and ranchers across the West."
+8. Loaded Language – Yes – The White House statement uses emotionally charged language, such as describing the Hammonds as "devoted family men, respected contributors" and calling the resentencing "unjust."
+9. Reduction ad Hitlerum – No – The text does not suggest any idea is popular with a hated group.
+10. Bandwagon – Yes – The White House statement appeals to popularity by claiming the Hammonds have "widespread support from their neighbors, local law enforcement, and farmers and ranchers across the West."
+11. Causal Oversimplification – Yes – The text reports the protesters' view that the jail time was "punishment for the Hammond family’s refusal to sell the government its land," which simplifies a complex legal case involving arson and mandatory minimum sentencing laws.
+12. Obfuscation, intentional vagueness – No – The article itself is written with clarity. While the term "leaked" from the White House statement could be seen as vague, the overall text is not deliberately obscure.
+13. Appeal to authority – Yes – The entire premise of the article is based on the President's use of his authority to issue pardons. The White House statement itself is an appeal to the authority of the executive branch, declaring "Justice is overdue."
+14. Black & white fallacy – Yes – The text quotes Ammon Bundy presenting only two options: "Do we allow this to go on, or do we make a stand?"
+15. Thought-terminating clichés – Yes – The White House statement that "Justice is overdue for Dwight and Steven Hammond" is a phrase that presents a conclusion as self-evident and discourages further debate on the nuances of the case.
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main points.
+17. Straw men – No – The text reports on the actual arguments made by the different parties involved, not misrepresentations of them.
+18. Whataboutism – No – The text does not contain any charges of hypocrisy to deflect criticism.
+
+Verdict – 10% – The text itself is a news report from POLITICO, a mainstream news organization. Its primary purpose is to inform the reader about the presidential pardons, providing context and background. In this role, the article is largely objective and follows journalistic standards by presenting multiple sides of the issue: the White House's justification for the pardon, the original legal case against the Hammonds, the Hammonds' side of the story, and the rationale of the protesters.
+
+However, the text is not 0% free of propaganda because it is *reporting on* propaganda. The article quotes statements from the White House and protest leaders that use numerous propaganda techniques, including Loaded Language, Bandwagon, Minimization, Causal Oversimplification, and Appeal to Authority. By presenting these quotes, the article inevitably broadcasts the propaganda contained within them. The 10% likelihood reflects that while the article's structure is journalistic and not propagandistic, the selection and framing of these powerful, quoted statements can have a persuasive effect on the reader, even if that is not the author's primary intent. The text is a vehicle for propaganda, but not propaganda itself.

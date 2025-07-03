@@ -1,0 +1,37 @@
+1. Name calling – No – The text reports on political demands and criticisms but does not use insulting labels to attack any individual or group.
+
+2. Repetition – Yes – The demand to "release the Mueller report" is repeated by numerous individuals throughout the text, including Elizabeth Warren, Bernie Sanders, Beto O’Rourke, and Kirsten Gillibrand.
+
+3. Slogans – Yes – The text features brief, memorable phrases used as rallying cries, such as "Release the Mueller report to the American people" and Kamala Harris’s call for “total transparency.”
+
+4. Appeal to fear – No – The text focuses on the right to information and transparency rather than instilling fear about the consequences of not releasing the report.
+
+5. Doubt – Yes – By calling for Attorney General Barr to "publicly testify under oath about the investigation and its findings," Kamala Harris's statement questions the potential credibility or completeness of a summary provided by the Department of Justice.
+
+6. Exaggeration/minimization – No – The text reports on the political reactions and statements without overtly exaggerating or minimizing the events or their significance.
+
+7. Flag-Waving – Yes – The text includes appeals to patriotism and national principles, such as John Delaney stating the “patriotic action for the Attorney General is to release the entire Mueller Report” and Julian Castro referencing “Russia’s interference in our democracy.”
+
+8. Loaded Language – Yes – The headline uses the phrase "Dems seize on report drop," which emotionally frames the actions as opportunistic. Politicians' quotes like "get to the bottom of foreign interference" and "American people deserve to know the full truth" appeal to emotions of justice and righteousness.
+
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or other hated groups.
+
+10. Bandwagon – Yes – The article creates a bandwagon effect by listing a long and uniform series of Democratic presidential candidates all making the same demand, suggesting it is the popular and correct position.
+
+11. Causal Oversimplification – No – The text reports on the reactions to an event and does not attempt to explain the cause of any complex issue.
+
+12. Obfuscation, intentional vagueness – No – The language used in the article and in the quotes is direct and clear. The demands are specific (e.g., "release the report," "testify under oath").
+
+13. Appeal to authority – Yes – The text cites the authority of the politicians making the statements (Senators, former Attorney General) and also quotes Bernie Sanders using Donald Trump's own authority against him: “As Donald Trump said, ‘Let it come out.’”
+
+14. Black & white fallacy – Yes – The narrative presented in the text frames the situation as a binary choice: either the administration releases the full report ("total transparency"), or it is engaging in a cover-up. It largely ignores other possibilities, such as a redacted release for security reasons.
+
+15. Thought-terminating clichés – Yes – The text includes phrases like “The American people have a right to know” and “No one, including the president, is above the law.” These are presented as absolute truths that discourage nuanced discussion on the topic.
+
+16. Red herring – No – The text stays focused on the central topic of the Mueller report's release and the political reactions to it. The mention of fundraising is directly related to the political context.
+
+17. Straw men – No – The text focuses on advocating for an action (releasing the report) rather than refuting a specific, misrepresented argument from the opposition.
+
+18. Whataboutism – Yes – The text includes Bernie Sanders quoting Donald Trump ("'Let it come out.'"), which is used to preemptively charge the Trump administration with hypocrisy if it fails to release the report.
+
+Verdict – 75% – The text is a news report, but it functions as propaganda through its framing and selective presentation of information. By exclusively compiling quotes from one political party (the Democrats) and presenting their demands as a unified, overwhelming chorus, the article builds a strong bandwagon effect. The headline, "2020 Dems seize on report drop," frames their response as politically opportunistic. While reporting factual statements, the article's structure and one-sided sourcing serve to amplify a specific political narrative—that of unified Democratic pressure and suspicion against the administration—rather than providing a balanced overview of the situation. This selective amplification of partisan messaging, which is itself filled with propaganda techniques, makes the article itself a piece of propaganda.

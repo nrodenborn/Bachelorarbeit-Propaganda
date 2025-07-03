@@ -1,0 +1,39 @@
+Name calling – No – The text does not use insulting labels to attack a subject. It uses terms like "terrorist" but in a descriptive, rather than purely insulting, context for the group it is accusing.
+
+Repetition – No – The text builds an argument with different points rather than repeating the same message or phrase over and over.
+
+Slogans – No – The text does not use any brief, memorable phrases as slogans.
+
+Appeal to fear – Yes – “Credible Evidence Of A Terrorist Infiltration”: Congressman Says ‘Secret Intel’ Proves ISIS Connection To Las Vegas Massacre. The entire premise is built on creating fear of a hidden terrorist threat and infiltration across the border.
+
+Doubt – Yes – The entire article is constructed to cast doubt on the official narrative of the Las Vegas shooting by presenting an alternative explanation. The line, "Keep in mind that this lines up with other alternative media reports regarding the Oct. 1st massacre as well as hints provided in the mainstream media," encourages the reader to doubt the primary story.
+
+Exaggeration/minimization – Yes – "We also know that it is a conclusive fact that there was more than one shooter, according to literally dozens of eyewitnesses". Stating that eyewitness accounts make something a "conclusive fact" is a significant exaggeration, as official investigations concluded otherwise and eyewitness reports in chaotic situations are often contradictory.
+
+Flag-Waving – No – The text does not make a direct appeal to patriotism or national identity to make its case.
+
+Loaded Language – Yes – "Appearing on Fox News Tucker Carlson Tonight, Perry described evidence he had personally seen that suggested that some sort of terrorist infiltration aided the **horrific** Las Vegas Massacre." Words like "horrific," "shockingly," and "fateful" are used to evoke an emotional response rather than to convey information neutrally.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other groups widely hated by the audience.
+
+Bandwagon – Yes – "Keep in mind that this lines up with other alternative media reports regarding the Oct. 1st massacre" and "...according to literally dozens of eyewitnesses who have continued to come forward". These phrases suggest that because many other people or sources believe this, the reader should too.
+
+Causal Oversimplification – Yes – The text suggests a simple cause ("terrorist infiltration") for a very complex event (a mass shooting by a lone individual with a complex and not fully understood motive). It presents this simple cause as the sole explanation, ignoring all other factors.
+
+Obfuscation, intentional vagueness – Yes – “Recently, I have been made aware of what i believe to be credible evidence, credible information, regarding potential terrorist infiltration...”. The source and nature of this "credible evidence" and "secret intel" are kept entirely vague, preventing any real scrutiny.
+
+Appeal to authority – Yes – "Congress is in possession of ‘secret intel’ that exposes an ISIS connection to the horrific Las Vegas Massacre, according to a surprising claim made by Pennsylvania Congressman Scott Perry." The entire argument's credibility hinges on the authority of a Congressman who has supposedly seen secret information.
+
+Black & white fallacy – No – The text presents an alternative theory but does not frame the situation as a choice between only two options (e.g., "Either you believe this, or you are a fool").
+
+Thought-terminating clichés – No – The text does not use clichés to shut down critical thought.
+
+Red herring – Yes – "Interestingly, there are also reports that Stephen Paddock’s girlfriend actually deleted her Facebook page an hour before police released her boyfriends name." This detail is presented as suspicious but is irrelevant to the central claim of ISIS infiltration and serves only to create general distrust and confusion.
+
+Straw men – No – The text does not misrepresent or refute an opponent's argument; instead, it builds its own alternative narrative.
+
+Whataboutism – No – The text does not accuse any opponent of hypocrisy to deflect criticism.
+
+***
+
+Verdict – 95% – The text is a clear example of propaganda. Its primary purpose is not to inform the reader with verifiable facts, but to persuade them to accept a specific, highly controversial, and unsubstantiated narrative. It achieves this by heavily relying on a multitude of propaganda techniques. The core of the article is built on an Appeal to Authority (a Congressman) and Obfuscation (the evidence is "secret" and cannot be examined). This is layered with an Appeal to Fear (terrorist infiltration), Loaded Language ("horrific," "shockingly") to create an emotional response, and a Bandwagon appeal ("other alternative media reports," "dozens of eyewitnesses") to create a sense of popular consensus. The argument itself is a Causal Oversimplification, reducing a complex tragedy to a simple conspiracy, and it uses Red Herrings (the girlfriend's Facebook) to add layers of suspicion without providing concrete evidence for its central claim. The cumulative effect of these techniques is to bypass critical analysis and encourage the acceptance of a fear-based conspiracy theory.

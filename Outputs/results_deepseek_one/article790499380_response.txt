@@ -1,0 +1,22 @@
+Here is the analysis of propaganda techniques in the text, followed by the verdict:
+
+1.  **Name calling** – **Yes** – "Accused Woman Abuser" (headline), "effeminate pansy".
+2.  **Repetition** – **Yes** – "Who should replace Nikki Haley as our ambassador to the U.N.?" (repeated verbatim three times).
+3.  **Slogans** – **No** – No distinct, memorable phrase is used as a slogan.
+4.  **Appeal to fear** – **No** – The text focuses on alleged past abuse and hypocrisy, not instilling fear about future consequences of alternatives.
+5.  **Doubt** – **Yes** – "Well, that's not entirely accurate." (casting doubt on Ellison's statement about unsubstantiated allegations), questioning the independence of the investigator ("met with derision from many who said she is not independent").
+6.  **Exaggeration/minimization** – **Yes** – Minimization: "The media has kept it quiet." (downplaying media coverage of the allegations). Exaggeration: "pure hell" (quoting Austin Monahan, used without counter).
+7.  **Flag-Waving** – **Yes** – "does not want to answer to the American people" (appealing to the audience's identity as "the American people").
+8.  **Loaded Language** – **Yes** – "Accused Woman Abuser", "pure hell", "lingered in the public sphere", "damage control", "effeminate pansy", "simply does not want to answer", "seeks security to hide".
+9.  **Reduction ad Hitlerum** – **No** – No comparison to Hitler, Nazis, or other universally despised groups.
+10. **Bandwagon** – **No** – The text doesn't argue Ellison's actions are wrong *because* they are unpopular or popular; it argues based on alleged facts and hypocrisy.
+11. **Causal Oversimplification** – **No** – The text doesn't attribute a complex problem to a single, simple cause.
+12. **Obfuscation, intentional vagueness** – **No** – The text is direct and accusatory, not deliberately obscure.
+13. **Appeal to authority** – **No** – While sources are cited (Star Tribune, FEC filings, Dave Weigel), they are used to report facts or statements, not primarily to invoke an authority's support as conclusive evidence for the author's main argument.
+14. **Black & white fallacy** – **Yes** – The constant comparison to Kavanaugh implies there are only two ways to handle accusations: the way Kavanaugh did (subjected to FBI investigation, stood before committee) or Ellison's way (implying guilt by contrasting his approach negatively).
+15. **Thought-terminating clichés** – **No** – The text invites scrutiny and argument, rather than shutting it down with phrases like "it is what it is".
+16. **Red herring** – **Yes** – The extensive details about Brett Kavanaugh's situation are irrelevant to the specific allegations against Keith Ellison and serve to distract by comparison and accusation of hypocrisy.
+17. **Straw men** – **No** – The text attacks Ellison's actual actions/statements (calling for a House investigation, denying allegations) and the perceived inadequacy of the investigation, not a misrepresented position.
+18. **Whataboutism** – **Yes** – The entire comparison to Brett Kavanaugh ("unlike Supreme Court nominee Brett Kavanaugh...", "at least in the case of Ellison...", "Judge Kavanaugh has faced it all...") charges Ellison and Democrats with hypocrisy in their handling of abuse allegations compared to their treatment of Kavanaugh.
+
+**Verdict – 95% –** The text is overwhelmingly propaganda. It heavily employs techniques like **Name Calling** ("Accused Woman Abuser", "effeminate pansy"), **Loaded Language** throughout, **Doubt** (casting aspersions on Ellison's statements and the investigation), **Red Herring** (constant diversion to Kavanaugh), **Whataboutism** (the core hypocrisy argument comparing Ellison to Kavanaugh), **Black & White Fallacy** (framing the handling of accusations as only Kavanaugh's way vs. Ellison's way implying guilt), **Minimization** (downplaying media coverage), and **Flag-Waving** (appealing to "the American people"). While it reports factual elements (police report, existence of investigation, past restraining order), these are embedded within a highly biased narrative designed to smear Ellison, attack Democrats for perceived hypocrisy, and evoke negative emotions (disgust, outrage) rather than provide a balanced or objective assessment of the allegations. The sensationalist headline, selective framing, and inflammatory language leave little doubt about its propagandistic intent. The 5% uncertainty acknowledges the presence of some factual reporting, though heavily manipulated.

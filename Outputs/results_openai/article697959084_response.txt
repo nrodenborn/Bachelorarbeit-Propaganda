@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack an object or subject.
+2. Repetition – Yes – The text repeatedly emphasizes the idea that there was a cover-up and multiple shooters, e.g., "there were multiple active shooters" and "authorities have lied."
+3. Slogans – No – The text does not use a brief and memorable phrase.
+4. Appeal to fear – Yes – The text instills fear by suggesting a cover-up and multiple shooters, e.g., "authorities have so far done everything in their power to cover-up."
+5. Doubt – Yes – The text questions the credibility of the official story, e.g., "contradicts the official story" and "authorities have lied."
+6. Exaggeration/minimization – Yes – The text exaggerates the certainty of the cover-up, e.g., "strikingly obvious that authorities have lied."
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – The text uses emotionally charged language, e.g., "astonishing eyewitness report" and "completely destroyed."
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with hated groups.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – Yes – The text implies a simple cause (cover-up) for the complex event of the shooting, e.g., "authorities have lied."
+12. Obfuscation, intentional vagueness – Yes – The text uses vague claims about a cover-up without specific evidence, e.g., "one can only speculate."
+13. Appeal to authority – Yes – The text references police audio recordings and another eyewitness to support its claims, e.g., "police audio recordings... confirms."
+14. Black & white fallacy – Yes – The text presents the situation as either the official story or a cover-up, e.g., "official narrative... completely destroyed."
+15. Thought-terminating clichés – No – The text does not use clichés that discourage critical thought.
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 80% – The text exhibits several propaganda techniques, including repetition, appeal to fear, doubt, exaggeration, loaded language, causal oversimplification, obfuscation, appeal to authority, and black & white fallacy. These techniques work together to cast doubt on the official narrative of the Las Vegas shooting and suggest a cover-up without providing concrete evidence. The presence of these techniques indicates a high likelihood that the text is propaganda aimed at influencing public perception and opinion.

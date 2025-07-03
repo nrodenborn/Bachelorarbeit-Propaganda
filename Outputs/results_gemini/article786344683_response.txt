@@ -1,0 +1,45 @@
+1. Name calling – No – The text uses loaded language to attack Google and Hillary Clinton, but it does not use direct, insulting labels or slurs against them.
+
+2. Repetition – Yes – The central message that ‘Google worked to help Hillary Clinton win the 2016 election’ is repeated throughout the text, starting with the headline and reinforced with each new piece of evidence presented. For example, the headline states "Google Was ‘Working To Get Hillary Clinton Elected’" and the text concludes with "So, despite Google’s best efforts to help Clinton win the election, it simply wasn’t enough."
+
+3. Slogans – No – The text does not employ any brief, memorable phrases that are repeated to encapsulate an idea.
+
+4. Appeal to fear – Yes – The text instills fear by suggesting a powerful, unseen entity (Google) has the ability to manipulate democratic elections. The quote, "search engines like Google can shift the opinions of undecided voters by up to 43.4 percent," is used to create fear about the vulnerability of the voting process.
+
+5. Doubt – Yes – The entire article is constructed to create doubt about Google's neutrality and credibility. The line, "Now officially Voto Latino is a non-partisan entity, but that is a sham," directly questions the stated purpose of an organization linked to Google's efforts. The tweet asking, "Maybe that’s why they refused to appear before Congress last week?" also serves to cast doubt on Google's motives.
+
+6. Exaggeration/minimization – Yes – The text exaggerates the scope and impact of the described actions by framing them as a comprehensive plot to "throw the election." The phrase "blew the cover off the 2016 election influence charade" exaggerates the significance of the email. It also minimizes the official non-partisan status of Voto Latino by dismissing it as a "sham."
+
+7. Flag-Waving – Yes – The text appeals to patriotism by framing the issue as a defense of the American democratic process against a corrupt internal entity. The entire narrative is about the integrity of a US presidential election, which implicitly appeals to a sense of national identity and civic duty.
+
+8. Loaded Language – Yes – The text is filled with emotionally charged words and phrases intended to influence the reader's perception. Examples include "influence charade," "silent donation" (used to imply conspiracy), "sham," "vocally partisan," and "caught red-handed."
+
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or the Nazi party.
+
+10. Bandwagon – No – The text does not argue that its position is correct because it is popular. It presents itself as an exposé revealing hidden information.
+
+11. Causal Oversimplification – Yes – The text presents a simple cause (a coordinated plot by Google) for a complex event (the dynamics of the 2016 election and voter turnout). It suggests Google's refusal to appear before Congress has a single, simple reason: "Maybe that’s why they refused to appear before Congress last week?"
+
+12. Obfuscation, intentional vagueness – No – The text attempts to appear precise by quoting emails, citing specific people, and referencing studies, rather than being intentionally vague.
+
+13. Appeal to authority – Yes – The text relies on the perceived authority of figures and sources like "Tucker Carlson," "WikiLeaked Podesta emails," "Breitbart," and "Dr. Robert Epstein" to lend credibility to its claims.
+
+14. Black & white fallacy – Yes – The text presents a false dichotomy where Google is either a completely neutral public utility or a deliberately partisan actor working to subvert democracy. It does not allow for nuanced possibilities, such as the actions of individual employees not reflecting an official corporate conspiracy.
+
+15. Thought-terminating clichés – Yes – Phrases like "caught red-handed" are used to suggest the case is closed and no further discussion is needed, discouraging critical thought about the evidence.
+
+16. Red herring – Yes – The final section comparing Google's search results for the word "Idiot" with DuckDuckGo's is an irrelevant distraction. The main argument is about election interference in 2016; this later controversy about search results is introduced to add more negative sentiment against Google but does not support the central thesis.
+
+17. Straw men – Yes – The text sets up and attacks the idea of Google as a perfectly neutral entity. It refutes the "official" non-partisan status of Voto Latino by simply calling it a "sham" because it opposes Trump, misrepresenting the definition of non-partisan (which does not mean non-critical).
+
+18. Whataboutism – No – The text does not deflect criticism from one party by accusing another of hypocrisy. It is a direct attack on Google.
+
+***
+
+Verdict – 95% – The text is overwhelmingly propagandistic. Its primary purpose is not to inform neutrally but to persuade the reader to accept a specific conclusion: that Google is a politically biased and corrupt entity that actively tried to rig the 2016 presidential election.
+
+The piece employs a vast number of propaganda techniques to construct its argument. It relies heavily on **Loaded Language** ("charade," "sham") and **Appeal to Fear** to create an emotional response of outrage and suspicion. It uses **Appeal to Authority** by citing sources (Tucker Carlson, Breitbart, WikiLeaks) that would be considered credible by its target audience, while simultaneously using **Doubt** to undermine the credibility of its subject (Google).
+
+The narrative is built on a **Black & White Fallacy**, presenting no middle ground between Google being perfectly neutral and being a sinister conspirator. It commits **Causal Oversimplification** by attributing complex events to a single, malicious cause. Crucially, it uses a **Red Herring** (the "Idiot" search result) to introduce unrelated negative information to further poison the well against Google.
+
+While the text uses factual elements, such as direct quotes from emails, these elements are cherry-picked and framed within a narrative designed to lead to a single, pre-determined interpretation. The sheer density of the propaganda techniques used demonstrates that the article is a work of persuasion, not objective journalism.

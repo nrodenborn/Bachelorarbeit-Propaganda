@@ -1,0 +1,37 @@
+Name calling – Yes – The text refers to former FBI officials Peter Strzok and Lisa Page as “disgraced former FBI officials.” It also quotes Rep. Adam Schiff describing the declassification order as a “clear abuse of power.”
+
+Repetition – No – The text reports on a single event and its surrounding context; it does not repeat a specific message or phrase in a propagandistic manner.
+
+Slogans – No – The text does not contain any brief, memorable phrases intended to be used as a slogan.
+
+Appeal to fear – Yes – The text quotes Rep. Adam Schiff stating that the release of the documents is a “red line that must not be crossed as they may compromise sources and methods,” which appeals to fears about national security.
+
+Doubt – Yes – The article’s premise is that the declassification will “shed light on the origins of the Russia collusion probe,” which casts doubt on the legitimacy of the investigation. It also quotes Rep. Adam Schiff questioning the President's motives, suggesting he acts only for his “narrow self-interest.”
+
+Exaggeration/minimization – Yes – The text uses the term “hamstrung the administration” to describe the effect of the probe. It also quotes Rep. Adam Schiff making the exaggerated claim that the President “cares about nothing about the country and everything about his narrow self-interest.”
+
+Flag-Waving – Yes – The text quotes a Justice Department spokesperson framing their review process as a way “to seek to ensure the safety of America’s national security interests,” which is an appeal to patriotism and national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words and phrases such as “scrambling,” “sweeping order,” “hamstrung the administration,” “disgraced former FBI officials,” and “blasting the declassification order.”
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other universally hated groups.
+
+Bandwagon – Yes – The White House statement justifies the order by stating it was made “[a]t the request of a number of committees of Congress,” suggesting the action is popular and supported by an influential group.
+
+Causal Oversimplification – Yes – Rep. Adam Schiff’s quote simplifies the President's motivation for the order down to a single cause: "his narrow self-interest," ignoring other potential political or strategic reasons.
+
+Obfuscation, intentional vagueness – No – While statements from government agencies contain some bureaucratic language, the article itself is attempting to clarify the situation, not deliberately confuse the audience.
+
+Appeal to authority – Yes – The article is built around quoting various authorities to support different viewpoints, including the White House Press Secretary, the Justice Department, the ODNI, Rep. Devin Nunes, and Rep. Adam Schiff.
+
+Black & white fallacy – Yes – The article frames the issue as a binary conflict between Republicans who are “touting the president’s order” and Democrats who are “blasting the declassification order.” Rep. Schiff's quote also presents a false dichotomy: "[Trump] cares about nothing about the country and everything about his narrow self-interest."
+
+Thought-terminating clichés – No – The text does not use any phrases or clichés intended to discourage critical thought.
+
+Red herring – No – The article remains focused on the topic of the declassification order and does not introduce irrelevant material to distract the audience.
+
+Straw men – Yes – The text quotes Rep. Adam Schiff claiming the President’s goal is to “advance a false narrative.” This refutes a narrative (that the Russia probe was corrupt from the start) that is only implied, not explicitly stated by the President in this text.
+
+Whataboutism – No – The text does not charge any party with hypocrisy by deflecting criticism with a counter-accusation.
+
+Verdict – 75% – The text presents itself as a factual news report, but it heavily employs propaganda techniques, both in its own framing and through the selective use of quotes. While it reports on a real event (the President's order), the language used by the author ("scrambling," "hamstrung," "disgraced") is emotionally loaded and not neutral. Furthermore, the article's structure is built on a black-and-white conflict between Republicans and Democrats. It heavily features quotes from political actors (like Adam Schiff) that are themselves filled with propaganda techniques such as appeal to fear, exaggeration, and causal oversimplification. By presenting these propagandistic statements from opposing sides under the guise of balanced reporting, the article amplifies the propaganda and frames the political situation as a simple, dramatic conflict rather than a complex issue. The sheer number of techniques present pushes it far from objective journalism and into the realm of propaganda.

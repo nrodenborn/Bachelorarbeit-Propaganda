@@ -1,0 +1,41 @@
+**Name calling – Yes – Explanation:** The text labels the opposition with insulting terms, such as calling the group of voters a “mob” (“one of the members of the mob that removed the three directors”), the BDS movement a “racist boycott movement,” and the campus press “toxic.”
+
+**Repetition – Yes – Explanation:** The text repeatedly pushes the message that the students were removed due to anti-Semitism. This is seen in phrases like “this was about my Jewish identity, and nothing more,” “inherent anti-Semitism in the BDS movement,” “If BDS is not anti-Semitic, why…”, and “long string of antisemitic incidents.”
+
+**Slogans – Yes – Explanation:** The text opens with a powerful and memorable phrase adapted from Martin Niemöller's poem, “First they came for the Jews. And then they came for everyone else,” which functions as a slogan to frame the entire piece.
+
+**Appeal to fear – Yes – Explanation:** The opening lines, “First they came for the Jews. And then they came for everyone else,” directly allude to the Holocaust, suggesting that if this event is ignored, it could lead to wider persecution, thereby instilling fear in the reader.
+
+**Doubt – No – Explanation:** The text does not primarily use questions to create doubt about the opposition's credibility. Instead, it makes direct, assertive accusations against them, such as calling them a "racist boycott movement."
+
+**Exaggeration/minimization – Yes – Explanation:** The text exaggerates the severity of the event by comparing a student government vote to the Holocaust with the line, “First they came for the Jews.”
+
+**Flag-Waving – Yes – Explanation:** The text makes a strong appeal to Jewish identity to rally support. For example: “I was blocked from being able to participate in my student government because I am Jewish, because I have been affiliated with Jewish organizations, and because I believe in the right to Jewish self-determination.”
+
+**Loaded Language – Yes – Explanation:** The text is filled with emotionally charged words intended to influence the reader, such as “harassment and hate,” “blatant agenda,” “mob,” “incitement to violence,” and “toxic campus press.”
+
+**Reduction ad Hitlerum – Yes – Explanation:** The text disapproves of the events by alluding to Nazis. The opening line, “First they came for the Jews,” is a direct reference to a famous poem about the rise of the Nazis, implicitly comparing the situation to their persecution.
+
+**Bandwagon – No – Explanation:** The text does not appeal to popularity. Instead, it portrays the pro-Israel students as a persecuted minority, which is the opposite of a bandwagon appeal.
+
+**Causal Oversimplification – Yes – Explanation:** The text simplifies a complex political situation by claiming the sole cause for the students' removal was their identity, stating it “was about my Jewish identity, and nothing more,” ignoring the opposition's stated reason of "conflicts of interest."
+
+**Obfuscation, intentional vagueness – No – Explanation:** The text is not vague or confusing. It is very direct and clear in its accusations and identifies the specific groups and individuals it holds responsible.
+
+**Appeal to authority – No – Explanation:** The text does not cite any recognized, impartial authorities to support its claims. It relies on the testimony of the involved students, who are primary sources but not external authorities.
+
+**Black & white fallacy – Yes – Explanation:** The text presents the situation as a simple binary choice: either the vote was a procedural matter (which it dismisses) or it was an act of pure anti-Semitism. It leaves no room for nuance, framing it as a conflict between pro-Jewish students and anti-Semites.
+
+**Thought-terminating clichés – No – Explanation:** The text does not use clichés to shut down discussion. It uses highly argumentative and emotional language to persuade the reader, rather than relying on simplistic, thought-ending phrases.
+
+**Red herring – Yes – Explanation:** The text introduces the past actions of Igor Sadikov (“punch a Zionist today”) and a separate issue about the campus newspaper to distract from the specific details of the vote and instead paint the entire opposition with a broader brush of extremism and hypocrisy.
+
+**Straw men – Yes – Explanation:** The text focuses on refuting the idea that the BDS movement is not anti-Semitic (“If BDS is not anti-Semitic, why...?”) rather than addressing the opposition's stated argument that the students were removed due to a “conflict of interest.”
+
+**Whataboutism – Yes – Explanation:** The text charges the opposition with hypocrisy by raising a hypothetical situation: “And we know exactly what the reaction would be if a student paper refused to publish any pro-Islamist content.” This deflects from the main point to accuse others of a double standard.
+
+***
+
+**Verdict – 95% – Explanation:** The text is highly likely to be propaganda. It employs a vast number of propaganda techniques to present a one-sided, emotionally charged narrative rather than a neutral, factual account of events. The primary goal is to persuade the reader to adopt a specific viewpoint by manipulating emotions and using logical fallacies.
+
+Key techniques that establish this verdict include the use of **Loaded Language** (“mob,” “racist,” “toxic”) and **Name Calling** to demonize the opposition, a powerful **Appeal to Fear** and **Reduction ad Hitlerum** by alluding to the Holocaust, and a strong **Flag-Waving** appeal to Jewish identity. The argument is built on logical fallacies like **Causal Oversimplification** (blaming only anti-Semitism), the **Black & White Fallacy** (framing it as good vs. evil), **Red Herring** (introducing distracting information), and **Whataboutism** (charging hypocrisy). The combination of these methods demonstrates a clear intent to propagandize rather than inform.

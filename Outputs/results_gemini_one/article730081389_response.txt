@@ -1,0 +1,22 @@
+1. Name calling – No – The text does not use any insulting labels to attack any person or group. It refers to the individuals involved by their names or roles (e.g., "the suspect, 30-year-old Quentin Smith," "Westerville Officers Eric Joering, 39, and Anthony Morelli, 54").
+2. Repetition – No – The text does not repeat any specific message or phrase to reinforce an idea. It presents a chronological account of the event.
+3. Slogans – No – The text does not contain any brief, memorable phrases intended to rally support or encapsulate a message.
+4. Appeal to fear – No – While the events described are frightening, the text reports them factually and does not use fear to support a separate idea or agenda.
+5. Doubt – No – The text does not question the credibility of any person or source. It presents information from police reports and 911 calls as factual.
+6. Exaggeration/minimization – No – The text reports the details of the event (e.g., number of officers killed, the suspect's condition) without any apparent exaggeration or minimization.
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity.
+8. Loaded Language – No – The language is factual and journalistic (e.g., "fatally shot," "shot and wounded"). It avoids emotionally charged words intended to manipulate the reader.
+9. Reduction ad Hitlerum – No – The text makes no comparisons to hated groups like the Nazis.
+10. Bandwagon – No – The text does not suggest that an idea is correct because it is popular.
+11. Causal Oversimplification – No – The text reports on the incident but does not attempt to provide a simple cause for the complex event. It mentions prior domestic dispute calls as context, not as a sole cause.
+12. Obfuscation, intentional vagueness – No – The text is specific and clear, providing details such as names, ages, and a timeline of events based on 911 calls.
+13. Appeal to authority – Yes – "Westerville Police Chief Joe Morbitzer said at a news conference Saturday that Joering and Morelli were shot immediately upon entering."
+14. Black & white fallacy – No – The text does not present only two choices or options. It is a factual report of an event.
+15. Thought-terminating clichés – No – The text does not use any phrases or clichés to discourage critical thought.
+16. Red herring – No – All the information presented, such as the history of prior police calls to the home, is relevant to the story.
+17. Straw men – No – The text does not create or refute any arguments; it reports on an event.
+18. Whataboutism – No – The text does not accuse anyone of hypocrisy or deflect criticism.
+
+***
+
+Verdict – 0% – The text is a factual news report, not propaganda. Its primary purpose is to inform the public about a specific event in a neutral, objective manner. While it technically uses "Appeal to authority" by citing the police chief and official reports, this is a fundamental practice of journalism used to establish the credibility and source of facts, not to push an opinion or belief. The text is devoid of the manipulative and persuasive elements that characterize propaganda, such as loaded language, name-calling, or emotional appeals designed to sway the audience's opinion. It simply states what happened based on the available evidence.

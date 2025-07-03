@@ -1,0 +1,23 @@
+Based on the definitions provided, here is the analysis of the text for each propaganda technique:
+
+1.  **Name calling** – No – No insulting labels are applied to the subject (Paddock, the attack, or authorities) in the text.
+2.  **Repetition** – No – The core message ("it was a set-up") is stated a few times, but not heavily repeated throughout the text.
+3.  **Slogans** – No – No brief, memorable phrases are used as slogans within the article text itself (though the headline uses "It's gotta be a set-up", it's presented as a quote).
+4.  **Appeal to fear** – No – The text reports on a conspiracy claim but doesn't overtly try to instill fear about alternatives or the present situation.
+5.  **Doubt** – **Yes** – The neighbor explicitly questions the official narrative: "he could not have carried out the massacre," "it was actually a 'set-up'," questioning the lack of muzzle flashes, and suggesting Paddock's body may have been planted. The article itself questions the lack of motive.
+6.  **Exaggeration/minimization** – **Yes** – The neighbor minimizes Paddock's capability: "100% this is not that kind of guy," "never even told me he owned a gun." The text also potentially exaggerates the significance of the neighbor's claims by presenting them prominently.
+7.  **Flag-Waving** – No – No appeals to patriotism or group identity are made.
+8.  **Loaded Language** – **Yes** – Words like "extraordinary claim," "set up," "wider plot" (vs. "lone wolf"), "sophisticated operation," and "blabbing" carry emotional weight and frame the narrative towards conspiracy. The headline's "Claims He Didn’t Do It" is also loaded.
+9.  **Reduction ad Hitlerum** – No – No comparisons to Nazis or universally hated groups are made.
+10. **Bandwagon** – No – No appeal is made to the popularity of the conspiracy idea.
+11. **Causal Oversimplification** – **Yes** – The neighbor implies the lack of observed guns/politics and Paddock's perceived normalcy are simple proofs he couldn't be the shooter ("100% this is not that kind of guy"). The article also simplifies the lack of known motive as potential evidence for a conspiracy ("given that no specific motive has yet to be uncovered").
+12. **Obfuscation, intentional vagueness** – No – The claims (Paddock was normal, it was a set-up, body left behind) are stated clearly, if unsubstantiated.
+13. **Appeal to authority** – **Yes** – The neighbor's credibility is bolstered by identifying him as a "former Marine" and a "firearms expert," implying his opinions on Paddock's character and the technical aspects (muzzle flashes) carry weight.
+14. **Black & white fallacy** – No – The text doesn't explicitly present only two stark choices. It presents the official story vs. the neighbor's conspiracy theory, but acknowledges the commonality of neighborly surprise ("it is important to remember...").
+15. **Thought-terminating clichés** – **Yes** – The neighbor uses "I’m not a big conspiracy theory guy, but..." to preemptively dismiss skepticism of his own conspiracy claim and make it seem more reasonable.
+16. **Red herring** – **Yes** – The mention of "some people in the crowd were warned 45 minutes before the shooting" is introduced as evidence for the neighbor's "set-up" theory. This distracts from evaluating the neighbor's core claim about Paddock's character and capability, as it's an unverified external event.
+17. **Straw men** – No – The text doesn't misrepresent or refute an argument not actually made by proponents of the official narrative.
+18. **Whataboutism** – No – No charges of hypocrisy are made against proponents of the official narrative.
+
+**Verdict – 85% – Explanation:**
+The text exhibits several clear propaganda techniques: **Doubt** (challenging the official narrative), **Exaggeration/Minimization** (downplaying Paddock's potential), **Loaded Language** (emotionally charged terms framing conspiracy), **Causal Oversimplification** (using Paddock's observed normalcy & lack of motive as simple proof of conspiracy), **Appeal to Authority** (leveraging the neighbor's Marine/firearms expert status), **Thought-terminating clichés** (dismissing skepticism of conspiracy claims), and **Red Herring** (introducing crowd warnings). While it includes a brief, weak counterpoint about neighbors often being surprised, the overwhelming framing, sourcing (Infowars), selective presentation of the neighbor's unverified claims as significant evidence, and the clear intent to cast doubt on the official account ("What do you think?") demonstrate a strong propagandistic effort to promote a conspiracy narrative about the Las Vegas shooting. The percentage reflects the high density of techniques used relative to the text's length and purpose.

@@ -1,0 +1,32 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – Yes – "mainstream hack politician" (insulting label for Farage).  
+2. **Repetition** – Yes – Poll question "Whom do you consider to be the most corrupt Democrat Politician?" repeated three times.  
+3. **Slogans** – No – No brief, memorable phrases used for persuasion.  
+4. **Appeal to fear** – Yes – Warnings about "global jihad threat," historical accounts of Muslim subjugation (e.g., "humiliate," "curse of Allah"), and claims the West will "lose" without action.  
+5. **Doubt** – Yes – Questions Farage’s credibility: "remarkable ignorance of history," and "No sane person is saying..." implying his argument is irrational.  
+6. **Exaggeration/minimization** – Yes – Minimizes Farage’s stance as "denial and appeasement"; exaggerates historical Islamic texts as universally representative.  
+7. **Flag-Waving** – No – No explicit appeals to patriotism or identity.  
+8. **Loaded Language** – Yes – Terms like "sabotage," "jihad terror," "humiliate," "exterminate the infidels," and "hardline interpretations" evoke negative emotions.  
+9. **Reduction ad Hitlerum** – No – No linkage to hated groups.  
+10. **Bandwagon** – No – No emphasis on popularity.  
+11. **Causal Oversimplification** – No – No oversimplified causes; historical context is provided.  
+12. **Obfuscation, intentional vagueness** – No – Arguments are direct; quotes are specific.  
+13. **Appeal to authority** – Yes – Cites the author’s own book ("I document this abundantly in my new book") as evidence.  
+14. **Black & white fallacy** – Yes – Presents a false dilemma: either confront Islamic texts or "appease" jihadis (e.g., "if we don’t speak about such facts, how will we ever convince Muslims...?").  
+15. **Thought-terminating clichés** – No – No phrases used to shut down debate.  
+16. **Red herring** – No – All content relates to the core argument.  
+17. **Straw men** – Yes – Misrepresents Farage’s warning as opposing *any* discussion of Quranic justification ("he is saying that we must not speak about how jihadis find justification..."), which Farage never stated.  
+18. **Whataboutism** – No – No accusations of hypocrisy.  
+
+---
+
+### Verdict – 80% –   
+The text is highly likely propaganda due to:  
+1. **Emotional Manipulation**: Loaded language (e.g., "jihad terror," "humiliate") and fear appeals dominate.  
+2. **Ad Hominem Attacks**: Dismisses Farage as a "mainstream hack politician" instead of engaging his argument.  
+3. **Misrepresentation**: Uses a straw man to distort Farage’s position and historical quotes selectively to imply Islam is inherently warlike.  
+4. **Repetition & Bias**: The triplicate poll question amplifies anti-Democrat sentiment, distracting from the article’s focus.  
+5. **False Dilemma**: Frames resistance to jihad as binary—either reject Islamic texts entirely or surrender to extremism—ignoring nuanced approaches.  
+6. **Self-Authority**: Cites the author’s book as definitive proof, bypassing critical evaluation.  
+However, it avoids some techniques (e.g., obfuscation, whataboutism) and includes verifiable quotes, reducing the score marginally. Its primary goal is to delegitimize Farage and stoke fear about Islam, not foster balanced discourse.

@@ -1,0 +1,37 @@
+Name calling – No – The text attacks the credibility of the authorities but does not use insulting labels to do so.
+
+Repetition – No – The text builds a singular point but does not repeat a specific message or phrase over and over.
+
+Slogans – No – The text does not use any brief, memorable phrases as a rallying cry.
+
+Appeal to fear – No – The text does not attempt to instill fear against an alternative idea; rather, it aims to create suspicion about the official narrative.
+
+Doubt – Yes – The entire article is constructed to question the credibility of the official police report. Example: "Why did police lie and say he checked in on Sep. 28th?"
+
+Exaggeration/minimization – Yes – The article exaggerates the certainty of its evidence, presenting an unverified image from Facebook as definitive proof. Example: "An image posted on Facebook by a man who claims he served Stephen Paddock room service shows that the gunman was with a guest..."
+
+Flag-Waving – No – The text does not make any appeals to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged language to create a sense of urgency and imply negligence. Example: "Authorities must surely now be on the hunt for whoever Paddock dined with in order to ascertain whether this individual was involved in the plot..."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+
+Bandwagon – No – The text presents a contrarian viewpoint and does not appeal to the popularity of an idea.
+
+Causal Oversimplification – No – The article does not attempt to explain the cause of the main event (the shooting), but rather focuses on questioning the details of the investigation.
+
+Obfuscation, intentional vagueness – No – While the sourcing of the information is vague (e.g., "a man who claims," "Another source"), the language used to present the claims is specific and direct, not intentionally obscure.
+
+Appeal to authority – No – The text does the opposite; it questions established authority (the police) and uses alternative, non-authoritative sources (Laura Loomer, an anonymous source) to support its claims.
+
+Black & white fallacy – Yes – The text implicitly presents only two options: the official police narrative is correct, or the evidence presented in the article is correct, meaning the police are lying. It ignores other possibilities, such as the receipt being fake or there being a simple explanation for the discrepancy. Example: "Why did police lie and say he checked in on Sep. 28th?"
+
+Thought-terminating clichés – No – The text does not use clichés to shut down discussion; it seeks to create it.
+
+Red herring – Yes – The text introduces a speculative and unrelated point to make the potential conspiracy seem larger and more sinister. Example: "...whether or not it was the same woman who reportedly told concert-goers they were “going to die” 45 minutes before the shooting took place."
+
+Straw men – No – The article directly attacks the official claims made by authorities, not a misrepresentation of their argument.
+
+Whataboutism – No – The text does not accuse its target (the authorities) of hypocrisy.
+
+Verdict – 95% – The text is a clear example of propaganda. Its primary purpose is not to neutrally inform the reader but to persuade them of a specific, conspiratorial viewpoint: that authorities are lying about the investigation into the Las Vegas shooting. The article systematically employs several propaganda techniques to achieve this. Its entire foundation is built on the technique of **Doubt**, directly questioning the official timeline. It uses a **Black & White Fallacy** by framing the situation as a choice between the official story and its own, ignoring any other potential explanations. It introduces a **Red Herring** (the woman who warned concert-goers) to connect unrelated, speculative events and imply a wider, more sinister plot. The language is emotionally manipulative (**Loaded Language**) to create a sense of urgency and official incompetence. The sourcing from Infowars, an outlet known for promoting conspiracy theories, further solidifies the text's propagandistic intent, which is to erode trust in official institutions and promote an alternative, unsubstantiated narrative.

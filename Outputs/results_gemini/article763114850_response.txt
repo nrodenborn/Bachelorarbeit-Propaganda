@@ -1,0 +1,41 @@
+Here are the propaganda techniques present in the text:
+
+1.  Name calling – Yes – The text labels the subjects of its criticism as the "Internet Thought Police" and describes Bharath Ganesh's work as a "shoddy article" and an "uninformed, biased and ideologically motivated attack."
+
+2.  Repetition – Yes – The poll question "Whom do you consider to be the most corrupt Democrat Politician?" is repeated three times in a row.
+
+3.  Slogans – Yes – The text uses the phrase, "Who runs the Internet runs the world," as a concluding, memorable statement to summarize its argument.
+
+4.  Appeal to fear – Yes – The text warns that powerful entities are "manipulating behavior online and literally controlling how people think and get information," creating fear about a loss of freedom and the rise of "Internet Thought Police."
+
+5.  Doubt – Yes – The entire article is structured to cast doubt on the credibility of Bharath Ganesh, his research, and his motives, using phrases like "utterly disingenuous" and rhetorical questions such as, "Is it simply a coincidence...?"
+
+6.  Exaggeration/minimization – Yes – The text exaggerates the power of the researchers by claiming they are "literally controlling how people think." It also describes Ganesh's article with hyperbole: "so riddled with non-sequiturs and wild generalizations that it seems almost cruel to rip it to shreds."
+
+7.  Flag-Waving – No – The text does not explicitly appeal to patriotism or national symbols to make its case.
+
+8.  Loaded Language – Yes – The text uses emotionally charged phrases like "Internet Thought Police," "shoddy article," "wild generalizations," and describes Tell MAMA as a "factory for the production of bogus claims about Islamophobia."
+
+9.  Reduction ad Hitlerum – No – The text does not attempt to discredit an idea by associating it with Hitler or the Nazi party.
+
+10. Bandwagon – No – The text does not suggest that its ideas are correct because they are popular; rather, it frames its position as being in opposition to a powerful establishment.
+
+11. Causal Oversimplification – Yes – The text suggests a simple, conspiratorial cause for complex policies by asking, "Is this a partnership between Europe’s governments, the Internet giants, and Islamic influence?" It also simplifies Ganesh's motivation to "if you’re paid to fight online extremism, you’d better find it, or you’re out of a job."
+
+12. Obfuscation, intentional vagueness – Yes – The text uses vague rhetorical questions to imply a conspiracy without providing concrete evidence, such as, "Is it simply a coincidence that Tommy Robinson is now in prison, and that a 'researcher' who presents such a misleading account of Robinson is currently actively engaged in consultation...?"
+
+13. Appeal to authority – No – The text does not use the support of an authority figure as evidence for its own claims; instead, it attacks the authority and credibility of its opponents (Oxford University, the EU).
+
+14. Black & white fallacy – Yes – The text presents a false dichotomy between the "appointed guardians of the online hoi polloi" who want to control information, and those who are fighting for freedom, ignoring any nuanced middle ground regarding research into online extremism.
+
+15. Thought-terminating clichés – Yes – The concluding phrase, "Who runs the Internet runs the world," is a simplistic, powerful statement that discourages nuanced discussion on the topic of internet governance and control.
+
+16. Red herring – Yes – The text includes a poll asking, "Whom do you consider to be the most corrupt Democrat Politician?" which is entirely irrelevant to the article's subject matter and serves to distract the reader.
+
+17. Straw men – Yes – The author refutes the idea that Tommy Robinson advocates for violence ("What 'narrative from British counter-jihad groups' can one find which suggests driving vehicles into innocent Muslims...?"), misrepresenting the likely more nuanced argument that the attacker was influenced by a general atmosphere created by such groups.
+
+18. Whataboutism – Yes – The text accuses Ganesh's article of having the same flaws as the groups it critiques: "(Oddly enough, this makes it rather like the groups it claims to criticize.)" This is a form of whataboutism, charging the opponent with hypocrisy.
+
+***
+
+Verdict – 95% – The text is overwhelmingly propagandistic. It employs a vast majority (14 out of 18) of the listed techniques to construct a highly manipulative and persuasive narrative rather than an objective argument. The article's primary goal is not to inform but to discredit a specific researcher (Bharath Ganesh) and the institutions he is affiliated with (Oxford, EU) by casting them as part of a sinister conspiracy to control information ("Internet Thought Police"). It heavily relies on emotional manipulation through loaded language, name-calling, and appeals to fear. It systematically creates doubt, oversimplifies complex issues into a good-versus-evil narrative (black & white fallacy), and uses rhetorical questions to imply a conspiracy without evidence (obfuscation). The inclusion of a completely irrelevant and partisan political poll (red herring) further reveals its nature as a piece designed for political engagement and persuasion, not factual reporting.

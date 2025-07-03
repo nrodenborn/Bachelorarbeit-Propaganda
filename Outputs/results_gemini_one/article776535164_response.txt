@@ -1,0 +1,37 @@
+Name calling – No – The text uses terms like "predators" to describe priests accused of sexual misconduct. In the context of the article, this is a descriptive term for the alleged crimes rather than a gratuitous insult aimed at an opponent.
+
+Repetition – No – The text is a short news report and does not repeat any specific message or phrase.
+
+Slogans – No – The text does not contain any brief, memorable phrases used to rally support.
+
+Appeal to fear – No – The text reports on a fearful situation (child abuse) but does not use fear to advocate for a specific idea against an alternative. It reports on the consequences of past events.
+
+Doubt – Yes – "Gainer said he wanted to release the list of accused predators earlier but was asked to wait until a state grand jury inquiry... was complete. A spokesman for Pennsylvania Attorney General Josh Shapiro... said the Harrisburg diocese had pushed to end the grand jury investigation last year." This juxtaposition casts doubt on the sincerity of the diocese's stated cooperation.
+
+Exaggeration/minimization – No – The text reports specific numbers and uses strong but arguably descriptive language ("blanket purge," "reeling") to convey the scale of the events, rather than overtly exaggerating or minimizing them.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – "Catholic bishop purges the names of his predecessors...". The word "purges" is emotionally charged, often associated with authoritarian regimes, and frames the bishop's actions in a dramatic and negative light. Other words like "predators" and "reeling" also appeal to emotion.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+
+Bandwagon – No – The text does not suggest an idea is good because it is popular. In fact, it highlights the opposite by stating, "No other Catholic prelate has conducted such a blanket purge".
+
+Causal Oversimplification – No – The text does not provide a simplistic cause for the complex issue of the sex abuse scandal.
+
+Obfuscation, intentional vagueness – No – The text is specific, providing names, locations, numbers, and dates to support its reporting.
+
+Appeal to authority – No – The text cites sources like *The New York Times* and the Attorney General's spokesman. This is standard journalistic attribution to provide evidence for a claim, not the propaganda technique of using an authority's opinion as infallible proof.
+
+Black & white fallacy – No – The text does not present only two choices or options to the reader.
+
+Thought-terminating clichés – No – The text does not use any phrases that are meant to shut down critical thought.
+
+Red herring – No – The text mentions the related case of Archbishop Theodore McCarrick to provide wider context for the crisis facing the Catholic Church, not to distract from the main topic of the Harrisburg diocese.
+
+Straw men – No – The text reports on events and does not create and then refute a false argument.
+
+Whataboutism – No – The text does not attempt to deflect blame by accusing an opponent of hypocrisy.
+
+Verdict – 25% – The text is primarily a factual news report, detailing specific actions, quoting sources, and providing concrete numbers. In this respect, it functions as journalism. However, it contains elements that push it toward propaganda. The use of Loaded Language (e.g., "purges," "reeling") is a deliberate word choice to evoke a strong emotional response and frame the events dramatically. Furthermore, it employs the Doubt technique by contrasting the bishop's claims of cooperation with the Attorney General's office's statement, subtly guiding the reader to question the diocese's integrity. While not overt propaganda, these techniques represent a clear editorial angle designed to influence the reader's perception beyond simply reporting the facts.

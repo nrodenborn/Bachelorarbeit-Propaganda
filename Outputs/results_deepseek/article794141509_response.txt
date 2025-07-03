@@ -1,0 +1,33 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – Yes – "those who hate freedom" (labels opponents as freedom-hating).  
+2. **Repetition** – Yes – "Who should replace Nikki Haley..." poll repeated 3 times.  
+3. **Slogans** – Yes – "truth is treason" (memorable phrase discouraging dissent).  
+4. **Appeal to fear** – Yes – "TERRIFY Everyone," "brainwashing," "free thought goes to die" (instills fear about information control).  
+5. **Doubt** – Yes – "The reason given doesn’t really add up" (questions Facebook/Twitter’s credibility).  
+6. **Exaggeration/minimization** – Yes – Exaggeration: "2 trillion Google searches per day" (actual figure is ~3-5 billion/day); Minimization: Dismisses mainstream media as republishing police releases.  
+7. **Flag-Waving** – Yes – "everyone who wants to be free," "truth is treason" (appeals to freedom/patriotism).  
+8. **Loaded Language** – Yes – "purge," "brainwashing," "monopoly," "silence dissent" (emotionally charged terms).  
+9. **Reduction ad Hitlerum** – No – No direct comparison to Hitler/Nazis.  
+10. **Bandwagon** – Yes – Lists follower counts (e.g., "3.1 million fans") to imply legitimacy via popularity.  
+11. **Causal Oversimplification** – Yes – Attributes removals solely to "coordinated effort to silence dissent" (ignores platform policy violations).  
+12. **Obfuscation, intentional vagueness** – Yes – "entities that support socialism, gun control, and the end of privacy" (vague, unnamed entities).  
+13. **Appeal to authority** – Yes – Quotes Ron Paul and alternative journalists as truth-tellers.  
+14. **Black & white fallacy** – Yes – "only powerful media organizations are welcome" vs. "alternative voices" (ignores middle ground).  
+15. **Thought-terminating clichés** – Yes – "truth is treason," "free thought goes to die" (shuts down critique).  
+16. **Red herring** – Yes – Mentions George Soros and police shootings (diverts from content moderation discussion).  
+17. **Straw men** – Yes – "People will believe what they’re told because there is no alternative" (misrepresents mainstream media as monolithic).  
+18. **Whataboutism** – Yes – "But of course... they too push political messages for profit" (accuses WaPo of hypocrisy to deflect scrutiny).  
+
+---
+
+### Verdict – 95% – Detailed Explanation:  
+The text is overwhelmingly propagandistic, employing **15 of 18 techniques** to frame social media content moderation as a coordinated attack on freedom. Key indicators:  
+- **Fear-mongering**: Uses apocalyptic language ("TERRIFY," "brainwashing," "doomed") to portray platform policies as existential threats.  
+- **Us-vs-Them framing**: Creates a binary where "freedom-loving" alternative media battle "freedom-hating" establishment/government-aligned entities.  
+- **Selective evidence**: Cites pro-alternative media sources (Sputnik, Breitbart) while dismissing mainstream outlets as hypocritical.  
+- **Emotional manipulation**: Loaded terms ("purge," "treason") and appeals to freedom/patriotism override factual analysis of platform violations.  
+- **Conspiracy framing**: Asserts coordination between governments, corporations, and media without evidence.  
+- **Call to action**: Urges readers to bypass mainstream platforms (e.g., join Gab), reinforcing insularity.  
+
+While based on real events (account removals), the text distorts context by omitting policy violations, ignoring platform autonomy, and substituting evidence with hyperbole. Its primary goal is to radicalize opposition to establishment narratives, not inform. The 5% uncertainty acknowledges minor factual elements (e.g., quote sources), but these are weaponized to serve the propagandistic thesis.

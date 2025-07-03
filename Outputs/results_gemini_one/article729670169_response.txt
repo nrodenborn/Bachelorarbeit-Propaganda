@@ -1,0 +1,37 @@
+Name calling – No – The text does not use any insulting labels to attack a person or group. It refers to individuals by their official titles and describes Puerto Rico's financial situation with factual terms like "bankrupt."
+
+Repetition – No – While figures are mentioned multiple times, it is to break down the total aid package for clarity. The text does not repeat a persuasive message or phrase to indoctrinate the reader.
+
+Slogans – No – The text does not contain any brief, memorable phrases designed to rally support for or against something.
+
+Appeal to fear – No – The text describes the devastating effects of Hurricane Maria, but it does so to provide factual context for the disaster aid. It does not use fear to advocate for a particular course of action over another.
+
+Doubt – No – The text does not question the credibility of any person, group, or statement. It reports information and attributes it to its source.
+
+Exaggeration/minimization – No – The text provides specific figures for the aid received and the amount requested. The statement that the aid is "just a fraction" of what is needed is a factual comparison of the numbers provided ($16 billion vs. $94.4 billion), not an emotional exaggeration.
+
+Flag-Waving – No – The text mentions the "U.S. territory" and "U.S. Congress" as factual identifiers, not as an appeal to patriotism.
+
+Loaded Language – No – The text uses strong but accurate words like "bankrupt," "destroyed," and "cataclysmic" to describe the reality of the situation in Puerto Rico. These are used for descriptive accuracy, not to appeal to emotions or stereotypes.
+
+Reduction ad Hitlerum – No – The text makes no comparisons to hated groups like the Nazis.
+
+Bandwagon – No – The text does not suggest that the aid package is good or should be supported because it is popular.
+
+Causal Oversimplification – No – The text does not offer a simple cause for a complex event. Instead, it points to multiple factors contributing to Puerto Rico's situation, including the hurricane, pre-existing debt, and sub-standard housing.
+
+Obfuscation, intentional vagueness – No – The text is specific and clear, using precise numbers and citing the sources of information, such as the Community Development Block Grant (CDBG) program.
+
+Appeal to authority – No – The text cites authorities like Governor Rossello and President Trump to report their statements and actions, which is standard journalistic practice for sourcing information. It does not use their authority as proof that a particular opinion is correct.
+
+Black & white fallacy – No – The text does not present only two choices. It discusses various components of the aid, the amount received versus the amount needed, and the possibility of future funding.
+
+Thought-terminating clichés – No – The text is a factual report and does not use any phrases that would discourage critical thought.
+
+Red herring – No – All information presented in the article is directly relevant to the topic of federal disaster aid for Puerto Rico.
+
+Straw men – No – The text does not create or refute any arguments. It is a report on events and official statements.
+
+Whataboutism – No – The text does not accuse any party of hypocrisy or deflect criticism by pointing to the faults of others.
+
+Verdict – 0% – This text is a factual news report from a reputable wire service (Reuters) and shows no evidence of being propaganda. Its purpose is to inform the reader about a newsworthy event: the allocation of federal disaster aid. The language is neutral and objective, it attributes information to specific sources, and it provides context through verifiable facts and figures. The article adheres to journalistic standards of reporting and does not use any of the listed propaganda techniques to persuade the audience towards a particular belief or action.

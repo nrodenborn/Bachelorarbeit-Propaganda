@@ -1,0 +1,43 @@
+1. Name calling – No – The text uses strong and critical language to describe actions, such as calling the idea of not firing her "utterly preposterous," but it does not attack the subjects with simple insulting labels.
+
+2. Repetition – Yes – The poll question "Who should replace Nikki Haley as our ambassador to the U.N.?" is repeated three times in a row. The core message that the officer was "finally fired" is also stated multiple times at the beginning of the article.
+
+3. Slogans – No – The text does not use any brief, memorable phrases that function as slogans.
+
+4. Appeal to fear – No – The article expresses outrage and calls for justice but does not attempt to instill fear in the reader about alternatives.
+
+5. Doubt – Yes – The text questions the credibility of Police Chief Hall by quoting her justification for not firing Guyger sooner ("it would be against the law") and then immediately follows with the sarcastic remark, "Apparently, it is no longer against the law."
+
+6. Exaggeration/minimization – Yes – The text uses exaggeration with the phrase "outrage erupted, and rightfully so," and describes the idea of not firing Guyger as "utterly preposterous." It also minimizes the police department's stated procedural reasons for the delay.
+
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+8. Loaded Language – Yes – The text is filled with emotionally charged words and phrases intended to influence the reader, such as "innocent man," "rightfully so," "finally been fired," and "shot him dead."
+
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups like Nazis.
+
+10. Bandwagon – Yes – The article notes that the news will be "well received by the Jean family as well as the activists" and points out that even "NRA spokesperson Dana Loesch" supported the firing, encouraging the reader to join this broad consensus.
+
+11. Causal Oversimplification – Yes – The article argues, "This public servant walked into an innocent man’s home and shot him dead... This alone should have been enough to fire her," which dismisses the complex legal and civil service procedures the police chief cited for the delay.
+
+12. Obfuscation, intentional vagueness – No – The article's language is direct and clear in its viewpoint, not intentionally vague or obscure.
+
+13. Appeal to authority – Yes – The article quotes the Jean family's attorney, Lee Merritt, whose statement of "satisfaction" is used as authoritative evidence that the firing was a positive and just outcome.
+
+14. Black & white fallacy – Yes – The text presents the situation as a simple choice between firing Guyger (the just and correct action) and not firing her (the unjust and "preposterous" action), ignoring the third option of delaying the firing pending the outcome of an investigation.
+
+15. Thought-terminating clichés – Yes – The phrase "This is a fact" is used after stating that Guyger killed Jean, a statement intended to shut down any nuanced discussion about the circumstances and cement the author's framing as incontrovertible.
+
+16. Red herring – Yes – The text introduces a poll about replacing Nikki Haley as U.N. ambassador, which is entirely irrelevant to the article's topic and serves as a distraction. The anecdote about the father in Prince George's County is also a red herring, introducing a different case to create a contrast that distracts from the specifics of the Guyger case.
+
+17. Straw men – Yes – The article refutes a simplified version of the police chief's argument. It frames her position as a simple "refus[al] to fire Guyger," making it easy to attack, rather than engaging with her stated argument about not wanting to "interfere with the on-going criminal investigation."
+
+18. Whataboutism – No – The text criticizes the Dallas Police Department's actions directly and does not deflect criticism by charging an opponent with hypocrisy.
+
+***
+
+Verdict – 95% – The text is overwhelmingly propaganda. While it reports on a factual event (the firing of Amber Guyger), its primary purpose is not to inform but to persuade the reader to adopt a specific, highly emotional, and critical viewpoint. The article, sourced from "The Free Thought Project" (an activist outlet), employs a vast number of propaganda techniques to achieve this.
+
+It uses emotionally Loaded Language ("innocent man," "shot him dead") and Exaggeration ("outrage erupted") to create an atmosphere of injustice. It employs a Black & White Fallacy and Causal Oversimplification to present its own perspective as the only logical one, while using a Straw Man argument to misrepresent and easily dismiss the police chief's stated reasoning. The credibility of the chief is further undermined through the use of Doubt.
+
+Structurally, the article contains a blatant Red Herring in the form of a completely unrelated political poll, a feature designed for user engagement and data collection rather than journalism. The use of Bandwagon and Appeal to Authority by citing activists and an attorney reinforces the author's viewpoint as the popular and correct one. The combination of these techniques demonstrates a clear intent to manipulate the reader's emotions and opinions rather than present a neutral account of events.

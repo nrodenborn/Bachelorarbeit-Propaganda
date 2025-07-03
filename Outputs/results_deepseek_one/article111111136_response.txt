@@ -1,0 +1,29 @@
+Here's the analysis of propaganda techniques in the text, following your requested format:
+
+1. **Name calling** – No – No insulting labels are applied to subjects. Terms like "gang violence" and "populist" are descriptive.  
+2. **Repetition** – No – Key messages aren't repeatedly hammered; information is presented sequentially.  
+3. **Slogans** – No – No brief, rallying phrases (e.g., "whatever it takes" is contextual, not a crafted slogan).  
+4. **Appeal to fear** – **Yes** – *"People are shot to death in pizza restaurants, people are killed by hand grenades..."* (vivid descriptions emphasize danger).  
+5. **Doubt** – No – No questioning of credibility (e.g., institutions are cited neutrally).  
+6. **Exaggeration/minimization** – No – Statistics (e.g., 106 murders in 2016) are reported factually.  
+7. **Flag-Waving** – No – No appeals to patriotism/national identity.  
+8. **Loaded Language** – **Yes** – *"...the new, exciting dynamic, multicultural paradise..."* (sarcasm implies failure, appealing to emotion).  
+9. **Reduction ad Hitlerum** – No – No Nazi/Vichy comparisons.  
+10. **Bandwagon** – No – No appeal to popularity.  
+11. **Causal Oversimplification** – **Yes** – *"...linking public concern about rising crime rate to a large increase in immigrants"* (frames immigration as primary cause without evidence).  
+12. **Obfuscation** – No – Language is clear and specific.  
+13. **Appeal to authority** – No – Quotes are attributed but not used as unquestionable proof.  
+14. **Black & white fallacy** – No – No false dilemmas presented (PM mentions military as last resort among options).  
+15. **Thought-terminating clichés** – No – No phrases halting critical thought.  
+16. **Red herring** – No – No irrelevant distractions; immigration is contextually relevant to election debate.  
+17. **Straw men** – No – Arguments aren't misrepresented.  
+18. **Whataboutism** – No – No accusations of hypocrisy.  
+
+---
+
+**Verdict – 15% –**  
+The text primarily functions as **factual reporting**, citing statistics (e.g., 106 murders in 2016), government policies ($880M funding), and attributed quotes. However, limited propaganda elements appear:  
+1. **Sweden Democrat leader’s sarcasm** ("multicultural paradise") uses *loaded language* to provoke disdain.  
+2. **Crime-immigration linkage** by the Sweden Democrats employs *causal oversimplification*.  
+3. **Vivid violence descriptions** ("shot in pizza restaurants") *appeal to fear*.  
+These elements occupy ~15% of the text and are attributed to political figures, not the article’s voice. The core structure remains journalistic—presenting multiple perspectives (PM, opposition, crime council) without overt manipulation. Propaganda techniques are *present but not dominant*, reflecting political rhetoric within an informational framework.

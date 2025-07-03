@@ -1,0 +1,30 @@
+Here is the analysis of the text based on the provided propaganda techniques:
+
+1.  Name calling – Yes – The text labels Iran as a “rogue nation.”
+2.  Repetition – Yes – The idea that the Obama administration acted secretly and deceptively is repeated throughout the text using various phrases like “secretly paved the way,” “quietly gave,” “behind closed doors,” “secretly mobilized,” and “misleading lawmakers.”
+3.  Slogans – No – The text does not use any brief, memorable phrases that are repeated to encapsulate an idea.
+4.  Appeal to fear – Yes – The text links Iran to terrorism (“channel money to terrorists,” “Quds Force… designates as a terrorist organization”) and nuclear weapons (“increase its nuclear enrichment capacities”), implying that the Obama administration's actions endangered national security.
+5.  Doubt – Yes – The entire article is structured to cast doubt on the credibility of the Obama administration, with phrases like “misleading lawmakers about the activities” and “The Obama administration misled the American people and Congress.”
+6.  Exaggeration/minimization – Yes – The text uses words like “windfall” and “massive U.S. currency conversion” to exaggerate the scale and impact of the proposed transaction.
+7.  Flag-Waving – Yes – The text appeals to patriotism by framing the actions of the Trump administration and Republican senators as protecting U.S. interests against a "deceptive" Iran, while portraying the Obama administration's actions as undermining a "vital foreign policy tool" (U.S. sanctions).
+8.  Loaded Language – Yes – The text uses emotionally charged words and phrases such as “rogue nation,” “deceptive,” “misled,” and the use of Obama’s full middle name, “Hussein,” which can be used to evoke negative emotions or stereotypes in some audiences.
+9.  Reduction ad Hitlerum – No – The text does not suggest any idea is popular with hated groups like Nazis.
+10. Bandwagon – No – The text does not suggest that its viewpoint is correct because it is popular.
+11. Causal Oversimplification – Yes – The text suggests a simple cause for a complex foreign policy situation, stating the administration acted as it did “because they were desperate to get a deal with Iran,” ignoring other potential geopolitical factors or motivations.
+12. Obfuscation, intentional vagueness – No – The text is not intentionally vague; it makes specific accusations and cites a specific report, dollar amounts, and individuals.
+13. Appeal to authority – Yes – The text repeatedly cites a “new Senate report,” a senator (“Sen. Rob Portman”), and a Treasury Department official (“Sigal Mandelker”) as evidence for its claims.
+14. Black & white fallacy – Yes – The text presents a stark contrast between the “deceptive” Obama administration that was “desperate” for a deal and the tough, security-focused Trump administration, ignoring any potential complexities or alternative interpretations of the Obama administration’s actions.
+15. Thought-terminating clichés – No – The text does not use phrases or clichés designed to shut down discussion.
+16. Red herring – Yes – The lengthy section detailing Iran’s contemporary moves to increase nuclear enrichment capacity under the Trump administration, while related to Iran, serves to distract from the specific historical claim about the 2016 license and instead reinforces the current sense of threat posed by Iran.
+17. Straw men – Yes – The text sets up a simplified version of the Obama administration's public stance (that Iran would have absolutely no access to the U.S. financial system in any way) and then attacks this position by revealing the specific license, rather than engaging with the potentially more nuanced argument that this was a technical requirement of the broader deal.
+18. Whataboutism – No – The text does not deflect criticism by accusing an opponent of hypocrisy; it is a direct criticism of the Obama administration.
+
+***
+
+Verdict – 95% – The text is overwhelmingly propagandistic. Its primary purpose is not to inform but to persuade the reader of a specific, highly partisan viewpoint. This is achieved through the heavy use of numerous propaganda techniques.
+
+The piece employs **Loaded Language** (e.g., "Barack Hussein Obama," "rogue nation," "misled") and **Name-calling** to create an immediate negative emotional response. It builds a narrative of malfeasance through **Repetition** of words like "secretly" and "quietly," and uses **Doubt** to systematically undermine the credibility of the previous administration.
+
+The argument is framed using a **Black & White Fallacy**, contrasting the "deceptive" Obama administration with the implicitly strong and honest Trump administration. It relies heavily on a one-sided **Appeal to Authority**—a report from a "Republican-led" subcommittee and quotes from Republican politicians and Trump-era officials—without including any counterarguments or perspectives from the officials being accused. This selective sourcing is a hallmark of propaganda.
+
+Furthermore, the text uses **Appeal to Fear** by linking the deal to terrorism and nuclear proliferation, and **Causal Oversimplification** by attributing the administration's complex actions to a single, negative motive: being "desperate to get a deal." The inclusion of a poll asking about the "most corrupt Democrat Politician" further reveals the text's goal is not journalism, but political persuasion and audience mobilization against a political party. The combination of these techniques demonstrates a clear intent to manipulate the reader's perception rather than present a balanced account of events.

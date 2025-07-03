@@ -1,0 +1,37 @@
+Name calling – No – The text uses factual descriptors like "suspect" and "convicted felon" based on the context of the events and public records, not insulting labels intended to attack.
+
+Repetition – No – The text repeats the names of the officers and the fact they were killed, which is a standard practice in news reporting for clarity and to identify the subjects of the story, not to push a propagandistic message.
+
+Slogans – No – The text does not contain any brief, memorable phrases designed to persuade or create a powerful emotional response.
+
+Appeal to fear – No – The text describes a frightening event but does not use that fear to promote a specific idea or argue against an alternative. It is reporting on the facts of the incident.
+
+Doubt – No – The text reports on what is known and unknown (e.g., "It's unclear at what point Smith was shot"), which is a feature of objective journalism, not an attempt to question the credibility of a person or source.
+
+Exaggeration/minimization – No – The text reports the events using factual language (e.g., "fatally shot," "critical condition") without sensationalizing or downplaying the severity of the situation.
+
+Flag-Waving – No – The text mentions the location (Westerville, Ohio) for informational context, not to appeal to patriotism or local identity.
+
+Loaded Language – No – While the events described are emotional, the language used is largely factual and descriptive. It avoids using emotionally charged or stereotypical words to manipulate the reader's feelings.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups to discredit an idea.
+
+Bandwagon – No – The text does not suggest that any idea is correct or should be adopted because it is popular.
+
+Causal Oversimplification – No – The text does the opposite; it provides a complex background of prior domestic dispute calls and the suspect's history, avoiding a simplistic explanation for the event.
+
+Obfuscation, intentional vagueness – No – The text is written clearly. When information is unavailable, it states so directly rather than using vague language to confuse the reader.
+
+Appeal to authority – No – The text cites official sources like the police chief and incident reports, which is standard journalistic practice for sourcing information, not a logical fallacy used to prove a point.
+
+Black & white fallacy – No – The text reports on an event and does not present an argument with only two possible options.
+
+Thought-terminating clichés – No – The text does not use any clichés or phrases intended to shut down critical thought.
+
+Red herring – No – All the information provided, such as the history of domestic disputes, is relevant to the context of the main event and not included to distract the reader.
+
+Straw men – No – The text is a news report and does not construct or refute any arguments.
+
+Whataboutism – No – The text does not charge anyone with hypocrisy or deflect from the topic by pointing out the faults of others.
+
+Verdict – 0% – The text is a factual news report. Its purpose is to inform the public about a specific event by presenting verifiable facts from official sources, such as police reports, 911 calls, and statements from city officials. The article maintains an objective tone, clearly distinguishes between known facts and unknown information, and provides relevant context without employing emotional manipulation or logical fallacies. It does not exhibit any of the characteristics of propaganda; instead, it adheres to the standards of journalistic reporting.

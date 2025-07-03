@@ -1,0 +1,37 @@
+Name calling – No – The text reports on events and diagnoses without using insulting labels to attack a subject.
+
+Repetition – No – The text is a short news report and does not repeat any specific message or phrase in the manner of a propaganda technique.
+
+Slogans – No – The text does not contain any brief, memorable phrases intended as slogans.
+
+Appeal to fear – Yes – The text supports the idea of being vigilant by instilling fear of the alternative (not being vigilant), which could lead to a "mild traumatic brain injury" from a "sonic weapon." The headline "Beware sonic weapon attacks" is a direct appeal to fear.
+
+Doubt – No – The text does not question the credibility of any person or entity; it reports on official statements.
+
+Exaggeration/minimization – No – The text uses specific medical terminology ("mild traumatic brain injury") and reports on the situation without apparent hyperbole or understatement.
+
+Flag-Waving – No – While the text mentions national identities (US, China), it does so for context and does not use patriotic appeals to persuade the audience.
+
+Loaded Language – Yes – The phrase “sonic weapon attacks” is emotionally charged, suggesting a deliberate and hostile act with advanced, unseen technology, which is more alarming than a more neutral description like "unexplained auditory phenomena."
+
+Reduction ad Hitlerum – No – The text makes no comparisons to hated groups.
+
+Bandwagon – No – The text does not suggest that an idea is correct because it is popular.
+
+Causal Oversimplification – No – The text does not offer a simplified cause for a complex event; in fact, it states that an investigation is underway to determine the cause.
+
+Obfuscation, intentional vagueness – No – The text is reporting on vague symptoms (“subtle and vague, but abnormal, sensations of sound and pressure”), but the reporting itself is not deliberately unclear. It clearly states what is known and what is being investigated.
+
+Appeal to authority – Yes – The text uses the statements of “Mike Pompeo, the US secretary of state” and the “embassy in China” as the primary evidence for the warning and the investigation.
+
+Black & white fallacy – No – The text does not present a false dilemma or limit the options to only two.
+
+Thought-terminating clichés – No – The text does not use any clichés to shut down discussion.
+
+Red herring – No – All information presented, including the comparison to events in Cuba, is relevant to the main topic.
+
+Straw men – No – The text does not misrepresent or refute an opponent's argument.
+
+Whataboutism – No – The text does not deflect criticism by accusing an opponent of hypocrisy.
+
+Verdict – 40% – The text functions as a news report, which lends it an air of objectivity. It carefully attributes its claims to official sources like the US embassy and the Secretary of State. However, the article acts as a vehicle for a government message that utilizes several propaganda techniques. The primary techniques are Appeal to Fear ("Beware sonic weapon attacks," "brain injury"), Loaded Language ("sonic weapon attacks"), and Appeal to Authority (quoting Mike Pompeo to validate the threat). While the article itself isn't creating the propaganda, it is disseminating a message framed in a way that is designed to create alarm and persuade the audience of a specific threat by using emotionally charged language and official pronouncements. The likelihood is less than 50% because its primary format is reportorial rather than overtly persuasive, but the propagandistic elements it reports on are strong and central to the text.

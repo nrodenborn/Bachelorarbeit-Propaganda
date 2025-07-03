@@ -1,0 +1,32 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – Yes – "corrupt career politicians" (insulting label attacking politicians).  
+2. **Repetition** – Yes – "$15,000,000" repeated 5+ times; "drain the swamp" repeated twice.  
+3. **Slogans** – Yes – "drain the swamp," "take our government back" (brief, memorable phrases).  
+4. **Appeal to fear** – Yes – "the rest of the world is laughing at us" (fear of national humiliation).  
+5. **Doubt** – Yes – "why don’t the American people know about it?" (questions transparency).  
+6. **Exaggeration/minimization** – Yes – "deep the corruaption [sic] runs" (exaggerates scale); "Weinstein-level" (hyperbolic comparison).  
+7. **Flag-Waving** – Yes – "we are supposed to serve as an example to the rest of the world" (appeal to patriotism).  
+8. **Loaded Language** – Yes – "disgusting," "predatory," "shameful," "hostile-free" (emotionally charged terms).  
+9. **Reduction ad Hitlerum** – No – No comparison to Hitler/Nazis.  
+10. **Bandwagon** – Yes – "The American people are not going to put up with this any longer" (appeals to popular sentiment).  
+11. **Causal Oversimplification** – Yes – Blames "corrupt career politicians" for all issues, ignoring systemic complexity.  
+12. **Obfuscation, intentional vagueness** – No – Details are explicit (e.g., dollar amounts, specific incidents).  
+13. **Appeal to authority** – Yes – Cites Rep. Speier and Comstock’s testimonies as evidence.  
+14. **Black & white fallacy** – Yes – Presents only two choices: clean up government or accept corruption (e.g., "we have no choice").  
+15. **Thought-terminating clichés** – Yes – "drain the swamp" ends debate with a simplistic slogan.  
+16. **Red herring** – Yes – Introduces Joe Biden allegation (irrelevant to Congress harassment claims).  
+17. **Straw men** – No – No misrepresentation of opposing arguments.  
+18. **Whataboutism** – Yes – Biden example deflects with "what about" hypocrisy.  
+
+---
+
+### Verdict – 95% – Detailed Explanation:  
+The text is **highly likely propaganda** due to:  
+- **Systematic use of techniques**: Employs 14/18 identified methods (e.g., loaded language, fear appeals, bandwagon) to manipulate emotion.  
+- **Agenda-driven framing**: Selectively presents facts (e.g., $15M payouts) while omitting context (e.g., time frame, investigation processes) to fuel outrage.  
+- **Sensationalism**: Uses hyperbolic language ("disgusting," "predatory") and unverified anecdotes (Biden story) to vilify targets.  
+- **Call to action**: Urges readers to "take our government back," implying a specific political agenda ("drain the swamp").  
+- **Source bias**: Permission from "End of the American Dream" (a known partisan site) and Breitbart citation signal ideological slant.  
+
+While based on real events (e.g., Speier’s testimony), the text’s manipulative construction overwhelms factual elements, aiming to provoke anger rather than inform. The 5% uncertainty reflects the presence of documented claims (e.g., harassment payouts), but the delivery aligns overwhelmingly with propagandistic goals.

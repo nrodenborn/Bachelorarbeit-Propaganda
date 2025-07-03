@@ -1,0 +1,41 @@
+**Name calling – Yes –** The technique is used by Secretary of State Pompeo, who is quoted in the text referring to Iran as “the world’s largest supporter of terrorism.”
+
+**Repetition – Yes –** The text states that Pompeo used this technique: "Pompeo refused to discuss possible consequences for those found responsible for Khashoggi’s disappearance, reiterating at least three times the “importance of the investigation.”"
+
+**Slogans – No –** The text does not contain any brief, memorable phrases used as slogans.
+
+**Appeal to fear – Yes –** Secretary Pompeo uses this technique by raising the threat of Iran to discourage punitive actions against Saudi Arabia: "...Pompeo urged Americans to be mindful of the extensive energy, economic and security ties between Riyadh and Washington, including efforts against what he called the world’s largest supporter of terrorism, Iran."
+
+**Doubt – Yes –** President Trump is quoted using this technique to question the credibility of the accusations against the Saudi rulers: “Here we go again with you’re guilty until proven innocent.”
+
+**Exaggeration/minimization – Yes –** The text reports on the Saudi government (and initially Trump) minimizing the event by floating a scenario that "blamed the murder inside the consulate on “rogue killers,”" which minimizes the responsibility of the state.
+
+**Flag-Waving – Yes –** Secretary Pompeo appeals to national interest, a form of patriotism, to defend the relationship with Saudi Arabia: "We need to make sure we are mindful of that as we approach decisions” on whether to impose sanctions or take other punitive steps against Riyadh..."
+
+**Loaded Language – Yes –** The text reports on the use of emotionally charged language, such as the Saudi-proposed term “rogue killers” to describe the perpetrators, and Trump’s phrase “guilty until proven innocent.”
+
+**Reduction ad Hitlerum – No –** The text does not contain any comparisons to Nazis or other universally hated groups.
+
+**Bandwagon – No –** While the text mentions that "many in Congress and elsewhere have urged" action, this is presented as a factual report on a political reality, not as an appeal to join the popular opinion. No speaker in the text uses a bandwagon appeal.
+
+**Causal Oversimplification – Yes –** The text describes a scenario floated by the Saudi government that simplifies the complex event of a state-involved assassination into the simple fault of a few individuals: "...blamed the murder inside the consulate on “rogue killers,” and then suggested the writer was accidentally killed during an interrogation that went awry."
+
+**Obfuscation, intentional vagueness – Yes –** Secretary Pompeo is quoted being deliberately vague when questioned directly: "Asked if the Saudis had informed him whether Khashoggi was alive or dead, Pompeo said, “I don’t want to talk about any of the facts. They didn’t want to either, in that they want to have the opportunity to complete this investigation in a thorough way.”"
+
+**Appeal to authority – Yes –** Secretary Pompeo uses his own authority and that of the Saudi leaders as evidence that the investigation will be credible: “We received commitments that they would complete this (investigation), and I am counting on them to do that,” Pompeo said. “They gave me their word.”
+
+**Black & white fallacy – Yes –** President Trump is quoted presenting only two options: either one presumes the Saudis are innocent, or one is unfairly declaring them guilty before a trial. “Here we go again with you’re guilty until proven innocent.” This ignores other possibilities, such as demanding a credible, independent investigation based on existing evidence.
+
+**Thought-terminating clichés – Yes –** President Trump’s phrase “guilty until proven innocent” is used as a cliché to shut down criticism. Similarly, Pompeo’s repeated focus on the “importance of the investigation” is used to deflect from other critical questions.
+
+**Red herring – Yes –** When discussing potential consequences for Saudi Arabia regarding the murder, Secretary Pompeo introduces the unrelated threat of Iran to distract from the issue at hand: "...Pompeo urged Americans to be mindful of the extensive energy, economic and security ties between Riyadh and Washington, including efforts against what he called the world’s largest supporter of terrorism, Iran."
+
+**Straw men – Yes –** President Trump’s statement, “Here we go again with you’re guilty until proven innocent,” refutes an argument that was not being made. Critics were not demanding punishment without a process; they were demanding a credible and independent process, an argument which Trump's statement misrepresents.
+
+**Whataboutism – No –** The text does not contain any instances of a speaker deflecting criticism by accusing an opponent of hypocrisy on another issue.
+
+***
+
+**Verdict – 10% –** The text itself is a news article from the Los Angeles Times, and its primary function is to inform, not persuade. Therefore, the likelihood of the article *itself* being propaganda is very low. The article's author, Tracy Wilkinson, maintains a journalistic structure, presenting the actions and statements of the Trump administration, the position of Turkish officials, the context of the case, and the perspective of "critics" and "analysts."
+
+However, the text is saturated with propaganda techniques because it is *reporting on* the propaganda being used by the subjects of the article, primarily Secretary of State Pompeo and President Trump. The article quotes their use of Red Herring (invoking Iran), Straw Men ("guilty until proven innocent"), Appeal to Fear, Doubt, Obfuscation, and other techniques. By reporting these statements and placing them in the context of the unfolding events and criticism, the article exposes the administration's propaganda strategy rather than adopting it. In essence, the text is a container for propaganda, but it is not propaganda itself; it is an example of journalism.

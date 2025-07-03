@@ -1,0 +1,22 @@
+### Analysis of Propaganda Techniques:
+1. **Name calling** – No – No insulting labels are used against any subject; the text describes issues factually (e.g., "homes built illegally").  
+2. **Repetition** – No – Key points (e.g., illegal homes, aid figures) are stated once without deliberate redundancy.  
+3. **Slogans** – No – No brief, memorable phrases are used to persuade; the text is descriptive.  
+4. **Appeal to fear** – No – While the hurricane’s impact is described, fear isn’t weaponized to promote an idea or policy.  
+5. **Doubt** – No – No questioning of credibility; sources (e.g., officials, reports) are cited neutrally.  
+6. **Exaggeration/minimization** – No – Statistics (e.g., "1 million homes," "155 mph winds") are attributed to officials/data without apparent distortion.  
+7. **Flag-Waving** – No – No appeals to patriotism or identity; the focus is on practical recovery challenges.  
+8. **Loaded Language** – No – Language is neutral (e.g., "housing crisis," "exacerbates it"); no emotionally charged stereotypes.  
+9. **Reduction ad Hitlerum** – No – No association of ideas with hated groups to discredit them.  
+10. **Bandwagon** – No – Popularity of an idea isn’t cited to sway opinion; aid efforts are reported factually.  
+11. **Causal Oversimplification** – No – The crisis is attributed to multiple factors (poverty, illegal construction, hurricanes, weak infrastructure), not oversimplified.  
+12. **Obfuscation, intentional vagueness** – No – Details are specific (e.g., "$16 billion in aid," "140 mph wind codes"); no deliberate confusion.  
+13. **Appeal to authority** – No – Authorities (e.g., housing secretary) are quoted for factual updates, not as unquestionable evidence.  
+14. **Black & white fallacy** – No – No false dilemmas; complexities (e.g., pre-existing issues worsened by storms) are acknowledged.  
+15. **Thought-terminating clichés** – No – No phrases like "it is what it is" that shut down analysis; explanations are substantive.  
+16. **Red herring** – No – All content relates directly to housing/recovery; no irrelevant distractions.  
+17. **Straw men** – No – No misrepresented arguments are refuted; the text reports challenges without creating fake oppositions.  
+18. **Whataboutism** – No – No accusations of hypocrisy; the focus remains on Puerto Rico’s recovery.  
+
+### Final Verdict:  
+**Verdict – 10% –** The text is primarily informational journalism, not propaganda. It cites credible sources (officials, agencies), presents data without overt manipulation, and avoids persuasive tactics. The headline’s focus on illegal homes could subtly frame the crisis as self-inflicted, but this is counterbalanced by context about systemic poverty and federal aid. No technique is employed to deceive or inflame, and the tone remains neutral/analytical. The low likelihood (10%) accounts for potential implicit bias in topic selection, but the execution aligns with factual reporting.

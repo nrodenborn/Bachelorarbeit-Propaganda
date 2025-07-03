@@ -1,0 +1,39 @@
+Name calling – No – The text uses the term "Black Plague," which is a common historical name for the disease, not an insulting label created to attack a subject.
+
+Repetition – Yes – The phrase "no one is safe" is repeated to emphasize the danger. For example: "some doctors are even warning that “no one is safe” from the disease" and "...they’ve also said no one in Madagascar is safe".
+
+Slogans – No – While "no one is safe" is a memorable phrase, it is presented as a direct warning from doctors rather than a standalone, catchy slogan used to rally support for a cause.
+
+Appeal to fear – Yes – The text is built around creating fear of the plague. For example: "death often occurs within 12-24 hours of becoming infected" and "the much more dangerous and deadly pneumonic plague has never been so prevalent."
+
+Doubt – No – The text does not question the credibility of any person or organization; in fact, it relies on quoting authorities to build its case.
+
+Exaggeration/minimization – Yes – The text uses phrases that amplify the sense of danger, which can be seen as exaggeration. For example: "‘No One Is Safe’ From The Black Plague" is a powerful, absolute statement that exaggerates the risk to create a stronger emotional impact.
+
+Flag-Waving – No – The article does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words to influence the reader's perception. For example: "Black Plague," "deadly," "life-threatening," and "spiking concerns" are all used to evoke a sense of dread and urgency.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other groups widely hated by the audience.
+
+Bandwagon – No – The text does not suggest that the reader should believe something because it is popular. It uses evidence and authority, not popularity, as a means of persuasion.
+
+Causal Oversimplification – No – The text does not offer a simplistic cause for the outbreak. It explains the different transmission methods (fleas for bubonic, airborne for pneumonic) and contributing factors.
+
+Obfuscation, intentional vagueness – No – The text is specific, providing numbers of cases and deaths, naming officials, and explaining the disease. It aims to be clear, not vague.
+
+Appeal to authority – Yes – The text cites several experts and organizations to lend credibility to its claims. For example: "Elhadj As Sy, the secretary general of the International Federation of Red Cross and Red Crescent Societies (IFRC)" and "Jimmy Whitworth, professor of International Public Health at the London School of Hygiene and Tropical Medicine".
+
+Black & white fallacy – No – The text does not present a false dichotomy or limit the options to only two choices.
+
+Thought-terminating clichés – No – The text does not use clichés to shut down discussion; it provides information intended to raise concern.
+
+Red herring – No – All the information provided, such as the burial methods and the history of the plague, is relevant to the topic of the outbreak.
+
+Straw men – No – The text is reporting on an event and is not engaged in refuting a specific counter-argument.
+
+Whataboutism – No – The text does not accuse any party of hypocrisy to deflect criticism.
+
+***
+
+Verdict – 70% – The text reports on a real-world health crisis, citing credible authorities and providing factual data. However, it heavily employs several key propaganda techniques to frame the information in the most alarming way possible. The primary goal appears to be to provoke a strong emotional reaction of fear rather than to provide balanced, objective information. The intense use of Appeal to Fear, Loaded Language ("deadly," "life-threatening"), Repetition ("no one is safe"), and Exaggeration (the headline itself) moves the article from the realm of straightforward journalism into sensationalism that functions as propaganda. By carefully selecting and framing information to maximize alarm, the text seeks to manipulate the audience's perception of the event, which is a hallmark of propaganda.

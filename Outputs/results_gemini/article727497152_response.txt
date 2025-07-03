@@ -1,0 +1,26 @@
+1. Name calling – No – The text criticizes the actions and credibility of the coroner but does not use direct insulting labels to attack them as a person.
+2. Repetition – Yes – The central idea of a "cover-up" and the withholding of key information is repeated. It is mentioned in the headline ("Las Vegas Massacre Coverup"), the first sentence ("a further cover-up is underway"), and implied throughout with repeated mentions of what is missing (Paddock's autopsy, ballistics).
+3. Slogans – No – The text does not use any brief, memorable phrases intended for broad repetition.
+4. Appeal to fear – Yes – The text creates fear and suspicion by suggesting a conspiracy and "cover-up" surrounding a mass murder, implying that the official institutions are hiding a dangerous truth from the public.
+5. Doubt – Yes – The entire article is constructed to create doubt about the official investigation. It questions the coroner's motives ("drag his feet"), the official narrative ("alleged shooter"), and the identity of the body in the hotel room.
+6. Exaggeration/minimization – Yes – The text exaggerates the certainty of its own claims by stating that a previous "Intellihub article definitively proved the body recovered in Mandalay Bay room 32-135 was not Paddock’s." The phrase "definitively proved" is an exaggeration of the article's evidentiary value.
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity.
+8. Loaded Language – Yes – The text uses emotionally charged words to influence the reader's perception. Examples include "cover-up," "massacre," and "drag his feet," which evoke feelings of suspicion, anger, and distrust.
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or other groups widely hated by the audience.
+10. Bandwagon – No – The text does not claim its viewpoint is popular; instead, it frames itself as a source of exclusive, hidden information.
+11. Causal Oversimplification – Yes – The text attributes the complex legal and procedural reasons for redacting names and withholding ballistics reports to a single, simple cause: a malicious "cover-up."
+12. Obfuscation, intentional vagueness – Yes – While specific in its accusations, the text is vague about the forces behind the alleged "cover-up," their motives, and the larger conspiracy, creating a sense of a powerful but undefined plot.
+13. Appeal to authority – Yes – The text appeals to its own publication as an authority, stating, "...an Intellihub article definitively proved the body recovered... was not Paddock’s," using itself as the source of proof.
+14. Black & white fallacy – Yes – The text presents only two possibilities: either the authorities release all information immediately and without redaction, or they are engaged in a "cover-up." It ignores other valid reasons for the delay and redactions, such as legal requirements, privacy concerns for victims' families, and the integrity of an ongoing investigation.
+15. Thought-terminating clichés – No – The text does not use clichés to end discussion; it seeks to provoke a specific, conspiratorial line of thought.
+16. Red herring – No – The text stays focused on its central claim regarding the autopsy reports and does not introduce irrelevant topics.
+17. Straw men – No – The text focuses on building its own narrative rather than misrepresenting and refuting a specific argument made by the authorities.
+18. Whataboutism – No – The text does not deflect criticism by accusing an opponent of hypocrisy.
+
+***
+
+Verdict – 95% – The text is highly propagandistic. Its primary purpose is not to objectively inform the reader but to persuade them of a specific, pre-determined conclusion: that there is a cover-up surrounding the Las Vegas massacre.
+
+The text employs numerous propaganda techniques to achieve this goal. It uses loaded language ("cover-up," "massacre") and appeals to fear to create an atmosphere of suspicion and distrust towards official institutions. It systematically casts doubt on the credibility of the coroner and the official narrative. The argument is built on a black & white fallacy, where any action short of full, immediate disclosure is presented as proof of a cover-up, ignoring complex legal realities.
+
+Crucially, the text relies on exaggeration and a self-serving appeal to authority, citing its own previous article as having "definitively proved" a key element of the conspiracy. This creates a closed information loop where the source validates itself, a hallmark of propaganda and disinformation. By combining these techniques, the text frames a narrative designed to manipulate the reader's emotions and perceptions rather than presenting a balanced set of facts for independent consideration.

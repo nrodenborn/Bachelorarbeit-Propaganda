@@ -1,0 +1,39 @@
+Name calling – No – The text does not use insulting labels to attack individuals or institutions; instead, it focuses on questioning their credibility and narrative.
+
+Repetition – Yes – The text repeatedly emphasizes the idea of a "changing narrative" and the "mystery" surrounding the events and the security guard. Example: "Jesus Campos, who the narrative is constantly changing around, is still a source of mystery... The ever-changing narrative now though, seems to swirl around this unknown mystery security guard... Much of Campos’s story and background remains a mystery."
+
+Slogans – No – The article does not use any brief, memorable phrases in the manner of a slogan.
+
+Appeal to fear – Yes – The text instills fear and distrust in official institutions by suggesting a deliberate cover-up. Example: "There are obviously certain things that the FBI and other investigators seem intent on covering up."
+
+Doubt – Yes – The entire article is structured to cast doubt on the official narrative, the timeline, and the key witness. Example: "So who is Jesus Campos? That burning question has bothered many... What happened during those six minutes?... What exactly do they want us to believe?"
+
+Exaggeration/minimization – Yes – The text exaggerates the state of the official narrative to make it seem less credible. Example: "Their own narrative is quickly shattering."
+
+Flag-Waving – No – The text does not make any appeals to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words to create a sense of suspicion and conspiracy. Example: "The infamous security guard... raises new questions about official narrative."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis, Hitler, or similarly hated groups.
+
+Bandwagon – Yes – The text suggests that its doubts are widely shared, encouraging the reader to join in. Example: "That burning question has bothered many since the release of his name..."
+
+Causal Oversimplification – No – The text does not propose a simple cause for a complex event; rather, it suggests that the official cause is wrong and that a more complex, hidden cause (a cover-up) exists.
+
+Obfuscation, intentional vagueness – No – The article itself is not intentionally vague; it accuses the authorities of being vague and unclear in their explanations.
+
+Appeal to authority – No – The text does the opposite of appealing to authority; it actively questions and undermines the credibility of authorities like the police and the FBI.
+
+Black & white fallacy – Yes – The text implicitly presents only two options: the official narrative (portrayed as unbelievable) or a deliberate cover-up, ignoring other possibilities like confusion and human error during a crisis. Example: The final question, "What exactly do they want us to believe?" frames the situation as a choice between accepting a lie or seeing the conspiracy.
+
+Thought-terminating clichés – No – The text does not use phrases to shut down thought; it uses leading questions to encourage a specific line of critical thought against the official story.
+
+Red herring – Yes – The article introduces a distracting and unverified claim to increase suspicion without directly proving its relevance. Example: "The infamous security guard... is not listed or registered as such."
+
+Straw men – No – The text attacks the official narrative by highlighting its inconsistencies, not by misrepresenting it to make it easier to refute.
+
+Whataboutism – No – The text does not accuse its opponents of hypocrisy.
+
+***
+
+Verdict – 95% – The text is a clear example of propaganda. Its primary purpose is not to objectively inform the reader but to persuade them to adopt a specific viewpoint: that the official narrative of the Las Vegas shooting is a lie and that a conspiracy or cover-up is in progress. The article systematically employs numerous propaganda techniques to achieve this goal. Its entire structure is built on the technique of **Doubt**, relentlessly posing leading and rhetorical questions. It uses **Loaded Language** ("infamous," "cover-up," "shattering") and **Exaggeration** to create an atmosphere of suspicion. The central theme of a "changing narrative" is used as **Repetition** to erode trust in authorities. The text also uses a **Red Herring** (the guard's registration status) and a **Bandwagon** appeal ("bothered many") to draw the reader into its conspiratorial viewpoint, while framing the situation as a **Black & White Fallacy** between the official story and a cover-up. The cumulative effect is a highly persuasive piece designed to manipulate the reader's perception of events.

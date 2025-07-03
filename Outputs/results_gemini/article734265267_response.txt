@@ -1,0 +1,43 @@
+1. Name calling – Yes – The text repeatedly uses the terms “criminal aliens” and “illegal alien.” While “alien” is a legal term, in this context, combined with “criminal” and “illegal,” it functions as an insulting and dehumanizing label to attack the subjects of the enforcement action.
+
+2. Repetition – Yes – The core message that ICE is arresting dangerous criminals to ensure public safety is repeated throughout the text. Phrases like “criminal aliens,” “public safety,” and the general theme of removing threats are mentioned multiple times, especially in the quote from the field office director and the concluding paragraphs.
+
+3. Slogans – No – The text does not use any brief, memorable, or catchy phrases that could be considered slogans.
+
+4. Appeal to fear – Yes – The text supports ICE’s actions by instilling fear of the people being arrested. It does this by listing serious crimes such as “indecency with a child, assault, deadly conduct, aggravated assault with a deadly weapon, drug possession, drug trafficking, burglary,” and by providing detailed summaries of individuals convicted of violent felonies.
+
+5. Doubt – No – The text does not attempt to question the credibility of any person or organization; its focus is on asserting its own authority and effectiveness.
+
+6. Exaggeration/minimization – Yes – The text exaggerates the criminality of the group by focusing heavily on the most severe offenders, providing three detailed “criminal summaries” of individuals with serious felony convictions. It minimizes the fact that a significant portion of those arrested (59 of 145, or 41%) did not have criminal convictions by burying this statistic in a single sentence without elaboration.
+
+7. Flag-Waving – Yes – The text appeals to patriotism and national identity by framing its actions as necessary to “protect the nation, uphold public safety, and protect the integrity of our immigration laws and border controls.”
+
+8. Loaded Language – Yes – The text uses emotionally charged and stereotypical language. Terms like “criminal aliens,” “at-large,” and “pose a threat to public safety” are used to evoke fear and negative emotions towards the people being arrested.
+
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups to discredit an idea.
+
+10. Bandwagon – No – The text does not suggest that its actions or ideas are popular and that the reader should join the majority.
+
+11. Causal Oversimplification – Yes – The text presents a simple cause-and-effect relationship: arresting immigrants leads directly to safer communities. The quote, “The results of this operation are a clear indication of ICE’s commitment regarding the role we play in keeping our communities safe,” simplifies the complex issues of crime and public safety down to the single variable of immigration enforcement.
+
+12. Obfuscation, intentional vagueness – Yes – While providing specific numbers, the text uses vague language to describe its operational scope. The statement that ICE “will no longer exempt classes or categories of removable aliens from potential enforcement” is a broad and unclear policy statement. Similarly, stating that other encountered aliens “are evaluated on a case-by-case basis, and, when appropriate, they are arrested” is intentionally vague about the criteria for arrest.
+
+13. Appeal to authority – Yes – The text is a press release from a government agency (ICE) and uses its own authority to present the information as credible. It also includes a direct quote from “Daniel Bible, field office director for ERO in San Antonio,” using his official title to lend weight to the claims being made.
+
+14. Black & white fallacy – Yes – The text implicitly presents only two options: either support ICE’s targeted enforcement to have safe communities, or oppose it and allow dangerous criminals to threaten public safety. It ignores other possibilities, such as different immigration policies or alternative approaches to public safety.
+
+15. Thought-terminating clichés – Yes – Phrases like “keeping our communities safe” and “uphold public safety” are used as self-evident justifications for the actions taken. They are presented as universally good goals, which discourages critical thought about the methods used to achieve them or any potential negative consequences.
+
+16. Red herring – No – The text stays focused on the topic of the enforcement action and does not introduce irrelevant material to distract the audience.
+
+17. Straw men – No – The text does not misrepresent or refute any opposing arguments; it solely presents its own narrative.
+
+18. Whataboutism – No – The text does not accuse any opponent of hypocrisy.
+
+***
+
+Verdict – 90% – This text is a clear example of propaganda. While it is presented as a factual press release from a government agency and contains verifiable data (numbers, dates, locations), its primary purpose is not merely to inform, but to persuade the public and justify the agency's actions. It achieves this by employing a significant number of propaganda techniques.
+
+The core of its persuasive effort is a powerful **Appeal to Fear**, which is amplified through **Loaded Language** (“criminal aliens”) and **Exaggeration**. The text selectively highlights the most dangerous individuals arrested, detailing their heinous crimes to create the impression that all subjects of the operation are a severe threat to public safety. Simultaneously, it **Minimizes** the fact that over 40% of those arrested had no criminal convictions.
+
+This narrative is reinforced by an **Appeal to Authority** (the official source and the director's quote), **Flag-Waving** (appeals to "protect the nation"), and **Causal Oversimplification** (arresting immigrants = public safety). The framing creates a **Black & White Fallacy** where the audience is left to believe the only choice is between ICE's actions and living in fear. The use of **Repetition** and **Thought-Terminating Clichés** like "keeping our communities safe" hammers the message home and discourages deeper analysis. The combination of these techniques moves the text from a neutral report to a persuasive piece designed to shape public opinion in favor of the agency's mission and methods.

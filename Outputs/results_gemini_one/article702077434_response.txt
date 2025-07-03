@@ -1,0 +1,37 @@
+Name calling – No – The text uses factual identifiers like "Mohamad Khweis" and "the Islamic State" or "ISIS". It does not use insulting labels to attack the subject.
+
+Repetition – No – The text reports on a single event and does not repeat a specific message or phrase to reinforce a point.
+
+Slogans – No – The text is a news report and does not contain any brief, memorable phrases meant to act as slogans.
+
+Appeal to fear – No – The article reports on a criminal conviction; it does not try to support an idea by instilling fear in the reader about alternative scenarios.
+
+Doubt – Yes – The text reports that the prosecution cast doubt on the defendant's credibility. Example: "Prosecutors, who pushed for 35 years in prison, accused Khweis of lying repeatedly over the last 15 months of the trial."
+
+Exaggeration/minimization – No – The text reports facts and quotes from the trial without exaggerating or minimizing them itself.
+
+Flag-Waving – No – The text mentions Khweis is an "American citizen," which is a relevant fact to the story's newsworthiness, but it is not used to appeal to patriotism.
+
+Loaded Language – No – The language used is neutral and journalistic. It avoids emotionally charged words or stereotypes.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or hated groups.
+
+Bandwagon – No – The text does not suggest an idea is good or should be followed because it is popular. In fact, it highlights how Khweis's case was unusual.
+
+Causal Oversimplification – No – The text does the opposite, highlighting the complexity and lack of a clear cause for Khweis's actions. Example: “We don’t really know what caused him to travel to Syria.”
+
+Obfuscation, intentional vagueness – No – The text is written with clarity and provides specific details about the case.
+
+Appeal to authority – No – The text cites sources like "The Washington Post" and quotes legal authorities as part of standard journalistic attribution, not as a fallacious tool to prove a point.
+
+Black & white fallacy – No – The text presents multiple perspectives, including those of the defendant, his defense attorney, and the prosecution, rather than limiting the situation to only two options.
+
+Thought-terminating clichés – No – The text does not use any phrases that discourage critical thought.
+
+Red herring – No – All the information presented, such as Khweis's background and statements, is relevant to the court case being reported.
+
+Straw men – No – The text reports on the arguments made during the trial; it does not create and then refute a false argument.
+
+Whataboutism – No – The text does not charge anyone with hypocrisy.
+
+Verdict – 10% – The text is highly unlikely to be propaganda. It functions as a standard news report, characterized by a neutral tone, clear attribution of information to sources (The Washington Post, prosecutors, defense attorney), and the presentation of multiple perspectives from the legal proceedings. The primary goal is to inform the reader about an event, not to persuade them to adopt a specific viewpoint or take action. The near-total absence of the listed propaganda techniques supports this conclusion. The one technique identified, "Doubt," is present only because the article is reporting on a trial where the prosecution's role is to cast doubt on the defendant's testimony, which is a factual element of the story.

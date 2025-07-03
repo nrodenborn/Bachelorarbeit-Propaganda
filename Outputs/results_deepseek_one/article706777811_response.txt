@@ -1,0 +1,25 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – No – No insulting labels are applied to specific entities, only descriptive terms for the plague (e.g., "Black Death").  
+2. **Repetition** – Yes – The phrase "100 percent likely" is repeated to emphasize the inevitability of the plague reaching the UK.  
+3. **Slogans** – Yes – "Ticking time bomb" is a brief, memorable phrase used to frame the plague threat.  
+4. **Appeal to fear** – Yes – Uses phrases like "decimate the world," "kill within 48 hours," and "crisis point" to instill fear about the plague’s spread.  
+5. **Doubt** – No – No direct questioning of credibility; presents warnings as factual.  
+6. **Exaggeration/minimization** – Yes – Exaggerates with "100% likely" (contrasted by experts calling UK risk "low") and "decimate the world." Minimizes by downplaying contradictory expert opinions.  
+7. **Flag-Waving** – No – No appeals to patriotism or national identity.  
+8. **Loaded Language** – Yes – Emotional terms like "chilling warning," "ticking time bomb," and "decimate the world" evoke dread.  
+9. **Reduction ad Hitlerum** – No – No comparisons to hated groups (e.g., Nazis).  
+10. **Bandwagon** – No – Does not appeal to popularity; cites experts but not public opinion.  
+11. **Causal Oversimplification** – No – Attributes spread to global travel and mutation, which are plausible factors without oversimplifying.  
+12. **Obfuscation** – No – Uses specific statistics (e.g., "2,034 infected") and clear explanations of transmission.  
+13. **Appeal to authority** – Yes – Cites experts (Paul Hunter, Richard Conroy) and WHO statistics to validate claims.  
+14. **Black & white fallacy** – No – Acknowledges nuances (e.g., "current risk is low" despite alarm).  
+15. **Thought-terminating clichés** – Yes – "Ticking time bomb" and "100% likely" shut down critical discussion of probability.  
+16. **Red herring** – No – No irrelevant distractions; focuses on plague risks.  
+17. **Straw men** – No – All arguments addressed are directly presented.  
+18. **Whataboutism** – No – No accusations of hypocrisy.  
+
+---
+
+### Verdict – 70% –   
+The text exhibits strong propagandistic elements, primarily through **exaggerated claims** (e.g., "100% likely" spread to the UK), **appeals to fear** (e.g., "decimate the world"), **loaded language**, and **selective use of expert quotes** to amplify threat perception. While it includes factual data (e.g., WHO statistics), it omits counterpoints (e.g., downplaying the UK risk) and uses emotionally charged framing ("ticking time bomb") to manipulate reader anxiety. However, it avoids techniques like name-calling or false dichotomies, and its basis in a real health crisis tempers the classification. Overall, the text prioritizes sensationalism over balanced reporting, indicating propaganda aimed at inciting alarm.

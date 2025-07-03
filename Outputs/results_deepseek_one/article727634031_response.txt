@@ -1,0 +1,59 @@
+Here is the analysis of the text using the provided propaganda techniques:
+
+1. **Name calling** – No  
+   *Explanation:* The text uses factual labels ("ammo seller," "gunman," "aerospace engineer") without insulting epithets.  
+
+2. **Repetition** – No  
+   *Explanation:* Key facts (e.g., Haig's arrest, ammunition types) are stated once or twice for clarity but not excessively repeated.  
+
+3. **Slogans** – No  
+   *Explanation:* No brief, memorable phrases are used to simplify or rally support (e.g., no chants or hashtags).  
+
+4. **Appeal to fear** – No  
+   *Explanation:* The report describes events neutrally (e.g., "killing 58 people") without exaggerating threats to manipulate emotions.  
+
+5. **Doubt** – No  
+   *Explanation:* No questioning of credibility (e.g., sources like FBI/complaints are presented objectively).  
+
+6. **Exaggeration/minimization** – No  
+   *Explanation:* Statistics (e.g., "58 killed, 422 injured") are reported factually; no understatement/overstatement detected.  
+
+7. **Flag-Waving** – No  
+   *Explanation:* No appeals to patriotism or group identity (e.g., no "protect our nation" rhetoric).  
+
+8. **Loaded Language** – **Yes**  
+   *Explanation:* "Massacre" (in headings/captions) carries strong emotional weight beyond neutral terms like "shooting."  
+
+9. **Reduction ad Hitlerum** – No  
+   *Explanation:* No comparisons to Nazis/hated groups (e.g., no references to fascism or tyranny).  
+
+10. **Bandwagon** – No  
+    *Explanation:* No suggestion that readers should adopt a view because it is popular (e.g., "everyone agrees").  
+
+11. **Causal Oversimplification** – No  
+    *Explanation:* Complex events (e.g., the shooting, investigation) are not reduced to single causes.  
+
+12. **Obfuscation, intentional vagueness** – No  
+    *Explanation:* Details are specific (e.g., ".308-caliber rounds," "Mandalay Bay hotel"). No deliberate confusion.  
+
+13. **Appeal to authority** – No  
+    *Explanation:* Authorities (FBI, police) are cited for facts, not to imply unquestionable truth.  
+
+14. **Black & white fallacy** – No  
+    *Explanation:* No false dichotomies (e.g., nuances like Haig’s ignorance of Paddock’s plans are acknowledged).  
+
+15. **Thought-terminating clichés** – No  
+    *Explanation:* No phrases halting debate (e.g., "it is what it is" or "case closed").  
+
+16. **Red herring** – No  
+    *Explanation:* Focus remains on Haig/ammunition; no irrelevant distractions introduced.  
+
+17. **Straw men** – No  
+    *Explanation:* No misrepresentation of arguments (e.g., counterpoints are fairly attributed).  
+
+18. **Whataboutism** – No  
+    *Explanation:* No accusations of hypocrisy (e.g., no deflection like "what about other ammo sellers?").  
+
+---
+
+**Verdict – 5% –** The text is a factual news report from CNN, detailing Douglas Haig's arrest, his connection to the Las Vegas shooter, and legal proceedings. It cites evidence (e.g., fingerprints, complaint details), includes balanced perspectives (Haig’s attorney, law enforcement), and avoids overt persuasion. The term "massacre" in photo captions is emotionally charged but contextually accurate for an event with 58 deaths. No systematic use of propaganda techniques is observed; the piece prioritizes information over manipulation. The 5% reflects minor emotional language, not propagandistic intent.

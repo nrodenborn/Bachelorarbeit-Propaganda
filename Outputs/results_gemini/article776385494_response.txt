@@ -1,0 +1,37 @@
+1. Name calling – No – The text uses strong negative language like "dangerous and reckless" and "menace to society," but these are descriptions of actions or objects, not direct insulting labels applied to a person or group.
+
+2. Repetition – Yes – The idea that existing law already makes undetectable plastic guns illegal is stated by both the White House and the National Rifle Association. The text states: "Sanders also repeated the administration's claim from a day earlier that existing law already prohibits plastic firearms" and "The National Rifle Association... echoed that claim".
+
+3. Slogans – Yes – Cody Wilson is quoted using a brief, memorable phrase to frame his position: "The debate is over. The guns are downloadable."
+
+4. Appeal to fear – Yes – The argument from the eight states and the District of Columbia instills fear by suggesting the blueprints "could allow anyone -- from a teen to a 'lone wolf' gunman -- to make untraceable, undetectable plastic weapons."
+
+5. Doubt – Yes – The White House's statement, "The Department of Justice made a deal without the president's approval," is used to question the credibility and authority of the original decision to allow the blueprints.
+
+6. Exaggeration/minimization – Yes – The Brady Campaign uses exaggeration by calling 3D-printed firearms "nothing short of a menace to society." Cody Wilson also uses exaggeration to show his determination, stating, "I will waste all my time."
+
+7. Flag-Waving – Yes – Cody Wilson appeals to a core American identity value by stating, "access to firearms is a fundamental human dignity. It's a fundamental human right."
+
+8. Loaded Language – Yes – The text includes emotionally charged phrases intended to evoke a strong reaction, such as "'lone wolf' gunman," "menace to society," and "dangerous and reckless actions."
+
+9. Reduction ad Hitlerum – No – The text does not suggest that an idea is popular with a group hated by the audience, such as Nazis or a similar group.
+
+10. Bandwagon – Yes – The text notes that the blueprints "had already been downloaded thousands of times," and Wilson leverages this by saying, "The files are in the public domain," implying the movement is too large and popular to be stopped.
+
+11. Causal Oversimplification – Yes – The NRA and the White House claim that the 1988 law makes the "current 3D-printed gun issue moot," which simplifies a complex legal situation by suggesting a single, simple cause (an old law) completely resolves the new, nuanced issue.
+
+12. Obfuscation, intentional vagueness – No – The arguments presented in the text are direct and their meanings are clear, even if they are biased. There is no use of deliberately obscure language to confuse the audience.
+
+13. Appeal to authority – Yes – The NRA uses its own authority as a "politically influential gun rights group" to support its claim. The text also reports on various authorities (the President, a federal judge, Democratic senators) taking positions to lend weight to their respective arguments.
+
+14. Black & white fallacy – Yes – Cody Wilson presents a false dichotomy with the statement, "The debate is over. The guns are downloadable," which presents only two options: accept that the files are available everywhere or be irrelevant, ignoring other possibilities like regulation.
+
+15. Thought-terminating clichés – Yes – The phrase used by Cody Wilson, "The debate is over," is a cliché designed to end critical thought and shut down further discussion on the topic.
+
+16. Red herring – Yes – The claim by the White House and NRA that "undetectable plastic guns have been illegal for 30 years" distracts from the central issue of publishing blueprints online by introducing the topic of a pre-existing law that Wilson's design specifically attempts to circumvent.
+
+17. Straw men – Yes – The NRA and the White House refute the idea of legalizing "undetectable plastic guns," an argument that Wilson is not making. Wilson's argument is about the right to publish information for a gun designed to be compliant with the law, so they are refuting an argument that was not presented.
+
+18. Whataboutism – No – The text does not contain any instances of one side accusing the other of hypocrisy to deflect criticism.
+
+Verdict – 10% – The text itself is a news report, not a piece of propaganda. Its primary purpose is to inform the reader about a conflict by presenting the arguments from multiple sides. While the article is saturated with propaganda techniques, these techniques are found almost exclusively within the quotes and reported statements of the individuals and groups involved in the story (Cody Wilson, the White House, the NRA, and gun control advocates). The author of the article is reporting *on* the use of propaganda by others, not using it to push their own agenda. The journalistic framing, neutral tone, and attribution of all persuasive claims to their sources indicate the text is functioning as journalism, not propaganda.

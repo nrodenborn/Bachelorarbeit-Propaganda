@@ -1,0 +1,37 @@
+Name calling – No – The text is highly critical of the coroner's actions, accusing him of defying a court order and playing games, but it does not use a specific insulting label to attack him personally.
+
+Repetition – Yes – The core message that the coroner is unjustifiably delaying the release of the autopsy report is repeated throughout the text. Example: "determined to not release the autopsy report", "delayed this for too long", "should be provided to the Review-Journal and Associated Press without further delay."
+
+Slogans – Yes – The text uses short, memorable phrases to make a point. Example: "No more games. Release the records.”
+
+Appeal to fear – Yes – The text subtly stokes fear of a government cover-up or conspiracy by questioning the official narrative and invoking other famous conspiracies. Example: "Wait, were the same guys in the autopsy room that were there when the doctors and coroners examined John F Kennedy ?"
+
+Doubt – Yes – The text is built around casting doubt on the credibility of the coroner and the official explanation for the delay. Example: "we have questions as to whether the body was even that of Stephen Paddock, given the fact that certain elements of the Paddock in the preliminary police report... are apparently at odds with the Paddock of other documentation."
+
+Exaggeration/minimization – Yes – The text exaggerates the suspicious nature of the events by using dramatic and incredulous language. Example: "Seriously, it's been four months already! The body has been cremated!"
+
+Flag-Waving – No – The text appeals to the "public's right to open government," a civic value, but does not use overt patriotic symbols or language to make its case.
+
+Loaded Language – Yes – The text uses emotionally charged words to influence the reader's opinion. Example: "Coroner Defies Court Order", "No more games", "Something is rotten in Denmark!"
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or Nazis.
+
+Bandwagon – Yes – The text implies that respected organizations and the public are united in demanding the report's release, encouraging the reader to join this consensus. Example: "The law is squarely on the side of the public’s right to open government.”
+
+Causal Oversimplification – Yes – The text implies a simple, sinister cause (a cover-up) for the delay in releasing the report, ignoring potentially complex bureaucratic or legal reasons. Example: "Something is rotten in Denmark!"
+
+Obfuscation, intentional vagueness – No – The text itself is not vague; rather, it accuses the coroner's office of being vague and withholding information. Example: "it's all the details that aren't given that seem to be problematic for the coroner to release."
+
+Appeal to authority – Yes – The text uses the statements of a lawyer and a newspaper editor, as well as a judge's court order, to support its argument. Example: “I don’t believe this is consistent with what the court ordered,” said Las Vegas attorney Maggie McLetchie"
+
+Black & white fallacy – Yes – The text presents only two options: either the coroner releases the report immediately, or he is part of a malicious cover-up. It does not allow for other possibilities like procedural requirements. Example: The entire framing of the article presents the situation as a simple case of "defiance" versus the public's "right to know."
+
+Thought-terminating clichés – Yes – The text uses a cliché to shut down nuanced thinking and assert a simple, conspiratorial conclusion. Example: "Something is rotten in Denmark!"
+
+Red herring – Yes – The text introduces an irrelevant but emotionally charged topic to distract and lead the audience toward a conclusion of conspiracy. Example: "Wait, were the same guys in the autopsy room that were there when the doctors and coroners examined John F Kennedy ?"
+
+Straw men – Yes – The text misrepresents the coroner's reason for the delay to make it seem illogical. Example: "How can the autopsy report not be ‘finalized’ when the body was cremated more than five weeks ago?" This refutes a simplified version of the argument, as a report's finalization can depend on many factors besides the cremation of the body.
+
+Whataboutism – No – The text does not accuse the coroner of hypocrisy by pointing to a contradictory past action.
+
+Verdict – 95% – The text is overwhelmingly likely to be propaganda. While it reports on a real event (the legal dispute over the autopsy report), its primary purpose is not to inform but to persuade the reader that a sinister cover-up is taking place. It employs a multitude of propaganda techniques to achieve this. The article heavily relies on **Doubt**, **Loaded Language**, and **Slogans** ("No more games") to create a tone of outrage and suspicion. It introduces a **Red Herring** (the JFK assassination) and a **Thought-terminating cliché** ("Something is rotten in Denmark!") to guide the reader toward a conspiratorial conclusion without evidence. Furthermore, it presents a **Black & White Fallacy** (transparency vs. cover-up) and uses a **Straw Man** argument to dismiss the official reason for the delay. By constantly appealing to the **Authority** of lawyers and journalists who support its view, it creates a **Bandwagon** effect. The cumulative effect of these techniques is a highly manipulative piece designed to inflame emotion and promote a specific, unsubstantiated narrative rather than encourage critical thought.

@@ -1,0 +1,20 @@
+1. Name calling – No – The text uses factual descriptors like "deadly virus" but does not use any insulting labels to attack a person, group, or object.
+2. Repetition – No – The text does not repeat a specific message or phrase to influence the reader. Key terms like "Ebola" are repeated for clarity, which is standard for a news report on a specific topic.
+3. Slogans – No – There are no brief, memorable phrases used to rally support or encapsulate an ideology.
+4. Appeal to fear – No – While the text contains frightening facts (e.g., "fatal in up to 90 percent of cases"), this information is presented as a factual warning about the severity of the disease, not to instill fear against an alternative idea or course of action.
+5. Doubt – No – The text does not question the credibility of any person or organization; instead, it relies on them as sources.
+6. Exaggeration/minimization – No – The text reports specific numbers and facts provided by official sources without any apparent attempt to exaggerate or downplay the situation.
+7. Flag-Waving – No – There is no appeal to patriotism or national identity.
+8. Loaded Language – No – The language is largely factual and clinical. Words like "deadly" and "suffering" are used in a descriptive context appropriate for the subject matter, not to manipulate emotions.
+9. Reduction ad Hitlerum – No – The text makes no comparisons to hated groups.
+10. Bandwagon – No – The text does not suggest that an idea is correct or should be adopted because it is popular.
+11. Causal Oversimplification – No – The text does not offer a simplistic cause for the outbreak. It identifies the virus strain and notes that an investigation will be conducted to find the origin.
+12. Obfuscation, intentional vagueness – No – The text is clear, specific, and direct, providing details about locations, dates, and organizations involved.
+13. Appeal to authority – Yes – The text consistently cites official bodies as the source of its information to lend it credibility. Example: "Congo's Health Ministry said that of five samples sent to the National Institute of Biological Research in Kinshasa, two were positive for the Zaire strain of Ebola in the country's Equateur province."
+14. Black & white fallacy – No – The text does not present the situation as a choice between only two options.
+15. Thought-terminating clichés – No – The text does not use any phrases designed to shut down critical thought.
+16. Red herring – No – All information presented is directly relevant to the Ebola outbreak.
+17. Straw men – No – The text does not misrepresent or refute an argument that was not made.
+18. Whataboutism – No – The text does not accuse anyone of hypocrisy.
+
+Verdict – 5% – The text is a factual news report. Its primary purpose is to inform the public by presenting verifiable facts and statements from credible sources such as the World Health Organization and Congo's Health Ministry. The tone is objective and avoids the manipulative and emotionally charged language characteristic of propaganda. The only technique present, "Appeal to authority," is used in a standard journalistic manner to cite sources and establish the credibility of the information, rather than to force an opinion on the audience. Because the text's clear intent is to inform rather than to persuade towards a biased viewpoint, it is highly unlikely to be propaganda.

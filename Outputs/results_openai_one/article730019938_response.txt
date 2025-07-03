@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use an insulting label to attack an object or subject.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use a brief and memorable phrase.
+4. Appeal to fear – No – The text does not support an idea by instilling fear against other alternatives.
+5. Doubt – Yes – The text questions the credibility of the Associated Press by mentioning its policy on not reporting race, suggesting a bias or omission.
+6. Exaggeration/minimization – No – The text does not exaggerate or minimize any information.
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – The phrase "I can't think of anything less irrelevant than a black gunman shooting two white cops" uses emotionally charged language to provoke a reaction.
+9. Reduction ad Hitlerum – No – The text does not disapprove an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text does not use deliberately unclear expressions to confuse the audience.
+13. Appeal to authority – No – The text does not use authority’s support as evidence.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 30% – The text contains elements of propaganda, particularly through the use of doubt and loaded language, which suggest bias and attempt to provoke an emotional reaction. However, it lacks other common propaganda techniques, making it less likely to be considered full-fledged propaganda. The overall content is more informational, with some opinionated commentary, rather than a concerted effort to manipulate or persuade the audience using multiple propaganda strategies.

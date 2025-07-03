@@ -1,0 +1,41 @@
+Name calling – Yes – The text uses insulting labels to attack the World Health Organization and pharmaceutical companies, such as in the phrases "fear-mongering message" and "vaccine-pharma cartels."
+
+Repetition – Yes – The core message that a devastating global pandemic is coming and the world is unprepared is stated multiple times using different phrasing. For example: "a global pandemic is imminent," "the next outbreak that will hit us will be a 'terrible' one," and "A devastating epidemic could start in any country at any time and kill millions of people because we are still not prepared."
+
+Slogans – Yes – The headline "Humanity’s WIPEOUT Foreshadowed?" is a brief, memorable, and dramatic phrase designed to catch the reader's attention.
+
+Appeal to fear – Yes – The article is built around instilling fear, using phrases like "Humanity’s WIPEOUT," "terrible” one, causing a large death all over the world," "wipe out millions," and "A devastating epidemic could start in any country at any time and kill millions of people."
+
+Doubt – Yes – The text directly questions the credibility and motives of the World Health Organization. For example: "Hidden underneath this fear-mongering message of a global pandemic is a far more sinister W.H.O. agenda."
+
+Exaggeration/minimization – Yes – The text uses exaggeration to heighten the sense of alarm, most notably in the headline: "Humanity’s WIPEOUT Foreshadowed?"
+
+Flag-Waving – No – The text does not appeal to patriotism or a specific national identity; its scope is global ("Humanity," "the world").
+
+Loaded Language – Yes – The text uses emotionally charged words to influence the reader's opinion, such as "WIPEOUT," "sinister," "fear-mongering," "nightmare scenario," and "devastating."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler, the Nazis, or other similarly hated groups.
+
+Bandwagon – No – The article does not argue that an idea should be accepted because it is popular.
+
+Causal Oversimplification – Yes – The text presents a simple cause for a complex issue by stating that the WHO's warnings are not due to genuine public health concerns but are exclusively for a single, sinister purpose. Example: "The real agenda is a global push for blind, fear-based acceptance of unsafe, unproven vaccines."
+
+Obfuscation, intentional vagueness – No – The text's message, while manipulative, is direct and not deliberately unclear.
+
+Appeal to authority – Yes – The text heavily relies on the statements of authorities to build its case, first quoting WHO officials like "Dr. Tedros Adhanom, director-general for WHO," and then presenting a counter-authority in "Mike Adams, the Health Ranger."
+
+Black & white fallacy – Yes – The article presents only two possibilities: either the world is facing a natural, devastating pandemic as described by the WHO, or the WHO is engineering a panic as part of a "sinister agenda." It ignores any nuanced interpretations.
+
+Thought-terminating clichés – Yes – A phrase is used to dismiss the WHO's argument without engaging with it. Example: "Fear circumvents rational thinking, which is why the vaccine-pharma cartels routinely turn to irrational fear propaganda..." This is presented as a definitive explanation that discourages further thought.
+
+Red herring – Yes – The text introduces an irrelevant topic to divert attention from the original one. It pivots from the topic of pandemic preparedness to a conspiracy about a "sinister W.H.O. agenda" regarding vaccines, distracting from the initial health warnings.
+
+Straw men – No – The text does not misrepresent an opponent's argument in order to refute it; rather, it attacks the supposed hidden motive behind the argument.
+
+Whataboutism – No – The text does not charge any party with hypocrisy.
+
+***
+
+Verdict – 95% – The text is a clear and potent example of propaganda. Its primary strategy is a two-pronged attack built on fear. First, it establishes a terrifying scenario by extensively using **Appeal to Fear**, **Exaggeration** ("WIPEOUT"), **Repetition** of the warning, and **Appeal to Authority** (quoting WHO officials). This is designed to create a high state of anxiety in the reader.
+
+Then, the text pivots, introducing a **Red Herring** by claiming the fear is manufactured for a "sinister agenda." This second phase employs **Doubt**, **Name Calling** ("vaccine-pharma cartels"), **Causal Oversimplification** (the sole reason for the warnings is to push vaccines), and the **Black & White Fallacy** (it's either a real plague or a vaccine plot, with no middle ground). The entire piece is saturated with **Loaded Language** ("sinister," "devastating," "nightmare") to manipulate the reader's emotions. The sheer number and coordinated use of these techniques indicate that the article's purpose is not to inform but to persuade the reader towards a specific, conspiratorial viewpoint by bypassing rational analysis.

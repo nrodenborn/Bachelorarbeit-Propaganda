@@ -1,0 +1,37 @@
+Name calling – No – The text does not use any insulting labels to attack any person or group. It uses formal titles like "Special Counsel Robert Mueller" and "Attorney General William Barr."
+
+Repetition – Yes – The core message "No new indictments will come" is stated in the headline and then repeated in the first sentence of the article.
+
+Slogans – No – The text does not use any brief, memorable phrases to encapsulate an idea.
+
+Appeal to fear – No – The text reports on the conclusion of an investigation and does not attempt to instill fear in the reader.
+
+Doubt – No – The text does not question the credibility of any person or entity; instead, it cites official sources to support its claims.
+
+Exaggeration/minimization – No – The text reports the facts of the investigation's conclusion without hyperbole or understatement.
+
+Flag-Waving – No – The text does not make any appeals to patriotism or national identity.
+
+Loaded Language – No – The language used is neutral and factual (e.g., "submitted his final report," "pleaded guilty"). It does not use emotionally charged words.
+
+Reduction ad Hitlerum – No – The text does not compare any person or idea to hated groups like the Nazis.
+
+Bandwagon – No – The text does not suggest an idea is correct because it is popular. Mentioning "multiple outlets are reporting" is a journalistic practice of sourcing, not a bandwagon appeal.
+
+Causal Oversimplification – No – The text does not provide a simplified cause for a complex event; it only reports the outcome.
+
+Obfuscation, intentional vagueness – No – The text is direct and clear, stating its main point and providing sources.
+
+Appeal to authority – Yes – The text cites information from "A senior Justice Department official" and "Justice Department spokeswoman Kerri Kupec" as evidence for its claims.
+
+Black & white fallacy – No – The text does not present a false dichotomy or limit the reader to only two choices.
+
+Thought-terminating clichés – No – The text does not use any phrases that discourage critical thought.
+
+Red herring – No – The text stays on topic and does not introduce irrelevant material to distract the reader.
+
+Straw men – No – The text is a report and does not misrepresent or refute an argument.
+
+Whataboutism – No – The text does not accuse anyone of hypocrisy to deflect criticism.
+
+Verdict – 5% – The text has a very low likelihood of being propaganda. Its primary purpose is to inform, not persuade. It is structured as a standard news report, presenting factual information and attributing it to specific, relevant sources such as the Department of Justice and The Washington Post. While it technically uses "Repetition" and "Appeal to Authority," these are employed as standard journalistic conventions for clarity and credibility, not for manipulation. The text lacks the key characteristics of propaganda, such as emotional language, name-calling, logical fallacies, or a clear persuasive agenda. It neutrally reports on the conclusion of the Mueller probe.

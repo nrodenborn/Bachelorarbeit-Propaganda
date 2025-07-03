@@ -1,0 +1,37 @@
+1. Name calling – No – The text does not use insulting labels to attack any object or subject.
+
+2. Repetition – No – The text does not repeat the same message over and over.
+
+3. Slogans – No – The text does not use a brief and memorable phrase.
+
+4. Appeal to fear – No – The text does not support an idea by instilling fear against other alternatives.
+
+5. Doubt – Yes – The text questions the credibility of the Obama administration and its officials, suggesting unequal treatment compared to Hillary Clinton.
+
+6. Exaggeration/minimization – No – The text does not exaggerate or minimize any specific aspect.
+
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+
+8. Loaded Language – Yes – The text uses emotionally charged language, such as "politically motivated" and "singled out," to evoke a response from the audience.
+
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+
+11. Causal Oversimplification – Yes – The text suggests that Saucier was prosecuted because of the backlash over Hillary Clinton, which oversimplifies the legal proceedings.
+
+12. Obfuscation, intentional vagueness – No – The text is relatively clear in its claims and does not use deliberately unclear expressions.
+
+13. Appeal to authority – Yes – The text references President Trump's support and pardon as evidence of Saucier's unfair treatment.
+
+14. Black & white fallacy – Yes – The text presents the situation as having only two options: Saucier being unfairly treated versus Clinton being leniently treated.
+
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+
+16. Red herring – No – The text stays focused on the main issue without introducing irrelevant material to distract.
+
+17. Straw men – No – The text does not refute an argument that was not presented.
+
+18. Whataboutism – Yes – The text charges the Obama administration with hypocrisy by comparing Saucier's case to Hillary Clinton's.
+
+**Verdict – 70% – The text exhibits several propaganda techniques, including doubt, loaded language, causal oversimplification, appeal to authority, black & white fallacy, and whataboutism. These elements suggest an attempt to influence the audience's perception of the fairness of Saucier's prosecution compared to Hillary Clinton's treatment. The presence of these techniques indicates a significant likelihood of the text being propaganda, though it also includes factual elements and quotes from involved parties.**

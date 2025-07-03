@@ -1,0 +1,26 @@
+1. Name calling – No – The text does not use any insulting labels to attack a person, group, or idea.
+2. Repetition – No – While the subject of the Ebola outbreak is central, no specific message is repeated excessively to influence the reader.
+3. Slogans – No – The text does not use any brief, memorable phrases to promote an idea.
+4. Appeal to fear – No – While the topic of Ebola is inherently frightening, the text reports facts about the danger rather than using fear to promote a specific idea or action against an alternative. The mention of the 2014 epidemic serves as historical context, not as a tool of manipulation.
+5. Doubt – No – The text does not question the credibility of any person or organization; in fact, it relies on credible sources like the WHO.
+6. Exaggeration/minimization – No – The text presents factual numbers and provides context (e.g., comparing to past outbreaks) without appearing to overstate or understate the situation.
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity.
+8. Loaded Language – No – The language used is factual and neutral (e.g., "health ministry," "fatality rate," "incubation cycles"), avoiding emotionally charged or stereotypical words.
+9. Reduction ad Hitlerum – No – The text does not associate any idea with a hated group.
+10. Bandwagon – No – The text does not suggest that an idea is correct because it is popular.
+11. Causal Oversimplification – No – The text reports on the event without assigning a simplistic cause to the complex issue of disease outbreaks.
+12. Obfuscation, intentional vagueness – No – The text is specific and clear, providing dates, locations, and figures.
+13. Appeal to authority – Yes – "The outbreak has prompted urgent action from the World Health Organization (WHO) which has dispatched a team to the country and has released $1 million to support response efforts..." The text cites the WHO and the DRC's health ministry to establish the facts of the report.
+14. Black & white fallacy – No – The text does not present a false dichotomy or limit the options to only two.
+15. Thought-terminating clichés – No – The text does not use any phrases designed to stop critical thought.
+16. Red herring – No – All information presented is relevant to the topic of the Ebola outbreak.
+17. Straw men – No – The text is a report and does not engage in refuting any arguments, presented or otherwise.
+18. Whataboutism – No – The text does not deflect criticism by accusing others of hypocrisy.
+
+Verdict – 1% – This text is a factual news report, not propaganda. Its primary purpose is to inform the public about a newsworthy event, not to manipulate opinion or promote an ideology.
+
+The analysis shows that 17 of the 18 listed propaganda techniques are absent. The tone is neutral and objective, relying on verifiable facts, figures, and dates.
+
+The one technique identified, "Appeal to authority," is used here as a standard practice of credible journalism, not as a propaganda tool. Citing relevant and expert authorities like the World Health Organization and a country's health ministry is essential for factual reporting on a public health crisis. This builds the report's credibility by showing where the information comes from, which is the opposite of the manipulative intent of propaganda. Propaganda often uses appeals to irrelevant or biased authorities, whereas this text uses the most appropriate authorities for the subject matter.
+
+Therefore, the text is overwhelmingly informational and lacks the manipulative or persuasive intent that characterizes propaganda.

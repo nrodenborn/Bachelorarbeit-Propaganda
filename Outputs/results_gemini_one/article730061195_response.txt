@@ -1,0 +1,20 @@
+1. Name calling – No – The text uses neutral, factual language to describe the individuals involved, such as "suspect," "man," and "wife," rather than applying insulting labels.
+2. Repetition – No – The text reports a sequence of events and provides details from different sources without repeating a specific message or phrase for persuasive effect.
+3. Slogans – No – The text does not use any brief, memorable phrases to promote an idea. The line "Keep up with this story and more by subscribing now" is a standard call-to-action for a news service, not a propaganda slogan related to the content.
+4. Appeal to fear – No – While the events described are frightening, the text reports them factually and does not use that fear to advocate for a specific idea or warn against an alternative course of action.
+5. Doubt – No – The text reports information from official sources like the police and 911 recordings without questioning their credibility.
+6. Exaggeration/minimization – No – The article reports the known facts of the case (e.g., two officers killed, a history of domestic violence) without using hyperbole or downplaying the severity of the events.
+7. Flag-Waving – No – The text does not use any patriotic appeals or symbols to influence the reader.
+8. Loaded Language – No – While the subject matter is inherently emotional, the language used is largely descriptive and factual (e.g., "crying," "shot dead," "pleads for help"). It avoids using emotionally charged adjectives to manipulate the reader's feelings beyond what the facts themselves would evoke.
+9. Reduction ad Hitlerum – No – The text makes no comparisons to Nazis or other hated groups.
+10. Bandwagon – No – The text does not suggest that an idea is valid because it is popular or that the reader should adopt a certain viewpoint to be part of a group.
+11. Causal Oversimplification – No – The text presents several relevant background facts (a history of domestic violence calls, the suspect's prior conviction) but does not claim that any single one is the sole cause of the complex event.
+12. Obfuscation, intentional vagueness – No – The text is direct and clear. It explicitly states when information is not known ("Police have not released many details"), which is a sign of transparent reporting, not intentional vagueness.
+13. Appeal to authority – No – The text cites authorities (police, news outlets) as sources of information, which is standard journalistic practice for attribution. It does not use an authority's opinion as infallible proof of a claim.
+14. Black & white fallacy – No – The text reports on an event and does not present the reader with a false dichotomy or only two choices.
+15. Thought-terminating clichés – No – The text does not use any clichés intended to stop critical thought or further discussion.
+16. Red herring – No – All the information presented, such as the suspect's criminal history and previous domestic disturbances, is relevant context for the main story and does not serve to distract the reader.
+17. Straw men – No – The text is a news report and is not engaged in an argument; therefore, it does not misrepresent or refute any opposing position.
+18. Whataboutism – No – The text does not deflect from the topic by making accusations of hypocrisy against another party.
+
+Verdict – 5% – The text is highly unlikely to be propaganda. It adheres to the standards of objective news reporting. The primary purpose is to inform the public about a specific, factual event. It attributes its information to credible sources (police departments, 911 audio, other news outlets) and is careful to distinguish between confirmed facts and information that has not yet been released by authorities. The language is neutral and descriptive rather than loaded or emotionally manipulative. It does not employ logical fallacies or persuasive techniques to push a specific agenda. The low percentage accounts for the inherent bias in selecting which facts to report, but the piece overwhelmingly functions as straightforward journalism, not persuasion.

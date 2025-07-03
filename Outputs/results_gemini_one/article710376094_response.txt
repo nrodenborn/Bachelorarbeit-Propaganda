@@ -1,0 +1,37 @@
+Name calling – No – The text does not use insulting labels to attack any subject. The term “potentially hazardous” is a formal scientific classification from the Minor Planet Center, not a pejorative label.
+
+Repetition – No – No specific message is repeated over and over to enforce an idea.
+
+Slogans – No – The text does not use any brief, memorable phrases to rally support or create a sense of identity.
+
+Appeal to fear – Yes – The text uses fear to create interest, particularly in the headline "It Is ‘Potentially Hazardous’" and by mentioning the mythological origin of the asteroid's name: "Phaethon (after the Greek demi-god who, according to legend, nearly set the Earth on fire)".
+
+Doubt – No – The text does not question the credibility of any person or organization; in fact, it relies on the credibility of NASA and the Minor Planet Center.
+
+Exaggeration/minimization – Yes – The headline "Asteroid Will Skim By Earth" can be seen as an exaggeration, as the text later clarifies the asteroid will pass 6.5 million miles away, which is 27 times the distance to the moon.
+
+Flag-Waving – No – The text does not make any appeal to patriotism or national identity.
+
+Loaded Language – Yes – The headline uses loaded language to create drama and attract readers. Example: "Asteroid Will Skim By Earth Days Before Christmas: It Is ‘Potentially Hazardous’"
+
+Reduction ad Hitlerum – No – The text does not compare any idea or group to Nazis or other hated groups.
+
+Bandwagon – No – The text does not suggest that an idea is popular and should therefore be accepted.
+
+Causal Oversimplification – No – The text does not reduce a complex event to a single, simple cause.
+
+Obfuscation, intentional vagueness – No – The text is quite specific, providing details like the asteroid's size, its official name, its distance from Earth, and dates for observation.
+
+Appeal to authority – Yes – The text uses scientific authorities to lend credibility to its claims. Example: "...is classified as “potentially hazardous” by the Minor Planet Center." and "According to NASA, 3200 Phaethon will be visible in small telescopes..."
+
+Black & white fallacy – No – The text does not present a false dichotomy of only two choices.
+
+Thought-terminating clichés – No – The text does not use any phrases designed to stop critical thought.
+
+Red herring – No – The text does not introduce irrelevant topics to distract the reader. All information provided is related to the asteroid or associated astronomical phenomena.
+
+Straw men – No – The text does not misrepresent or refute an argument that was never made.
+
+Whataboutism – No – The text does not attempt to charge an opponent with hypocrisy.
+
+Verdict – 25% – The text uses several techniques commonly found in propaganda, such as Appeal to Fear, Exaggeration, and Loaded Language. However, these are primarily used in the headline and opening to create sensationalism and attract readers (i.e., "clickbait"), rather than to promote a specific political or ideological agenda. The body of the article is largely factual and informative, relying on scientific authorities like NASA for its information. Therefore, while it employs propagandistic framing, its core purpose is informational, placing it on the low end of the propaganda spectrum.

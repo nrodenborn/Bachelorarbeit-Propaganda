@@ -1,0 +1,37 @@
+Name calling – No – The text does not use insulting labels to attack a subject. It quotes a survivor who calls the Pope "blind" to the issue, but this is reporting on an opinion, not the author using the technique themselves.
+
+Repetition – No – The text does not repeat a specific message or phrase to reinforce an idea.
+
+Slogans – No – The text does not use any brief, memorable phrases as slogans.
+
+Appeal to fear – No – The text reports on a serious issue but does not attempt to instill fear to support a particular idea or agenda.
+
+Doubt – Yes – The text raises doubt about the effectiveness of the commission and the Pope's statements by quoting skeptical survivors and presenting conflicting information. Example: “The pope said he had seen no proof of Barros’s guilt, but the Associated Press reported that O’Malley and other members of the commission had in 2015 hand-delivered to him an eight-page letter from a survivor that graphically detailed his abuse…”
+
+Exaggeration/minimization – No – The text does not appear to exaggerate or minimize facts. It reports different perspectives, including a survivor's statement about having "rock bottom" expectations, but this is presented as a quote reflecting a personal feeling, not a factual distortion by the author.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words to describe the situation, which is a common feature of reporting on sensitive topics. Example: "widespread condemnation last month of the pontiff’s defense of a Chilean bishop accused of witnessing and ignoring abuse."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+
+Bandwagon – No – The text does not suggest that an idea is correct because it is popular.
+
+Causal Oversimplification – No – The text does not offer a simple cause for a complex issue. Instead, it provides context and multiple viewpoints, highlighting the complexity of the situation.
+
+Obfuscation, intentional vagueness – No – The text is specific and clear, naming individuals, organizations, and providing direct quotes.
+
+Appeal to authority – Yes – The text uses statements from an authority figure, Cardinal O'Malley, to present the official position of the church. Example: "O’Malley, the archbishop of Boston, said in the statement that the pope had “given much prayerful consideration” to the membership of the panel."
+
+Black & white fallacy – No – The text presents a nuanced view with multiple perspectives, including the official church position and the "hopeful but cynical" views of survivors, rather than just two opposing options.
+
+Thought-terminating clichés – No – The text does not use clichés to shut down discussion. It actively presents different arguments.
+
+Red herring – No – All information provided, such as the controversy in Chile, is relevant to understanding the context of the commission's revival and the skepticism surrounding it.
+
+Straw men – No – The text does not misrepresent or invent an argument to refute it. It addresses stated positions and claims directly.
+
+Whataboutism – No – The text does not attempt to deflect criticism by accusing an opponent of hypocrisy on an unrelated matter.
+
+Verdict – 5% – The text is a piece of journalism, not propaganda. While it employs a few techniques that can be used for propaganda (Doubt, Loaded Language, Appeal to Authority), they are used here in a manner consistent with standard journalistic practices for reporting on a complex and controversial issue. The article's primary goal is to inform by presenting a balanced account that includes the official Vatican position, the critical perspectives of abuse survivors, and relevant factual background. The inclusion of multiple, conflicting viewpoints and the lack of a clear, manipulative agenda strongly indicate that this is a news report rather than a piece of propaganda.

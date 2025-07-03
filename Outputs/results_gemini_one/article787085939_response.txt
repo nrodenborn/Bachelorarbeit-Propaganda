@@ -1,0 +1,39 @@
+Name calling – Yes – The text refers to the police officer, Amber Guyger, as a “killer cop” and a “homicidal cop.”
+
+Repetition – Yes – The word “smear” is used multiple times to describe the police’s actions (e.g., “Dallas Police Attempt to ‘Smear’ Botham Jean,” “accused of trying to ‘smear’ Jean,” “the glaring nature of the smear campaign”). The poll question is also repeated three times.
+
+Slogans – No – The text does not use any brief, memorable phrases in the manner of a slogan.
+
+Appeal to fear – No – The text primarily appeals to outrage and injustice rather than instilling fear in the reader about an alternative viewpoint or outcome.
+
+Doubt – Yes – The article repeatedly questions the credibility of the police’s narrative, for example: “Even if police did find marijuana, why on earth would they execute a search warrant on an innocent dead man’s home and then release that information to the public?” and “Why did she have to go outside to verify the address? It makes no sense whatsoever.”
+
+Exaggeration/minimization – Yes – The text minimizes the marijuana found by calling it a “tiny bit of weed” while describing the officer as a “homicidal cop,” which exaggerates her actions into a premeditated, murderous intent rather than the official (though contested) narrative of a mistake.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text is filled with emotionally charged words and phrases, such as “insidiously planned,” “killer cop,” “homicidal cop,” and “as irresponsible as it is reprehensible.”
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or the Nazis.
+
+Bandwagon – Yes – The text states, “Despite cops rallying behind the blue line to defend this killer cop, the rest of the country is not buying it,” encouraging the reader to align with the popular sentiment.
+
+Causal Oversimplification – Yes – The article simplifies the police department’s actions as a straightforward “smear campaign” and a “common assassination attempt on the victim” to make the “killer cops look good,” which is a simple explanation for a complex series of institutional and individual actions.
+
+Obfuscation, intentional vagueness – No – The article’s argument is direct and clear. It accuses the police of vagueness but does not employ the technique itself.
+
+Appeal to authority – Yes – The text heavily relies on the testimony and accusations of the victim’s attorneys, Lee Merritt and Daryl Washington, presenting their statements as authoritative evidence (e.g., “‘They [police] immediately began looking to smear him,’ attorney Lee Merritt said.”).
+
+Black & white fallacy – Yes – The article presents a stark contrast between the police (portrayed as malicious liars conducting a “smear campaign”) and the victim (portrayed as completely innocent and “an upstanding member of society”). It leaves little room for nuance or alternative interpretations.
+
+Thought-terminating clichés – No – The text does not use phrases to shut down discussion; instead, it aims to provoke critical thought about the police’s official story.
+
+Red herring – Yes – The embedded poll, “Who should replace Nikki Haley as our ambassador to the U.N.?”, is completely irrelevant to the story about Botham Jean and serves as a distraction.
+
+Straw men – Yes – The text sets up and refutes an argument the police did not explicitly make: “accused of trying to ‘smear’ Jean by claiming they found a tiny bit of marijuana in his house—as if this justifies going into someone’s home and murdering them.” The police released the information, but the article frames it as a direct justification for murder, which it then attacks.
+
+Whataboutism – Yes – The text points out the police’s alleged hypocrisy by questioning why information about the search of the victim’s home was released, while asking, “I would love to see more information coming out about the warrants executed on the home of the shooter… I haven’t seen any of those.”
+
+***
+
+Verdict – 95% – The text is overwhelmingly propagandistic. While it reports on a real event, its primary purpose is not to inform objectively but to persuade the reader to adopt a specific, highly negative viewpoint of the Dallas Police Department. This is achieved through the heavy and repeated use of numerous propaganda techniques. The language is intensely emotional and biased (Loaded Language, Name calling). It constructs a simple, morally unambiguous narrative of a malicious police force attacking an innocent victim (Black & white fallacy, Causal Oversimplification) and dismisses the police's account by constantly questioning their credibility (Doubt, Straw men). The article reinforces its own position by appealing to the authority of the victim's lawyers and suggesting that popular opinion aligns with its view (Appeal to authority, Bandwagon). The sheer density of these techniques, combined with the one-sided presentation of evidence, moves the article from journalism into the realm of propaganda designed to stoke outrage and solidify a particular anti-police narrative.

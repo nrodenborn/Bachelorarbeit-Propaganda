@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack an object or subject.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+4. Appeal to fear – No – The text does not support an idea by instilling fear against other alternatives.
+5. Doubt – Yes – The Jewish groups question the credibility of the report by saying it is flawed and missed the significance of an anti-Semitic text.
+6. Exaggeration/minimization – No – The text does not exaggerate or minimize any events or details.
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – The term "whitewash" used by Michael Mostyn is loaded language that appeals to emotions by suggesting the report is intentionally misleading.
+9. Reduction ad Hitlerum – No – The text does not disapprove an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text does not use deliberately unclear or obscure expressions.
+13. Appeal to authority – Yes – The text references the investigation ordered by the principal and the findings of Spencer Boudreau as authoritative evidence.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main issue.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 30% – The text contains some elements of propaganda, such as doubt, loaded language, and appeal to authority. However, it primarily reports on the controversy and differing opinions regarding the McGill report. The presence of these techniques suggests some bias or persuasion attempts, but the overall text is more informational than propagandistic.

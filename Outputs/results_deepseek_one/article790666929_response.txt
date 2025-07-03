@@ -1,0 +1,36 @@
+### Analysis of Propaganda Techniques in the Text:  
+
+1. **Name calling** – **Yes** – "corrupt party," "lawless party" (Labels Democrats as inherently dishonest).  
+2. **Repetition** – **Yes** – "Who should replace Nikki Haley..." poll repeated 3 times.  
+3. **Slogans** – **Yes** – "Different rules for the lawless party" (Memorable phrase framing Democrats as unethical).  
+4. **Appeal to fear** – **Yes** – Implies unsealing records enables "smearing" and "dirty work," stoking fear of political sabotage.  
+5. **Doubt** – **Yes** – Questions Monahan’s credibility: "She has declined to show the video... She also told CNN she misplaced it."  
+6. **Exaggeration/minimization** – **Yes** – Exaggerates: "lawless party"; Minimizes: Omits context for unsealing Ryan’s records (court approved request).  
+7. **Flag-Waving** – **No** – No overt patriotism/identity appeals.  
+8. **Loaded Language** – **Yes** – "corrupt party," "Democrat machine," "dirty work," "lawless party" (Emotionally charged).  
+9. **Reduction ad Hitlerum** – **No** – No Nazi/Vichy comparisons.  
+10. **Bandwagon** – **Yes** – Notes Alpha News (right-leaning site) also sought records, implying legitimacy through alignment.  
+11. **Causal Oversimplification** – **Yes** – Blames Obama’s Senate win solely on unsealing Ryan’s records, ignoring other factors.  
+12. **Obfuscation** – **Yes** – Vague reference to Ryan’s records being "not pretty" without specifics; implies nefarious intent without evidence.  
+13. **Appeal to authority** – **No** – Kim Ellison’s statement is presented but not as an authoritative endorsement.  
+14. **Black & white fallacy** – **Yes** – Frames Democrats as universally "lawless" vs. implied ethical opponents.  
+15. **Thought-terminating clichés** – **Yes** – "Different rules for the lawless party" halts scrutiny of the unsealing’s legitimacy.  
+16. **Red herring** – **Yes** – Obama/Ryan anecdote distracts from Ellison’s case relevance.  
+17. **Straw men** – **Yes** – Portrays Democrats as habitually corrupt ("Democrat machine," "lawless party"), refuting an unstated position.  
+18. **Whataboutism** – **Yes** – Deflects Ellison scrutiny by citing Obama’s past: "But during his 2004 campaign...".  
+
+---
+
+### Verdict – 95% – Detailed Explanation:  
+The text is **highly likely propaganda** due to:  
+1. **Systematic Technique Use**: Employs 14/18 techniques (e.g., loaded language, whataboutism, name-calling) to manipulate perception.  
+2. **Selective Framing**: Presents the Ellison case as a Democratic conspiracy ("lawless party," "Democrat machine") while omitting key facts:  
+   - Courts legally approved unsealing Ryan’s records.  
+   - No evidence links Obama to the unsealing.  
+   - Ellison’s ex-wife opposes the release, calling it politically motivated.  
+3. **Emotional Manipulation**: Uses inflammatory labels ("corrupt," "dirty work") to evoke outrage rather than rational analysis.  
+4. **False Equivalence**: Equates Obama’s 2004 race (opponent resigned over *confirmed* scandal) with Ellison’s (unproven allegations).  
+5. **Omission of Context**: Fails to note divorce records are typically public, framing unsealing as uniquely malicious when legally routine.  
+6. **Source Bias**: Poll repetition and phrases like "conservative group wants to probe" signal right-wing alignment, not neutrality.  
+
+**Conclusion**: The text’s pervasive distortion of facts, reliance on emotional triggers, and deflection tactics align with propaganda objectives—aimed at discrediting Democrats/Ellison rather than informing. The 5% uncertainty reflects the inclusion of factual elements (e.g., Monahan’s allegations, Kim Ellison’s statement), though these are weaponized within a biased narrative.

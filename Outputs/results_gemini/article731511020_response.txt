@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use any insulting labels to attack a person, group, or object. It describes planets and scientific phenomena in a neutral or descriptive manner.
+2. Repetition – No – The text does not repeat the same message over and over to influence the reader. It presents a sequence of information and developments about a scientific observation.
+3. Slogans – No – There are no brief, memorable phrases used to encapsulate an idea in a catchy way.
+4. Appeal to fear – No – The text does not attempt to instill fear in the reader. It is an informative piece about a storm on a distant planet.
+5. Doubt – No – The text does not question the credibility of any person or institution. It reports that a new observation challenges previous scientific models, which is a normal part of the scientific process, not an attack on credibility.
+6. Exaggeration/minimization – No – While it uses strong descriptive words like "colossal" or "massive," these are used to convey the immense scale of astronomical events, which is a common and necessary practice in science communication, not a manipulative exaggeration.
+7. Flag-Waving – No – The text makes no appeal to patriotism or national identity.
+8. Loaded Language – No – The text uses descriptive and sometimes evocative language (e.g., "roars," "dying gasps") to make the scientific topic more engaging, but not to appeal to emotions or stereotypes in a manipulative way.
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups or individuals.
+10. Bandwagon – No – The text does not suggest that an idea is true because it is popular. In fact, it highlights how a new observation is challenging a previously accepted scientific idea.
+11. Causal Oversimplification – No – The text avoids oversimplification by stating explicitly that scientists are unsure about the cause of the storms: “scientists are still at a loss as to how they actually occur.”
+12. Obfuscation, intentional vagueness – No – The text aims to clarify a complex topic for a general audience, not to confuse them with intentionally vague or obscure language.
+13. Appeal to authority – Yes – The text cites the support of authorities as evidence for its claims. This is a standard practice in factual reporting. For example: “‘It looks like we’re capturing the demise of this dark vortex, and it’s different from what well-known studies led us to expect,’ said Michael H. Wong of the University of California at Berkeley says.”
+14. Black & white fallacy – No – The text does not present a false dichotomy of only two choices. It describes how a new discovery is opening up the need for new theories.
+15. Thought-terminating clichés – No – The text does not use any phrases or clichés that are designed to stop critical thought. It encourages thinking about the scientific process.
+16. Red herring – No – The text does not introduce irrelevant material to distract the reader from the main point.
+17. Straw men – No – The text does not refute a mischaracterized or non-existent argument. It addresses a real, existing scientific model and shows how new evidence contradicts it.
+18. Whataboutism – No – The text does not charge any party with hypocrisy.
+
+Verdict – 0% – The text is a piece of science journalism, not propaganda. Its purpose is to inform the public about a new scientific discovery in an engaging way. It lacks any manipulative intent or a persuasive agenda to push a particular ideology. While it uses the "Appeal to authority" technique by quoting scientists and institutions like NASA, this is a legitimate and essential component of credible reporting, as it uses the testimony of relevant experts to support its claims. The use of this technique here is informational, not fallacious. The text is characterized by its informative tone, reliance on evidence, and explanation of the scientific process, all of which are antithetical to the goals of propaganda.

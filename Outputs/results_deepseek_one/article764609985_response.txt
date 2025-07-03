@@ -1,0 +1,26 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – Yes – "immoral FBI philanderers Peter Strzok and Lisa Page" (Insults subjects with morally charged labels).  
+2. **Repetition** – Yes – "Whom do you consider to be the most corrupt Democrat Politician?" repeated 3 times in the poll.  
+3. **Slogans** – No – No brief, memorable phrases used as rallying cries.  
+4. **Appeal to fear** – Yes – "How in the world can we trust them...?" and "We see this kind of corruption all over the world" (Implies systemic untrustworthiness).  
+5. **Doubt** – Yes – Repeatedly questions FBI motives: "he’s not sure that Strzok wasn’t acting in a politically biased manner," "why should we believe these officials could be immune...?"  
+6. **Exaggeration/minimization** – Yes – "This is INSANE" (hyperbolic reaction to team assignments); Minimizes IG's conclusions by emphasizing bias despite "no solid proof."  
+7. **Flag-Waving** – Yes – "harming the agencies reputation with the American people" (Appeals to national pride/institutional trust).  
+8. **Loaded Language** – Yes – "besmirching," "damn," "corruption," "big bad guy," "immoral philanderers" (Emotionally charged terms).  
+9. **Reduction ad Hitlerum** – No – No Nazi/Vichy comparisons.  
+10. **Bandwagon** – No – No appeal to popularity.  
+11. **Causal Oversimplification** – Yes – "he may be the only reason she was never charged" (Reduces complex legal decision to one biased agent).  
+12. **Obfuscation, intentional vagueness** – Yes – "Plus A Whole Lot More!" (headline vagueness); "could reveal new evidence" (speculative).  
+13. **Appeal to authority** – Yes – Relies on Horowitz report/Fox News to validate claims: "Horowitz alleged...", "Fox News obtained...".  
+14. **Black & white fallacy** – Yes – "either biased or not" framing: IG "stops short of blaming it all on politics" but text insists bias was operative.  
+15. **Thought-terminating clichés** – Yes – "This is INSANE" (Shuts down analysis of team assignment logic).  
+16. **Red herring** – Yes – Poll about "most corrupt Democrat" distracts from FBI report analysis.  
+17. **Straw men** – No – No misrepresentation of opposing arguments.  
+18. **Whataboutism** – No – No accusations of hypocrisy targeting individuals/groups.  
+
+---
+
+### Verdict – 65% Propaganda  
+**Explanation:**  
+The text employs **multiple propaganda techniques** (e.g., Name Calling, Loaded Language, Exaggeration) to frame the FBI as institutionally corrupt and politically biased. It selectively highlights aspects of the Horowitz report (e.g., Strzok’s texts) while downplaying its conclusion that no "solid proof" of political bias existed. Emotional language ("besmirching," "INSANE") and insinuations of conspiracy ("7 biased agents," "identical team") manipulate readers toward distrust. The **poll repetition** and **red herring** distract from objective analysis. However, it **retains factual elements** (direct quotes from the report, Strzok’s email) and acknowledges the IG’s lack of conclusive evidence. The blend of verifiable details with manipulative framing creates a persuasive but slanted narrative, warranting a 65% propaganda likelihood.

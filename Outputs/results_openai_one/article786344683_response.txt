@@ -1,0 +1,37 @@
+1. Name calling – No – The text does not use insulting labels to attack an object or subject.
+   
+2. Repetition – No – The text does not repeat the same message over and over.
+
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+
+4. Appeal to fear – Yes – The text suggests that Google was attempting to manipulate the election, which could instill fear about the integrity of the electoral process.
+
+5. Doubt – Yes – The text questions the credibility of Google by suggesting they were trying to influence the election in favor of Hillary Clinton.
+
+6. Exaggeration/minimization – Yes – The text may exaggerate the influence of Google's actions on the election outcome.
+
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+
+8. Loaded Language – Yes – The text uses emotionally charged language, such as "blew the cover off" and "caught red-handed."
+
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+
+11. Causal Oversimplification – Yes – The text suggests a simple cause (Google's actions) for a complex event (the election outcome).
+
+12. Obfuscation, intentional vagueness – No – The text provides specific details and is not deliberately unclear.
+
+13. Appeal to authority – Yes – The text references Dr. Robert Epstein's research to support claims about search engine manipulation.
+
+14. Black & white fallacy – No – The text does not present only two options among many.
+
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought.
+
+16. Red herring – No – The text stays focused on the main topic without introducing irrelevant material.
+
+17. Straw men – No – The text does not refute an argument that was not presented.
+
+18. Whataboutism – Yes – The text suggests hypocrisy by questioning why Google refused to appear before Congress.
+
+Verdict – 70% – The text exhibits several propaganda techniques, including appeal to fear, doubt, exaggeration/minimization, loaded language, causal oversimplification, appeal to authority, and whataboutism. These elements suggest a significant likelihood that the text is intended to influence the audience's perception of Google's role in the 2016 election, potentially serving a propagandistic purpose.

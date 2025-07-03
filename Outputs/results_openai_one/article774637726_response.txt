@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not attack an object/subject with an insulting label.
+2. Repetition – Yes – The phrase "Will Brett Kavanaugh be confirmed to the Supreme Court?" is repeated multiple times.
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+4. Appeal to fear – No – The text does not support an idea by instilling fear against other alternatives.
+5. Doubt – Yes – The text questions the credibility of the media's portrayal of Trump, suggesting it is mystifying.
+6. Exaggeration/minimization – Yes – The text minimizes the significance of Trump's actions with Putin by comparing them to fictional scenarios ("Tom Clancy novels").
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – The use of "Helsinki Hulabaloo" and "riled up" are examples of loaded language to evoke emotions.
+9. Reduction ad Hitlerum – No – The text does not disapprove an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text is not deliberately unclear or obscure.
+13. Appeal to authority – Yes – The text uses Glenn Greenwald's opinion as evidence to support its argument.
+14. Black & white fallacy – Yes – The text presents only two options: Trump being tougher on Russia than Obama, without considering other nuances.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought.
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – Yes – The text charges opponents with hypocrisy by comparing Trump's lack of criticism of Putin to his lack of criticism of other leaders.
+
+Verdict – 70% – The text exhibits several propaganda techniques, including repetition, doubt, exaggeration/minimization, loaded language, appeal to authority, black & white fallacy, and whataboutism. These elements suggest a significant likelihood of the text being propaganda, as it attempts to shape the reader's perception of Trump's actions in comparison to Obama's, while also questioning the media's portrayal of Trump.

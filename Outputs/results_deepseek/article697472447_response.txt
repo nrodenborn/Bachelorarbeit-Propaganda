@@ -1,0 +1,24 @@
+Below is the analysis of the propaganda techniques in the text, followed by the verdict:
+
+1. **Name calling** – No – No insulting labels are applied to Campos, Paddock, or authorities.  
+2. **Repetition** – Yes – "Mystery" is repeated: "source of mystery," "unknown mystery security guard," "remains a mystery."  
+3. **Slogans** – No – No brief, memorable phrases are used (e.g., no equivalents to "Make America Great Again").  
+4. **Appeal to fear** – No – While the text questions the narrative, it does not instill fear against alternatives (e.g., no "If you trust authorities, you will be endangered").  
+5. **Doubt** – Yes – Explicitly questions credibility: "What exactly do they want us to believe?"; "Their own narrative is quickly shattering."  
+6. **Exaggeration/minimization** – Yes – Exaggerates inconsistencies: "constantly changing," "ever-changing narrative," "shattering." Minimizes official explanations (e.g., dismissing timeline revisions as suspicious).  
+7. **Flag-Waving** – No – No appeals to patriotism or group identity.  
+8. **Loaded Language** – Yes – Emotionally charged terms: "infamous security guard," "burning question," "cover[ing] up," "unbelievable," "shattering."  
+9. **Reduction ad Hitlerum** – No – No associations with hated groups (e.g., Nazis, terrorists).  
+10. **Bandwagon** – No – No appeals to popularity (e.g., no "Everyone knows this is suspicious").  
+11. **Causal Oversimplification** – No – No claims that a single simple cause explains the event (e.g., "The cover-up caused the shooting").  
+12. **Obfuscation, intentional vagueness** – No – The text seeks clarity; it does not use vague language to confuse (e.g., specifics like timelines are cited).  
+13. **Appeal to authority** – No – Authorities (police, FBI) are challenged, not cited as evidence.  
+14. **Black & white fallacy** – No – No false dilemmas (e.g., not "Either Campos is a hero or part of the conspiracy").  
+15. **Thought-terminating clichés** – No – No phrases that shut down critical thought (e.g., no "Trust no one").  
+16. **Red herring** – No – All content relates to Campos/timeline inconsistencies; no irrelevant distractions.  
+17. **Straw men** – No – The text refutes actual claims (e.g., the revised timeline), not misrepresented ones.  
+18. **Whataboutism** – No – No accusations of hypocrisy (e.g., no "Why investigate this but not other shootings?").  
+
+---
+
+**Verdict – 85% –** The text exhibits strong propagandistic elements, primarily through **doubt**, **loaded language**, and **exaggeration** to frame the official narrative as unreliable. It selectively emphasizes inconsistencies (e.g., Campos’s unregistered status, photo absence, timeline changes) while using emotionally charged terms like "infamous," "cover up," and "shattering" to imply deception. Repetition of "mystery" reinforces suspicion without providing counter-evidence. Though it cites factual details (e.g., the GoFundMe, sheriff’s statements), its tone and framing are designed to discredit authorities and manipulate readers into questioning the event’s legitimacy. The lack of concrete evidence for a "cover-up" and reliance on rhetorical questions (e.g., "What exactly do they want us to believe?") further align it with propaganda aimed at seeding distrust rather than informing.

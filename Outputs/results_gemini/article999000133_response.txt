@@ -1,0 +1,24 @@
+1. Name calling – Yes – The text labels Don Lemon as "Lying" in the title and accuses CNN of "spewing more fake news."
+2. Repetition – Yes – The poll question "Should military force be used to stop the caravan of migrants marching toward the U.S. border?" is repeated three times consecutively.
+3. Slogans – Yes – The text uses the well-known and brief phrase "fake news" to dismiss CNN's reporting.
+4. Appeal to fear – Yes – The poll about the "caravan of migrants marching toward the U.S. border" is an appeal to fear, framing the migrants as a threat that might require "military force."
+5. Doubt – Yes – The entire article is designed to cast doubt on Don Lemon's credibility, with the title stating "Don Lemon Is Lying... Again" and rhetorical questions like "Is Don Lemon colorblind?".
+6. Exaggeration/minimization – Yes – The text minimizes the complex concept of "terror threat" by reducing it to a single, small list (the FBI's "Most Wanted Domestic Terrorists"), ignoring other data or definitions of terrorism.
+7. Flag-Waving – No – The text does not directly appeal to patriotism or national identity to make its point.
+8. Loaded Language – Yes – The text uses emotionally charged words like "absurdity" and "spewing more fake news" to evoke negative feelings toward Don Lemon and CNN.
+9. Reduction ad Hitlerum – No – The text does not suggest that Don Lemon's idea is popular with hated groups like Nazis.
+10. Bandwagon – No – The text does not argue that its position is correct because it is popular.
+11. Causal Oversimplification – Yes – The article simplifies the complex issue of domestic terrorism by suggesting that the FBI's "Most Wanted" list is the sole and definitive measure of the "biggest terror threat," ignoring factors like the number of incidents, casualties, or foiled plots.
+12. Obfuscation, intentional vagueness – No – The text's argument, while flawed, is presented directly and is not deliberately unclear or obscure.
+13. Appeal to authority – Yes – The text uses the FBI and its "Most Wanted Domestic Terrorists" list as an authoritative source to refute Don Lemon's claim, stating "Go to https://www.fbi.gov/wanted/terrorism and see for yourself."
+14. Black & white fallacy – Yes – The poll presents only two choices for a complex issue: "Yes, military force should be used" or "No, keep the military out of it," ignoring any nuanced positions in between.
+15. Thought-terminating clichés – Yes – The phrase "it’s just CNN doing what CNN does… spewing more fake news" is used to dismiss the source outright, discouraging any further critical thought about CNN's reporting.
+16. Red herring – Yes – The text introduces a poll about using military force against a "caravan of migrants," which is completely irrelevant to the central argument about Don Lemon's comments and the FBI's terrorist list.
+17. Straw men – Yes – The text refutes Don Lemon's claim about the "biggest terror threat" by using a single, narrow data point (the FBI's "Most Wanted" list of fugitives), which is likely not the basis for Lemon's original, broader statement. This reframes Lemon's argument into one that is easier to attack.
+18. Whataboutism – No – The text does not deflect criticism by accusing Don Lemon or CNN of hypocrisy on another issue.
+
+Verdict – 95% – The text is a clear and strong example of propaganda. Its primary goal is not to inform but to persuade the reader by discrediting a person (Don Lemon) and a media organization (CNN). It achieves this by employing a multitude of propaganda techniques.
+
+The article's entire premise is a **Straw Man** argument combined with **Causal Oversimplification**; it misrepresents the complex issue of domestic terrorism by reducing it to a single FBI list of fugitives, which is not a comprehensive measure of terrorist threats. It heavily relies on **Name Calling** ("Lying," "fake news") and **Loaded Language** ("absurdity," "spewing") to create an emotional bias against its target from the outset.
+
+Furthermore, the inclusion of the poll about the migrant caravan is a blatant **Red Herring**, designed to distract and inflame the reader on an unrelated issue, using an **Appeal to Fear**. The poll itself is a **Black & White Fallacy** and is used with **Repetition**. The use of the FBI website is a flawed **Appeal to Authority**, as the data is presented without proper context. Finally, the piece uses **Thought-Terminating Clichés** like "just CNN doing what CNN does" to shut down critical thinking. The combination of these techniques demonstrates a clear intent to manipulate the audience's opinion rather than engage in an honest debate.

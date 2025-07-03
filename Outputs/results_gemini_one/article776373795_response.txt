@@ -1,0 +1,39 @@
+1. Name calling – Yes – The text quotes Donald Trump using insulting labels for the investigation and the people involved, such as calling the probe a “Rigged Witch Hunt” and Robert Mueller’s team “17 Angry Democrats that are doing his dirty work are a disgrace to USA!”
+
+2. Repetition – Yes – The text reports on the repetitive nature of the attacks, stating, “The tweet, along with several others Wednesday morning, accelerated the president’s attacks on the investigation” and notes that “For months, Trump’s lawyers also have argued that it’s impossible for the president to obstruct justice.”
+
+3. Slogans – Yes – The text quotes Donald Trump repeatedly using the brief and memorable phrase “Rigged Witch Hunt.”
+
+4. Appeal to fear – No – The text does not contain examples of supporting an idea by instilling fear against alternatives.
+
+5. Doubt – Yes – The text quotes Donald Trump questioning the credibility of the investigation by stating, “Bob Mueller is totally conflicted,” and asking, “Where is the Russian Collusion?”
+
+6. Exaggeration/minimization – Yes – The text contains both. It reports that Trump used exaggeration by suggesting Paul Manafort “was being treated worse than Al Capone.” It also reports that his lawyer, Rudolph W. Giuliani, used minimization by “brushing off suggestions that Trump’s tweets could be used as evidence of obstruction” and stating they “don’t amount to anything.”
+
+7. Flag-Waving – Yes – The text quotes Donald Trump making an appeal to patriotism by calling the investigators a “disgrace to USA!” and claiming the investigation could “stain our country any further.”
+
+8. Loaded Language – Yes – The text quotes Donald Trump using emotionally charged words to describe the investigation, such as “Rigged Witch Hunt” and “dirty work.”
+
+9. Reduction ad Hitlerum – No – The text does not contain any comparisons to Hitler or the Nazis.
+
+10. Bandwagon – No – The text does not contain any appeals to the popularity of an idea as a reason for its acceptance.
+
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event; in fact, it explores multiple legal and political complexities.
+
+12. Obfuscation, intentional vagueness – Yes – The text reports on Rudolph Giuliani’s attempt to create vagueness around the president’s intent by highlighting the difference between a word choice: “He said ‘should,’ not ‘must,’ and no presidential order was issued or will be.”
+
+13. Appeal to authority – Yes – The text reports that “Trump also quoted criticism of the investigation from Alan Dershowitz, a Harvard Law School professor.” The article itself also uses this technique by quoting multiple legal experts to support its analysis.
+
+14. Black & white fallacy – No – The text does not present only two options. Instead, it presents multiple perspectives from various figures like Trump, Giuliani, Schiff, Dershowitz, and Vladeck.
+
+15. Thought-terminating clichés – No – The text does not contain phrases intended to discourage critical thought.
+
+16. Red herring – Yes – The text quotes Donald Trump introducing an irrelevant point to distract from the topic of obstruction by tweeting, “Where is the Russian Collusion?” This shifts focus from the obstruction investigation back to the original collusion investigation.
+
+17. Straw men – No – The text does not contain examples of an argument being refuted that was not originally presented.
+
+18. Whataboutism – No – The text does not contain any examples of charging an opponent with hypocrisy.
+
+***
+
+Verdict – 10% – The text itself is a news report, not a piece of propaganda. Its primary purpose is to inform the public about an event, specifically President Trump's tweets and the subsequent political and legal reactions. The article demonstrates journalistic integrity by attributing its information to specific sources, quoting individuals directly, and presenting multiple, often conflicting, viewpoints (from Trump, his lawyer, a political opponent, and various legal scholars). While the text is filled with examples of propaganda techniques, these techniques are being used by the subjects of the report (primarily Donald Trump and his lawyer) and are being reported on by the newspaper. The article itself does not adopt these techniques to push an agenda; rather, it documents their use by others. The low 10% likelihood acknowledges that any news story has an inherent frame and potential for bias, but this text largely adheres to journalistic standards of balance and objectivity, which are contrary to the goals of propaganda.

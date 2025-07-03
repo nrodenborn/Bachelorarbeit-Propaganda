@@ -1,0 +1,28 @@
+Here is the analysis of propaganda techniques in the text, followed by the verdict:
+
+1. **Name calling** – Yes – "witch hunt" (Trump's description of the probe).  
+2. **Repetition** – No – No single message is repeated excessively.  
+3. **Slogans** – Yes – "Let people see it" (Trump’s phrase).  
+4. **Appeal to fear** – No – No fear-based persuasion against alternatives.  
+5. **Doubt** – Yes – Alan Dershowitz questions the report’s credibility, calling it "a prosecutorial document presenting only one side" and urging the public to "withhold final judgment."  
+6. **Exaggeration/minimization** – Yes – Rep. Meadows minimizes the investigation’s scope by emphasizing "without ONE collusion related indictment. Not even one."  
+7. **Flag-Waving** – No – No overt appeals to patriotism or identity.  
+8. **Loaded Language** – Yes – "Witch hunt" (insinuates unjust persecution); "sneak preview" (Pelosi/Schumer’s negative framing of White House access).  
+9. **Reduction ad Hitlerum** – No – No associations with hated groups.  
+10. **Bandwagon** – No – No appeals to popularity.  
+11. **Causal Oversimplification** – No – No oversimplified causes for complex events.  
+12. **Obfuscation, intentional vagueness** – No – No deliberately unclear expressions.  
+13. **Appeal to authority** – Yes – Citing Harvard professor Alan Dershowitz to cast doubt on the report.  
+14. **Black & white fallacy** – No – No false dichotomies presented.  
+15. **Thought-terminating clichés** – Yes – "The American people have a right to the truth" (Pelosi/Schumer) shuts down debate by framing transparency as self-evident.  
+16. **Red herring** – No – No irrelevant distractions introduced.  
+17. **Straw men** – No – No misrepresentation of arguments.  
+18. **Whataboutism** – No – No accusations of hypocrisy.  
+
+---
+
+**Verdict – 15%** – The text is primarily factual reporting, summarizing events and statements from key figures (e.g., Mueller, Barr, Trump, Pelosi). Propaganda techniques are present but **limited to attributed quotes** (e.g., Trump’s "witch hunt," Meadows’ minimization, Dershowitz’s doubt). The article itself does not employ these techniques editorially; it neutrally relays conflicting perspectives. The 15% likelihood reflects minor embedded propaganda in sourced statements, but the core structure is informational, not persuasive. Key indicators:  
+- Neutral framing of milestones (e.g., "report delivered," "no further indictments").  
+- Balanced inclusion of opposing views (Democratic calls for transparency vs. Republican dismissal of collusion).  
+- Absence of emotional language or overt persuasion in the reporter’s narrative.  
+The low percentage acknowledges that quoted actors use propaganda, but the text as a whole reports rather than manipulates.

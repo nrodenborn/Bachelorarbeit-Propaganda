@@ -1,0 +1,37 @@
+Name calling – Yes – The text uses insulting labels to attack the subject, referring to him and others in his situation as “foreign fugitives” and a “threat to public safety.”
+
+Repetition – No – The text does not repeat the same message or phrase multiple times.
+
+Slogans – No – The text does not use a brief, memorable phrase to promote an idea.
+
+Appeal to fear – Yes – The text instills fear by framing the deported man as a “threat to public safety” who is wanted for “killing a store owner” and “assassination,” implying that not removing him would endanger the public.
+
+Doubt – No – The text does not question the credibility of any person or organization.
+
+Exaggeration/minimization – Yes – The text uses the word “assassination” to describe the killing of a store owner. While attributed to Guatemalan law, this is a more severe and politically charged term than murder, exaggerating the nature of the crime to an English-speaking audience.
+
+Flag-Waving – No – The text does not make an appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged phrases like “foreign fugitives” and “threat to public safety” to create a negative emotional response towards the individual and justify the actions taken against him.
+
+Reduction ad Hitlerum – No – The text does not compare any idea or person to hated groups like the Nazis.
+
+Bandwagon – Yes – The text appeals to the idea of popularity and scale by stating, “Since Oct. 1, 2009, ERO has removed more than 1,700 foreign fugitives” and “In fiscal year 2016, ICE conducted 240,255 removals nationwide.” This suggests the action is a normal, large-scale, and therefore correct activity.
+
+Causal Oversimplification – No – The text does not attempt to explain a complex event with a single, simple cause.
+
+Obfuscation, intentional vagueness – Yes – The statistic “Ninety-two percent of individuals removed from the interior of the United States had previously been convicted of a criminal offense” is intentionally vague. By specifying “from the interior,” it obscures the full picture of all removals (e.g., those at the border) and distracts from the 8% who had no criminal conviction, creating a more favorable impression of ICE's activities than the complete data might support.
+
+Appeal to authority – Yes – The text uses quotes from “Ricardo Wong, field office director for ERO Chicago” and references the decisions of a “federal immigration judge” and information from “Guatemalan authorities” to present its actions as legitimate and justified.
+
+Black & white fallacy – No – The text does not present only two options to the audience.
+
+Thought-terminating clichés – No – The text does not use phrases intended to discourage critical thought.
+
+Red herring – No – The text does not introduce irrelevant material to distract from the main point.
+
+Straw men – No – The text does not misrepresent or refute an opposing argument.
+
+Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 85% – The text is highly likely to be propaganda, specifically a public relations piece written to appear as objective news. While the facts of this single case may be accurate, the article employs numerous propaganda techniques to frame the actions of ICE in the most positive light possible. It achieves this by carefully selecting an unsympathetic subject (a man wanted for a violent crime), using loaded language ("assassination," "foreign fugitive," "threat to public safety") to evoke fear and justify the deportation, and appealing to the authority of ICE officials and the judiciary. Furthermore, it uses large statistics and intentionally vague framing ("92 percent of individuals removed from the interior") to create a bandwagon effect, suggesting that its work is both vast and focused solely on dangerous criminals. The purpose is not just to report on one man's deportation, but to use this single, clear-cut case to persuade the audience of the necessity and righteousness of ICE's broader mission, thus discouraging criticism of its more controversial actions.

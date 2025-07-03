@@ -1,0 +1,22 @@
+1. Name calling – Yes – The headline, "How Many Child Rapists Did a Sanctuary City Mayor Tip Off?" attacks the mayor by implicitly labeling her as someone who helps "child rapists."
+2. Repetition – No – The text is too short to use repetition effectively; no specific message is repeated over and over.
+3. Slogans – No – The text does not use any brief, memorable phrases that could be considered slogans.
+4. Appeal to fear – Yes – The text explicitly states, "The price of a sanctuary city for illegal aliens is paid in abused children," directly linking the policy to a fearful outcome.
+5. Doubt – Yes – The headline is a rhetorical question, "How Many Child Rapists Did a Sanctuary City Mayor Tip Off?", designed to cast doubt on the mayor's character and her stated motives of ensuring "public safety."
+6. Exaggeration/minimization – Yes – The headline exaggerates the situation by focusing solely on "child rapists," when the provided statistics mention a range of "serious or violent offenses." It minimizes the mayor's stated reason for her actions (preventing fear and panic).
+7. Flag-Waving – No – The text does not make a direct appeal to patriotism or national identity.
+8. Loaded Language – Yes – The text uses emotionally charged phrases like "abused children," "child rapists," and "illegal aliens" to evoke a strong emotional response rather than a rational one.
+9. Reduction ad Hitlerum – No – The text does not compare the mayor or her ideas to any groups widely hated by the audience, such as Nazis.
+10. Bandwagon – No – The text does not suggest that its viewpoint is popular or that the reader should agree because many others do.
+11. Causal Oversimplification – Yes – The statement, "The price of a sanctuary city for illegal aliens is paid in abused children," presents a simple and direct cause (sanctuary city policy) for a highly complex issue (crime and child abuse).
+12. Obfuscation, intentional vagueness – Yes – The headline asks "How many...?" which is a vague and unanswerable question meant to implant a suggestion rather than provide information. The text also lumps various crimes together to maximize emotional impact.
+13. Appeal to authority – No – While it cites ICE officials, it uses their data to build its own argument rather than simply stating that an authority figure's opinion is fact.
+14. Black & white fallacy – Yes – The text frames the issue as a simple choice between supporting sanctuary cities (and thus, endangering children) and opposing them (and ensuring safety), ignoring any nuance or alternative perspectives.
+15. Thought-terminating clichés – No – The text does not use common clichés to shut down debate.
+16. Red herring – No – The text stays focused on the central topic of the mayor's actions and the ICE raid; it does not introduce irrelevant material to distract.
+17. Straw men – Yes – The text refutes the mayor's action by framing it as "tipping off child rapists," which is a misrepresentation of her stated argument that she acted to "protect public safety" and prevent "fear or panic."
+18. Whataboutism – No – The text does not accuse the mayor of hypocrisy by pointing to another unrelated issue.
+
+***
+
+Verdict – 95% – The text is overwhelmingly propaganda. While it presents factual data (the number of arrests from an ICE report), its primary purpose is not to inform but to persuade through emotional manipulation. It employs a high concentration of propaganda techniques in a very short space. The headline alone uses name-calling, appeal to fear, doubt, and exaggeration to frame the entire article before the reader even begins. The piece relies heavily on loaded language ("child rapists," "abused children") and causal oversimplification ("The price of a sanctuary city... is paid in abused children") to create a strong emotional connection between a political policy and a terrifying outcome. It presents a black & white fallacy, forcing a choice between the mayor's policy and the safety of children, while simultaneously building a straw man of her motives. The cumulative effect of these techniques is to bypass rational analysis and provoke an emotional, fear-based response in the audience, which is a core function of propaganda.

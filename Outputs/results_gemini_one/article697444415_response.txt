@@ -1,0 +1,39 @@
+Name calling – No – The text does not use insulting labels to attack a subject. Phrases like "pigs sitting in a corral" are quotes from a victim describing his own situation, not an attack by the author.
+
+Repetition – Yes – The text repeatedly pushes the idea of multiple shooters and a cover-up. Examples include: "presence of multiple shooters," "various other reports indicating that multiple shooters carried out the attack," and "I definitely do believe that there was 100% more than one shooter."
+
+Slogans – No – The text does not use brief, memorable phrases as slogans.
+
+Appeal to fear – Yes – The text creates fear and distrust around the official narrative by suggesting a deadly conspiracy where exits were deliberately blocked and authorities are covering it up. Example: "we were pigs sitting in a corral. We only had one exit to go out of."
+
+Doubt – Yes – The entire purpose of the article is to cast doubt on the official investigation. Example: "This stunning testimony is obviously a huge bombshell... and is sure to continue to add credence to the growing belief that we are not being told what actually happened that fateful night."
+
+Exaggeration/minimization – Yes – The text uses exaggeration to add weight to its claims. Example: The victim's quote, "I definitely do believe that there was 100% more than one shooter," uses "100%" for dramatic effect rather than as a literal statistic.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words to influence the reader. Examples include: "horrific attack," "frantic civilians," "shocking comments," "stunning testimony," and "huge bombshell."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+
+Bandwagon – Yes – The text suggests that the belief in a conspiracy is popular and growing, encouraging the reader to join in. Example: "...the growing belief that we are not being told what actually happened that fateful night."
+
+Causal Oversimplification – No – The text does not propose a simple cause for a complex event; rather, it argues for a more complex cause (a conspiracy) than the official one.
+
+Obfuscation, intentional vagueness – Yes – The text makes vague claims to imply broad support without providing specific evidence. Example: "...correlate with various other reports indicating that multiple shooters carried out the attack..." without citing these reports.
+
+Appeal to authority – No – The text appeals to an eyewitness (a victim), not a figure of authority or an expert. In fact, it argues against the official authorities (like the FBI).
+
+Black & white fallacy – Yes – The text frames the situation as a choice between only two options: the official story (which it portrays as a lie) and the conspiracy theory (which it portrays as the truth), ignoring other possibilities. Example: The entire narrative structure pits the "stunning testimony" of a victim against an implied official cover-up.
+
+Thought-terminating clichés – No – The text does not use phrases that are meant to shut down critical thought.
+
+Red herring – No – The text stays focused on its central argument and does not introduce irrelevant topics to distract the reader.
+
+Straw men – No – The text does not misrepresent or create a weaker version of the official argument to attack it.
+
+Whataboutism – No – The text does not attempt to charge any opponent with hypocrisy.
+
+***
+
+Verdict – 95% – The text is highly likely to be propaganda. It is not a neutral piece of journalism but a persuasive article constructed to promote a specific conspiracy theory. It heavily employs numerous propaganda techniques to achieve this goal. The article uses **Loaded Language** ("horrific," "shocking," "bombshell") and **Appeal to Fear** (being trapped like "pigs in a corral") to create an emotional and dramatic narrative. It systematically instills **Doubt** about the official account and uses the **Bandwagon** fallacy ("growing belief," "various other reports") to suggest its alternative theory is widely accepted. The core message is amplified through **Repetition**, and the entire argument is framed as a **Black & White Fallacy**: either you believe the official "lie" or the victim's "truth." The purpose is not to present facts objectively but to persuade the reader to reject the official narrative and accept a specific, unsubstantiated alternative.

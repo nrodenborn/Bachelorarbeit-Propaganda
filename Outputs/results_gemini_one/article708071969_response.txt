@@ -1,0 +1,37 @@
+Name calling – No – The text does not attack a person or group with an insulting label. The term "Black Death" is a historical name for the plague, and while it is alarming, it is not used here to label and insult a specific contemporary group or individual.
+
+Repetition – Yes – The text repeatedly emphasizes the idea that the plague could spread and become uncontrollable. It first mentions that "incidents have prompted fears that the plague could spread even further," and later reinforces this by stating that if it spreads to the African mainland, "it will be all but impossible to control, thus increasing the likelihood of global pandemic."
+
+Slogans – No – The text does not use any brief, memorable phrases as a rallying cry or for easy recall.
+
+Appeal to fear – Yes – The text is built around instilling fear. Examples include the headline "Shock: Black Death Patients Are ESCAPING", and phrases like "plague could spread even further", "making this disease much more terrifying", "the disease will have control of the nation", and the ultimate fear of a "global pandemic".
+
+Doubt – No – The text does not question the credibility of a person or source. Instead, it cites sources to build its own credibility.
+
+Exaggeration/minimization – Yes – The text exaggerates the certainty of a worst-case scenario. For example: "Officials warn that it’s inevitable that this bacterial infection... will become resistant to antibiotics." and "Once the bacteria is resistant, the Madagascar healthcare system will be overwhelmed, and the disease will have control of the nation." These are presented as certainties rather than possibilities.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words to influence the reader's reaction. Examples include "Shock", "ESCAPING" (in all caps), "forcefully keeping", and "terrifying". Using the term "Black Death" instead of the more clinical "pneumonic plague" is also a form of loaded language due to its historical connotations of widespread death.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+
+Bandwagon – No – The text does not suggest that an idea is true or should be adopted because it is popular.
+
+Causal Oversimplification – No – While the text presents a simple reason for patients escaping ("scared of needles"), it attributes this reason to an official, rather than presenting it as its own definitive analysis of a complex situation. It does not oversimplify the cause of a past event.
+
+Obfuscation, intentional vagueness – No – The text is not intentionally vague; its purpose is to be clear in its alarming message. It cites specific sources and makes direct, though exaggerated, claims.
+
+Appeal to authority – Yes – The text cites several sources to support its claims, including "The Sun newspaper", "Jean Benoit Manhes, the deputy representative of Unicef", and "Mac Slavo... for SHTFplan".
+
+Black & white fallacy – Yes – The text presents a stark choice with no middle ground regarding the future of the plague: "Once the bacteria is resistant, the Madagascar healthcare system will be overwhelmed, and the disease will have control of the nation." This presents an all-or-nothing outcome.
+
+Thought-terminating clichés – No – The text does not use any phrases designed to shut down critical thought.
+
+Red herring – No – The text does not introduce irrelevant topics to distract the reader. The discussion of burial traditions is relevant to the spread of the disease.
+
+Straw men – No – The text does not misrepresent or refute an argument that was not being made. It focuses on building its own narrative.
+
+Whataboutism – No – The text does not accuse any party of hypocrisy.
+
+Verdict – 90% – The text is highly likely to be propaganda. Its primary purpose is not to inform objectively, but to provoke a strong emotional response of fear and shock in the reader. This is achieved through a combination of powerful propaganda techniques. The article leads with a sensationalist headline using "Shock" and all-caps "ESCAPING". It consistently employs an Appeal to Fear by focusing on worst-case scenarios like an "impossible to control" "global pandemic". It uses Loaded Language ("Black Death," "terrifying") to heighten the emotional impact. It also uses Exaggeration by presenting possibilities, like antibiotic resistance, as "inevitable" certainties, and creates a Black & White Fallacy where the only outcome is total disaster. Finally, it uses an Appeal to Authority by mixing a legitimate source (Unicef) with a non-mainstream survivalist blog (SHTFplan) to give its alarmist narrative a veneer of credibility. The cumulative effect of these techniques is a piece designed to manipulate the reader's emotions rather than to present a balanced and factual report.

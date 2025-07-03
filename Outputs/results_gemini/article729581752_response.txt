@@ -1,0 +1,24 @@
+1. Name calling – No – The text does not use any insulting labels to attack a person, group, or idea.
+2. Repetition – No – The text explains a concept but does not repeat the same message or phrase in a manipulative way.
+3. Slogans – No – There are no brief, memorable phrases used to push an agenda.
+4. Appeal to fear – No – The text actively works against fear, starting with the headline "scientists aren’t worried" and clarifying the event will have little effect on the overall global warming trend.
+5. Doubt – No – The text does not question the credibility of any person or group; it presents the scientific findings as credible.
+6. Exaggeration/minimization – No – While the text describes the grand minimum as an "exaggerated version of the typical solar minimum," it is quoting the scientific description of the event, not using exaggeration as a rhetorical technique itself. It also minimizes the effect on global warming, but this is presented as the conclusion of the researchers, not a manipulative tactic.
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity.
+8. Loaded Language – No – The language used is objective and scientific, not emotionally charged or reliant on stereotypes.
+9. Reduction ad Hitlerum – No – The text does not associate any idea with a hated group.
+10. Bandwagon – No – The text appeals to scientific evidence and authority, not to the popularity of an idea.
+11. Causal Oversimplification – No – The text avoids this by explaining that while a past event (Maunder Minimum) had dramatic effects, this future event will not simply reverse the complex trend of global warming.
+12. Obfuscation, intentional vagueness – No – The text aims for clarity by defining terms and explaining concepts. It acknowledges uncertainty ("forecasting specific differences has proven difficult") which is a sign of honest reporting, not obfuscation.
+13. Appeal to authority – Yes – The text bases its claims on the credibility of scientific experts and institutions. Example: "The study, which was published in Astrophysical Journal Letters, was carried out by a team led by physicist Dan Lubin of the University of California, San Diego."
+14. Black & white fallacy – No – The text does not present only two choices; it describes a complex situation with nuanced effects.
+15. Thought-terminating clichés – No – The text does not use any phrases designed to shut down critical thought.
+16. Red herring – No – All information presented, such as the Maunder Minimum and global warming, is relevant to providing context for the main topic.
+17. Straw men – No – The text does not refute a misrepresented argument. It actually anticipates a potential real-world misinterpretation (that a cooling sun disproves global warming) and corrects it.
+18. Whataboutism – No – The text does not accuse any opponent of hypocrisy.
+
+Verdict – 5% – This text is overwhelmingly a piece of science journalism, not propaganda. Its primary purpose is to inform the public about a scientific finding in a balanced and responsible manner.
+
+The only propaganda technique present is "Appeal to authority," but its use here is not fallacious or manipulative. In science reporting, citing peer-reviewed studies, researchers, and academic institutions is the standard for establishing credibility and is considered a legitimate appeal to expertise. This is fundamentally different from using an irrelevant authority or an authority figure to promote an unrelated agenda.
+
+The text actively works against common propaganda tactics. Instead of creating fear, it reassures the reader. Instead of oversimplifying a cause, it adds necessary complexity by contextualizing the event within the larger trend of global warming. This pre-emptive clarification on the global warming issue demonstrates a commitment to accuracy over persuasion, which is the opposite of propaganda's goal.

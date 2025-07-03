@@ -1,0 +1,37 @@
+Name calling – No – The text reports on Bill Clinton's statements and does not use insulting labels to attack him, Monica Lewinsky, or Donald Trump.
+
+Repetition – Yes – "I think I did the right thing. I defended the Constitution.” The phrase "I did the right thing" is used as a central, repeated justification for his actions.
+
+Slogans – No – While "I did the right thing" is a memorable phrase, it functions more as a personal justification or a thought-terminating cliché in this context rather than a rallying slogan for a group.
+
+Appeal to fear – No – The text does not contain any statements that attempt to instill fear in the audience about alternative ideas or outcomes.
+
+Doubt – Yes – "A lot of the facts have been conveniently omitted to make the story work..." This statement directly questions the credibility of the prevailing narrative about the scandal.
+
+Exaggeration/minimization – Yes – "I defended the Constitution.” Clinton minimizes the personal nature of the scandal and his impeachment by exaggerating his actions into a noble defense of the U.S. Constitution.
+
+Flag-Waving – Yes – "I defended the Constitution.” This is a direct appeal to patriotism and civic principles to justify his actions.
+
+Loaded Language – Yes – "...he had “sinned.”" The use of the word "sinned," especially in the context of the National Prayer Breakfast, is emotionally charged and appeals to religious and moral sentiments.
+
+Reduction ad Hitlerum – No – There are no comparisons made to Nazis or other groups widely hated by the audience.
+
+Bandwagon – No – The text does not suggest that an idea is correct because it is popular or that the audience should agree with the majority.
+
+Causal Oversimplification – Yes – "...they’re frustrated that they got all these serious allegations against the current occupant of the Oval Office and his voters don’t seem to care,” Clinton said..." He simplifies the complex reasons for renewed interest in his scandal (such as the #MeToo movement) to a single cause: public frustration with Donald Trump.
+
+Obfuscation, intentional vagueness – Yes – "The apology was public.” This is a vague statement used to avoid directly answering whether he owed Lewinsky a personal apology, blurring the line between a public expression of regret and a direct, personal amends.
+
+Appeal to authority – Yes – "I defended the Constitution.” Clinton appeals to the ultimate legal and civic authority in the United States to validate his actions.
+
+Black & white fallacy – Yes – By stating, "I think I did the right thing. I defended the Constitution," Clinton presents the situation as a binary choice: his actions were either wrong, or they were a righteous defense of the Constitution, ignoring any middle ground or nuance.
+
+Thought-terminating clichés – Yes – "I did the right thing." This phrase is used to shut down further critical thought or discussion about the morality and consequences of his actions, presenting his position as a settled and unassailable fact.
+
+Red herring – Yes – "...they’re frustrated that they got all these serious allegations against the current occupant of the Oval Office and his voters don’t seem to care,” Clinton said..." When questioned about his own past conduct, Clinton introduces the irrelevant topic of allegations against Donald Trump to distract from the issue at hand.
+
+Straw men – No – The text does not show Clinton refuting a mischaracterized or non-existent argument. He primarily deflects and justifies his own position.
+
+Whataboutism – Yes – "Clinton said, pointing to a series of sexual misconduct allegations against current President Donald Trump..." In response to scrutiny of his own past, Clinton deflects by pointing to similar or worse allegations against an opponent, which is the definition of whataboutism.
+
+Verdict – 80% – The text is a news report, but it primarily serves as a platform for Bill Clinton's statements, which are heavily laden with propaganda techniques. While the article itself adopts a neutral, journalistic tone and includes a brief counter-narrative from Monica Lewinsky, the vast majority of the text consists of direct quotes from Clinton that are designed to manipulate public perception of his past actions. He employs a wide array of techniques, most notably Whataboutism and Red Herring (by bringing up Donald Trump), Flag-Waving ("I defended the Constitution"), Causal Oversimplification, and Thought-terminating clichés ("I did the right thing"). Because the text's main substance is the dissemination of these manipulative and self-serving arguments, it functions largely as a vehicle for propaganda, even if it is not authored with propagandistic intent itself. The inclusion of Lewinsky's perspective prevents it from being entirely one-sided, but the piece is dominated by Clinton's strategic narrative control.

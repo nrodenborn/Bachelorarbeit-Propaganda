@@ -1,0 +1,34 @@
+### Analysis of Propaganda Techniques in "The Coming Coup"
+
+1. **Name calling** – **Yes** – "presstitutes" (used to label media as corrupt prostitutes).  
+2. **Repetition** – **Yes** – "military/security complex" repeated 10 times to reinforce the central villain.  
+3. **Slogans** – **No** – No brief, memorable phrases (e.g., "Make America Great Again"); only descriptive labels.  
+4. **Appeal to fear** – **Yes** – Warnings of nuclear war, dystopia, and retribution against "deplorables" instill fear.  
+5. **Doubt** – **Yes** – Questions credibility of media, politicians, and institutions (e.g., "Not on the print and TV media or NPR").  
+6. **Exaggeration/minimization** – **Yes** – Exaggerates the omnipotence of the "military/security complex" (e.g., orchestrates coups, assassinations, hoaxes). Minimizes Trump’s agency (e.g., "set-up as a treasonous enemy").  
+7. **Flag-Waving** – **No** – No overt appeals to patriotism or national identity; criticizes U.S. institutions instead.  
+8. **Loaded Language** – **Yes** – Emotionally charged terms: "treason," "sedition," "hoax," "presstitutes," "dystopia," "assassinated."  
+9. **Reduction ad Hitlerum** – **No** – No comparisons to Hitler/Nazis; focuses on a vague "complex."  
+10. **Bandwagon** – **No** – No emphasis on popular support; instead, highlights isolation (e.g., "Who can Trump rely on? Not on...").  
+11. **Causal Oversimplification** – **Yes** – Attributes all events (Russiagate, JFK assassination, Watergate) solely to the "military/security complex."  
+12. **Obfuscation** – **No** – Language is direct and hyperbolic, not deliberately vague.  
+13. **Appeal to authority** – **Yes** – Cites Eisenhower’s warning and Finian Cunningham as validation.  
+14. **Black & white fallacy** – **Yes** – Presents extreme binaries: e.g., "war or surrender" for Russia; Trump’s removal leading to "complete dystopia."  
+15. **Thought-terminating clichés** – **No** – No phrases like "end of discussion"; invites reflection via examples.  
+16. **Red herring** – **No** – Focus remains on the "complex" conspiracy; no irrelevant tangents.  
+17. **Straw men** – **No** – Refutes actual claims (e.g., accusations of treason) rather than invented ones.  
+18. **Whataboutism** – **No** – No accusations of hypocrisy; focuses on a singular narrative.  
+
+---
+
+### Verdict – 95% – Detailed Explanation  
+The text is **highly likely propaganda** due to:  
+1. **Systematic Use of Techniques**: Employs 10/18 analyzed techniques (e.g., repetition, loaded language, fear appeals, oversimplification). These dominate the text, framing a conspiratorial worldview.  
+2. **Emotional Manipulation**: Relies on inflammatory language ("treason," "sedition," "presstitutes") and fear (nuclear war, dystopia) to provoke outrage, bypassing evidence-based argumentation.  
+3. **Lack of Verifiable Evidence**: Asserts claims (e.g., the "complex" orchestrating Russiagate/JFK assassination) without proof, treating them as self-evident truths.  
+4. **Binary Narrative**: Reduces geopolitics to a struggle between a monolithic "military/security complex" and isolated heroes (Trump, "deplorables"). Complex events (e.g., Watergate) are oversimplified into a single-cause theory.  
+5. **Conspiracy Framework**: Positions an all-powerful, shadowy entity (the "complex") as the root of all problems, dismissing institutional checks, historical nuance, or alternative explanations.  
+6. **Intent to Persuade**: Aims to delegitimize U.S. institutions/media while valorizing Trump and Russia, aligning with ideological persuasion rather than balanced analysis.  
+
+**Why not 100%?**  
+The text references factual elements (e.g., Eisenhower’s warning) but weaponizes them for a partisan narrative. Its persuasive intent and manipulative techniques overwhelmingly dominate, leaving minimal room for neutral discourse.

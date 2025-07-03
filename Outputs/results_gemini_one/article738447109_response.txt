@@ -1,0 +1,26 @@
+1. Name calling – Yes – The text refers to Mike Pompeo’s past statements as “un-American comments” and quotes Glenn Greenwald calling Gina Haspel an “actual torturer.”
+2. Repetition – Yes – The text repeats Donald Trump’s tweet, showing both the text of the tweet and an image of the tweet itself, reinforcing the message.
+3. Slogans – No – The text reports on events and quotes others but does not employ a brief, memorable phrase of its own to encapsulate its message.
+4. Appeal to fear – Yes – The article is titled “From Bad To Worse?” and concludes with “it looks like it’s about to get a lot worse,” framing the personnel changes as a frightening development for the country.
+5. Doubt – Yes – The author directly questions the president’s decision-making by stating, “a lot of us can just shout out, ‘What are you thinking?’ as President Donald Trump brings CIA Director Mike Pompeo... to the State Department.”
+6. Exaggeration/minimization – Yes – The text quotes Edward Snowden, who uses exaggeration to make a point: “The CIA might as well start issuing uniforms decorated with skulls and lightning bolts.”
+7. Flag-Waving – Yes – The text uses an appeal to patriotism to criticize an opponent by labeling Mike Pompeo’s comments as “un-American.”
+8. Loaded Language – Yes – The text uses emotionally charged and stereotypical language such as “criminal activity of the Deep State,” “horrific torture,” and “gruesome torture” to influence the reader’s opinion.
+9. Reduction ad Hitlerum – Yes – The text quotes Edward Snowden’s suggestion that the CIA should use uniforms with “skulls and lightning bolts,” which is a clear allusion to the insignia of the Nazi SS, thereby associating the CIA’s new leadership with a hated group.
+10. Bandwagon – Yes – The author creates a sense of popular agreement with their position by stating, “many of us are concerned with Mike Pompeo being installed at Secretary of State.”
+11. Causal Oversimplification – No – The text does not attempt to explain a complex event with a single, simple cause; instead, it focuses on the character of the individuals involved and the potential consequences of their appointments.
+12. Obfuscation, intentional vagueness – No – The article is direct and clear in its criticism and point of view, not intentionally vague.
+13. Appeal to authority – Yes – The article heavily relies on quoting figures like Edward Snowden and Glenn Greenwald, presenting their opinions as expert evidence to condemn the appointments of Pompeo and Haspel.
+14. Black & white fallacy – Yes – The title, “From Bad To Worse?,” presents the situation as having only two outcomes, both negative, ignoring any other possible interpretations or nuances of the leadership change.
+15. Thought-terminating clichés – Yes – The text uses the phrase “This is more of the same old, same old going on,” which is a cliché used to dismiss the situation and discourage deeper analysis.
+16. Red herring – No – The text remains focused on the central topic of the administration's personnel changes and their negative implications, without introducing irrelevant material to distract the audience.
+17. Straw men – No – The article directly attacks the subjects based on their records and quotes, rather than misrepresenting and refuting a weaker, fabricated argument.
+18. Whataboutism – No – The text focuses its criticism on Pompeo and Haspel and does not attempt to deflect by accusing others of hypocrisy.
+
+***
+
+Verdict – 95% – The text is highly likely to be propaganda. While it is structured around factual events (the firing of Tillerson and the appointments of Pompeo and Haspel), its primary purpose is not to inform but to persuade the reader to adopt a specific, negative viewpoint. This is achieved through the pervasive use of numerous propaganda techniques.
+
+The piece is framed from the outset with a title (“From Bad To Worse?”) that presents a black & white fallacy and appeals to fear. It selectively uses sources, relying exclusively on the authority of figures like Edward Snowden and Glenn Greenwald, who are known critics of the subjects, to build its case (Appeal to Authority). The author employs loaded language (“criminal activity of the Deep State,” “horrific torture”) and name-calling (“un-American,” “actual torturer”) to create a strong emotional bias against the new appointees.
+
+Furthermore, the article uses techniques like bandwagon (“many of us are concerned”) to create a sense of shared outrage and exaggeration via Snowden’s “skulls and lightning bolts” comment, which also functions as a Reduction ad Hitlerum. The combination of these techniques, the one-sided presentation, and the explicitly opinionated conclusion (“it looks like it’s about to get a lot worse”) demonstrates a clear intent to manipulate the reader's perception rather than provide a balanced and objective report.

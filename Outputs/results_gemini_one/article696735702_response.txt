@@ -1,0 +1,39 @@
+Name calling – No – The text criticizes the "official narrative" and "mainstream media" but does not attack them with a specific insulting label.
+
+Repetition – Yes – The text repeatedly pushes the idea that the official story is unreliable. For example: "the entire official narrative... is falling apart," "constantly changing story," "The Ever-Changing Vegas Narrative," and "calls the entirety official story into question."
+
+Slogans – No – The text does not use any brief, memorable phrases in the manner of a slogan.
+
+Appeal to fear – No – The text aims to create suspicion and doubt, but it does not directly support its ideas by instilling fear against specific alternatives.
+
+Doubt – Yes – The entire article is constructed to make the reader question the credibility of the official investigation. Example: "It should be clear by now that the entire official narrative surrounding the Las Vegas shooting that left 59 people dead and hundreds injured is falling apart."
+
+Exaggeration/minimization – Yes – The text exaggerates the significance of inconsistencies in the investigation to support its premise. Example: "the entire official narrative... is falling apart" frames normal investigative updates as a total collapse of the official account.
+
+Flag-Waving – No – The text does not make any appeals to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words to influence the reader's perception. Example: "the entire official narrative... is falling apart" and referring to the event as a "massacre" are used to create a sense of conspiracy and drama.
+
+Reduction ad Hitlerum – No – The text does not compare any person or idea to the Nazis or other hated groups.
+
+Bandwagon – No – The text does not argue that its theory is correct because it is popular.
+
+Causal Oversimplification – No – The text does not propose a simple cause for a complex event; rather, it argues that the official explanation is too simple and that the truth is more complex and hidden.
+
+Obfuscation, intentional vagueness – No – The text itself is not deliberately unclear; its purpose is to accuse the authorities of obfuscation by highlighting what it claims are contradictions.
+
+Appeal to authority – Yes – The text cites alternative, non-official sources as credible authorities to challenge the official narrative. Example: "According to links and information shared by Thomas Wictor and a timeline assessment by Twitter user Mr. Alex, the plausibility of Paddock accidentally killing himself... is quite high."
+
+Black & white fallacy – Yes – The text presents only two options: either the "official narrative" is completely true, or it is a lie that is "falling apart." It dismisses the possibility of genuine confusion or the normal evolution of a complex investigation. Example: "While we may never know the exact circumstances... [the new information] now calls the entirety official story into question."
+
+Thought-terminating clichés – No – The text does not use clichés to shut down critical thought; it seeks to encourage critical thought against the official narrative.
+
+Red herring – No – The text stays focused on the central topic of the Las Vegas shooting investigation and does not introduce irrelevant material to distract.
+
+Straw men – No – The text criticizes the official narrative as it changes, rather than misrepresenting a static argument and then refuting that misrepresentation.
+
+Whataboutism – No – The text does not attempt to charge any opponent with hypocrisy.
+
+***
+
+Verdict – 95% – The text is overwhelmingly likely to be propaganda. Its primary goal is not to present neutral facts but to persuade the reader to adopt a specific, conspiratorial viewpoint. It systematically employs multiple propaganda techniques to achieve this. The entire piece is built on a foundation of **Doubt**, questioning every piece of information from official sources. It uses **Repetition** to insist that the official story is "falling apart" and **Loaded Language** and **Exaggeration** to create a sense of a high-stakes cover-up. It establishes a **Black & White Fallacy** where any change in the official timeline is presented as proof of deception, rather than a natural part of a complex investigation. Finally, it bolsters its own alternative theory by using an **Appeal to Authority**, citing Twitter personalities as credible sources. The combination of these techniques demonstrates a clear intent to manipulate the reader's perception rather than inform them objectively.

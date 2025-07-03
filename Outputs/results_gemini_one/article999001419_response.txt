@@ -1,0 +1,22 @@
+1. Name calling – Yes – The text labels a lawyer for CNN as a "Trump-hating Republican lawyer Ted Olson" and describes Jim Acosta’s comments as him having "ignorantly blathered on to reporters".
+2. Repetition – No – The text does not repeat a specific message or phrase in the manner of the example.
+3. Slogans – No – The text does not use a brief, memorable phrase to promote an idea.
+4. Appeal to fear – No – The text does not attempt to instill fear of alternatives to the White House's actions.
+5. Doubt – Yes – The text questions the significance of the court's decision and Acosta's understanding of it, stating, "But it was not a vindication of Acosta’s free speech rights under the First Amendment" and that Acosta was "incorrectly claiming he won a great First Amendment victory."
+6. Exaggeration/minimization – Yes – The text minimizes the impact of revoking the press pass by stating, "The yanking of the physical credential, by the way, isn’t exactly a grave hardship."
+7. Flag-Waving – No – The text mentions the Constitution but does not use patriotic appeals to persuade the audience.
+8. Loaded Language – Yes – The text uses emotionally charged words to describe Acosta's actions, such as "picks fights," "lecturing Trump," and "belligerently refused."
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – Yes – The text simplifies the complex constitutional conflict by attributing it primarily to Acosta's personal conduct, describing him as "unbelievably rude" and someone who "picks fights."
+12. Obfuscation, intentional vagueness – No – The text is direct in its viewpoint and does not use deliberately unclear language.
+13. Appeal to authority – Yes – The text selectively uses quotes from authority figures to support its viewpoint, such as quoting the Department of Justice stating, “The President has broad authority to regulate access to the White House,” to reinforce the administration's position.
+14. Black & white fallacy – No – The text does not present the situation as having only two possible outcomes.
+15. Thought-terminating clichés – No – The text does not use clichés to discourage critical thought.
+16. Red herring – No – The text remains focused on the conflict between Acosta/CNN and the White House and does not introduce irrelevant topics.
+17. Straw men – Yes – The text misrepresents Acosta's statement about the First Amendment as a simple, ignorant claim about the specific legal ruling, stating he was "incorrectly claiming he won a great First Amendment victory." This refutes a simplified version of his argument about the broader principles of press freedom.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy to deflect criticism.
+
+***
+
+Verdict – 90% – The text is highly likely to be propaganda. While it presents itself as a factual news report, it employs numerous propaganda techniques to construct a one-sided narrative that is highly critical of Jim Acosta and CNN, while justifying the actions of the Trump administration. The consistent use of Loaded Language ("belligerently," "ignorantly blathered") and Name Calling ("Trump-hating") frames Acosta and his allies negatively. The technique of Minimization is used to downplay the severity of revoking a press pass ("isn’t exactly a grave hardship"). Furthermore, the article uses Causal Oversimplification to reduce a complex legal and constitutional issue to a simple matter of Acosta's poor behavior. By selectively using quotes (Appeal to Authority) and misrepresenting Acosta's victory statement (Straw Man), the text actively persuades the reader to adopt the White House's perspective rather than providing a neutral and balanced account of the event.

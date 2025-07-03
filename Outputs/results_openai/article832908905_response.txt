@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack any object or subject.
+2. Repetition – Yes – The phrase "no collusion" is repeated multiple times throughout the text.
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+4. Appeal to fear – No – The text does not support an idea by instilling fear against other alternatives.
+5. Doubt – Yes – Alan Dershowitz cautions that the report is “a prosecutorial document presenting only one side,” urging the public to withhold final judgment.
+6. Exaggeration/minimization – Yes – The phrase "witch hunt" used by Trump minimizes the seriousness of the investigation.
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – The term "witch hunt" is emotionally charged and intended to evoke a negative reaction.
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text is fairly straightforward and does not use deliberately unclear expressions.
+13. Appeal to authority – Yes – The text references Alan Dershowitz, a Harvard law professor, to lend credibility to the argument.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+16. Red herring – No – The text stays focused on the topic of the Mueller report and does not introduce irrelevant material.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 40% – The text contains elements of propaganda, such as repetition, doubt, exaggeration/minimization, loaded language, and appeal to authority. These techniques suggest a moderate likelihood of the text being propaganda, as they are used to shape the audience's perception of the Mueller report and the investigation. However, the text also includes factual information and statements from multiple perspectives, which balances the presence of propaganda techniques.

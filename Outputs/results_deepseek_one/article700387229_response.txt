@@ -1,0 +1,23 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – No – No insulting labels are used against any subject.  
+2. **Repetition** – Yes – "No one is safe" is repeated (e.g., "doctors are warning that 'no one is safe'", "no one in Madagascar is safe").  
+3. **Slogans** – No – No brief, memorable rallying phrases (e.g., "BUILD THE WALL") appear.  
+4. **Appeal to fear** – Yes – Warnings like "no one is safe," "much more dangerous," and "death often occurs within 12-24 hours" instill fear about the plague’s severity and inevitability.  
+5. **Doubt** – No – No questioning of credibility (e.g., "Can we trust this source?").  
+6. **Exaggeration/minimization** – No – Statistics (e.g., 97 deaths, 911 cases) and expert quotes are presented factually without clear over/understatement.  
+7. **Flag-waving** – No – No appeals to patriotism, nationalism, or group identity.  
+8. **Loaded language** – Yes – Phrases like "much more dangerous," "high alert," "no one is safe," and "spiking concerns" evoke alarm and urgency.  
+9. **Reduction ad Hitlerum** – No – No comparisons to Nazis or vilified groups.  
+10. **Bandwagon** – No – No emphasis on popularity or peer pressure (e.g., "Everyone agrees...").  
+11. **Causal oversimplification** – No – The spread is attributed to multiple factors (e.g., urban transmission, airborne contagion), not a single cause.  
+12. **Obfuscation** – No – Details (e.g., case numbers, transmission methods) are specific and clear.  
+13. **Appeal to authority** – Yes – Quotes from experts (e.g., IFRC’s Elhadj As Sy, Dr. Manitra Rakotoarivony) lend credibility to warnings.  
+14. **Black & white fallacy** – No – No false dichotomies (e.g., "Only two choices exist").  
+15. **Thought-terminating clichés** – No – No phrases that shut down debate (e.g., "It is what it is").  
+16. **Red herring** – No – All details relate directly to the plague outbreak.  
+17. **Straw men** – No – No misrepresentation of opposing arguments.  
+18. **Whataboutism** – No – No accusations of hypocrisy (e.g., "What about X group?").  
+
+### Verdict – 15% –   
+**Explanation**: The text primarily reports factual developments (e.g., case numbers, expert actions) with cited sources (IFRC, health officials). While it uses **loaded language** and **appeal to fear** to emphasize urgency—common in crisis journalism—these do not dominate or distort the core information. The repetition of "no one is safe" serves as a legitimate warning from health professionals, not manipulative reinforcement. There is no evidence of systematic agenda-pushing, omission of key context, or techniques like *name-calling* or *straw men*. However, the alarming tone (e.g., "high alert," "much more dangerous") slightly leans toward sensationalism, warranting a low probability of propaganda. Overall, the text informs rather than manipulates, aligning with public health communication during outbreaks.

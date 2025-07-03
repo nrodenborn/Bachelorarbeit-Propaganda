@@ -1,0 +1,33 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – **Yes** – "Muslim spies," "jihad spies," "treason," "Soviet fictions." Insults Democrats, Muslims, and media.  
+2. **Repetition** – **Yes** – Poll question repeated 3x: *"Whom do you consider to be the most corrupt Democrat Politician?"*  
+3. **Slogans** – **No** – No brief, memorable phrases beyond repeated labels.  
+4. **Appeal to fear** – **Yes** – Warns of "treason," "espionage," and foreign data theft to instill fear about Muslim IT staffers.  
+5. **Doubt** – **No** – No explicit questioning of credibility; asserts claims as facts.  
+6. **Exaggeration/minimization** – **Yes** – Exaggerates scale ("biggest story of treason," "massive amounts of data") and minimizes lack of arrests/evidence.  
+7. **Flag-Waving** – **Yes** – Implied patriotism by framing story as exposing "treason" threatening national security.  
+8. **Loaded Language** – **Yes** – Emotional/biased terms: "treason," "collusion," "nefarious purposes," "jihad spies," "hellbent on destroying Trump."  
+9. **Reduction ad Hitlerum** – **No** – No comparison to hated groups like Nazis.  
+10. **Bandwagon** – **Yes** – Poll implies readers should join condemning Democrats by selecting "most corrupt" politician.  
+11. **Causal Oversimplification** – **No** – No oversimplified cause; describes complex alleged conspiracy.  
+12. **Obfuscation** – **No** – Claims are direct (though unproven), not deliberately vague.  
+13. **Appeal to authority** – **No** – Cites sources (DCNF, Capitol Police) but not as unquestionable authorities.  
+14. **Black & white fallacy** – **Yes** – Portrays Democrats as traitors protecting "spies" vs. "patriotic" investigators/Trump. Ignores nuance.  
+15. **Thought-terminating clichés** – **No** – No phrases like "end of discussion" to halt debate.  
+16. **Red herring** – **No** – Focus stays on Awan case; no irrelevant distractions.  
+17. **Straw men** – **No** – Refutes actual claims (media ignoring story), not misrepresented ones.  
+18. **Whataboutism** – **Yes** – Dismisses Trump-Russia probes as "Soviet fictions/porn stories" to deflect from Awan case scrutiny.  
+
+---
+
+### Verdict – 95% – Detailed Explanation:  
+The text is **overwhelmingly propagandistic** due to:  
+1. **Systematic Use of Techniques**: Employs at least 10/18 techniques, including inflammatory *name-calling* ("jihad spies"), *repetition* (poll), *appeal to fear* (treason narrative), *loaded language*, *bandwagon*, *black/white framing*, and *whataboutism*.  
+2. **Dehumanizing Language**: Repeatedly labels subjects by religion ("Muslim spies") to evoke bigotry and fear, divorcing them from individuality.  
+3. **Partisan Agenda**: Explicitly vilifies Democrats as complicit in "treason" while absolving investigators/Trump. The poll reinforces group condemnation.  
+4. **Emotional Manipulation**: Uses alarmist claims (e.g., servers "disappeared," bank accounts "drained") without verified evidence, relying on sensationalism.  
+5. **Source Bias**: Posted by Pamela Geller (noted anti-Islam activist), with permission, framing the story within her ideological narrative.  
+6. **Omission of Context**: Fails to note investigations yielded no espionage charges; focuses only on allegations to support "treason" thesis.  
+
+**5% Uncertainty**: The article cites some factual elements (e.g., police investigations, depositions), but these are embedded in a heavily slanted narrative that exaggerates implications. The overwhelming reliance on manipulative techniques confirms propaganda intent.

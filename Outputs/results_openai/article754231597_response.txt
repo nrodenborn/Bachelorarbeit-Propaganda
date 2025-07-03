@@ -1,0 +1,20 @@
+1. Name calling – No – There is no use of insulting labels in the text.
+2. Repetition – No – The text does not repeat any specific message excessively.
+3. Slogans – No – There are no brief and memorable phrases used as slogans.
+4. Appeal to fear – No – The text does not attempt to instill fear against alternatives.
+5. Doubt – No – The text does not question the credibility of anyone or anything.
+6. Exaggeration/minimization – No – The text provides factual information without exaggerating or minimizing.
+7. Flag-Waving – No – There is no appeal to patriotism or identity.
+8. Loaded Language – No – The language used is neutral and factual without emotional or stereotypical appeals.
+9. Reduction ad Hitlerum – No – There is no suggestion that any idea is popular with hated groups.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text is clear and provides specific information.
+13. Appeal to authority – Yes – The text references Dr. Matshidiso Moeti and the WHO as authorities supporting the response to the outbreak.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – There are no clichés that discourage critical thought.
+16. Red herring – No – The text stays focused on the Ebola outbreak without introducing irrelevant material.
+17. Straw men – No – The text does not refute arguments that were not presented.
+18. Whataboutism – No – The text does not charge opponents with hypocrisy.
+
+Verdict – 5% – The text is primarily informational and reports on the Ebola outbreak in the Democratic Republic of Congo. It provides factual details about the situation, including the response by health authorities and the WHO. The only potential propaganda technique identified is an appeal to authority, as it references the WHO and Dr. Matshidiso Moeti. However, this is a common practice in reporting health-related news and does not necessarily indicate propaganda. Therefore, the likelihood of the text being propaganda is very low.

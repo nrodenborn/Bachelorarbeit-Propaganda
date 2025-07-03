@@ -1,0 +1,41 @@
+Here is the analysis of the text for each propaganda technique:
+
+1.  **Name calling** – Yes – The text uses insulting labels and imagery, particularly against President Obama, stating, "Of course, we know what Obama did with his daily briefings. They are somewhere in the White House sewer system."
+
+2.  **Repetition** – Yes – The central claim that Russia funneled money to influence Hillary Clinton for the Uranium One deal is repeated throughout the text, first in the headline, then in the opening paragraphs, and then through quotes from the informant's testimony.
+
+3.  **Slogans** – Yes – The headline itself acts as a brief, memorable slogan that encapsulates the article's entire premise: "Uranium One Informant Breaks Silence: Moscow Paid Millions To Influence Hillary Clinton."
+
+4.  **Appeal to fear** – Yes – The text stokes fear by linking the Uranium One deal to major national security threats, stating the informant "obtained information that Russia was continuing to aid the Iranian government" with its nuclear program.
+
+5.  **Doubt** – Yes – The text actively casts doubt on the credibility of one side while defending the other, stating, "While Democrats have unsurprisingly questioned Campbell's credibility, Campbell's attorney Victoria Toensing told Sean Hannity..."
+
+6.  **Exaggeration/minimization** – Yes – The text exaggerates the certainty and scope of the accusations by framing them as potential "treason" based on the sale of "part of the US uranium supply," while minimizing the fact that the main target, Hillary Clinton, was not charged, stating, "Sadly, it did not include former Secretary of State Hillary Clinton."
+
+7.  **Flag-Waving** – Yes – The article begins by quoting the US Constitution and frames the entire issue around "Treason, Bribery, or other high Crimes and Misdemeanors," appealing directly to American constitutional principles and patriotism.
+
+8.  **Loaded Language** – Yes – The text uses emotionally charged words to influence the reader, such as "nefarious actions," "criminal network," "shakedown," and "sewer system."
+
+9.  **Reduction ad Hitlerum** – No – The text does not attempt to discredit an idea by associating it with a group like the Nazis or other universally hated figures.
+
+10. **Bandwagon** – No – The text does not appeal to the popularity of an idea. In fact, it positions itself as a contrarian source of truth against the "mainstream media."
+
+11. **Causal Oversimplification** – Yes – The text presents a simple cause (bribery of the Clintons) for a complex event (the approval of the Uranium One sale by a multi-agency government committee, CFIUS), suggesting the approval was a "shoo-in" solely because of this alleged influence.
+
+12. **Obfuscation, intentional vagueness** – Yes – The text becomes deliberately vague by trying to connect the Uranium One story to unrelated issues without explanation, stating, "All of this then goes back to things we have pointed out with ranchers in the western united States... as well as the land grabs."
+
+13. **Appeal to authority** – Yes – The text repeatedly cites sources to bolster its credibility, such as "The Hill's John Solomon," "Award-winning National Security/War Correspondent Sara Carter," and the "US Constitution."
+
+14. **Black & white fallacy** – Yes – The text presents a false dichotomy, particularly in its conclusion: "in the end, all we ever get is excuses rather than justice," framing the outcome as one of only two possibilities and ignoring any nuance.
+
+15. **Thought-terminating clichés** – Yes – The text uses a phrase that discourages critical thought to wrap up its argument: "Time will tell, but I remain skeptical, as in the end, all we ever get is excuses rather than justice."
+
+16. **Red herring** – Yes – The text introduces the detailed indictment of Mark Lambert. While related to the broader case, it serves as a distraction from the central claim against Hillary Clinton, creating an aura of proven criminality without providing direct evidence against the main target.
+
+17. **Straw men** – No – The text does not misrepresent a specific argument from its opponents in order to refute it. It primarily attacks their credibility or dismisses their motives.
+
+18. **Whataboutism** – No – The text does not deflect criticism by accusing an opponent of hypocrisy on another issue. It remains focused on its original targets.
+
+***
+
+**Verdict – 95% –** The text is overwhelmingly likely to be propaganda. Its primary purpose is not to objectively inform the reader but to persuade them of a specific, politically charged narrative: that Hillary Clinton and the Obama administration committed treason and bribery. The article masterfully weaves verifiable facts (the existence of an informant, the indictment of a lower-level executive) with speculation, loaded language, and logical fallacies to construct a compelling but misleading case. It employs a vast array of propaganda techniques, including appeals to fear and patriotism, name-calling, and causal oversimplification. The use of red herrings (the detailed Lambert indictment) and appeals to authority (citing journalists and the Constitution) gives the narrative a veneer of credibility, while the ultimate lack of direct evidence for its central claim against its main target is obscured by these techniques. The selective presentation of information is exclusively aimed at reinforcing a single conclusion, which is the hallmark of propaganda.

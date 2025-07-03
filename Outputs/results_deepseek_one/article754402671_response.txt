@@ -1,0 +1,25 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – No – No insulting labels used; neutral terms like "deadly virus" are factual descriptors.  
+2. **Repetition** – No – No phrases or messages are repeated for emphasis; information is presented linearly.  
+3. **Slogans** – No – Absence of brief, rallying phrases (e.g., no calls to action like "Stop Ebola Now!").  
+4. **Appeal to fear** – No – Risks (e.g., 50% fatality rate) are stated factually without sensationalism to manipulate emotions.  
+5. **Doubt** – No – No questioning of credibility; sources (WHO, Health Ministry) are treated as authoritative.  
+6. **Exaggeration/minimization** – No – Statistics (e.g., fatality rates) are reported accurately; no downplaying/overstating.  
+7. **Flag-Waving** – No – No appeals to patriotism, identity, or nationalism.  
+8. **Loaded Language** – No – Language is clinical (e.g., "hemorrhagic fever," "transmit the disease"); no emotionally charged words.  
+9. **Reduction ad Hitlerum** – No – No comparisons to hated groups (e.g., Nazis, collaborators).  
+10. **Bandwagon** – No – No appeals to popularity or group consensus.  
+11. **Causal Oversimplification** – No – Outbreaks are attributed to multiple factors (bushmeat, funerals, human contact), not oversimplified.  
+12. **Obfuscation** – No – Clear explanations (e.g., transmission methods, origins); no deliberate vagueness.  
+13. **Appeal to authority** – **Yes** – Relies on WHO and Congo’s Health Ministry for credibility (e.g., "according to WHO," "Congo’s Health Ministry said").  
+14. **Black & white fallacy** – No – Presents nuances (e.g., varying fatality rates, unknown recovery factors); no false dilemmas.  
+15. **Thought-terminating clichés** – No – No phrases discouraging critical thought (e.g., "It is not known why..." invites inquiry).  
+16. **Red herring** – No – Focus remains on Ebola; no irrelevant distractions.  
+17. **Straw men** – No – No misrepresentation of opposing arguments; purely informational.  
+18. **Whataboutism** – No – No accusations of hypocrisy or deflection.  
+
+---
+
+### Verdict – 5% –   
+The text is a factual public health report, not propaganda. It cites authoritative sources (WHO, Congo’s Health Ministry) to neutrally inform about Ebola’s risks, origins, and transmission. The appeal to authority (technique #13) is standard journalistic practice for validating facts, not manipulative persuasion. No emotional language, bias, or ideological framing is present. The 5% margin acknowledges that any communication *could* subtly influence perception, but here the intent is educational, not coercive. Content focuses on raising awareness—not advancing an agenda—making propaganda highly unlikely.

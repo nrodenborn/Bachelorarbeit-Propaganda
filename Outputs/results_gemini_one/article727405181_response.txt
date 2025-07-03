@@ -1,0 +1,20 @@
+Name calling – No – The text does not use any insulting labels to attack any person, country, or organization.
+Repetition – No – The text does not repeat any specific message or phrase to reinforce an idea.
+Slogans – No – The text is written in a standard journalistic style and does not use brief, memorable phrases as slogans.
+Appeal to fear – No – The article does not attempt to instill fear in the reader about any alternative to the mission.
+Doubt – No – The text does not question the credibility of any person or organization; it reports facts about the mission, including its challenges.
+Exaggeration/minimization – No – The text presents factual information without any clear exaggeration or minimization of events or capabilities.
+Flag-Waving – Yes – The text frames the mission in the context of national achievement and competition, which appeals to patriotism. Example: "India Joins U.S. and China With Plans to Visit the Moon" and "the agency [NASA] won't beat India back to the moon."
+Loaded Language – No – The language used is largely descriptive and factual, not heavily loaded with emotional or stereotypical words.
+Reduction ad Hitlerum – No – The text makes no comparisons to hated groups like the Nazis.
+Bandwagon – Yes – The headline suggests that visiting the moon is a desirable activity because other major powers are doing it, encouraging the reader to view India's participation favorably as it joins this exclusive group. Example: "India Joins U.S. and China With Plans to Visit the Moon".
+Causal Oversimplification – No – The text does not provide overly simple causes for complex events; for instance, it correctly identifies the reason for the mission's delay.
+Obfuscation, intentional vagueness – No – The text is clear and provides specific details about the mission, rather than being intentionally vague.
+Appeal to authority – No – While it mentions what "scientists think," this is a standard way of reporting scientific consensus in journalism and not an appeal to a specific authority to validate a contentious claim.
+Black & white fallacy – No – The text does not present a false dichotomy or limit the reader to only two choices.
+Thought-terminating clichés – No – The text does not use any clichés that would discourage critical thought.
+Red herring – No – The article remains focused on its topic and does not introduce irrelevant material to distract the reader.
+Straw men – No – The text is not argumentative and does not refute an argument that was not presented.
+Whataboutism – No – The text does not accuse any party of hypocrisy.
+
+Verdict – 15% – The text is overwhelmingly a factual news report intended to inform the audience about a scientific mission. However, it contains subtle elements of propaganda. The framing of the story, particularly in the headline ("India Joins U.S. and China") and in the body ("the agency won't beat India back to the moon"), uses the **Flag-Waving** technique by appealing to national pride and the **Bandwagon** technique by highlighting India's entry into an exclusive group of nations. This "soft nationalism" is common in reporting on international competition but still qualifies as a mild form of propaganda as it aims to shape perception through appeals to identity and popularity rather than just facts. The overall intent is informational, not deceptive, hence the very low likelihood.

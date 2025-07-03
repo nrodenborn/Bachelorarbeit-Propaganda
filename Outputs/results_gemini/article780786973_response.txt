@@ -1,0 +1,28 @@
+1. Name calling – Yes – The text reports that President Trump attacked Robert S. Mueller III’s staff by calling them a “group of Angry Democrat Thugs” and a “gang.”
+2. Repetition – Yes – The article states that “President Donald Trump continued bashing Robert S. Mueller III’s Russia investigation” and “continued to push a line first floated by his attorney,” indicating a repeated message over time.
+3. Slogans – Yes – The text quotes Trump referring to the investigation as a “Rigged Witch Hunt,” a brief and memorable phrase used to frame the situation.
+4. Appeal to fear – Yes – The text quotes Trump as saying the special counsel is “‘looking for trouble,’” which can be interpreted as an attempt to instill fear or apprehension about Mueller's investigation and its potential consequences.
+5. Doubt – Yes – The text reports that Trump questioned Robert Mueller's credibility by calling him “‘Disgraced and discredited.’”
+6. Exaggeration/minimization – Yes – The text reports Trump minimizing the seriousness of potential campaign collusion by calling it a “‘phony crime.’” It also reports him exaggerating his transparency by emphasizing that McGahn's testimony was for "over 30 hours" and "only with my approval."
+7. Flag-Waving – No – The text does not contain any examples of appealing to patriotism or national identity.
+8. Loaded Language – Yes – The text explicitly states that Trump used words like “gang” and “Thugs,” noting that “Both are words with loaded meanings for his conservative political base.”
+9. Reduction ad Hitlerum – No – The text does not contain any examples of disapproving an idea by associating it with a group hated by the audience.
+10. Bandwagon – No – The text does not report any attempts to appeal to the popularity of an idea.
+11. Causal Oversimplification – Yes – The text reports that Trump came “to the conclusion the special counsel is ‘looking for trouble’ because they ‘they know there is no Russian Collusion,’” which presents a simple, single cause for the lengthy investigation.
+12. Obfuscation, intentional vagueness – Yes – The article’s headline describes Trump’s statement that Mueller is “‘looking for trouble’” as being said “cryptically,” indicating it is deliberately unclear.
+13. Appeal to authority – Yes – The text reports Trump appealing to his own authority as president by stating that the White House Counsel spoke with Mueller’s team “‘only with my approval, for purposes of transparency.’”
+14. Black & white fallacy – Yes – The text quotes Trump presenting a false dichotomy: when he attempts to “‘FIGHT BACK or say anything bad about the Rigged Witch Hunt,’” his critics “‘scream Obstruction!’” This frames the situation as having only two sides with no middle ground.
+15. Thought-terminating clichés – Yes – The phrase “‘Rigged Witch Hunt’” is used as a thought-terminating cliché to dismiss the entire investigation and discourage any nuanced discussion of its merits.
+16. Red herring – Yes – Trump’s focus on the fact that he gave “approval” for McGahn’s testimony can be seen as a red herring, distracting from the potentially damaging substance of the testimony itself by shifting focus to his supposed transparency.
+17. Straw men – Yes – The text reports that Trump refutes the idea of “campaign collusion with Russia” as a “‘phony crime.’” The article then points out that this is a straw man, as legal experts say the actual charges would be for conspiracy, making false statements, or obstructing justice, not a specific "collusion" statute.
+18. Whataboutism – No – The text does not contain examples of Trump deflecting criticism by accusing his opponents of hypocrisy on a similar issue.
+
+***
+
+Verdict – 10% – The text itself is a news report and not a piece of propaganda. Its primary purpose is to inform the reader about statements made by President Trump and to place them in a larger context. The numerous propaganda techniques identified in the analysis are being used by the *subject* of the article (Donald Trump), not by the *author* of the article (John T. Bennett).
+
+The text demonstrates journalistic practice rather than propagandistic intent by:
+1.  **Attributing claims:** It clearly states that the propagandistic language comes from Trump’s tweets and statements.
+2.  **Providing context and counter-arguments:** It doesn't just report Trump's claim that collusion is a "phony crime"; it immediately follows up by quoting "legal experts" who clarify that the actual potential charges would be conspiracy, obstruction, or making false statements. It also counters Trump's claim about approving McGahn's testimony by quoting Alberto Gonzales, who explains that a White House counsel would be required to cooperate regardless.
+
+This act of reporting, contextualizing, and fact-checking is the opposite of propaganda, which seeks to obscure facts and eliminate counter-arguments. The 10% likelihood acknowledges that any news report has inherent biases in what it chooses to cover and how it frames the story (e.g., the headline "says cryptically"), but its fundamental structure is informational, not propagandistic.

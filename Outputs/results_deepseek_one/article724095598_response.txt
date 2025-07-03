@@ -1,0 +1,31 @@
+### Analysis of Propaganda Techniques in the Text:
+
+1. **Name calling** – **Yes** – "terrorist infiltration" (insulting label for immigrants/ISIS).  
+2. **Repetition** – **No** – No significant repetition of phrases.  
+3. **Slogans** – **No** – No brief, memorable phrases (e.g., "BUILD THE WALL").  
+4. **Appeal to fear** – **Yes** – "terrorist infiltration through the southern border" instills fear about border security.  
+5. **Doubt** – **Yes** – Implies official narratives are incomplete: "Congress is in possession of ‘secret intel’".  
+6. **Exaggeration/minimization** – **Yes** – Exaggerates evidence as "conclusive fact" about multiple shooters.  
+7. **Flag-Waving** – **No** – No overt patriotism/identity appeals.  
+8. **Loaded Language** – **Yes** – Emotional terms: "horrific," "shockingly," "fateful night."  
+9. **Reduction ad Hitlerum** – **No** – No Nazi/Vichy comparisons.  
+10. **Bandwagon** – **Yes** – Cites "alternative media reports" and "mainstream media hints" to imply consensus.  
+11. **Causal Oversimplification** – **Yes** – Blames the massacre solely on "terrorist infiltration" via the border.  
+12. **Obfuscation, intentional vagueness** – **Yes** – Vague references: "secret intel," "credible evidence," "potential terrorist infiltration."  
+13. **Appeal to authority** – **Yes** – Uses Rep. Perry’s position: "Congressman Scott Perry... evidence he had personally seen."  
+14. **Black & white fallacy** – **Yes** – Presents only two options: terrorist involvement or no explanation (ignoring other theories).  
+15. **Thought-terminating clichés** – **Yes** – "conclusive fact" shuts down scrutiny of the multiple-shooter claim.  
+16. **Red herring** – **Yes** – Girlfriend deleting Facebook distracts from lack of evidence for terrorist links.  
+17. **Straw men** – **No** – No misrepresented arguments refuted.  
+18. **Whataboutism** – **No** – No accusations of hypocrisy.  
+
+---
+
+### Final Verdict:  
+**Verdict – 95% –** The text is highly likely propaganda. It employs **13 of 18 techniques**, primarily:  
+- **Appeal to fear** (terrorist infiltration) and **doubt** (questioning official accounts) to manipulate emotions.  
+- **Loaded language** ("horrific," "shockingly") and **exaggeration** ("conclusive fact") amplify bias.  
+- **Obfuscation** ("secret intel," vague "evidence") and **causal oversimplification** (blaming border security) avoid factual scrutiny.  
+- **Bandwagon** references to media and **appeal to authority** (congressman) create false credibility.  
+- **Red herring** (girlfriend’s Facebook) distracts from unsubstantiated claims.  
+The article’s core narrative—unverified ISIS links and border threats—relies on emotional triggers, logical fallacies, and cherry-picked "evidence" to advance a specific agenda, aligning with propaganda’s goal to persuade rather than inform.

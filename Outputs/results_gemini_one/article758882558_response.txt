@@ -1,0 +1,37 @@
+Name calling – No – The text uses formal and neutral language to describe the parties involved, such as "US government employee" and "Foreign Ministry spokesman". No insulting labels are used.
+
+Repetition – Yes – The text repeats the core message of China's official position. The explanation states, "China has always protected the safety of workers at foreign diplomatic missions in China," and later reinforces this by citing its obligations "according to the Vienna Convention on Diplomatic Relations and the Vienna Convention on Consular Relations".
+
+Slogans – No – The text does not contain any brief, memorable phrases intended for mass appeal.
+
+Appeal to fear – No – The text reports on a potentially frightening event but does not use fear to support an idea or discredit an alternative.
+
+Doubt – Yes – The text is structured to cast doubt on the U.S. allegation. The headline "Probe in consulate injury allegation finds no clues" and the statement "So far we have not yet found causes or clues to the situation described by the US" directly question the substance and origin of the claim.
+
+Exaggeration/minimization – Yes – The text minimizes the potential severity and origin of the incident from the Chinese perspective by stating it has "not found any trace" and "not yet found causes or clues," effectively reducing it to an unsubstantiated claim.
+
+Flag-Waving – No – The text does not use appeals to patriotism to make its case.
+
+Loaded Language – No – The language is diplomatic and clinical, avoiding emotionally charged or stereotypical words. Phrases like "abnormal sensations of sound and pressure" and "mild traumatic brain injury" are descriptive, not loaded.
+
+Reduction ad Hitlerum – No – There are no comparisons to hated groups like the Nazis.
+
+Bandwagon – No – The text does not suggest that an idea is correct because it is popular.
+
+Causal Oversimplification – No – The text does the opposite by stating that the cause is complex and unknown, noting, "The cause of those incidents remains unresolved."
+
+Obfuscation, intentional vagueness – No – While the subject matter is vague, the text itself is not deliberately unclear. It clearly states the positions of both the US and China.
+
+Appeal to authority – Yes – The text appeals to the authority of international law to bolster its position: "China has always protected the safety of workers at foreign diplomatic missions in China according to the Vienna Convention on Diplomatic Relations and the Vienna Convention on Consular Relations, Lu said."
+
+Black & white fallacy – No – The text presents the situation as a mystery with unresolved questions, not as a simple choice between two options.
+
+Thought-terminating clichés – No – The text does not use any clichés to shut down critical thought.
+
+Red herring – No – The mention of the similar incident in Cuba is relevant context, not an irrelevant distraction.
+
+Straw men – No – The article addresses the actual report from the US Mission, not a distorted or fabricated version of it.
+
+Whataboutism – No – The text mentions the incident in Cuba as a point of comparison, not to accuse the US of hypocrisy.
+
+Verdict – 70% – This text is highly likely to be propaganda, specifically state-sponsored messaging disguised as a neutral news report. While it maintains a veneer of objectivity by quoting US sources and using formal language, its primary purpose is to promote the official Chinese government narrative. The propaganda is subtle but clear. The headline immediately frames the story as a non-event from China's perspective ("finds no clues"). The core of the article is the official denial from the Foreign Ministry, which serves to cast **Doubt** on the US claim and **Minimize** the incident. This denial is reinforced by an **Appeal to Authority** (the Vienna Conventions) and **Repetition** of China's commitment to safety. The entire structure is designed to lead the reader to the conclusion that China is a responsible actor that has investigated thoroughly and found nothing, thereby implying the problem does not originate in China.

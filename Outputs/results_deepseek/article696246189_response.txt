@@ -1,0 +1,22 @@
+### Propaganda Technique Analysis:
+1. **Name calling** – Yes – "Scumbag shooter" in the embedded tweet (attacks Stephen Paddock with an insulting label).  
+2. **Repetition** – No – No single message is repeated excessively.  
+3. **Slogans** – No – No brief, memorable phrases are used as slogans in the core text (tweets use hashtags like #LasVagasShooting, but these are not authored by the article).  
+4. **Appeal to fear** – No – No attempt to instill fear against alternatives.  
+5. **Doubt** – Yes – Tweets question media credibility: "WHY IS MEDIA NOT REPORTING THIS?" and "the govt. is hiding from us."  
+6. **Exaggeration/minimization** – No – No clear exaggeration/minimization in the article’s narrative (tweets use "hiding," but this is attributed).  
+7. **Flag-Waving** – No – No appeal to patriotism or identity.  
+8. **Loaded Language** – Yes – "cover-up conspiracies," "Scumbag shooter," and "optimize his kill rate" evoke strong emotions/stereotypes.  
+9. **Reduction ad Hitlerum** – No – No association with hated groups.  
+10. **Bandwagon** – No – No appeal to popularity beyond reporting social media reactions.  
+11. **Causal Oversimplification** – No – Motives are explicitly stated as "unclear," avoiding oversimplification.  
+12. **Obfuscation, intentional vagueness** – No – Details are specific (e.g., note contents described clearly).  
+13. **Appeal to authority** – No – Authorities are cited for facts (e.g., police revelations), not to oversell an argument.  
+14. **Black & white fallacy** – No – No false dichotomies presented.  
+15. **Thought-terminating clichés** – No – No phrases used to shut down critical discussion.  
+16. **Red herring** – Yes – Introducing the "mystery woman" (identified as a prostitute) distracts from the note/motive investigation.  
+17. **Straw men** – No – No misrepresentation of opposing arguments.  
+18. **Whataboutism** – No – No accusations of hypocrisy.  
+
+### Verdict  
+**Verdict – 20% –** The text is primarily factual reporting, citing official sources (police, investigators) and documenting social media reactions. However, it includes propagandistic elements *from embedded tweets* (e.g., name-calling, sowing doubt about media/govt.) and uses loaded language (e.g., "cover-up conspiracies," "optimize his kill rate"). The "mystery woman" detail acts as a minor red herring. Overall, the core article avoids overt persuasion, but its framing amplifies external propaganda, resulting in a low likelihood of being propaganda itself.

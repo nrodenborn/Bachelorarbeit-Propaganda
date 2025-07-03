@@ -1,0 +1,37 @@
+Name calling – No – The text does not use insulting labels to attack a person or group. It describes the vaccine as "experimental," which is a factual descriptor in this context, not an insult.
+
+Repetition – Yes – The phrase "experimental vaccine" is repeated six times, including in the all-caps headline. This repetition constantly emphasizes the untested nature of the solution.
+
+Slogans – No – The text does not use any brief, memorable, or catchy phrases to encapsulate an idea.
+
+Appeal to fear – Yes – The text uses graphic and frightening descriptions of the Ebola virus to instill fear. Example: "It begins with flu-like symptoms, followed by bloody diarrhea and vomiting. Days later, some victims begin bleeding through the nose, mouth, and eyes."
+
+Doubt – Yes – The text actively casts doubt on the effectiveness and safety of the solutions being offered. Example: "For their sake, let’s hope it works better than this year’s flu vaccine."
+
+Exaggeration/minimization – Yes – The text minimizes the threat of the virus in a specific way to make a point. Example: "Since the virus is spread through direct contact, an isn’t airborne, it isn’t nearly as deadly as it could be."
+
+Flag-Waving – No – The text does not make any appeals to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words and phrases to influence the reader's perception. Example: "Ebola hemorrhagic fever, seen mostly only in Africa, is one of the world’s most feared diseases."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+
+Bandwagon – No – The text does not suggest that an idea is popular and should be joined. In fact, it does the opposite by highlighting the new and untested nature of the vaccine.
+
+Causal Oversimplification – Yes – The text reduces the complex public health response to a single, questionable element. Example: "The World Health Organization has been warning about the “Ebola situation” in Congo, and it appears their only solution is an experimental vaccine."
+
+Obfuscation, intentional vagueness – No – The text's message is quite clear in its intent to create doubt; it does not rely on being deliberately obscure or confusing.
+
+Appeal to authority – No – While the text cites authorities like the WHO, it does so to question or undermine their actions, not to use their support as evidence for its own argument.
+
+Black & white fallacy – Yes – The text frames the situation as a stark choice between two extremes, ignoring other possibilities or nuances. Example: "So, is the Ebola virus reaching a terrifying enough level that an experimental vaccine is warranted?"
+
+Thought-terminating clichés – No – The text does not use clichés to shut down discussion.
+
+Red herring – Yes – The text introduces an irrelevant topic to distract and sow doubt. Example: "For their sake, let’s hope it works better than this year’s flu vaccine."
+
+Straw men – Yes – The text misrepresents the position of health authorities to make it easier to attack. Example: "...it appears their only solution is an experimental vaccine." (This ignores other containment and treatment efforts that are part of any outbreak response).
+
+Whataboutism – No – The text does not accuse any party of hypocrisy.
+
+Verdict – 95% – The text is highly likely to be propaganda. While it is built around a factual news event, it employs a significant number of propaganda techniques to manipulate the reader's emotions and perception. The primary strategy is to use Appeal to Fear with graphic descriptions of Ebola, and then pivot that fear into Doubt about the official solution. This is achieved through the constant Repetition of "experimental vaccine," the use of Loaded Language ("feared," "terrifying"), and logical fallacies like the Straw Man (claiming the vaccine is the "only solution") and a Red Herring (bringing up the unrelated flu vaccine). The goal is not to inform objectively, but to construct a narrative that authorities are deploying a risky, unproven, and potentially ineffective solution to a terrifying problem.

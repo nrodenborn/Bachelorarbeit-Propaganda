@@ -1,0 +1,20 @@
+1. Name calling – Yes – The text uses the term “illegal aliens” to describe the apprehended people. This is a pejorative label that frames them as criminals rather than using more neutral terms like “migrants” or “undocumented individuals.”
+2. Repetition – Yes – The term “illegal aliens” is repeated three times in the short text, reinforcing the negative label and the message of the individuals' criminality.
+3. Slogans – No – The text does not use any brief, memorable phrases meant for chanting or easy recall.
+4. Appeal to fear – Yes – The text uses phrases like “stash houses” and “suspicious activity,” which are associated with criminality and danger, subtly instilling fear and suggesting a threat to the community that the authorities are handling.
+5. Doubt – No – The text does not question the credibility of any person or entity.
+6. Exaggeration/minimization – No – The text reports specific numbers and details without any clear exaggeration or minimization of the facts presented.
+7. Flag-Waving – No – While it mentions government agencies, the text does not make an explicit appeal to patriotism or national identity.
+8. Loaded Language – Yes – The terms “illegal aliens” and “stash houses” are emotionally charged. “Illegal alien” dehumanizes and criminalizes the people, while “stash house” has strong connotations of dangerous, organized crime.
+9. Reduction ad Hitlerum – No – The text makes no comparisons to Nazis or other hated groups.
+10. Bandwagon – No – The text does not suggest an idea is correct because it is popular.
+11. Causal Oversimplification – No – The text reports on an event without attempting to explain its complex causes.
+12. Obfuscation, intentional vagueness – No – The text is direct and clear. The statement “No further details were released” is a standard closing for a press release, not an attempt to confuse.
+13. Appeal to authority – Yes – The text is presented as an official report from authorities like “Border Patrol agents” and “Homeland Security Investigations.” This uses the agencies' authority to present the information as credible and objective, encouraging the reader to accept its framing of events without question.
+14. Black & white fallacy – No – The text does not present only two choices or options.
+15. Thought-terminating clichés – No – The text does not use any phrases that discourage critical thought.
+16. Red herring – No – The text does not introduce irrelevant material to distract the reader.
+17. Straw men – No – The text does not refute an argument; it reports on an event.
+18. Whataboutism – No – The text does not accuse any opponent of hypocrisy.
+
+Verdict – 75% – The text is highly likely to be propaganda, though it is presented in the subtle format of a factual press release. While it reports verifiable details like dates, locations, and numbers, it uses several propaganda techniques to frame the event in a way that supports a specific agenda. The primary techniques are Loaded Language and Name-Calling through the repeated use of the term “illegal aliens” instead of neutral alternatives, and “stash houses” instead of simply “a residence.” This language is not neutral; it is chosen to dehumanize the individuals and cast them as criminals. This is reinforced by an Appeal to Fear, mentioning “suspicious activity” to create a sense of threat. Finally, the entire report functions as an Appeal to Authority, using the credibility of law enforcement agencies to validate its biased framing. The text omits any humanizing context or alternative perspectives (such as the reasons for migration or the conditions of the people found), focusing exclusively on a law-and-order narrative. This deliberate, one-sided framing to influence public perception is the essence of propaganda.

@@ -1,0 +1,67 @@
+### Analysis of Propaganda Techniques in the Text:
+
+1. **Name calling** – **No**  
+   *Explanation*: No direct insulting labels are applied to targets (e.g., no terms like "traitor" or "predator").  
+
+2. **Repetition** – **Yes**  
+   *Explanation*: The headline "Al Franken Is Just The Beginning As The Curtain Is Pulled Back In Washington DC" is repeated verbatim.  
+
+3. **Slogans** – **Yes**  
+   *Explanation*: "Drain the swamp" is a well-known political slogan used to advocate for anti-corruption efforts.  
+
+4. **Appeal to fear** – **Yes**  
+   *Explanation*: Descriptions like "sick things happen behind the scenes," "absolutely disgusting cesspool of filth," and sexual assault narratives instill fear about systemic corruption.  
+
+5. **Doubt** – **Yes**  
+   *Explanation*: "The mainstream media nearly really talks about any of it" casts doubt on media credibility regarding D.C. corruption.  
+
+6. **Exaggeration/minimization** – **Yes**  
+   *Explanation*: "Far worse offenders in Washington" minimizes Franken’s actions while exaggerating Clinton’s alleged crimes via a list of accusers.  
+
+7. **Flag-Waving** – **Yes**  
+   *Explanation*: "Take our government back" appeals to patriotic duty to reclaim American governance.  
+
+8. **Loaded Language** – **Yes**  
+   *Explanation*: Terms like "rampant," "forcibly kissed," "violated," "cesspool of filth," and "feeding frenzy" evoke strong emotions.  
+
+9. **Reduction ad Hitlerum** – **No**  
+   *Explanation*: No comparisons to Nazis or universally hated groups.  
+
+10. **Bandwagon** – **Yes**  
+    *Explanation*: "If you agree, I hope you will support my campaign" urges joining a popular anti-establishment movement.  
+
+11. **Causal Oversimplification** – **No**  
+    *Explanation*: Corruption is framed as systemic, not reduced to a single cause.  
+
+12. **Obfuscation, intentional vagueness** – **No**  
+    *Explanation*: Allegations are specific (e.g., Franken’s incidents, Clinton accusers’ names).  
+
+13. **Appeal to authority** – **No**  
+    *Explanation*: No authoritative figures or institutions are cited as evidence.  
+
+14. **Black & white fallacy** – **Yes**  
+    *Explanation*: Implies only anti-establishment candidates can "clean up" Congress, presenting a binary choice.  
+
+15. **Thought-terminating clichés** – **No**  
+    *Explanation*: No phrases like "it is what it is" to shut down discourse.  
+
+16. **Red herring** – **Yes**  
+    *Explanation*: Shifting focus from Franken to Bill Clinton’s alleged crimes distracts from the article’s initial subject.  
+
+17. **Straw men** – **No**  
+    *Explanation*: No misrepresentation of opposing arguments.  
+
+18. **Whataboutism** – **Yes**  
+    *Explanation*: Deflecting criticism of Democrats by citing Bill Clinton’s allegations ("Democrats have been covering up his sexual crimes for years").  
+
+---
+
+### Verdict – 85% – Detailed Explanation:  
+The text is **highly propagandistic**, leveraging emotional manipulation, diversionary tactics, and partisan framing. Key indicators:  
+- **Emotional Loaded Language**: Graphic descriptors ("violated," "cesspool") heighten outrage.  
+- **Fear & Bandwagon Appeals**: Warnings of systemic corruption paired with calls to "support my campaign" exploit fear and tribal loyalty.  
+- **Distraction Techniques**: Shifting focus to Bill Clinton (Red Herring/Whataboutism) deflects from Franken’s accountability.  
+- **Oversimplification**: Reducing D.C. corruption to a "swamp" needing "draining" ignores complexity.  
+- **Partisan Agenda**: Explicit promotion of "anti-establishment candidates" frames the issue as a moral binary (Black & White Fallacy).  
+
+While based on real events (Franken/Clinton scandals), the text cherry-picks details, uses sensationalized language, and pushes a specific political agenda. The lack of balanced context, reliance on emotional triggers, and promotional intent confirm its propagandistic nature.

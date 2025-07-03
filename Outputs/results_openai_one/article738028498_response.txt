@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack an object or subject.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use a brief and memorable phrase.
+4. Appeal to fear – Yes – The text uses fear-inducing language, such as "Humanity’s WIPEOUT Foreshadowed?" and "Global Pandemic Imminent," to support the idea of an impending pandemic.
+5. Doubt – Yes – The text questions the credibility of WHO by suggesting a "far more sinister W.H.O. agenda" and labeling their message as "fear-mongering."
+6. Exaggeration/minimization – Yes – The text exaggerates the threat by stating "Humanity’s WIPEOUT Foreshadowed?" and "a global pandemic is imminent."
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – The text uses emotionally charged language, such as "terrible," "wipe out millions," and "fear-mongering."
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text is not deliberately unclear or obscure.
+13. Appeal to authority – Yes – The text uses statements from WHO officials and experts to support its claims.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 70% – The text exhibits several propaganda techniques, such as appeal to fear, doubt, exaggeration, loaded language, and appeal to authority. These elements suggest a high likelihood of the text being propaganda, as it aims to instill fear about a global pandemic and questions the motives of WHO, while using authoritative figures to lend credibility to its claims. However, it lacks other techniques like name-calling, slogans, and bandwagon, which slightly reduces the overall likelihood.

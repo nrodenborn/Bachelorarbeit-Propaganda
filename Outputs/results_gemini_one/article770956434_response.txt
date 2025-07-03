@@ -1,0 +1,37 @@
+Name calling – Yes – The text labels the authorities involved in the death of LaVoy Finicum as "tyrants". Example: "but that's not how tyrants work, is it?"
+
+Repetition – Yes – The poll question about Brett Kavanaugh is repeated three times in a row. Example: "Will Brett Kavanaugh be confirmed to the Supreme Court? Will Brett Kavanaugh be confirmed to the Supreme Court? Will Brett Kavanaugh be confirmed to the Supreme Court?"
+
+Slogans – No – The text does not use any brief, memorable phrases that act as slogans.
+
+Appeal to fear – No – The text focuses on past and present injustice rather than instilling fear of a future alternative.
+
+Doubt – Yes – The text questions the legitimacy and fairness of the previous administration's actions. Example: "The previous administration, however, filed an overzealous appeal that resulted in the Hammonds being sentenced to five years in prison. This was unjust."
+
+Exaggeration/minimization – Yes – The text minimizes the crime of arson for which the Hammonds were convicted. Example: "...a fire that leaked onto a small portion of neighboring public grazing land."
+
+Flag-Waving – No – The text does not make a direct appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words to influence the reader's opinion. Example: "The previous administration, however, filed an overzealous appeal... This was unjust."
+
+Reduction ad Hitlerum – No – The text does not compare any person or group to the Nazis.
+
+Bandwagon – Yes – The text suggests the Hammonds are deserving of clemency because they are popular and well-supported. Example: "...have widespread support from their neighbors, local law enforcement, and farmers and ranchers across the West."
+
+Causal Oversimplification – Yes – The text presents a single, simple cause for the complex Oregon protests. Example: "It should be noted that the protests that took place in Oregon a couple of years ago were a response to the injustice the Hammonds faced."
+
+Obfuscation, intentional vagueness – No – The text is direct and pointed in its praise and criticism, not deliberately vague.
+
+Appeal to authority – Yes – The text uses a judge's statement to support its argument that the original sentence was too harsh. Example: "...the judge noted that they are respected in the community and that imposing the mandatory minimum, 5-year prison sentence would “shock the conscience”..."
+
+Black & white fallacy – Yes – The text presents the situation as a simple conflict between the good, respected Hammonds and the unjust, overzealous previous administration, ignoring legal complexities. Example: The entire narrative frames the Hammonds as "devoted family men" and "respected contributors" while the government's actions are "unjust."
+
+Thought-terminating clichés – Yes – The text uses a rhetorical question to discourage critical thought about the death of LaVoy Finicum. Example: "No doubt, Finicum would have been found not guilty as well, but that's not how tyrants work, is it?"
+
+Red herring – Yes – The text introduces a completely irrelevant poll about Brett Kavanaugh, which distracts from the main topic. Example: "take our poll - story continues below Will Brett Kavanaugh be confirmed to the Supreme Court?"
+
+Straw men – No – The text presents its own one-sided argument rather than misrepresenting and refuting an opponent's argument.
+
+Whataboutism – No – The text criticizes the previous administration but does not accuse it of hypocrisy by pointing to a contradictory action.
+
+Verdict – 95% – The text is highly propagandistic. It employs a significant number of propaganda techniques (12 out of the 18 listed) to construct a one-sided and emotionally manipulative narrative. The purpose of the article is not simply to inform the public that the Hammonds were pardoned, but to persuade the reader that they were innocent victims of an "unjust" and "overzealous" previous administration and that President Trump's action was unequivocally righteous. It uses loaded language ("tyrants," "unjust"), minimization (describing arson as a fire that "leaked"), appeal to authority (selectively quoting a judge), and bandwagon (citing "widespread support") to build its case. Furthermore, it uses causal oversimplification to link the pardon to the broader Oregon protests and a red herring (the Kavanaugh poll) to distract and potentially gather user data. The combination of these techniques moves the text far beyond objective reporting into the realm of persuasion and political propaganda.

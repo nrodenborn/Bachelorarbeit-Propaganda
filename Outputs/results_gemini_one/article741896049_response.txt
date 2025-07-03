@@ -1,0 +1,39 @@
+Name calling – No – The text uses legal or quasi-legal terms like "immigration violators," "convicted criminals," and "alien." While some may find these terms dehumanizing, they are used in a technical, not a purely insulting, context within the framework of the report.
+
+Repetition – No – The text does not repeat a specific message or phrase multiple times to reinforce it.
+
+Slogans – No – The text does not use any brief, memorable phrases as slogans.
+
+Appeal to fear – Yes – The text supports the ICE operation by highlighting the criminal records of those arrested, listing serious offenses like "domestic violence," "aggravated assault," and "carrying a concealed weapon." This instills fear by suggesting these individuals pose a direct threat to public safety.
+
+Doubt – No – The text is a one-sided report and does not attempt to question the credibility of any other person or group.
+
+Exaggeration/minimization – No – The text provides specific numbers (16 arrests, 9 criminals) and lists of convictions without obvious exaggeration or minimization of the facts of the operation itself.
+
+Flag-Waving – Yes – The quote from the field office director, "I applaud the brave men and women of ICE who put themselves in harm’s way daily to keep our community safe," appeals to a sense of heroism and patriotic duty in protecting the community.
+
+Loaded Language – Yes – The text uses emotionally charged language to influence the reader's perception. Phrases like "brave men and women" and "harm's way" create a positive emotional image of ICE, while listing crimes like "domestic violence" and "aggravated assault" is intended to create a strong negative emotional response towards the arrestees.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+
+Bandwagon – No – The text does not suggest that its actions are popular or that everyone agrees with them.
+
+Causal Oversimplification – Yes – The statement, “This operation reflects ICE’s commitment to public safety through targeted enforcement efforts,” presents a simple cause (this operation) for a complex effect (public safety), implying that arresting these individuals is a direct and sufficient solution to a much larger issue.
+
+Obfuscation, intentional vagueness – No – The text is quite specific, providing the number of arrests, the counties involved, the nationalities, and examples of criminal records.
+
+Appeal to authority – Yes – The text uses a quote from Rebecca Adducci, the "field office director for ERO Detroit," to lend credibility and official sanction to the operation and its stated goals.
+
+Black & white fallacy – Yes – The text implicitly frames the situation as a simple choice between ICE's enforcement actions, which lead to "public safety," and the alternative, which is the danger posed by "convicted criminals." It ignores any other nuances, perspectives, or potential solutions.
+
+Thought-terminating clichés – No – The text does not use any common clichés to shut down debate.
+
+Red herring – No – All the information presented in the text is directly relevant to the ICE operation being reported.
+
+Straw men – No – The text does not engage with or refute any counter-arguments.
+
+Whataboutism – No – The text does not accuse any opponent of hypocrisy.
+
+***
+
+Verdict – 70% – This text is highly likely to be propaganda. While it presents itself as a factual news report or press release, its primary purpose is not just to inform, but to persuade the public of the necessity and righteousness of ICE's actions. It achieves this by carefully selecting which facts to highlight (emphasizing the 9 individuals with criminal records over the 7 without), and by employing several propaganda techniques. It uses loaded language ("brave men and women") and flag-waving to cast ICE agents as heroes. It uses an appeal to authority (the director's quote) to validate the mission. Most significantly, it relies on an appeal to fear by listing serious crimes, and then uses causal oversimplification and a black & white fallacy to frame the issue as a simple matter of ICE removing dangerous criminals to keep the community safe. The combination of these techniques, aimed at shaping public opinion in favor of the agency, moves the text from neutral reporting into the realm of propaganda.

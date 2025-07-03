@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack any person or group.
+2. Repetition – Yes – The phrase “Policies like background checks on all gun sales and Red Flag Laws save lives,” is stated once in the introduction and repeated verbatim in a quote from Mayor Karen Freeman-Wilson later in the text.
+3. Slogans – Yes – The text uses brief, memorable phrases like “common-sense, life-saving laws” and “put public safety over NRA priorities.”
+4. Appeal to fear – Yes – The text supports its ideas by referencing the “fear of being gunned down” and citing the mass shooting in Parkland as a reason for its push, instilling fear of gun violence.
+5. Doubt – No – The text does not explicitly question the credibility of any person or group.
+6. Exaggeration/minimization – No – The text reports on resolutions and quotes advocates without using clear exaggeration or minimization.
+7. Flag-Waving – Yes – The text appeals to a national identity by referring to “America’s gun violence crisis” and “America’s mayors,” framing the issue as a national one.
+8. Loaded Language – Yes – The text uses emotionally charged words and phrases like “gun violence crisis,” “person in crisis,” “common-sense,” and “life-saving” to appeal to emotions.
+9. Reduction ad Hitlerum – No – The text does not suggest any idea is popular with a hated group.
+10. Bandwagon – Yes – The article centers on a large, “bipartisan” group of mayors supporting these policies and quotes an advocate saying Washington should “follow the lead of America’s mayors,” appealing to the idea's growing popularity.
+11. Causal Oversimplification – Yes – The statement “Policies like background checks on all gun sales and Red Flag Laws save lives” presents a simple cause-and-effect solution to the complex problem of gun violence.
+12. Obfuscation, intentional vagueness – No – The text is specific about the policies being advocated for, such as background checks and Red Flag Laws.
+13. Appeal to authority – Yes – The entire article uses the "bipartisan U.S. Conference of Mayors" as an authority whose support for these resolutions serves as evidence for their validity.
+14. Black & white fallacy – Yes – The statement to “put public safety over NRA priorities” presents only two choices, implying that one cannot support both.
+15. Thought-terminating clichés – Yes – The phrase “common-sense” is used to frame the proposed laws in a way that discourages critical thought, as opposing them would be illogical or not sensible.
+16. Red herring – No – The text stays focused on the topic of the mayors' conference and gun control.
+17. Straw men – No – The text does not present or refute a misrepresented version of an opponent's argument.
+18. Whataboutism – No – The text does not charge any opponent with hypocrisy.
+
+Verdict – 70% – While this text is presented as a news article reporting on a real event, its construction relies heavily on propaganda techniques to promote a specific viewpoint. The article's framing is one-sided. It exclusively quotes and cites sources that support gun control (mayors, Everytown for Gun Safety) without including any opposing viewpoints or counterarguments, such as from the NRA or other gun-rights advocates. It heavily employs loaded language ("life-saving," "gun violence crisis"), appeals to authority (the bipartisan conference of mayors), and the bandwagon effect (all these mayors are "leading the charge"). Furthermore, it uses a black & white fallacy ("public safety over NRA priorities") and thought-terminating clichés ("common-sense") to frame the debate in a way that discourages dissent. The lack of balanced reporting and the deliberate use of persuasive and emotional framing to advocate for a political position, rather than simply inform, makes it function strongly as a piece of propaganda.

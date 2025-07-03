@@ -1,0 +1,37 @@
+Name calling – Yes – The text uses the term “Black Death” to describe the plague, which is a historical and emotionally charged label designed to evoke terror. Example: "It’s Airborne: Officials Warn That The “Black Death” Plague Could Spread Rapidly"
+
+Repetition – Yes – The text repeatedly emphasizes the idea that the plague is spreading and could spread further. Example: "plague could spread rapidly", "disease is spreading rapidly", "spread of this infection", "spread it to other places", "disease spreads so fast".
+
+Slogans – No – The text does not use any brief, memorable phrases in the manner of a slogan.
+
+Appeal to fear – Yes – The article is constructed to create fear by highlighting the most dangerous aspects of the disease. Example: "Once exposed, some people will die within 24 hours."
+
+Doubt – No – The text does not question the credibility of any person or organization; in fact, it uses authorities to build its own credibility.
+
+Exaggeration/minimization – Yes – The language used to describe the threat is highly dramatic and focuses on the worst-case scenarios, which can be seen as an exaggeration of the immediate risk to a global audience. Example: "The fears that the “black death” would spread from Madagascar have now taken hold."
+
+Flag-Waving – No – The article discusses a global health issue and does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words to create a sense of alarm and crisis. Example: "The World Health Organization (WHO) has now issued alarming warnings in nine countries too."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other groups hated by the audience.
+
+Bandwagon – Yes – The text suggests that because multiple countries and major organizations are concerned, the reader should be too. Example: "As nations grapple with the outbreak of the bubonic plague, nine countries are sounding warnings that the disease is spreading rapidly."
+
+Causal Oversimplification – No – The text does not attempt to explain the root cause of the outbreak with a simplistic reason; it focuses on the mechanics of its spread.
+
+Obfuscation, intentional vagueness – No – The text is specific, providing numbers, locations, and quoting named sources.
+
+Appeal to authority – Yes – The text heavily relies on the statements of experts and official organizations to validate its claims. Example: "Dr. Ashok Chopra, a professor of microbiology and immunology at the University of Texas, told The Sun Online the crisis in Madagascar had yet to peak."
+
+Black & white fallacy – No – The text describes a situation but does not present it as a simple two-option choice.
+
+Thought-terminating clichés – No – The text does not use any phrases intended to stop critical thought.
+
+Red herring – No – All the information presented in the text is directly relevant to the topic of the plague outbreak.
+
+Straw men – No – The text is a report and does not misrepresent or attack an opposing viewpoint.
+
+Whataboutism – No – The text does not accuse any party of hypocrisy.
+
+Verdict – 75% – The article reports on a factual event and cites credible authorities (WHO, IFRC, a university professor), which lends it an air of legitimacy. However, its primary method of communication relies heavily on propaganda techniques. The framing is sensationalist, using Name Calling ("Black Death"), Loaded Language ("deadly," "alarming"), and a strong Appeal to Fear (focusing on a 24-hour death window) to provoke a powerful emotional reaction from the reader. This suggests the main goal is not just to inform, but to alarm and engage the audience through fear. The use of Repetition (the rapid spread) and Bandwagon (nine countries are worried) further manipulates the reader into accepting the severity of the threat. While based in fact, the presentation is packaged as propaganda to maximize impact and readership.

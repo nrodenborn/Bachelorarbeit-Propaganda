@@ -1,0 +1,37 @@
+1. Name calling – No – The text does not use insulting labels to attack an object or subject.
+
+2. Repetition – No – The text does not repeat the same message over and over.
+
+3. Slogans – No – The text does not use a brief and memorable phrase.
+
+4. Appeal to fear – Yes – The text suggests a "massive cover-up" and questions the integrity of the FBI and LVMPD, instilling fear about their competence and trustworthiness.
+
+5. Doubt – Yes – The text questions the credibility of the FBI and LVMPD by highlighting their failure to record a victim and suggesting a cover-up.
+
+6. Exaggeration/minimization – Yes – The text uses phrases like "gross negligence" and "massive cover-up" which could be seen as exaggerating the situation.
+
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+
+8. Loaded Language – Yes – The text uses emotionally charged language such as "gross negligence," "massive cover-up," and "botched investigation."
+
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+
+12. Obfuscation, intentional vagueness – Yes – The text uses vague language and does not provide concrete evidence for some claims, such as the "massive cover-up."
+
+13. Appeal to authority – No – The text does not use an authority’s support as evidence.
+
+14. Black & white fallacy – No – The text does not present only two options among many.
+
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+
+16. Red herring – Yes – The mention of people getting haircuts at the crime scene distracts from the main issue of the unrecorded victim.
+
+17. Straw men – No – The text does not refute an argument that was not presented.
+
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 70% – The text exhibits several propaganda techniques, including appeal to fear, doubt, exaggeration, loaded language, obfuscation, and red herring. These elements suggest an intent to influence the reader's perception of the FBI and LVMPD's handling of the Las Vegas massacre investigation, making it likely that the text is propaganda. However, it does not employ all possible techniques, and some parts of the text present factual information, which slightly reduces the likelihood.

@@ -1,0 +1,20 @@
+1. Name calling – No – The text accuses the Democratic party of actions like "altering" and "stealing," but it does not apply a direct, insulting label to the group itself.
+2. Repetition – Yes – The poll question "Should Jim Acosta have gotten his press pass back?" is repeated three times in a row.
+3. Slogans – No – The text does not use any brief, memorable phrases that function as political slogans.
+4. Appeal to fear – Yes – "Florida should be called and called now unless the GOP wants to Florida and Georgia stolen the way they are stealing House seats."
+5. Doubt – Yes – "Some people point to Brenda Snipes, Broward’s Elections chief, for her troubling history of election transgressions."
+6. Exaggeration/minimization – Yes – The headline, "Federal Prosecutors Called In After Florida Democrats Caught Altering Election Documents," exaggerates the certainty of guilt by using the word "Caught," while the article's body only states that an investigation was requested.
+7. Flag-Waving – No – The text appeals to a partisan identity (GOP vs. Democrats) but does not make a direct appeal to patriotism or national identity.
+8. Loaded Language – Yes – "Florida should be called and called now unless the GOP wants to Florida and Georgia stolen..."
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other universally hated groups.
+10. Bandwagon – No – The text does not argue that an idea is correct simply because it is popular.
+11. Causal Oversimplification – No – The article focuses on a specific allegation and does not attempt to explain a complex event with a single, simple cause.
+12. Obfuscation, intentional vagueness – No – The text is not deliberately unclear; it is specific in its allegations, even while using speculative phrasing.
+13. Appeal to authority – Yes – "Politico reported that the department points to the Florida Democratic Party for changing dates on forms used to amend absentee and mail-in ballots."
+14. Black & white fallacy – Yes – "It is yet to be determined whether the federal investigation will find Democratic ineptitude or deception in this case."
+15. Thought-terminating clichés – No – The text does not use phrases or clichés intended to shut down critical thought.
+16. Red herring – Yes – The poll, "Should Jim Acosta have gotten his press pass back?", is entirely unrelated to the Florida election recount and serves to distract or engage the audience on a different topic.
+17. Straw men – No – The article presents its own narrative and does not set up and refute a counter-argument that was not made.
+18. Whataboutism – No – The text focuses on accusations against Democrats and does not deflect from another issue by charging them with hypocrisy.
+
+Verdict – 90% – The text is highly likely to be propaganda. Although it is based on a real news event and cites legitimate sources (e.g., Politico, the Florida Department of State), its primary purpose is to persuade rather than inform. This is evident from its origin (a partisan "Conservative Tribune"), its use of a sensationalized and exaggerated headline ("Caught Altering"), and its employment of numerous propaganda techniques. It uses loaded language ("stolen," "troubling history") and an appeal to fear to create an emotional, negative impression of the Democratic party. It casts doubt on electoral processes and individuals, presents a black-and-white fallacy about the motivations for the alleged actions ("ineptitude or deception"), and introduces a completely irrelevant red herring (the Jim Acosta poll) to engage its target audience. The combination of these elements frames the story not as a neutral report on an investigation, but as a confirmation of partisan accusations, making it a clear piece of propaganda.

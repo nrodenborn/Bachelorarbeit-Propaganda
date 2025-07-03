@@ -1,0 +1,30 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – **Yes** – "racist boycott movement" (labels the BDS movement as inherently racist).  
+2. **Repetition** – **Yes** – "If BDS is not anti-Semitic, why..." repeated twice in Lew’s statement.  
+3. **Slogans** – **Yes** – "First they came for the Jews. And then they came for everyone else" (memorable phrase invoking historical persecution).  
+4. **Appeal to fear** – **Yes** – "First they came for the Jews..." implies systematic targeting that will expand to others, instilling fear.  
+5. **Doubt** – **Yes** – "It is unclear whether Sadikov has faced any disciplinary action..." (questions the administration’s credibility).  
+6. **Exaggeration/minimization** – **Yes** – Exaggeration: Describing the vote as a "mob" action; Minimization: Calling McGill Daily’s funding "automatic student funding" to downplay legitimacy.  
+7. **Flag-Waving** – **Yes** – "Jewish self-determination" and "Jewish identity" (appeals to Jewish solidarity/identity).  
+8. **Loaded Language** – **Yes** – "harassment," "hate," "blatant agenda," "toxic campus press," "absurd attacks" (emotionally charged terms).  
+9. **Reduction ad Hitlerum** – **No** – No direct comparison to Hitler/Nazis beyond the "First they came..." reference (which alludes to Nazi persecution but does not explicitly link opponents to Hitler).  
+10. **Bandwagon** – **No** – No emphasis on the popularity of the pro-Israel position.  
+11. **Causal Oversimplification** – **Yes** – Attributes all campus antisemitism to the McGill Daily and BDS movement ("Antisemitism at McGill... nurtured by a toxic campus press").  
+12. **Obfuscation, intentional vagueness** – **No** – Arguments are direct, not deliberately obscure.  
+13. **Appeal to authority** – **No** – No cited authorities or institutions used as evidence.  
+14. **Black & white fallacy** – **Yes** – Presents BDS supporters as universally antisemitic with no nuance (e.g., "inherent anti-Semitism in the BDS movement").  
+15. **Thought-terminating clichés** – **Yes** – "utterly unacceptable," "inherent anti-Semitism" (shuts down debate by framing issues as self-evident).  
+16. **Red herring** – **Yes** – Introduces the hypothetical scenario of a paper refusing "pro-Islamist content" to distract from the core issue.  
+17. **Straw men** – **Yes** – Claims BDS supporters equate "Zionist" with "Jewish" (e.g., Lew’s "because I am Jewish"), but the text itself conflates opposition to Zionism with antisemitism.  
+18. **Whataboutism** – **No** – No explicit accusation of hypocrisy against BDS supporters (the Islamist comparison is a red herring, not a direct hypocrisy charge).  
+
+---
+
+### Final Verdict:  
+**Verdict – 90% –** The text is highly likely to be propaganda. It employs at least 12 of the 18 techniques analyzed, including loaded language, fear appeals, and oversimplification to frame a one-sided narrative. Key indicators:  
+- **Emotional manipulation:** Uses terms like "racist," "mob," and "toxic" to vilify opponents.  
+- **Narrative control:** Omits counterarguments (e.g., why BDS is supported) while presenting Jewish students as universal victims.  
+- **Selective framing:** Focuses solely on antisemitism as the motive for the board removals, ignoring possible procedural or political conflicts.  
+- **Hyperbole:** Inflates incidents (e.g., calling a vote a "mob" action) and ties isolated events to broad, systemic bias.  
+While based on real events, the text’s persuasive intent, lack of neutrality, and systematic use of propagandistic devices prioritize emotional persuasion over balanced reporting. The 10% uncertainty acknowledges the underlying factual basis (e.g., board removals), but the presentation is overwhelmingly manipulative.

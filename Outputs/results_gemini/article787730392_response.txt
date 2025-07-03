@@ -1,0 +1,30 @@
+Here is the analysis of the text for propaganda techniques:
+
+1.  **Name calling** – Yes – The headline labels the subjects as “New Mexico Jihadis,” which is an insulting label that presumes guilt and frames them as violent religious extremists before they have been convicted.
+2.  **Repetition** – Yes – The poll question “Who should replace Nikki Haley as our ambassador to the U.N.?” is repeated three times consecutively in the text.
+3.  **Slogans** – No – The text does not use any brief, memorable phrases in the manner of a slogan.
+4.  **Appeal to fear** – Yes – The Editor’s Note and the reporting on the alleged plot to commit “violent attacks on government, military, educational and financial institutions” and preparing children “to engage in jihad” are used to instill fear in the reader about the group and their ideology.
+5.  **Doubt** – Yes – The Editor’s Note directly questions the credibility of the defense attorney’s argument by stating, “If they were white, devout Christians, we wouldn't hear about this cause it would have never taken place.”
+6.  **Exaggeration/minimization** – Yes – The Editor’s Note exaggerates the position of Christians by claiming that if the perpetrators were Christian, the event “would have never taken place” and there “would have been an outcry by Christians everywhere,” which is an unverifiable and absolute statement.
+7.  **Flag-Waving** – Yes – The defense attorney’s argument appeals to American identity and values by referencing “a Second Amendment right to own firearms in this country” and “freedom of religion in this country.”
+8.  **Loaded Language** – Yes – The term “Jihadis” in the headline is emotionally charged. The defense attorney’s statement, “But they look different and they worship differently from the rest of us,” is also loaded, designed to evoke emotions related to prejudice and identity.
+9.  **Reduction ad Hitlerum** – No – The text does not make any comparison to Hitler or the Nazi party.
+10. **Bandwagon** – No – The text does not suggest that the reader should agree with an idea because it is popular.
+11. **Causal Oversimplification** – Yes – The Editor’s Note simplifies a complex issue by suggesting the sole reason for the alleged criminal behavior is the subjects’ non-Christian faith, stating that Christians would not engage in such behavior because it “would have gone against the teachings of Christ.”
+12. **Obfuscation, intentional vagueness** – No – The text is direct in its assertions and reporting; it does not use intentionally vague or obscure language to confuse the reader.
+13. **Appeal to authority** – Yes – The text cites multiple authorities, such as a “Federal Judge,” a “Magistrate Judge,” the “U.S. Attorney,” and the “Special Agent in Charge” of the FBI to lend credibility to the facts of the case. It also presents Robert Spencer as an authority by noting the article is posted with his permission.
+14. **Black & white fallacy** – Yes – The Editor’s Note presents a false dichotomy between the behavior of the Muslim subjects and hypothetical “white, devout Christians,” suggesting the latter group is incapable of such actions, thereby creating a black-and-white view of the two groups.
+15. **Thought-terminating clichés** – No – The text does not use common, short phrases designed to end discussion. While the Editor's Note attempts to shut down an argument, it does so with a paragraph rather than a cliché.
+16. **Red herring** – Yes – The poll titled “Who should replace Nikki Haley as our ambassador to the U.N.?” is inserted into the middle of the article and is completely irrelevant to the story about the New Mexico compound, serving as a distraction.
+17. **Straw men** – Yes – The defense attorney’s argument is that the suspects are being treated differently due to their race and religion. The Editor’s Note refutes a different, unstated argument by claiming white Christians would never commit the crime in the first place, thus misrepresenting and avoiding the attorney’s actual point about prejudice in the system.
+18. **Whataboutism** – Yes – The defense attorney’s core argument is a form of whataboutism. He deflects from the specific accusations against his clients by posing a hypothetical: “If these were white Christians…No one would bat an eye,” thereby accusing the justice system of hypocrisy.
+
+***
+
+**Verdict – 95% –** The text is overwhelmingly propagandistic. While it embeds factual reporting from a credible news source (KRWG), this reporting is framed by a collection of propaganda techniques designed to manipulate the reader's perception and promote a specific ideological viewpoint.
+
+The propaganda begins with the headline, which uses **Name calling** (“Jihadis”) to frame the subjects negatively. The **Editor’s Note** is the most potent piece of propaganda; it employs a **Straw man** to misrepresent the defense attorney's argument, uses a **Black & white fallacy** and **Causal Oversimplification** to create a false moral binary between Muslims and Christians, and leverages **Exaggeration** to make an absolute claim about Christian behavior. This note serves to immediately **Doubt** the central premise of the article's headline.
+
+Throughout the piece, **Loaded Language** and **Appeals to fear** are used to evoke strong emotional responses. The inclusion of a completely unrelated poll about Nikki Haley is a blatant **Red herring**, designed to distract the reader and collect user data. The **Repetition** of the poll question further emphasizes its function as a distraction and engagement tool rather than a relevant part of the article.
+
+Even the factual reporting, which uses **Appeal to authority** to seem credible, is weaponized within this framework. The article presents the defense attorney's **Whataboutism** argument only to have it immediately dismantled by the website's own editorializing. The combination of these techniques demonstrates that the text’s primary purpose is not to inform, but to persuade the reader to adopt a specific, biased viewpoint against the subjects based on their religion and to dismiss any claims of prejudice.

@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack any object or subject.
+2. Repetition – Yes – The phrase "importance of the investigation" is reiterated multiple times by Pompeo.
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+4. Appeal to fear – No – The text does not support an idea by instilling fear against other alternatives.
+5. Doubt – Yes – Critics question whether the Saudi rulers can be relied on to conduct a credible probe.
+6. Exaggeration/minimization – No – The text does not exaggerate or minimize any aspect of the situation.
+7. Flag-Waving – Yes – Pompeo urges Americans to be mindful of the extensive ties between Riyadh and Washington, appealing to national interests and identity.
+8. Loaded Language – No – The text does not use language that appeals to emotions or stereotypes.
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – Yes – Pompeo refuses to discuss possible consequences and avoids talking about the facts, which can be seen as intentionally vague.
+13. Appeal to authority – Yes – Pompeo uses the authority of Saudi leaders' commitments as evidence of a thorough investigation.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main issue.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – Yes – Pompeo shifts focus to the importance of Saudi cooperation against Iran, diverting from the Khashoggi case.
+
+Verdict – 60% – The text contains several elements of propaganda, such as repetition, doubt, flag-waving, obfuscation, appeal to authority, and whataboutism. These techniques are used to shape the narrative and influence public perception of the situation. However, not all propaganda techniques are present, and the text also provides factual reporting, which reduces the overall likelihood of it being pure propaganda.

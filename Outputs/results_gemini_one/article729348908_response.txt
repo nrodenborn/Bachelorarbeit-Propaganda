@@ -1,0 +1,20 @@
+1. Name calling – No – The text uses the term "ISIS" and "Islamic State" to identify the group Shivam Patel wanted to join, which is the standard name for the organization, not an insulting label created by the author. The text is descriptive and factual, not attacking.
+2. Repetition – No – The text is a linear news report detailing a sequence of events. No specific message or phrase is repeated to influence the reader.
+3. Slogans – No – The text does not contain any brief, memorable phrases intended to rally support or opposition.
+4. Appeal to fear – No – While the subject matter (terrorism, joining ISIS) may be frightening to readers, the article itself does not use fear-based language to promote an idea. It reports the facts of the case without sensationalism.
+5. Doubt – No – The text does not cast doubt on anyone's credibility. It states as a fact, based on a guilty plea, that Patel lied. This is reporting a legal finding, not using doubt as a rhetorical tool.
+6. Exaggeration/minimization – No – The article appears to stick to the facts presented in court documents. It even includes details that show nuance, such as Patel misidentifying the Fort Hood shooter and the location of the attack, which runs counter to exaggeration.
+7. Flag-Waving – No – The text mentions Patel wanted to replace his neighbor's American flag, but this is presented as a factual detail from the investigation, not as an appeal to patriotism by the author.
+8. Loaded Language – No – The text uses neutral, journalistic language. Terms like "terrorist organization" are standard legal and descriptive terms in this context, not emotionally charged words chosen by the author to manipulate the reader.
+9. Reduction ad Hitlerum – No – The text makes no comparisons to Nazis or any other hated group.
+10. Bandwagon – No – The text does not suggest that an idea is popular and therefore should be adopted.
+11. Causal Oversimplification – No – The text reports on Patel's stated motivations (e.g., being "displeased with how that country treated Muslims") but does not present this as a simple or sole cause for a complex phenomenon. It is reporting on an individual's case.
+12. Obfuscation, intentional vagueness – No – The text is specific, citing dates, locations, and official sources. It is clear and direct, even noting when information is unavailable ("It's unclear why...").
+13. Appeal to authority – Yes – The text repeatedly uses the court system and its documents as evidence for its claims. Example: "according to court documents," "A search of Patel's computer also showed," and "a statement of facts filed with his plea agreement said."
+14. Black & white fallacy – No – The text does not present a false dichotomy. It even adds nuance by stating, "Simply expressing support for a terrorist organization or attack is not against the law," which complicates a simple "good vs. evil" narrative.
+15. Thought-terminating clichés – No – The article is informational and does not use phrases designed to shut down critical thought.
+16. Red herring – No – All the information presented, such as Patel's trip to China, his conversion, and his lies to recruiters, is relevant to the central story of his crime and guilty plea.
+17. Straw men – No – The text is a news report and does not engage in debate or refute a mischaracterized argument.
+18. Whataboutism – No – The text does not attempt to charge any party with hypocrisy.
+
+Verdict – 5% – This text is a factual news report, not propaganda. Its primary purpose is to inform the public about the details of a specific legal case, relying on official sources. The overwhelming majority of propaganda techniques are absent. The one technique identified, "Appeal to authority," is used in a standard journalistic context to establish the factual basis of the report by citing court documents and official statements. This is a hallmark of credible reporting, not a manipulative tactic to push an unsupported agenda. The tone is neutral and objective, and the article includes nuances that are contrary to the typically polarizing and emotionally manipulative nature of propaganda.

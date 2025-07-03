@@ -1,0 +1,28 @@
+1. Name calling – No – The text describes the subject, Stephen Paddock, as the "Las Vegas gunman" and "shooter," which are factual descriptions in this context, not insulting labels.
+2. Repetition – Yes – The core idea that the official story is wrong and that the event was a "set-up" is repeated in the headline, the summary of the call, and the caller's direct quotes.
+3. Slogans – Yes – The headline, “‘It’s gotta be a set-up’”, functions as a brief, memorable phrase that encapsulates the article's entire premise.
+4. Appeal to fear – No – The text does not attempt to instill fear of the alternative (the official narrative); rather, it aims to create doubt and suspicion around it.
+5. Doubt – Yes – The entire purpose of the article is to question the credibility of the official account of the shooting. The caller’s testimony (“I can tell you 100% this is not that kind of guy”) and his questions about the lack of muzzle flashes are used to cast doubt on the official narrative.
+6. Exaggeration/minimization – Yes – The text minimizes Paddock's capacity for violence by quoting the neighbor ("He never even told me that he owned a gun"), while simultaneously exaggerating the significance of the neighbor's unsubstantiated claims by calling them "extraordinary" and "intriguing."
+7. Flag-Waving – Yes – The text identifies the caller as a "former Marine," using his identity and the associated trust and authority to lend credibility to his claims.
+8. Loaded Language – Yes – The text uses emotionally charged words and phrases like "massacre," "set-up," "wider plot," and "lone wolf" to appeal to emotions and stereotypes associated with conspiracies.
+9. Reduction ad Hitlerum – No – The text does not make any comparison to Hitler or other groups widely hated by the audience.
+10. Bandwagon – No – The text does not claim that this idea is already popular. Instead, it presents it as an alternative view and asks for audience engagement to potentially build a bandwagon effect.
+11. Causal Oversimplification – No – The text argues against the official story's "simple" cause (a lone gunman) and suggests the cause is actually more complex (a "wider plot"), which is the opposite of this technique.
+12. Obfuscation, intentional vagueness – Yes – The central claim of a "set-up" is deliberately vague. The article provides no concrete details about who might be behind this "set-up" or how it was executed, leaving the audience to speculate.
+13. Appeal to authority – Yes – The caller, "Rick," is presented as an authority figure in two ways: as a neighbor with personal knowledge of the shooter and as a "firearms expert."
+14. Black & white fallacy – Yes – The article presents the situation as a choice between only two options: the official "lone wolf" story or the "set-up" conspiracy theory, ignoring a range of other possibilities (e.g., the neighbor is mistaken, Paddock led a secret life).
+15. Thought-terminating clichés – Yes – The caller's phrase, "I’m not a big conspiracy theory guy, but...", is a cliché used to preemptively dismiss skepticism and encourage the audience to accept the conspiratorial claim that follows.
+16. Red herring – Yes – The mention of a warning given to the crowd 45 minutes before the shooting is an irrelevant distraction. It does not prove anything about Paddock but is introduced to support the vague idea of a "wider plot."
+17. Straw men – No – The text does not misrepresent and then refute a specific argument from an opponent; it casts general doubt on the entire official narrative.
+18. Whataboutism – No – The text does not accuse opponents of hypocrisy by pointing to other events or actions.
+
+***
+
+Verdict – 95% – This text is a clear example of propaganda, specifically of the kind used to promote conspiracy theories. Its primary purpose is not to inform the reader with balanced facts, but to persuade them to adopt a specific, unsubstantiated viewpoint—that the Las Vegas shooting was a "set-up."
+
+The article is built around an "appeal to authority" by presenting a caller as both a personal acquaintance ("neighbor") and a technical expert ("former Marine," "firearms expert"). This authority is used to introduce "doubt" about the official story. This doubt is then framed using a "black & white fallacy," where the only alternative to the official narrative is the vague conspiracy.
+
+The piece heavily relies on "loaded language" ("massacre," "wider plot") and "intentional vagueness" (the "set-up" is never defined) to create suspicion without providing evidence. It employs "thought-terminating clichés" ("I'm not a big conspiracy theory guy, but...") to bypass critical thinking. The headline itself is a "slogan" that, through "repetition," becomes the main takeaway.
+
+While the author includes a single sentence offering a counterpoint ("friends and neighbors express shock..."), this is a token gesture immediately undermined by the following sentence, which pivots back to why the conspiracy is worth considering. The final call to action ("What do you think? Let us know in the comments") is a classic engagement technique designed to build a community around the propagandistic message, reinforcing the belief among the target audience. The combination of these numerous techniques demonstrates a deliberate effort to manipulate audience perception rather than report news.

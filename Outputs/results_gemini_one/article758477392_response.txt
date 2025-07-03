@@ -1,0 +1,39 @@
+Name calling – No – The text does not use insulting labels to attack a subject. Terms like "sonic attack" are descriptive of a theorized event, and "strategic rivals" is a standard geopolitical term, not an insult.
+
+Repetition – No – While key details are repeated (the link to Cuba, the nature of the symptoms), this is done for context and clarity, which is standard in news reporting, rather than for the propagandistic purpose of indoctrination.
+
+Slogans – No – The text does not contain any brief, memorable phrases intended to rally support or encapsulate an ideology.
+
+Appeal to fear – Yes – The text uses fear-inducing language, particularly in the headline with "'sonic attack' fears" and by quoting the official health alert which warns of "unusual acute auditory or sensory phenomena" and "piercing noises."
+
+Doubt – No – The article reports on existing uncertainty and a lack of confirmed information (e.g., "not sure what has caused the employee's symptoms," "still-unexplained illnesses"). It is reporting on a situation where doubt is a factual component, not actively trying to create doubt to discredit something.
+
+Exaggeration/minimization – No – The text reports on official findings, such as a "mild traumatic brain injury." While the headline term "brain injury" is stark, it is qualified within the article and appears to be based on the information provided by the state department.
+
+Flag-Waving – No – The text mentions the "US embassy" and "US citizens," but this is for factual context and does not constitute an appeal to patriotism or national identity.
+
+Loaded Language – Yes – The term "sonic attack" is emotionally charged as it implies a deliberate, hostile, and clandestine act of aggression. Its use, especially in the headline, frames the event in a dramatic and alarming way.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other groups widely hated by the audience.
+
+Bandwagon – No – The text does not suggest that an idea is true because it is popular or that the reader should agree with the majority.
+
+Causal Oversimplification – No – The text avoids simplification by stating clearly that the cause is unknown and by exploring several different and complex scientific theories for the symptoms (infrasound, ultrasound, electromagnetic weapons).
+
+Obfuscation, intentional vagueness – No – The text itself is not deliberately unclear. It is reporting on symptoms that are described by the source as "subtle and vague," but the article's language attempts to be as precise as possible about what is known and unknown.
+
+Appeal to authority – Yes – The article extensively quotes and cites official sources like the "US state department," "US Secretary of State Mike Pompeo," and scientific experts like "Dr Toby Heys" to support its claims and provide information.
+
+Black & white fallacy – No – The article does not present the situation as having only two possible outcomes or explanations. Instead, it explores multiple theories regarding the cause of the health issues.
+
+Thought-terminating clichés – No – The text does not use any phrases or clichés that are designed to shut down critical thought.
+
+Red herring – No – The information provided, such as the comparison to the events in Cuba, is directly relevant context for the main story and not an irrelevant distraction.
+
+Straw men – No – The text does not misrepresent or create a false argument in order to refute it.
+
+Whataboutism – No – The text does not attempt to discredit a subject by accusing them of hypocrisy.
+
+***
+
+Verdict – 35% – The text is a news report, not a piece of overt propaganda. Its primary function is to inform the public about an event. However, it uses techniques that overlap with propaganda, particularly in its framing. The use of **Appeal to Fear** and **Loaded Language** (e.g., "'brain injury' amid 'sonic attack' fears") in the headline is designed to create an immediate emotional response of alarm and suspicion. The consistent **Appeal to Authority** by citing US government officials gives weight to this framing. While the body of the article is more balanced, noting the uncertainty of the cause and even including a scientific counterpoint, the initial framing and the repeated comparison to a similar incident in an adversarial country (Cuba) subtly shapes the reader's perception of China as a potential aggressor. Therefore, while not pure propaganda, the article's journalistic style has a propagandistic effect by promoting a narrative of threat and suspicion.

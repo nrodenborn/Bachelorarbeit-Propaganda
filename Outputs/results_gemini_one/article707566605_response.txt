@@ -1,0 +1,39 @@
+Name calling – No – The text uses descriptive but alarming terms for the disease like “black death” and “medieval disease,” but it does not use insulting labels to attack a person, group, or entity to discredit them.
+
+Repetition – Yes – The idea that the healthcare system will be overwhelmed or unable to cope is repeated multiple times. Example: “Once the bacteria is resistant, the Madagascar healthcare system will be overwhelmed,” and “Madagascar’s healthcare system will be unable to cope if the deadly plague outbreak continues to escalate,” and “experts continue to fear the healthcare system is on the brink of being overwhelmed.”
+
+Slogans – No – The text does not use any brief, memorable phrases as rallying cries.
+
+Appeal to fear – Yes – The entire article is structured to create fear about the plague's potential consequences. Example: "Should the disease actually spread to the African mainland, it will be all but impossible to control and the health care system would certainly be unable to handle the outbreak at that point, making a global pandemic much more likely."
+
+Doubt – No – The text does not question the credibility of anyone or anything; in fact, it does the opposite by heavily relying on the credibility of "experts" and "officials."
+
+Exaggeration/minimization – Yes – The text uses absolute and highly alarming terms that can be seen as exaggerations of risk. Example: "Officials warn that it’s inevitable that this bacterial infection that’s infected over 2000 people will become resistant to antibiotics." The word "inevitable" presents a high-risk possibility as a certainty.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses words and phrases chosen to evoke a strong emotional response rather than to be purely informative. Example: The disease is referred to as the “black death” and a “medieval disease,” and the situation is described as “terrifying” and “scarier.”
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups like the Nazis.
+
+Bandwagon – No – The text does not suggest that an idea is correct because it is popular. It relies on authority, not popularity.
+
+Causal Oversimplification – Yes – The text presents a simple and direct causal chain for a complex series of events. Example: "Once the bacteria is resistant, the Madagascar healthcare system will be overwhelmed, and the disease will have control of the nation." This presents a complex scenario as a simple, direct consequence.
+
+Obfuscation, intentional vagueness – No – The text’s message is direct and clear in its intent to alarm the reader. While it uses vague attributions like "officials," the overall message is not deliberately obscured.
+
+Appeal to authority – Yes – The text repeatedly cites experts and officials to lend weight to its claims. Example: “Professor John Joe McFadden from the University of Surrey told MailOnline: ‘Fortunately in [the] plague, it has not developed much antibiotic resistance. If that kicks in, the plague will be far, far scarier.’”
+
+Black & white fallacy – No – The text does not present a choice between only two options. It presents a single, negative trajectory as the likely outcome.
+
+Thought-terminating clichés – No – The text does not use clichés to shut down discussion; it aims to provoke alarm.
+
+Red herring – No – All the information presented, such as statistics on doctors and hospital beds, is relevant to the central argument about the severity of the outbreak.
+
+Straw men – No – The text does not set up and refute a false argument from an opposing side.
+
+Whataboutism – No – The text does not accuse any opponent of hypocrisy.
+
+***
+
+Verdict – 85% – The text is highly likely to be propaganda, or at the very least, journalism that heavily employs propaganda techniques for sensationalism. While based on a real event, its primary goal is not to provide a balanced, neutral report, but to generate fear and alarm. This is achieved through a powerful combination of several techniques. The article is built on a foundation of **Appeal to Fear**, constantly warning of a "terrifying" future and a "global pandemic." It reinforces this fear with **Loaded Language** ("black death," "medieval disease") and **Exaggeration** (describing antibiotic resistance as "inevitable"). To make these claims credible, it heavily relies on **Appeal to Authority**, quoting various "experts," "officials," and scientists whose warnings all align with the article's frightening narrative. The core message of the healthcare system being unable to cope is hammered home through **Repetition**. The result is a one-sided narrative that presents a worst-case scenario as a near certainty, which is a hallmark of propaganda designed to manipulate emotion rather than to purely inform.

@@ -1,0 +1,37 @@
+Name calling – No – The text does not use any insulting labels to attack a person, group, or object.
+
+Repetition – No – The text does not repeat a specific message in a manipulative way; it explains a scientific concept which requires revisiting key terms for clarity.
+
+Slogans – No – The text does not use any brief, memorable phrases to rally support or oversimplify a message.
+
+Appeal to fear – No – The text actively works against this by stating in the headline "scientists aren’t worried" and later that the event "will have very little effect on the overall global warming trend".
+
+Doubt – No – The text does not question the credibility of any person or source; it presents the scientific findings as credible.
+
+Exaggeration/minimization – No – While it mentions the grand minimum is an "exaggerated version of the typical solar minimum," this is used as a scientific description, not as a tool for manipulation. It also minimizes the effect on global warming based on the researchers' conclusions, not to deceptively downplay a threat.
+
+Flag-Waving – No – The text does not make any appeal to patriotism or national identity.
+
+Loaded Language – No – The language used is objective and scientific, not emotionally charged or stereotypical.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups like the Nazis.
+
+Bandwagon – No – The text does not suggest an idea is correct because it is popular; it presents a scientific finding.
+
+Causal Oversimplification – No – The text avoids this by explaining the complexity of solar cycles and noting that forecasting specific effects "has proven difficult".
+
+Obfuscation, intentional vagueness – No – The text is written clearly with the intent to inform the reader about a scientific phenomenon.
+
+Appeal to authority – Yes – "The study, which was published in Astrophysical Journal Letters, was carried out by a team led by physicist Dan Lubin of the University of California, San Diego."
+
+Black & white fallacy – No – The text does not present a false dichotomy of only two choices.
+
+Thought-terminating clichés – No – The text does not use any phrases that discourage critical thought.
+
+Red herring – No – The text stays focused on the central topic and does not introduce irrelevant material to distract the reader.
+
+Straw men – No – The text presents information and does not refute any unstated arguments.
+
+Whataboutism – No – The text does not charge any opponent with hypocrisy.
+
+Verdict – 0% – The text is an informative news article reporting on a scientific study. Its primary purpose is to educate the public about a natural phenomenon, not to persuade them towards a specific ideology or action. It uses neutral language, cites credible sources appropriately (the "Appeal to authority" is a legitimate journalistic practice of sourcing, not a fallacious argument), and actively downplays potential for alarm. It lacks the manipulative intent and widespread use of propaganda techniques that would classify it as propaganda.

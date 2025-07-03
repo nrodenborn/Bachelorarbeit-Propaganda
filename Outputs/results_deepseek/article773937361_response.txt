@@ -1,0 +1,31 @@
+### Analysis of Propaganda Techniques in the Text:
+
+1. **Name calling** – **Yes** – Examples: "evil and apostate men" (referring to German bishops), "wolves," "rotten thing," "grotesquely corrupt Fr. Maciel," "homosexualist cabal."  
+2. **Repetition** – **Yes** – Repeated emphasis on "New Paradigm" (e.g., "McCarrick is the face of the New Paradigm," "going along with the New Paradigm is a guarantee of destruction").  
+3. **Slogans** – **Yes** – "What’s Your Trade?" (title), "state of emergency," "Deposit of the Faith."  
+4. **Appeal to fear** – **Yes** – Warnings that priests face homelessness, unemployment, and blacklisting if they oppose corruption (e.g., "a bishop can... render a priest homeless, penniless and jobless").  
+5. **Doubt** – **Yes** – Questions the credibility of bishops (e.g., "even the 'good bishops' have simply no idea how close they are to being bodily chucked out," "bishops won’t protect and support good priests?").  
+6. **Exaggeration/minimization** – **Yes** – Exaggeration: "nearly the entire episcopate of the United States either colluded directly or kept quiet." Minimization: Downplays bishops' responses as "lame whitewashing attempt."  
+7. **Flag-Waving** – **Yes** – Appeals to Catholic identity and tradition (e.g., "preserving the precious treasure... the sacramental life," "authentic Catholic life").  
+8. **Loaded Language** – **Yes** – Emotionally charged terms like "predatory gay priests," "ravening eyes," "toxic emission," "blackmailing culture," "purge."  
+9. **Reduction ad Hitlerum** – **No** – No direct comparison to Hitler/Nazis. References to "cabal" imply conspiracy but lack explicit Hitler parallels.  
+10. **Bandwagon** – **Yes** – Cites Rod Dreher, Steve Skojec, and John Zmirak to validate claims (e.g., "Dreher is doing excellent work," "Zmirak suggested...").  
+11. **Causal Oversimplification** – **Yes** – Blames all crises on a single "homosexualist cabal" (e.g., "the result of a mass-collusion," "the wolves are now looking... at the faithful").  
+12. **Obfuscation, intentional vagueness** – **No** – Arguments are direct; no deliberate ambiguity.  
+13. **Appeal to authority** – **Yes** – Uses Rod Dreher, Steve Skojec, and Henry Sire as sources (e.g., "As Dreher reported," "historian Henry Sire documented").  
+14. **Black & white fallacy** – **Yes** – Presents a binary: "faithful" vs. "corrupt" clergy (e.g., "They are, in short, our enemies," "wolves").  
+15. **Thought-terminating clichés** – **Yes** – Phrases like "state of emergency" and "New Paradigm" shut down nuance (e.g., "certain norms are naturally suspended" in emergencies).  
+16. **Red herring** – **No** – All examples tie back to the central critique of Church corruption.  
+17. **Straw men** – **No** – Criticizes actual positions (e.g., bishops' defense of "a few bad apples").  
+18. **Whataboutism** – **No** – No deflection via accusations of hypocrisy.  
+
+---
+
+### Final Verdict:  
+**Verdict – 95% –** The text is overwhelmingly propagandistic. It employs **14/18 techniques** to advance a highly partisan narrative:  
+1. **Agenda-Driven Framing**: Portrays the Catholic Church as systemically corrupt due to a "homosexualist cabal," dismissing institutional reforms or nuanced analysis.  
+2. **Emotional Manipulation**: Uses fear (priests facing destitution), outrage ("life-long homosexual rapist"), and urgency ("final slide," "state of emergency") to rally readers against Church leadership.  
+3. **Dichotomous Rhetoric**: Divides actors into "faithful" vs. "evil" camps, delegitimizing dissent (e.g., bishops are "wolves" or "enemies of Christ").  
+4. **Selective Evidence**: Cites sympathetic sources (Dreher, Sire) while ignoring counter-narratives or Church responses.  
+5. **Call to Action**: Urges financial separatism (e.g., "escrow funds," buying convents) and frames lay defiance as necessary for survival, implicitly endorsing schism.  
+While based on real scandals (McCarrick), the text’s one-sided demonization, oversimplified causality, and relentless emotional appeals prioritize persuasion over balanced discourse. The 5% uncertainty acknowledges the underlying factual basis of clergy abuse scandals, but the presentation is unequivocally propagandistic.

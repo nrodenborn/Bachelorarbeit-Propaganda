@@ -1,0 +1,39 @@
+**Name calling** – Yes – The text uses the term "deep state plot" to label the actions of FBI and DOJ officials, which is a pejorative and insulting label meant to cast them as conspirators against the state. Example: "none of this would be happening if the deep state plot to “stop” Trump had succeeded."
+
+**Repetition** – Yes – The text repeats the name "Jim Comey" in a short span to emphasize his sole responsibility for controversial decisions. Example: "We see Jim Comey and Jim Comey alone deciding which DOJ policies to follow and which to ignore... and we see Jim Comey and Jim Comey alone deciding whether to send a letter to Congress..."
+
+**Slogans** – Yes – The text uses and is titled after a brief, memorable phrase presented as a definitive conclusion to a complex issue. Example: "Gowdy said that “prejudging the outcome of an investigation... is the “textbook definition of bias.”"
+
+**Appeal to fear** – Yes – The text stokes fear of a secret, powerful group subverting the democratic process. Example: "none of this would be happening if the deep state plot to “stop” Trump had succeeded."
+
+**Doubt** – Yes – The entire piece is constructed to cast doubt on the official findings of the IG report and the credibility of the officials involved. Example: "In a predictable performance, the duo cited mistakes and raised concerns but solved none of the lingering mysteries..."
+
+**Exaggeration/minimization** – Yes – The text exaggerates the impact of a congressman's questioning while minimizing the official conclusion of the IG report. Example: "In a devastating exchange with Horowitz, Gowdy said..."
+
+**Flag-Waving** – No – The text does not make explicit appeals to patriotism, national symbols, or a collective national identity. Its appeal is partisan rather than patriotic.
+
+**Loaded Language** – Yes – The text uses emotionally charged words and phrases to influence the reader's perception. Example: "devastating exchange," "lingering mysteries," "deep state plot."
+
+**Reduction ad Hitlerum** – No – The text makes no comparisons to Hitler or the Nazis.
+
+**Bandwagon** – No – The text does not argue that an idea is correct simply because it is popular or that "everyone" believes it.
+
+**Causal Oversimplification** – Yes – The text reduces the complex motivations and events surrounding multiple federal investigations to a single, simple cause. Example: "none of this would be happening if the deep state plot to “stop” Trump had succeeded."
+
+**Obfuscation, intentional vagueness** – Yes – The text uses vague phrasing to create suspicion without making a direct, falsifiable claim. Example: "If the IG did know the subject of the president’s communications with Clinton, he failed to reveal any details."
+
+**Appeal to authority** – Yes – The text selectively uses the statements of congressmen like Trey Gowdy as authoritative evidence to support its claims. Example: "Gowdy said that “prejudging the outcome of an investigation... is the “textbook definition of bias.”"
+
+**Black & white fallacy** – Yes – The text presents the situation as a simple conflict between two opposing sides, ignoring any nuance or middle ground. Example: "Democrats echoed the IG report’s conclusion that there was no bias. Republicans sought to tie up some loose threads."
+
+**Thought-terminating clichés** – Yes – The text uses a phrase presented as an irrefutable conclusion in order to discourage further critical thought. Example: "...is the “textbook definition of bias.”"
+
+**Red herring** – Yes – The text introduces the topic of President Obama's emails to distract from the main subject, which is the IG's report on bias in the FBI's investigation. Example: "The IG report confirmed that President Obama communicated with Hillary Clinton on her unsecured email system."
+
+**Straw men** – Yes – The text refutes the simple argument that "there was no bias," rather than addressing the IG report's actual, more nuanced conclusion that the bias found did not affect the investigation's outcome. Example: "the massive report released last week that found anti-Trump bias did not affect FBI and DOJ decisions." The article then spends its entirety arguing that bias existed, which the report already conceded.
+
+**Whataboutism** – Yes – The text deflects an accusation against the attorney general by making a counter-accusation about James Comey. Example: "The attorney general had been accused of “softening or watering down his report,” Gowdy said, “When the reality is it was Jim Comey who softened and watered down his press release..."
+
+***
+
+**Verdict – 95% –** The text is overwhelmingly propagandistic. While it is structured around factual events (a congressional hearing), its primary purpose is not to inform but to persuade the reader to adopt a specific and highly partisan narrative. It achieves this by employing a vast majority of the propaganda techniques listed. The piece selectively highlights facts that support its thesis while ignoring or downplaying those that do not. It is saturated with loaded language ("devastating exchange," "deep state plot"), logical fallacies (whataboutism, straw man, red herring), and emotional appeals (fear of a "plot") designed to bypass rational analysis and create a simple, emotionally resonant story of heroes (Republicans uncovering the truth) and villains (a corrupt "deep state"). The title itself, "Textbook Definition of Bias," frames the article as an authoritative judgment rather than a neutral report, making its persuasive, and therefore propagandistic, intent clear from the outset.

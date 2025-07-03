@@ -1,0 +1,37 @@
+Name calling – Yes – The text attacks opponents with insulting labels, for example by referring to the “left-wing media” and dismissing their arguments as “just silly.”
+
+Repetition – Yes – The text repeats the poll question “Will Brett Kavanaugh be confirmed to the Supreme Court?” three times in a row. The core message that Trump's policies have been tough on Russia is also repeated throughout the article by the author and the quoted authorities.
+
+Slogans – No – The text does not use any brief, memorable phrases that function as slogans.
+
+Appeal to fear – No – The text does not attempt to instill fear about alternatives; its primary goal is to discredit criticism of Trump.
+
+Doubt – Yes – The text explicitly questions the credibility of the media and former government officials. Example: “The very intensity and nastiness of former CIA Director Brennan and former Director of National Intelligence Clapper is an attempt to distract attention from their failure to protect America.”
+
+Exaggeration/minimization – Yes – The text exaggerates and minimizes to make its point. For example, it describes President Obama's response to Ukraine as “weakness on a pathetic scale” (exaggeration) and dismisses all media criticism as “just silly” (minimization).
+
+Flag-Waving – Yes – The text appeals to patriotism by framing the debate around who better protects American interests. Example: “the people who failed to protect America from Russian meddling in 2016.”
+
+Loaded Language – Yes – The text uses emotionally charged words to influence the reader. Examples include “hand-wringing,” “nastiness,” and “hysteria of the left.”
+
+Reduction ad Hitlerum – No – The text does not compare any person or idea to Nazis or other hated groups.
+
+Bandwagon – No – The text argues against the mainstream media narrative, positioning its view as a counter-argument rather than an appeal to popularity.
+
+Causal Oversimplification – Yes – The text presents a simple cause for a complex situation. Example: “The very intensity and nastiness of former CIA Director Brennan and former Director of National Intelligence Clapper is an attempt to distract attention from their failure to protect America.” This offers a single, simple motive for their criticism.
+
+Obfuscation, intentional vagueness – No – The text is direct in its argument and provides specific examples (sanctions, military aid) to support its claims, rather than being intentionally vague.
+
+Appeal to authority – Yes – The text relies heavily on the testimony of supposedly credible figures to support its argument. Example: “Here’s The Federalist’s Mollie Hemingway explaining:” and “Former Speaker of the House, Newt Gingrich, concurred with Hemingway...”
+
+Black & white fallacy – Yes – The text presents the situation as a choice between only two possibilities. Example: “Any intellectually honest review of the last decade of foreign policy would lead one to admit that President Trump has most assuredly been tougher on Putin and Russia than Obama ever was.” This frames the issue as a simple binary (Trump was tougher, or you are intellectually dishonest), ignoring any nuance.
+
+Thought-terminating clichés – Yes – The text uses phrases that discourage critical thought. The opening line, “This is just silly,” serves to dismiss the entire opposing argument without engaging it.
+
+Red herring – Yes – The text introduces a completely irrelevant topic to distract the reader. Example: The poll, “Will Brett Kavanaugh be confirmed to the Supreme Court?”, is inserted in the middle of an article about foreign policy towards Russia.
+
+Straw men – Yes – The text refutes a distorted or simplified version of the opponent's argument. Example: It characterizes the media's argument as believing Trump “is some kind of Russian mole,” which is an extreme caricature of the criticism, making it easier to attack.
+
+Whataboutism – Yes – The text deflects criticism of Trump by accusing his critics of hypocrisy. Example: “First, the very people who have been loudest in attacking President Trump about his performance at the Helsinki summit are the people who failed to protect America from Russian meddling in 2016.”
+
+Verdict – 95% – The text is a clear example of propaganda. It employs a multitude of propaganda techniques to construct a one-sided argument aimed at persuading the reader rather than informing them objectively. Instead of a balanced analysis, it uses name-calling, loaded language, and straw man arguments to attack opponents. It relies heavily on appeals to friendly authorities (Gingrich, Hemingway) and whataboutism to deflect criticism. The argument is framed as a black-and-white fallacy, where the only "intellectually honest" conclusion is the one presented. The inclusion of a completely irrelevant red herring (the Kavanaugh poll) further demonstrates that the article's purpose is not journalistic integrity but political persuasion and audience engagement for a specific ideological viewpoint.

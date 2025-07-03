@@ -1,0 +1,39 @@
+1. Name calling – Yes – The text repeatedly refers to the "Uranium One Scandal." Labeling the complex series of events a "scandal" is a form of name-calling that presupposes wrongdoing and frames the subject in a negative light from the outset.
+
+2. Repetition – Yes – The text repeatedly mentions the "Uranium One deal," "bribery," "kickbacks," and the "FBI mole" to continuously reinforce the central narrative of a corrupt deal that was covered up.
+
+3. Slogans – No – The text does not use any brief, memorable phrases as slogans.
+
+4. Appeal to fear – Yes – The text instills fear by highlighting "legitimate national security concerns," Russia's "ties to Iran," and Russia's "intentions and reach into the U.S. energy market," suggesting a grave threat to the country that was ignored by the previous administration.
+
+5. Doubt – Yes – The text is built on casting doubt on the credibility and motives of government bodies and officials. Example: "And none of that evidence got aired before the Obama administration made those decisions," and "current Attorney General Jeff Sessions and other Justice Department officials appear to be covering for them."
+
+6. Exaggeration/minimization – Yes – The text uses exaggerated language to heighten the sense of conspiracy and wrongdoing. Example: "massive Russian 'nuclear money laundering apparatus'" and "explosive report."
+
+7. Flag-Waving – Yes – The text appeals to patriotism by framing the issue as a matter of national security. Example: "The Russians were compromising American contractors in the nuclear industry with kickbacks and extortion threats, all of which raised legitimate national security concerns."
+
+8. Loaded Language – Yes – The text is filled with emotionally charged words to influence the reader's perception. Examples include "scandal," "mole," "extortion threats," "corrupt," "iron-clad gag order," and "scolded."
+
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other similarly hated groups.
+
+10. Bandwagon – No – The text does not appeal to the popularity of an idea; instead, it relies on appeals to specific authorities.
+
+11. Causal Oversimplification – Yes – The text suggests a simple cause-and-effect relationship for a complex event. Example: "Based on what the FBI knew – including evidence which purportedly includes a video of Russians preparing briefcases of bribe money – the Uranium One deal never should have gone through." This simplifies the multi-agency CFIUS approval process into a single issue of a bribery investigation.
+
+12. Obfuscation, intentional vagueness – Yes – The text uses anonymous sources to create an impression of authority without providing verifiable evidence. Example: "a person who worked on the case told The Hill, speaking on condition of anonymity for fear of retribution by U.S. or Russian officials.”
+
+13. Appeal to authority – Yes – The text heavily relies on citing figures and publications that support its narrative to give it an appearance of credibility. Example: "Rep. Ron DeSantis, (R-Fla.) told The Hill," and "Senate Judiciary Committee Chairman Chuck Grassley (R-Iowa) sent a similar rebuke."
+
+14. Black & white fallacy – Yes – The text presents the situation as a simple choice between two extremes, ignoring nuance. Example: "The essential question is whether the Obama Justice Department provided notice of the criminal activity... before the CFIUS approval." This frames the complex issue as a simple question of disclosure, implying that if they knew, their approval was corrupt, without considering other possibilities.
+
+15. Thought-terminating clichés – No – The text does not use phrases that are designed to shut down critical thought.
+
+16. Red herring – Yes – The main subject of the article is a specific indictment against Mark Lambert. However, the text quickly uses this event to introduce and focus on a much larger, politically charged narrative involving the Obama administration, Robert Mueller, and Rod Rosenstein, distracting from the specific details of the indictment to fuel a broader political argument.
+
+17. Straw men – No – The text critiques and questions opponents but does not appear to invent a false argument simply to refute it.
+
+18. Whataboutism – No – The text focuses its criticism on one group (the Obama administration and associated officials) and does not deflect criticism by accusing an opponent of hypocrisy.
+
+***
+
+Verdict – 95% – The text is highly propagandistic. It takes a factual event—a DOJ indictment—and uses it as a hook to promote a pre-existing, politically charged narrative of a vast conspiracy and cover-up involving the Obama administration, the DOJ, Robert Mueller, and Rod Rosenstein. The article, originally from a source known for its strong political leanings, systematically employs numerous propaganda techniques. It uses loaded language ("scandal," "mole," "explosive") and appeals to fear (threats to "national security") to create an atmosphere of crisis and corruption. It relies heavily on appeals to a selective set of authorities (politicians and journalists who support the narrative) while simultaneously casting doubt on the integrity of official institutions. By using techniques like causal oversimplification and red herring, it connects the indictment to a larger political scandal in a way that the indictment itself does not, guiding the reader to a conclusion that is not supported by the presented facts alone but by the propagandistic framing of those facts.

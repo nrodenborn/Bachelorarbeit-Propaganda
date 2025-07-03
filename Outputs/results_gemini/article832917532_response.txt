@@ -1,0 +1,22 @@
+1. Name calling – No – The text reports on events and quotes individuals without using insulting labels itself.
+2. Repetition – No – The text presents a series of developments and quotes from different sources, not a single repeated message.
+3. Slogans – No – The text does not use any brief, memorable phrases to promote an idea.
+4. Appeal to fear – Yes – Senator Grassley's quote uses this technique by suggesting that continuing the "collusion narrative" will "play into the hands of our foreign adversaries."
+5. Doubt – Yes – Senator Grassley's statement, "that we still haven’t seen any evidence of collusion," is used to cast doubt on the narrative that collusion occurred.
+6. Exaggeration/minimization – No – The text reports facts and quotes without using overt exaggeration or minimization.
+7. Flag-Waving – Yes – Senator Grassley's statement appeals to patriotism by warning that certain actions "play into the hands of our foreign adversaries" and will "harm our political discourse."
+8. Loaded Language – Yes – The quote from Senator Grassley uses the phrase "speculation and innuendo," which are emotionally charged words used to frame the investigation negatively.
+9. Reduction ad Hitlerum – No – There are no comparisons to hated groups in the text.
+10. Bandwagon – Yes – Senator Grassley's statement that "Republicans and Democrats have roundly praised Mueller’s reputation" is an appeal to the idea that everyone agrees on Mueller's integrity, thus his findings should be accepted.
+11. Causal Oversimplification – No – The text does not attempt to explain the cause of any complex event.
+12. Obfuscation, intentional vagueness – No – The text is written in a clear, direct, and journalistic style.
+13. Appeal to authority – Yes – The text cites the authority of the "Justice Department," "U.S. Attorney General William Barr," and "special counsel Robert Mueller" to report the news.
+14. Black & white fallacy – No – The text presents multiple perspectives and does not limit the options to only two.
+15. Thought-terminating clichés – Yes – Senator Grassley's statement that continuing the "collusion narrative" will "only serve to further harm our political discourse" is a phrase intended to discourage further debate on the topic.
+16. Red herring – No – All information presented in the text is relevant to the topic of the Mueller report's submission.
+17. Straw men – No – The text reports on direct responses to the situation and does not misrepresent or invent arguments to refute.
+18. Whataboutism – No – The text does not contain any instances of accusing an opponent of hypocrisy.
+
+Verdict – 10% – The text itself is a news report and is not inherently propaganda. Its primary function is to inform the public of an event—the delivery of the Mueller report—and to present the immediate reactions of key figures from both political parties. It maintains a neutral tone and attributes all opinions and statements to their sources.
+
+However, several propaganda techniques are present within the direct quotes it includes, almost all of them from Senator Grassley's statement. His statement employs loaded language ("speculation and innuendo"), appeal to fear ("play into the hands of our foreign adversaries"), flag-waving, and thought-terminating clichés to frame the end of the investigation in a specific political light. The article is reporting on a political figure using propaganda, rather than being propaganda itself. The 10% likelihood accounts for the journalistic choice of which quotes to include and how much space to give them, as the lengthy and technique-filled statement from Grassley is the final voice in the article, which can subtly influence a reader's takeaway.

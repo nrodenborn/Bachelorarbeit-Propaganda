@@ -1,0 +1,40 @@
+1. Name calling – No – There are no insulting labels or attacks on any person or group in the text.
+
+2. Repetition – No – There is no significant repetition of the same message or phrase.
+
+3. Slogans – No – There are no brief, memorable phrases used as slogans.
+
+4. Appeal to fear – Yes – The text warns that the next outbreak could be "stronger", could "spill over into neighbouring countries and beyond", and calls the situation a "dangerous combination". These statements are designed to instill concern or fear about future outbreaks.
+
+5. Doubt – No – The text does not question the credibility of anyone or anything.
+
+6. Exaggeration/minimization – Yes – There is some exaggeration in the warning that the next outbreak could be "more pronounced or stronger" and could affect more people and even other countries, though this is presented as a possibility rather than a certainty.
+
+7. Flag-Waving – No – There is no appeal to patriotism or identity.
+
+8. Loaded Language – Yes – Phrases like "dangerous combination", "voiced alarm", and "the issue is serious" are emotionally charged and could provoke anxiety.
+
+9. Reduction ad Hitlerum – No – There are no comparisons to hated groups or historical villains.
+
+10. Bandwagon – No – There is no appeal to popularity or suggestion that everyone agrees.
+
+11. Causal Oversimplification – Yes – The statement that poor sanitation and vector control mean the next outbreak could be worse simplifies the complex causes of plague outbreaks.
+
+12. Obfuscation, intentional vagueness – No – The text is fairly clear and factual, with little use of vague or obscure expressions.
+
+13. Appeal to authority – Yes – The warnings and information are presented by the WHO Director-General, an authority figure, lending weight to the statements.
+
+14. Black & white fallacy – No – The text does not present only two options or oversimplify choices.
+
+15. Thought-terminating clichés – No – There are no clichés used to shut down discussion.
+
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main issue.
+
+17. Straw men – No – The text does not misrepresent or refute an argument that was not presented.
+
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy or shift blame.
+
+---
+
+**Verdict – 40% –**  
+The text contains some elements of propaganda, notably appeal to fear, exaggeration/minimization, loaded language, causal oversimplification, and appeal to authority. These techniques are used to emphasize the seriousness of the plague situation and the potential for future outbreaks. However, the majority of the text is factual, informative, and based on statements from a credible authority (WHO). The intent appears to be more about public health awareness and warning rather than manipulation for political or ideological purposes. Therefore, while some propaganda techniques are present, the overall likelihood that this is a piece of deliberate propaganda is moderate but not high.

@@ -1,0 +1,39 @@
+Name calling – No – The text criticizes the ideas of "environmental campaigners" but does not attack them with an insulting label.
+
+Repetition – Yes – The core message that the sun is dimming and an ice age is approaching is repeated multiple times, starting with the headline and continuing throughout the text. For example: "The Sun Is Going DARK... Ice Age Approaches" and "the evidence could point to an approaching ice age."
+
+Slogans – Yes – The headline "The Sun Is Going DARK" serves as a brief, memorable, and alarming phrase to encapsulate the article's message.
+
+Appeal to fear – Yes – The text instills fear by describing potential future events in alarming terms. For example: "...triggering a barrage of cataclysmic events, says The Express UK in 2016" and "...plunging global temperatures and destabilization of the Earth’s crust will become more common..."
+
+Doubt – Yes – The text aims to cast doubt on the established science of global warming by presenting a counter-narrative. For example: "This warning will infuriate environmental campaigners who argue by 2030 the world faces increased sea levels and flooding due to glacial melt at the poles and a warming of the globe."
+
+Exaggeration/minimization – Yes – The text exaggerates the significance of a cyclical solar minimum by calling it "The Sun Is Going DARK" and suggesting it will lead to "cataclysmic events."
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words to create a sense of alarm and urgency. For example: "cataclysmic," "worrying changes," and "infuriate."
+
+Reduction ad Hitlerum – No – The text does not associate any idea with a hated group like the Nazis.
+
+Bandwagon – No – The text does not claim an idea is true because it is popular; it relies more on appeals to authority.
+
+Causal Oversimplification – Yes – The text presents a simple cause (low sunspot activity) for a series of complex and dramatic effects (volcanic eruptions, destabilization of the Earth's crust, an ice age). For example: "Research by the The Space and Science Research Center in Florida revealed a strong link between low solar activity and seismic events."
+
+Obfuscation, intentional vagueness – Yes – The text uses vague attributions to create an impression of widespread expert agreement without providing specific, verifiable sources. For example: "But other sources say it’s more than possible..." and "A team of experts have warned..."
+
+Appeal to authority – Yes – The text repeatedly cites authorities like NASA, Watts Up With That?, and The Space and Science Research Center to lend credibility to its claims, even while misinterpreting or sensationalizing their findings. For example: "NASA’s own data is showing that the star our globe revolves around is dimming."
+
+Black & white fallacy – Yes – The text frames the climate issue as a choice between two extremes: the "global warming" narrative of environmentalists or the "impending ice age" narrative it promotes, ignoring other possibilities or nuances. For example, the final paragraph pits the article's warning directly against the argument for global warming.
+
+Thought-terminating clichés – No – The text does not use common clichés to shut down debate.
+
+Red herring – Yes – The text mentions the SpaceX launch of the TSIS-1 sensor. While related to the sun, its inclusion serves to add a veneer of scientific currency and distract from the lack of direct evidence for the "cataclysmic" claims being made.
+
+Straw men – Yes – The text presents a simplified version of climate science ("increased sea levels and flooding due to glacial melt... and a warming of the globe") and then refutes this "straw man" by presenting its own counter-narrative about an impending ice age.
+
+Whataboutism – No – The text does not accuse its opponents of hypocrisy.
+
+Verdict – 95% – The text is a clear example of propaganda. It employs a multitude of propaganda techniques to promote a specific, alarmist viewpoint. The core strategy involves taking a kernel of truth—that the sun goes through cycles of activity, including periods of minimum sunspots known as a solar minimum—and wrapping it in layers of fear, exaggeration, and misleading logic.
+
+It heavily relies on **Appeal to Fear** with loaded language like "cataclysmic" and "destabilization of the Earth's crust." It uses **Appeal to Authority** by name-dropping NASA to create a false sense of scientific legitimacy, while simultaneously using **Obfuscation** with vague sources like "a team of experts" to imply a consensus that doesn't exist. The entire premise is built on **Causal Oversimplification** (sunspots = ice age) and **Exaggeration** ("The Sun Is Going DARK"). Finally, it creates a **Black & White Fallacy** and a **Straw Man** in its concluding paragraph, framing the issue as a simple battle between its ice age theory and a simplified version of global warming science. The combination of these techniques is designed to bypass critical analysis and persuade the reader through emotion and distorted evidence.

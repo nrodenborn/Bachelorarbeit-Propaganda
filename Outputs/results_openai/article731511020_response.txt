@@ -1,0 +1,20 @@
+1. Name calling – No – There is no use of insulting labels against any object or subject in the text.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – There is no brief and memorable phrase used as a slogan.
+4. Appeal to fear – No – The text does not attempt to instill fear against any alternatives.
+5. Doubt – No – The text does not question the credibility of someone or something.
+6. Exaggeration/minimization – Yes – The statement "many are large enough to swallow an entire continent here on Earth" is an exaggeration.
+7. Flag-Waving – No – There is no appeal to patriotism or identity.
+8. Loaded Language – No – The language used does not strongly appeal to emotions or stereotypes.
+9. Reduction ad Hitlerum – No – There is no suggestion that an idea is popular with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event; it actually highlights the complexity and lack of understanding.
+12. Obfuscation, intentional vagueness – No – The text is clear and does not use deliberately unclear expressions.
+13. Appeal to authority – Yes – The text uses quotes from scientists to support its points, such as Agustín Sánchez-Lavega and Michael H. Wong.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main topic.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 10% – The text primarily provides information about a scientific observation related to Neptune's storms. It includes some exaggeration when describing the size of the storms, and it uses quotes from scientists, which could be seen as an appeal to authority. However, these elements are minor and do not strongly suggest that the text is propaganda. The primary purpose of the text seems to be informative rather than persuasive or manipulative.

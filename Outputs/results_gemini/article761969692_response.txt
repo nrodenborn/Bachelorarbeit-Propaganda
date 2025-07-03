@@ -1,0 +1,39 @@
+Name calling – Yes – The text uses the term "illegal alien" to describe undocumented immigrants, which is a politically charged and often considered pejorative label. Example: "...border wall to stop the illegal alien flow; a second Operation Wetback, including E-Verify, to get the illegal alien self-deporting..."
+
+Repetition – Yes – The core message of "immigrant displacement of American workers" is repeated throughout the article. Example: "the shocking surge in immigrant displacement of American workers," "immigrant displacement of American workers, cannot be jawboned away," and "A detailed snapshot of American worker displacement..."
+
+Slogans – Yes – The text uses short, impactful phrases to drive its point home. Example: The repeated line "ADVANTAGE IMMIGRANTS" and the play on the political slogan "America First" with "'America First' has not translated to Americans First."
+
+Appeal to fear – Yes – The text creates fear by suggesting that without drastic action, immigrants will continue to take jobs from Americans and eventually demographically overwhelm them. Example: "If both rates persist that long, the term “native born” will refer to a minuscule fraction of the U.S. population."
+
+Doubt – Yes – The text casts doubt on the media for not covering the issue in the way the author desires. Example: "But the even the conservative non-Main Stream Media is currently too steeped in economic euphoria to notice. Nd anyway, they almost never report the immigration dimension."
+
+Exaggeration/minimization – Yes – The text uses words like "shocking surge" and "all-time high" to exaggerate the scale of the issue. It also uses a short-term growth rate to project a future where native-born Americans are a "minuscule fraction," which is a significant exaggeration.
+
+Flag-Waving – Yes – The text appeals to patriotism by framing the issue as a conflict between "native-born Americans" and foreign-born individuals, and by invoking the slogan "America First." Example: "As far as the labor market is concerned, “America First” has not translated to Americans First."
+
+Loaded Language – Yes – The text is filled with emotionally charged words and phrases designed to create a negative impression of immigration. Examples include "shocking surge," "displacement," "damage done by eight years of Obama," and "illegal alien flow."
+
+Reduction ad Hitlerum – No – The text does not compare any idea or group to Hitler or the Nazi party.
+
+Bandwagon – No – The text does not suggest its ideas are popular. In fact, it argues the opposite, claiming that the media is ignoring the issue.
+
+Causal Oversimplification – Yes – The article attributes complex labor market outcomes solely to the level of immigration, ignoring other factors like automation, global trade, and economic policy. Example: "The only answer is legislation— border wall... a moratorium on legal immigration." This suggests these actions alone will solve the perceived problem.
+
+Obfuscation, intentional vagueness – No – The text is direct and clear in its argument and its proposed solutions. It uses specific data and terminology, rather than being intentionally vague.
+
+Appeal to authority – Yes – The text cites the Bureau of Labor Statistics (BLS) report as the source of its data to lend credibility to its analysis. Example: "Source: BLS, The Employment Situation-May 2018, Table A-7, June 1, 2018."
+
+Black & white fallacy – Yes – The article frames the labor market as a zero-sum game with only two groups: "native-born Americans" and "immigrants," where a gain for one is a loss for the other. Example: "May job numbers released Friday show native-born Americans big winners and immigrants... big losers."
+
+Thought-terminating clichés – No – The text does not rely on common, generic phrases designed to shut down debate. It instead uses its own specific, repeated slogans to reinforce its argument.
+
+Red herring – No – The article stays focused on its central theme of immigration and its alleged impact on the job market for native-born Americans. It does not introduce irrelevant topics to distract the audience.
+
+Straw men – No – The text focuses on presenting its own argument and interpretation of data rather than misrepresenting and refuting an opponent's position.
+
+Whataboutism – No – The text does not deflect criticism by accusing an opponent of hypocrisy. It focuses on its own criticisms of media coverage and government policy.
+
+***
+
+Verdict – 95% – The text is a clear and strong example of propaganda. While it uses real data from an authoritative source (the BLS), it frames, interprets, and presents this data in a way that is deliberately designed to provoke an emotional response and lead the reader to a single, predetermined conclusion. The piece heavily employs a wide range of propaganda techniques. It uses Loaded Language ("shocking surge," "damage") and Name Calling ("illegal alien") to create a negative emotional atmosphere. It frames the entire issue as a Black & White Fallacy, a zero-sum conflict between "native-born Americans" and "immigrants." This conflict is reinforced through Repetition of the "immigrant displacement" theme and the use of Slogans like "ADVANTAGE IMMIGRANTS." The article relies heavily on an Appeal to Fear, projecting a future where native-born Americans are a "minuscule fraction" of the population. This is a form of Exaggeration based on short-term data. The entire argument is a Causal Oversimplification, blaming a complex economic situation entirely on immigration and proposing a simple, drastic solution. By wrapping these techniques in the language of economic analysis and citing an official source (Appeal to Authority), the text attempts to mask its persuasive and manipulative intent with a veneer of objectivity. The sheer number and combination of these techniques confirm its nature as propaganda.

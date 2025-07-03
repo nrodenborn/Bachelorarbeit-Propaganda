@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack any person, group, or idea.
+2. Repetition – No – While the main idea of the record-breaking distance is central to the article, it is not repeated in a propagandistic manner to indoctrinate the reader.
+3. Slogans – No – The text does not use any brief, memorable phrases to promote an idea in a simplistic way.
+4. Appeal to fear – No – The text does not attempt to instill fear in the audience about any alternative ideas or actions.
+5. Doubt – No – The text does not cast doubt on the credibility of any person, group, or concept.
+6. Exaggeration/minimization – No – While using some enthusiastic language ("gorgeously detailed eye candy"), it does not significantly exaggerate or minimize facts to mislead the audience. It even accurately describes the new images as "somewhat grainy."
+7. Flag-Waving – No – The text focuses on the achievement for "mankind" and does not use appeals to national pride or patriotism to persuade the audience.
+8. Loaded Language – Yes – The text uses emotionally positive language like "stunning snapshots," "gorgeously detailed eye candy," and "remarkable" to create a sense of awe and excitement around the subject, influencing the reader's perception positively.
+9. Reduction ad Hitlerum – No – The text makes no comparison to hated groups.
+10. Bandwagon – No – The text does not suggest that an idea is good simply because it is popular.
+11. Causal Oversimplification – No – The text does not reduce a complex event to a single, simple cause.
+12. Obfuscation, intentional vagueness – No – The text is specific, providing details like the exact distance, the name of the spacecraft, and the objects photographed.
+13. Appeal to authority – Yes – The text quotes Alan Stern, the "New Horizons Principal Investigator," using his expert position to validate the significance of the achievement.
+14. Black & white fallacy – No – The text does not present a false dilemma or limit the options to only two.
+15. Thought-terminating clichés – No – The text does not use any phrases designed to stop critical thinking.
+16. Red herring – No – All the information presented is relevant to the topic of the New Horizons mission.
+17. Straw men – No – The text is not argumentative and does not misrepresent or refute any opposing viewpoint.
+18. Whataboutism – No – The text does not deflect criticism by accusing others of hypocrisy.
+
+Verdict – 0% – This text is not propaganda; it is an informational news article. Although it uses two techniques listed (Loaded Language and Appeal to Authority), their application is within the normal bounds of journalistic writing. The purpose of propaganda is to promote a specific, often political, point of view by manipulating emotions and information. This text's purpose is to inform the public about a scientific achievement. The "Appeal to Authority" is a standard journalistic practice of citing an expert source to provide credible information. The "Loaded Language" is used for stylistic effect to make the article engaging and convey a sense of wonder, not to deceive or manipulate the reader into adopting a biased viewpoint. The article lacks the manipulative intent, distortion of facts, and promotion of a specific ideology that are the hallmarks of propaganda.

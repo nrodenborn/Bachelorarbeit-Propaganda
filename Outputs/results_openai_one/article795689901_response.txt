@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use an insulting label to attack an object or subject.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use a brief and memorable phrase.
+4. Appeal to fear – Yes – The text uses language that suggests an "assault" on the nation by a caravan of migrants, which could instill fear.
+5. Doubt – Yes – The text mentions Trump claimed "without providing evidence" that Democrats are backing the movement, questioning the credibility of the claim.
+6. Exaggeration/minimization – Yes – The term "onslaught" and "assault" could be seen as exaggerating the situation.
+7. Flag-Waving – Yes – The text appeals to patriotism by discussing the mobilization of the U.S. military to protect the border.
+8. Loaded Language – Yes – Words like "assault" and "onslaught" are emotionally charged.
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text does not use deliberately unclear expressions to confuse the audience.
+13. Appeal to authority – No – The text does not use authority’s support as evidence.
+14. Black & white fallacy – Yes – The text presents a binary choice of either stopping the caravan or closing the border.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought.
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 70% – The text displays several propaganda techniques, such as appeal to fear, doubt, exaggeration, flag-waving, loaded language, and black & white fallacy. These elements suggest a significant likelihood that the text is intended to influence public opinion by appealing to emotions and presenting a simplified narrative. However, not all techniques are present, and some information is factual reporting, which slightly reduces the overall likelihood of it being pure propaganda.

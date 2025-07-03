@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack any object or subject.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use a brief and memorable phrase.
+4. Appeal to fear – No – The text provides factual information about Ebola without instilling fear against alternatives.
+5. Doubt – No – The text does not question the credibility of someone or something.
+6. Exaggeration/minimization – No – The text provides factual information without exaggerating or minimizing the situation.
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – No – The text does not use emotionally charged or stereotypical language.
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text provides clear and specific information without being deliberately vague.
+13. Appeal to authority – Yes – The text references the World Health Organization (WHO) and Congo's Health Ministry as authoritative sources for information.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought or meaningful discussion.
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main topic.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 5% – The text is primarily informational and provides factual details about the Ebola outbreak in the Democratic Republic of Congo. It cites authoritative sources like the WHO and Congo's Health Ministry to support its information. There is no evident use of propaganda techniques to manipulate or influence the audience's perception beyond providing factual updates and context about the Ebola virus. The only technique present is an appeal to authority, which is appropriate in the context of reporting on a health crisis. Therefore, the likelihood of this text being propaganda is very low.

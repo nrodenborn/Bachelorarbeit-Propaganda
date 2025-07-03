@@ -1,0 +1,24 @@
+1. Name calling – Yes – The text labels Christine Ford a “far-left Democrat operative.”
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use brief and memorable phrases as a primary tool of persuasion.
+4. Appeal to fear – Yes – The text suggests the Democrats have “nefarious goals of stopping the President from strengthening America and protecting Americans,” implying a negative future if they succeed.
+5. Doubt – Yes – The text repeatedly questions the credibility of the accuser and her story, for example, by calling it an “unprovable accusation” and stating her “memory of the event may be suspect.”
+6. Exaggeration/minimization – Yes – The text exaggerates the Democrats' motives by calling their goals “nefarious” and minimizes the accusation by calling it “unprovable.”
+7. Flag-Waving – Yes – The text appeals to patriotism with the phrase “strengthening America and protecting Americans.”
+8. Loaded Language – Yes – The text uses emotionally charged words like “nefarious goals” and “far-left Democrat operative.”
+9. Reduction ad Hitlerum – No – The text does not suggest any idea is popular with groups hated by the audience, such as Nazis.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – Yes – The text presents a simple cause for the accusation by stating, “This is clearly a set-up... designed to derail the nomination of a good man.”
+12. Obfuscation, intentional vagueness – No – The text is direct in its arguments and does not use deliberately unclear expressions.
+13. Appeal to authority – No – While the text quotes an author from the National Review, it presents his argument rather than using his authority alone as evidence.
+14. Black & white fallacy – Yes – The introductory text presents a binary choice: the accusation is either a nefarious political “set-up” by Democrats or it is legitimate, with the text strongly implying only the former is true.
+15. Thought-terminating clichés – No – The text does not use phrases designed to discourage critical thought. It mentions “boys will be boys” only to refute it.
+16. Red herring – Yes – The title and first sentence introduce accusations against Keith Ellison, Bill Clinton, Al Franken, and George Soros to distract from the central issue of the Kavanaugh allegation.
+17. Straw men – Yes – The title creates a straw man by claiming “Democrats Want Us To Believe All Women,” an oversimplified and absolute position that is easy to attack by pointing out exceptions.
+18. Whataboutism – Yes – The entire premise of the title and opening sentence is to charge Democrats with hypocrisy by asking “what about” other accused Democrats, deflecting from the accusation against Kavanaugh.
+
+Verdict – 85% – The text is a composite piece, and its propagandistic nature comes from how its parts are assembled. The first section (before the David French quote) is overtly and intensely propagandistic. It uses a high concentration of techniques, including Whataboutism, Straw Men, Red Herring, Name Calling, Loaded Language, Causal Oversimplification, and Appeal to Fear to frame the issue in a highly partisan and emotionally manipulative way.
+
+The second, longer section is an excerpt of political commentary that is more analytical in tone. While it argues for a specific viewpoint (that the evidence against Kavanaugh is weak), it does so by weighing evidence and acknowledging the seriousness of the charge, even explicitly rejecting a thought-terminating cliché (“boys will be boys”). This section, on its own, is better classified as opinion journalism than pure propaganda.
+
+However, the text as a whole is presented as a single article. The aggressive, propagandistic introduction acts as a frame, telling the reader how to interpret the more reasoned analysis that follows. By front-loading the piece with accusations of a "set-up" by "nefarious" political "operatives," the author primes the reader to view the subsequent analysis not as an objective weighing of facts, but as confirmation of the initial, politically-charged conclusion. This combination of emotional manipulation with selective analysis makes the overall text a highly effective piece of propaganda.

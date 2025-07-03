@@ -1,0 +1,30 @@
+Here are the propaganda techniques and whether they are used in the text:
+
+1.  Name calling – Yes – The text refers to the subjects of the investigation as a “Muslim spy ring” and its alleged leader as a “ringleader,” which are insulting labels designed to attack them.
+2.  Repetition – Yes – The poll question “Will Brett Kavanaugh be confirmed to the Supreme Court?” is repeated three times consecutively. The core idea of the “missing server” is also repeated throughout the article to reinforce its importance.
+3.  Slogans – No – The text does not use brief, memorable phrases that function as slogans.
+4.  Appeal to fear – Yes – The text instills fear by asking leading questions like, “Who has been exposed to blackmail and God knows what else?” and “And how deeply has America been compromised?” It also uses the word “treason” to evoke fear of betrayal to the nation.
+5.  Doubt – Yes – The text questions the credibility of the official investigation by stating, “Prosecutors say they investigated allegations of improper behavior... but will bring no charges,” implying a cover-up. It also casts doubt on Democrats who “claim they were never told about any of the cybersecurity issues.”
+6.  Exaggeration/minimization – Yes – The text exaggerates the situation by labeling the events as “treason” and a “spy scandal,” when the only official charge mentioned is bank fraud. It minimizes the prosecutors' decision not to press other charges by framing it as suspicious rather than a result of a lack of evidence.
+7.  Flag-Waving – Yes – The text appeals to patriotism by framing the issue as a threat to national integrity, asking, “how deeply has America been compromised?” and using the term “treason.”
+8.  Loaded Language – Yes – The text is filled with emotionally charged words and phrases like “Muslim spy ring,” “treason,” “Pakistani-born aides,” and suggests officials are “playing dumb and covering the matter up.”
+9.  Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or Nazis.
+10. Bandwagon – No – The text does not argue that its claims are true because they are popular.
+11. Causal Oversimplification – Yes – The text presents a complex legal and political case as a simple story of a “spy ring” and a Democratic “cover-up,” ignoring the nuances of the investigation that led to a single charge of bank fraud.
+12. Obfuscation, intentional vagueness – No – The text is not intentionally vague; it attempts to be specific by citing memos and sources to build its particular narrative.
+13. Appeal to authority – Yes – The text repeatedly cites a “secret memo” from “Congress’s top cop” as definitive proof of its claims. It also mentions a tweet by President Donald Trump to lend weight to the idea of a missing server.
+14. Black & white fallacy – Yes – The text presents the situation as one of two extremes: either there was a massive treasonous conspiracy, or you believe the official story about bank fraud, which the article frames as an obvious lie. It does not allow for any middle ground or alternative explanations.
+15. Thought-terminating clichés – No – The text does not use clichés to end discussion; it actively tries to provoke a specific line of thought.
+16. Red herring – Yes – The text inserts a poll about the confirmation of Brett Kavanaugh, which is entirely unrelated to the Awan investigation and serves as a distraction.
+17. Straw men – Yes – The text refutes a simplified version of the opposing argument, stating, “Democrats have since claimed that the case is about nothing but bank fraud.” It then attacks this simple claim rather than addressing the more complex official finding that there was insufficient evidence for other charges.
+18. Whataboutism – No – The text does not deflect criticism by accusing its opponents of hypocrisy on an unrelated issue.
+
+***
+
+Verdict – 95% – The text is overwhelmingly an example of propaganda. Its primary purpose is not to inform but to persuade the audience to adopt a specific, negative viewpoint towards the Democratic Party and the Awan family. This is achieved through the heavy and combined use of numerous propaganda techniques.
+
+The article immediately sets a hostile tone with loaded language and name-calling in its headline (“Muslim Spy Ring”). It uses an appeal to fear by framing the events as “treason” and a threat to national security. It systematically builds its case by appealing to the authority of a “secret memo” while simultaneously casting doubt on the credibility of official institutions like the prosecutors and Democratic members of Congress.
+
+Furthermore, it employs logical fallacies like causal oversimplification to create a simple villain-and-conspiracy narrative, and the black & white fallacy to eliminate any nuanced interpretation of the events. The inclusion of a completely irrelevant poll on Brett Kavanaugh is a clear use of a red herring to distract or conflate issues. The text constructs a straw man argument by misrepresenting the position of Democrats and then attacking that fabricated position.
+
+While the article is built around some factual elements (the existence of an investigation, a memo, and a plea deal for bank fraud), these facts are selectively presented and framed within a narrative constructed almost entirely of propaganda techniques designed to manipulate the reader's emotions and perceptions.

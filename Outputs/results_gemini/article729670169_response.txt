@@ -1,0 +1,20 @@
+1. Name calling – No – The text uses factual descriptions (e.g., "bankrupt U.S. territory") rather than insulting labels to attack a subject.
+2. Repetition – No – While figures are mentioned more than once to provide context and detail, no single persuasive message is repeated to influence the reader.
+3. Slogans – No – The text does not contain any brief, memorable phrases intended for mass appeal.
+4. Appeal to fear – No – The text describes the "cataclysmic damage" from the hurricane as a factual basis for the aid, not to instill fear about an alternative course of action.
+5. Doubt – No – The article reports statements from officials without questioning their credibility.
+6. Exaggeration/minimization – No – The text provides a balanced view by stating the amount of aid received ($16 billion) while also contextualizing it against the larger amount requested ($94.4 billion), thus avoiding either exaggeration or minimization.
+7. Flag-Waving – No – The text mentions national entities like the "U.S. President" and "U.S. Congress" as part of its factual reporting, not as an appeal to patriotism.
+8. Loaded Language – No – The language is overwhelmingly neutral and journalistic. Words like "destroyed" and "cataclysmic" are used as factual descriptors of the hurricane's severe impact, not to manipulate emotion.
+9. Reduction ad Hitlerum – No – The text makes no comparisons to hated groups.
+10. Bandwagon – No – The article does not suggest that an idea is valid because it is popular.
+11. Causal Oversimplification – No – The text attributes the need for aid to a clear cause (Hurricane Maria) and provides relevant context (pre-existing bankruptcy, informal housing) rather than simplifying a complex issue.
+12. Obfuscation, intentional vagueness – No – The text is highly specific, using precise figures, program names (CDBG), and sources to provide clear information.
+13. Appeal to authority – No – The text quotes authorities (Governor Rossello, Congresswoman Gonzalez) to report their statements and actions, which is standard journalistic sourcing, not a fallacy used to prove a point.
+14. Black & white fallacy – No – The text avoids presenting only two options, mentioning that Puerto Rico is eligible for other programs and that "Congress could also appropriate more money later."
+15. Thought-terminating clichés – No – The text is informative and does not use any phrases designed to shut down discussion.
+16. Red herring – No – All information provided, including Puerto Rico's bankruptcy and the total scope of the disaster bill, is relevant context.
+17. Straw men – No – The text is a report and does not construct or refute any arguments.
+18. Whataboutism – No – The text does not accuse any party of hypocrisy to deflect from an issue.
+
+Verdict – 0% – This text is a factual news report from a reputable international news agency (Reuters) and shows no signs of being propaganda. Its purpose is to inform, not to persuade. The tone is objective and neutral, relying on verifiable facts, specific figures, and direct quotes from named sources. It presents a balanced picture by including both the amount of aid granted and the larger amount requested by the Puerto Rican governor. The article adheres to journalistic standards, as indicated by the "Thomson Reuters Trust Principles" tagline, and avoids all of the listed propaganda techniques.

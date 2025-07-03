@@ -1,0 +1,22 @@
+Here is the analysis of propaganda techniques in the text, followed by the verdict:
+
+1.  **Name calling** – No – No direct insulting labels are applied to specific individuals. Terms like "corrupt career politicians" describe behavior but aren't specific name-calling labels.
+2.  **Repetition** – Yes – The title/question "How Do You Like Paying For Sexual Harassment Settlements from Your Congress, America?" is repeated verbatim at the start.
+3.  **Slogans** – Yes – "It is time to drain the swamp" is a well-known, brief, and memorable political slogan.
+4.  **Appeal to fear** – Yes – The text instills fear that taxpayers are funding harassment cover-ups ("you and I have been paying") and implies the behavior will continue indefinitely unless the audience acts ("It isn’t going to stop until we boot out the corrupt career politicians").
+5.  **Doubt** – No – The text presents its claims (numbers, source of funds) as facts, not by questioning the credibility of others. It attacks Congress's motives but doesn't primarily use doubt.
+6.  **Exaggeration/minimization** – Yes – Exaggeration: Describing the situation as an "epidemic" and implying all 264 settlements involve lawmakers' direct harassment (some likely involve staff). Minimization: Dismissing potential reasons for confidentiality or complexity in handling cases; implying passing one law would cause a "screeching halt".
+7.  **Flag-Waving** – No – No direct appeal to patriotism or national identity is made.
+8.  **Loaded Language** – Yes – Uses emotionally charged and morally judgmental language: "cover up the epidemic", "corrupt career politicians", "sex trade on Capitol Hill", "sexually inappropriate behavior", "drain the swamp".
+9.  **Reduction ad Hitlerum** – No – No association with universally hated groups (like Nazis) is made to disapprove of an idea.
+10. **Bandwagon** – No – While calling for support ("support my campaign"), it doesn't primarily argue that an idea is popular to convince people to join.
+11. **Causal Oversimplification** – Yes – Assumes a single, simple solution (passing a law making settlements public and personally paid) will completely solve the complex problem ("sexual harassment on Capitol Hill would come to a screeching halt").
+12. **Obfuscation, intentional vagueness** – No – The text is direct and uses specific numbers and quotes. It doesn't employ deliberately unclear language.
+13. **Appeal to authority** – No – While citing Rep. Speier and CNN, it's presenting their statements as facts/evidence, not primarily using their authority as the *reason* to believe the argument.
+14. **Black & white fallacy** – Yes – Presents only two options: Either boot out the "corrupt career politicians" supporting the author's campaign, or the harassment continues indefinitely. Ignores other potential solutions or reforms.
+15. **Thought-terminating clichés** – Yes – Uses "drain the swamp" – a common political cliché that simplifies a complex issue (government corruption) and discourages deeper analysis of specific solutions or nuances.
+16. **Red herring** – No – The text stays focused on the topic of congressional sexual harassment settlements and solutions. It doesn't introduce irrelevant material.
+17. **Straw men** – No – The text doesn't misrepresent an opposing argument. It attacks Congress's inaction based on its *own* characterization of their motives ("But they don’t want it to stop").
+18. **Whataboutism** – No – The text does not accuse opponents of hypocrisy by pointing to their other wrongdoings. It focuses directly on the issue of harassment settlements.
+
+**Verdict – 90% –** The text is highly likely propaganda. While based on factual information (settlement numbers), its primary purpose is to persuade through emotional manipulation (fear, anger, moral outrage via Loaded Language and Appeal to Fear), oversimplification (Causal Oversimplification, Black & White Fallacy), repetition of a provocative question, and the use of a potent political slogan ("drain the swamp"). It frames the issue in starkly divisive terms ("corrupt career politicians" vs. "grassroots deplorables"), calls for specific political action (supporting the author's campaign and booting out incumbents), and employs Thought-Terminating Clichés to shut down nuance. The combination of these techniques strongly indicates a persuasive intent characteristic of propaganda, rather than a balanced, informative presentation.

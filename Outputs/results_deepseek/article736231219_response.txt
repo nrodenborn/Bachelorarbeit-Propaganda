@@ -1,0 +1,25 @@
+### Analysis of Propaganda Techniques in the Text
+
+1. **Name calling** – Yes – "raging anti-Semite and race-monger," "loony, militant, black nationalist organization," "inferior white devil." These are insulting labels attacking Farrakhan and the Nation of Islam.  
+2. **Repetition** – No – The text quotes Farrakhan’s phrases (e.g., "white folks are going down") but does not repetitively hammer a single original message from the author.  
+3. **Slogans** – No – The text quotes Farrakhan’s slogans (e.g., "Satan is going down"), but the author does not create or use new slogans.  
+4. **Appeal to fear** – Yes – Describing Farrakhan as "more dangerous" than "alt-reich" leaders and emphasizing his "much larger following" instills fear about his influence.  
+5. **Doubt** – Yes – "Somehow the openly racist and anti-Semitic Farrakhan... avoid being harshly denounced" questions media credibility by implying deliberate neglect.  
+6. **Exaggeration/minimization** – Yes – Minimizes media coverage with "practically no one noticed," and exaggerates Farrakhan’s threat by calling him "more dangerous" than comparable figures.  
+7. **Flag-Waving** – No – No appeal to patriotism or group identity is made.  
+8. **Loaded Language** – Yes – "Raging," "loony," "militant," "Satanic Jew," "smear," and "hateful" use emotionally charged words to evoke disgust.  
+9. **Reduction ad Hitlerum** – Yes – "Smear Donald Trump as the new Hitler" links media criticism of Trump to Hitler, a universally hated figure.  
+10. **Bandwagon** – No – Popularity is not used to validate any claim; the focus is on condemning Farrakhan.  
+11. **Causal Oversimplification** – No – No complex events are oversimplified into single causes.  
+12. **Obfuscation, intentional vagueness** – No – Language is direct and clear (e.g., "raging anti-Semite"), not vague or confusing.  
+13. **Appeal to authority** – No – While Jake Tapper is cited, it is for factual reporting of tweets, not as authoritative proof of the author’s argument.  
+14. **Black & white fallacy** – No – The text does not reduce options to a false dichotomy; it critiques specific targets (Farrakhan, media).  
+15. **Thought-terminating clichés** – No – No phrases are used to shut down critical discussion (e.g., arguments are elaborated, not dismissed with clichés).  
+16. **Red herring** – Yes – Introducing Obama’s photo and Trump media coverage distracts from the primary focus on Farrakhan’s speech.  
+17. **Straw men** – No – The arguments refuted (e.g., media bias) are accurately represented, not misconstrued.  
+18. **Whataboutism** – Yes – "Which instead has spent the last two years attempting to smear Donald Trump" charges media hypocrisy by deflecting to their treatment of Trump.  
+
+---
+
+### Final Verdict  
+**Verdict – 95% –** The text is overwhelmingly propagandistic. It employs multiple techniques—name-calling, appeal to fear, doubt, exaggeration, loaded language, reduction ad Hitlerum, red herring, and whataboutism—to advance a biased narrative. The author vilifies Farrakhan with inflammatory language (e.g., "raging anti-Semite"), distracts with references to Obama and Trump, and frames media coverage as hypocritical without balanced context. The piece prioritizes emotional persuasion over objective reporting, using fear-mongering (e.g., Farrakhan’s "dangerous" influence) and demonization to manipulate readers into accepting a one-sided view. While it cites factual events (e.g., Farrakhan’s quotes), these are embedded in a structure designed to delegitimize opponents and rally sentiment against perceived enemies, aligning with propaganda’s core function of influencing attitudes through selective, manipulative techniques. The 5% uncertainty acknowledges the presence of cited sources (e.g., Jake Tapper’s tweets), but these do not offset the dominant propagandistic intent.

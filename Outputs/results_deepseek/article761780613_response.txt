@@ -1,0 +1,22 @@
+Here is the analysis of propaganda techniques in the text, followed by the verdict:
+
+1. Name calling – **Yes** – "The Russian Witch Hunt Hoax" (insulting label for the investigation).  
+2. Repetition – **No** – No repeated phrases beyond a single instance.  
+3. Slogans – **No** – No standalone memorable phrases used as slogans.  
+4. Appeal to fear – **No** – No attempt to instill fear about alternatives.  
+5. Doubt – **Yes** – "The Russian Witch Hunt Hoax continues, all because..." (questions the probe's legitimacy).  
+6. Exaggeration/minimization – **Yes** – "so many lives ruined" (exaggerates consequences) and "there was No Collusion!" (minimizes scrutiny).  
+7. Flag-Waving – **No** – No appeal to patriotism/identity.  
+8. Loaded Language – **Yes** – "Witch Hunt," "Hoax," "ruined" (emotionally charged terms).  
+9. Reduction ad Hitlerum – **No** – No linkage to hated groups.  
+10. Bandwagon – **No** – No appeal to popularity.  
+11. Causal Oversimplification – **Yes** – Blames the entire probe on Sessions' recusal ("all because Jeff Sessions didn’t tell me...").  
+12. Obfuscation – **No** – Statements are direct, not vague.  
+13. Appeal to authority – **No** – Trump cites his own position, not external authority.  
+14. Black & white fallacy – **No** – No false dichotomy presented.  
+15. Thought-terminating clichés – **Yes** – "Witch Hunt" and "Hoax" shut down critical discussion.  
+16. Red herring – **No** – Focus remains on Sessions/recusal.  
+17. Straw men – **No** – No misrepresented argument refuted.  
+18. Whataboutism – **No** – No accusations of hypocrisy.  
+
+**Verdict – 85% –** The text is overwhelmingly propagandistic. Trump employs **name-calling** ("Witch Hunt Hoax"), **doubt**, **exaggeration/minimization**, **loaded language**, **causal oversimplification**, and **thought-terminating clichés** to delegitimize the investigation, scapegoat Sessions, and evade accountability. The CNN framing neutrally reports his statements, but Trump’s quoted language is designed to manipulate perception by dismissing the probe as fraudulent, exaggerating its harms, and oversimplifying its origins. The absence of counter-evidence or context in his tweet reinforces its function as propaganda. The probability is not 100% only due to the neutral journalistic wrapper; the core message itself is pure propaganda.

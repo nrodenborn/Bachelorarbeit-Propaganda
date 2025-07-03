@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack an object or subject.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use brief and memorable phrases as slogans.
+4. Appeal to fear – Yes – The text suggests that only the silence of good people will allow Assange's enemies to win, instilling fear against inaction.
+5. Doubt – Yes – The text questions the credibility of the media and legal system, suggesting they are colluding against Assange.
+6. Exaggeration/minimization – Yes – The text exaggerates the isolation and persecution of Assange, describing it as a profound tragedy and torture.
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – The text uses emotionally charged language, such as "profound tragedy," "torture," and "persecution."
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text is not deliberately unclear or obscure.
+13. Appeal to authority – Yes – The text references the United Nations Working Party on Unlawful Detentions to support its claims.
+14. Black & white fallacy – Yes – The text presents only two options: support Assange or allow injustice to prevail.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought.
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – Yes – The text charges journalists with hypocrisy by comparing their treatment of Assange to their use of his material.
+
+Verdict – 70% – The text contains several propaganda techniques, including appeal to fear, doubt, exaggeration, loaded language, appeal to authority, black & white fallacy, and whataboutism. These elements suggest a strong likelihood that the text is propaganda, as it seeks to influence the audience's perception of Assange's situation by using emotionally charged language, questioning the credibility of opposing views, and presenting a simplified narrative.

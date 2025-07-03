@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use any insulting labels to attack any person or group.
+2. Repetition – No – The text does not repeat the same message over and over; it presents information in a structured, non-repetitive manner.
+3. Slogans – No – The text does not use any brief, memorable phrases to promote an idea.
+4. Appeal to fear – No – While the subject matter (a school shooting) is frightening, the text reports on the event and the legislative response factually, without using fear to promote a specific agenda.
+5. Doubt – No – The text reports on the positions and statements of various individuals and groups without questioning their credibility.
+6. Exaggeration/minimization – No – The text uses factual data and specific details (e.g., number of victims, vote counts, bill provisions) and avoids hyperbole. Describing the event as "one of the worst school shootings in US history" is a reasonable and widely accepted characterization, not a propagandistic exaggeration.
+7. Flag-Waving – No – The text does not make an appeal to patriotism. It mentions the Second Amendment only to provide context for the gun rights argument.
+8. Loaded Language – No – The language is generally neutral and journalistic. It quotes a legislator who uses the term "poison pill," but this is an attributed quote, not the author's own wording.
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups.
+10. Bandwagon – No – The text reports on the bill's passage but does not suggest that its popularity is a reason to support it.
+11. Causal Oversimplification – No – The text does not propose a simple cause for the complex issue of school shootings; it reports on a specific legislative response to an event.
+12. Obfuscation, intentional vagueness – No – The text is clear and specific, using bullet points to detail the law's provisions and providing precise information.
+13. Appeal to authority – No – The text quotes authorities like the governor and legislators to report their views and actions, which is standard journalistic practice, not to use their status as sole evidence for a claim.
+14. Black & white fallacy – No – The text presents a nuanced situation, noting that the bill passed but also that it excluded a key demand from activists and contained a controversial provision (the "guardian programme").
+15. Thought-terminating clichés – No – The text does not use any phrases intended to discourage critical thought.
+16. Red herring – No – All information presented, including the mention of another shooting in Alabama, is relevant to the context of gun violence and legislative action in the US at that time.
+17. Straw men – No – The text does not misrepresent any arguments in order to refute them. It accurately reports the positions of different groups.
+18. Whataboutism – No – The text does not attempt to deflect criticism by accusing an opponent of hypocrisy.
+
+Verdict – 5% – The text is a factual news report. Its primary purpose is to inform the reader about a new piece of legislation in Florida. It provides context, details the bill's contents, and includes reactions from multiple stakeholders, adhering to the principles of neutral, objective journalism. It does not employ any of the listed propaganda techniques. The very low percentage acknowledges that the selection and framing of any news story involves editorial choices, but there is no evidence of a deliberate attempt to manipulate the audience's opinion through propaganda.

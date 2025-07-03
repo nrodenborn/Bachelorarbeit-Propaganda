@@ -1,0 +1,41 @@
+Name calling – Yes – The text uses scare quotes to insult and question the professionalism of certain journalists, thereby attacking them with an insulting label. Example: "Meanwhile, the ‘journalists’ over at CNN are still trying to get to the bottom of exactly who spent the $100,000 on Facebook ads…"
+
+Repetition – Yes – The text repeatedly connects the Clintons, the Clinton Foundation, and the Obama administration to the Uranium One deal and alleged Russian bribery. This core accusation is mentioned in various forms throughout the article to reinforce the message. Example: The link is first made in the introduction ("...a deal which was ultimately approved by the Obama administration...which included Hillary Clinton...") and repeated with more detail later ("...sent millions of dollars in Russian nuclear funds to the U.S. to an entity assisting Bill Clinton’s foundation.").
+
+Slogans – No – The text does not employ any brief, memorable phrases that function as a slogan.
+
+Appeal to fear – Yes – The text instills fear by describing a scenario where a past government administration allegedly threatened a citizen's freedom to cover up a major national security scandal. Example: "When he tried to bring some of the allegations to light... ‘the Obama Justice Department threatened him with loss of freedom. They said they would bring a criminal case against him for violating an NDA...’"
+
+Doubt – Yes – The text is built on casting doubt on the credibility of the mainstream media, the Obama administration, and the Clintons. Example: "While the mainstream media has largely ignored it, the scandal surrounding Russian efforts to acquire 20% of America’s uranium reserves..."
+
+Exaggeration/minimization – Yes – The text minimizes the significance of the investigation into Russian election interference in order to exaggerate the importance of the Uranium One story. Example: "Meanwhile, the ‘journalists’ over at CNN are still trying to get to the bottom of exactly who spent the $100,000 on Facebook ads…"
+
+Flag-Waving – Yes – The text appeals to patriotism by framing the story around the sale of a strategic national asset to a geopolitical rival, implying a betrayal of the country's interests. Example: "...the State Department approved the deal giving Russia ownership of 20% of U.S. uranium assets."
+
+Loaded Language – Yes – The text uses emotionally charged words to frame the events in a negative light and provoke an emotional response from the reader. Example: "As The Hill pointed out earlier this morning, the latest development in this sordid tale revolves around a man that the FBI used as an informant..."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or the Nazis to discredit an idea or group.
+
+Bandwagon – No – The text does not argue that its position is correct because it is popular; instead, it presents its narrative as a suppressed truth that goes against the mainstream.
+
+Causal Oversimplification – Yes – The text presents a complex government approval process as a simple quid pro quo, implying that donations to the Clinton Foundation were the direct and sole cause for the approval of the Uranium One deal. Example: "In the run-up to the approval of the deal by the State Department, nine shareholders of Uranium One just happened to make $145mm in donations to the Clinton Foundation."
+
+Obfuscation, intentional vagueness – Yes – The text is vague about key details, referring to an anonymous source ("Confidential Source 1") and an unnamed organization ("an entity assisting Bill Clinton’s foundation"), which obscures the full picture and relies on second-hand accounts. Example: "...sent millions of dollars in Russian nuclear funds to the U.S. to an entity assisting Bill Clinton’s foundation."
+
+Appeal to authority – Yes – The text heavily relies on the credentials of the informant's lawyer, Victoria Toensing, to lend credibility to the allegations. Example: "...Victoria Toensing, a former Reagan Justice Department official and former chief counsel of the Senate Intelligence Committee, to get his story out."
+
+Black & white fallacy – Yes – The text presents a false choice between two issues, implying that only one can be important. Example: "Meanwhile, the ‘journalists’ over at CNN are still trying to get to the bottom of exactly who spent the $100,000 on Facebook ads…" This suggests readers must choose between caring about the Uranium One story or the "trivial" Facebook ad story.
+
+Thought-terminating clichés – No – The text does not use simple, common phrases or clichés to shut down critical thought.
+
+Red herring – Yes – The text introduces an unrelated topic at the very end to distract from the main subject and attack a perceived opponent. Example: "Meanwhile, the ‘journalists’ over at CNN are still trying to get to the bottom of exactly who spent the $100,000 on Facebook ads…"
+
+Straw men – Yes – The text misrepresents the work of an opponent to make it easier to attack. Example: "Meanwhile, the ‘journalists’ over at CNN are still trying to get to the bottom of exactly who spent the $100,000 on Facebook ads…" This creates a straw man by inaccurately portraying the entire scope of CNN's investigation as being limited to a small, trivial-sounding amount of money.
+
+Whataboutism – Yes – The entire article functions as a form of whataboutism. In the context of ongoing 2017 investigations into Russian interference and the Trump campaign, the text deflects by raising a different scandal involving Russia and political opponents. It implicitly asks, "What about the Clinton's Russia scandal?" to counter and distract from the other narrative.
+
+***
+
+Verdict – 95% – The text is overwhelmingly likely to be propaganda. It employs a vast majority (14 out of 18) of the listed propaganda techniques to construct a one-sided and persuasive narrative rather than an objective report. The piece is not aimed at impartial investigation but at convincing the reader of a specific conclusion: that the Clintons and the Obama administration were involved in a corrupt deal with Russia that is being deliberately ignored by the "mainstream media."
+
+The article systematically uses techniques like loaded language ("sordid tale," "corruption"), appeal to fear (threats of imprisonment), and flag-waving (sale of "America's uranium") to create an emotional and patriotic response. It casts doubt on its targets from the first sentence and uses causal oversimplification to present a complex international agreement as a simple bribery scheme. It leans heavily on an appeal to authority (a highly credentialed lawyer) while remaining intentionally vague about the actual evidence. Finally, it uses a combination of a red herring, a straw man, and a black & white fallacy in its concluding sentence to attack a media opponent (CNN) and distract the reader with whataboutism. The combined effect of these techniques is a powerful piece of political propaganda designed to shape opinion, discredit opponents, and control a political narrative.

@@ -1,0 +1,30 @@
+### Propaganda Technique Analysis:
+1. **Name calling** – Yes – "infamously botched Vegas investigation" (insults the investigation's credibility).  
+2. **Repetition** – Yes – "Are they for real?" repeated twice to emphasize distrust.  
+3. **Slogans** – No – No brief, memorable phrases used as slogans.  
+4. **Appeal to fear** – Yes – Highlights 58 deaths and 500 injuries with "no explanation," implying authorities are hiding threats.  
+5. **Doubt** – Yes – Repeatedly questions authorities: "How can they possibly hold those two contradictory ideas?"  
+6. **Exaggeration/minimization** – Yes – "infamously botched" exaggerates failures; minimizes official efforts by focusing on discrepancies.  
+7. **Flag-waving** – No – No appeals to patriotism or national identity.  
+8. **Loaded language** – Yes – "well-coordinated, meticulously planned attack," "conspiracy theories," and "botched" evoke emotion.  
+9. **Reduction ad Hitlerum** – No – No comparisons to Nazis/hated groups.  
+10. **Bandwagon** – Yes – Notes discrepancies "are feeding conspiracy theories," implying growing public skepticism.  
+11. **Causal oversimplification** – Yes – Blames timeline changes on a potential conspiracy: "supposedly in an effort to establish a legal case."  
+12. **Obfuscation** – No – Text clarifies discrepancies; no deliberate vagueness.  
+13. **Appeal to authority** – No – Cites William Jacobson/Pamela Geller but doesn’t use them as conclusive proof.  
+14. **Black & white fallacy** – Yes – Implies authorities are either incompetent or conspiring: "no explanation or motive."  
+15. **Thought-terminating clichés** – Yes – "Are they for real?" shuts down critical analysis of official statements.  
+16. **Red herring** – Yes – Opens with barred reporters (Laura Loomer/Mike Tokes) to distract from the core investigation.  
+17. **Straw men** – Yes – Refutes "no conspiracy" by highlighting timeline errors, implying this proves malfeasance.  
+18. **Whataboutism** – No – No accusations of hypocrisy targeting individuals/groups.  
+
+### Verdict – 95% – Detailed Explanation:  
+The text is **highly likely propaganda** due to:  
+1. **Systematic Technique Use**: 13/18 techniques are deployed (e.g., repetition, loaded language, fear appeals) to manipulate emotion and distrust.  
+2. **Narrative Framing**: Positions authorities (FBI, police) as incompetent or deceitful by emphasizing inconsistencies without evidence of malice.  
+3. **Conspiracy Reinforcement**: Highlights discrepancies (e.g., timeline changes) to imply a cover-up while offering no proof beyond speculation.  
+4. **Source Bias**: Posted with permission from Pamela Geller, a known conspiracy theorist, signaling ideological alignment.  
+5. **Rhetorical Tactics**: Uses rhetorical questions ("Are they for real?") and emotionally charged language ("meticulously planned attack") to bypass rational analysis.  
+6. **Omission of Context**: Fails to acknowledge common investigational complexities in mass shootings (e.g., evolving timelines).  
+
+While it reports genuine discrepancies, the text’s selective focus, inflammatory tone, and technique density reveal an intent to delegitimize authorities rather than inform. The 5% uncertainty stems from the inclusion of factual sources (WaPo, Legal Insurrection), though these are weaponized to serve the propagandistic narrative.

@@ -1,0 +1,32 @@
+### Propaganda Technique Analysis
+
+1. **Name calling** – Yes – "Muslim IT spy" is an insulting label applied to Imran Awan, attacking his identity and implying criminality without evidence.  
+2. **Repetition** – Yes – The poll question "Whom do you consider to be the most corrupt Democrat Politician?" is repeated three times consecutively, emphasizing the theme of Democratic corruption.  
+3. **Slogans** – No – No brief, memorable phrases (e.g., "Build the Wall") are used as rallying cries.  
+4. **Appeal to fear** – Yes – The text implies a cover-up of "the biggest crime of spying in US history," suggesting dire consequences if ignored (e.g., "threatening dire consequences" to victims).  
+5. **Doubt** – Yes – The opening questions media credibility: "ignored by the mainstream media and we all know why that is," casting doubt on their motives.  
+6. **Exaggeration/minimization** – Yes – Describes the scandal as "the biggest crime of spying in US history," an unverified hyperbolic claim. Minimizes due process concerns by framing Wasserman Schultz's actions as "frantic" and "not normal."  
+7. **Flag-Waving** – No – No explicit appeals to patriotism or national identity.  
+8. **Loaded Language** – Yes – Emotionally charged terms like "aided & abetted," "fraud," "swindling," "frantic," "profane," and "spying" evoke bias.  
+9. **Reduction ad Hitlerum** – No – No comparisons to Nazis or universally hated groups.  
+10. **Bandwagon** – No – No appeal to popularity (e.g., "everyone agrees").  
+11. **Causal Oversimplification** – No – The text details multiple events (e.g., land deal, cybersecurity violations) without reducing them to a single simplistic cause.  
+12. **Obfuscation** – No – The text is specific (e.g., dates, names, quotes) and not deliberately vague.  
+13. **Appeal to authority** – Yes – Cites sources like Luke Rosiak, Dawn newspaper, and House employees to validate claims (e.g., "according to two House employees").  
+14. **Black & white fallacy** – No – No false dichotomies (e.g., "us vs. them") are presented.  
+15. **Thought-terminating clichés** – No – No phrases like "it is what it is" to shut down analysis.  
+16. **Red herring** – No – Focus remains on Awan/Wasserman Schultz; no irrelevant distractions.  
+17. **Straw men** – No – No misrepresentation of opposing arguments.  
+18. **Whataboutism** – No – No accusations of hypocrisy (e.g., "What about X?").  
+
+---
+
+### Verdict – 85% – Detailed Explanation  
+The text is highly likely propaganda due to:  
+1. **Heavy Use of Propaganda Techniques**: It employs multiple techniques (e.g., name-calling, loaded language, appeal to fear) to vilify Democrats, Debbie Wasserman Schultz, and Imran Awan. Labeling Awan a "Muslim IT spy" ties his actions to religious/ethnic identity, while repetition and exaggeration amplify unverified claims of "spying" and corruption.  
+2. **Emotional Manipulation**: Loaded terms ("fraud," "swindling," "frantic") and fear-based framing ("biggest crime in US history") aim to provoke outrage and bypass critical analysis.  
+3. **Selective Evidence & Bias**: The text cherry-picks details (e.g., Wasserman Schultz’s interventions, Awan’s land deal) while omitting counter-evidence. It cites partisan sources (The Daily Caller) and implies media/Democrat conspiracies without proof.  
+4. **Political Agenda**: The narrative clearly targets Democrats, using the poll to reinforce corruption tropes. Despite factual elements (e.g., legal charges against Awan), the sensationalized delivery and lack of neutrality serve to delegitimize political opponents.  
+5. **Omission of Context**: Key nuances—like due process concerns or the complexity of cybersecurity investigations—are downplayed to maintain a villain-hero dichotomy (e.g., investigators vs. Wasserman Schultz).  
+
+While based on real events (e.g., Awan’s indictment), the text’s manipulative framing, reliance on emotional triggers, and partisan slant exceed objective reporting. It aligns with propaganda by advancing a specific ideological narrative rather than balanced truth-seeking. Remaining uncertainty (15%) stems from verifiable facts (e.g., court records) embedded within the biased structure.

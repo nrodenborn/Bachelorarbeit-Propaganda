@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use any insulting labels to attack a person, group, or subject.
+2. Repetition – No – While a central idea is reinforced, the text does not repeat the same message or phrase over and over in a propagandistic manner.
+3. Slogans – No – The text does not use any brief, memorable phrases as slogans.
+4. Appeal to fear – Yes – The text supports the idea of needing to be prepared by instilling fear of a future outbreak: "The next transmission could be more pronounced or stronger," and it "could even spill over into neighbouring countries and beyond."
+5. Doubt – No – The text does not question the credibility of any person or organization; it does the opposite by citing the WHO.
+6. Exaggeration/minimization – No – The text provides specific figures and expert projections based on stated factors (e.g., wider bacteria spread, insecticide resistance), rather than baseless exaggeration or minimization.
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity.
+8. Loaded Language – Yes – The text uses emotionally charged words to convey seriousness and evoke an emotional response, such as "deadly plague epidemic," "voiced alarm," and "dangerous combination."
+9. Reduction ad Hitlerum – No – The text does not suggest any idea is popular with a hated group.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text avoids oversimplification by explaining the multiple complex factors contributing to the outbreak's severity (e.g., early start, urban spread, pneumonic version, insecticide resistance).
+12. Obfuscation, intentional vagueness – No – The text is specific, providing details on the types of plague, death tolls, and reasons for concern.
+13. Appeal to authority – Yes – The entire report is based on the statements and warnings of an authority figure, "WHO Director-General Tedros Adhanom Ghebreyesus," whose expertise is used as the primary evidence.
+14. Black & white fallacy – No – The text does not present only two choices; it describes a complex health situation.
+15. Thought-terminating clichés – No – The text does not use any phrases designed to shut down critical thought.
+16. Red herring – No – The text does not introduce any irrelevant material to distract from the main point.
+17. Straw men – No – The text does not refute an argument that was not presented by an opponent.
+18. Whataboutism – No – The text does not charge any opponent with hypocrisy.
+
+Verdict – 5% – While the text uses techniques like Appeal to Fear, Loaded Language, and Appeal to Authority, it is highly unlikely to be propaganda. The context is a public health announcement from a credible global health organization (WHO). In this context, appealing to a relevant authority (the WHO Director-General) is standard journalistic practice. Likewise, using loaded language ("deadly," "dangerous") and appealing to fear (warning of a stronger future outbreak) are appropriate and necessary communication strategies to convey the seriousness of a real public health threat and encourage preventative action. The intent is not to deceive or promote a political ideology, but to inform and warn for the public good, which separates it from propaganda.

@@ -1,0 +1,39 @@
+1. Name calling – Yes – The text uses dismissive and insulting labels such as "leftists at Democracy Now!" and refers to the controversy surrounding the Trump-Putin meeting as the "Helsinki Hulabaloo," which mocks the seriousness of the event.
+
+2. Repetition – Yes – The poll question "Will Brett Kavanaugh be confirmed to the Supreme Court?" is repeated three times in a row.
+
+3. Slogans – Yes – "Helsinki Hulabaloo" is a brief, memorable, and dismissive phrase used to frame the event in a particular light.
+
+4. Appeal to fear – No – The text does not attempt to instill fear in the audience about alternative viewpoints or outcomes.
+
+5. Doubt – Yes – The text is constructed to cast doubt on the credibility of the "leftwing media," stating their "constant flow of outrage" is "mystifying" and their reaction to the press conference was "ridiculous." It also directly questions the narrative that Trump is a puppet of Putin.
+
+6. Exaggeration/minimization – Yes – The text minimizes the significance of the Helsinki summit by calling it a "Hulabaloo." It also potentially exaggerates the media's response by describing it as a "constant flow of outrage."
+
+7. Flag-Waving – No – The text does not make explicit appeals to patriotism, national symbols, or American identity to make its point.
+
+8. Loaded Language – Yes – The text uses emotionally charged and biased words like "leftwing," "riled up," "leftists," and "ridiculous" to frame the media and political opponents in a negative, emotional, and irrational light.
+
+9. Reduction ad Hitlerum – No – The text does not suggest that an idea is bad because it is popular with a hated group like Nazis. While it mentions "fascist" leaders, it does not use this to discredit a specific idea.
+
+10. Bandwagon – Yes – The headline "Liberals Agree – Trump Tougher on Putin than Obama Was" is a form of bandwagon, suggesting that an idea is so compelling that even the opposition is starting to agree with it, encouraging the reader to join the "correct" side.
+
+11. Causal Oversimplification – Yes – The text simplifies the reason for the media's criticism of Trump as them simply getting "riled up at everything that Trump does," ignoring the complex geopolitical and domestic political reasons for the outrage over the Helsinki summit.
+
+12. Obfuscation, intentional vagueness – No – The core argument, as presented through the Greenwald quote, uses specific policy examples and is not intentionally vague.
+
+13. Appeal to authority – Yes – This is the primary technique used. The entire article's credibility rests on quoting a "leftwing journalist," Glenn Greenwald, as an authority figure whose opinion is used to validate the article's headline and premise.
+
+14. Black & white fallacy – Yes – The central argument presents the issue as a simple binary choice: either Trump was tougher on Russia or Obama was. This ignores the nuances and complexities of foreign policy. The embedded poll ("Yes, he will be confirmed" / "No, he will not be confirmed") is also a literal example of this fallacy.
+
+15. Thought-terminating clichés – Yes – The line "this idea that Trump is some kind of a puppet of Putin... is the kind of stuff that you believe if you read too many Tom Clancy novels" is a dismissive phrase designed to shut down a counter-argument without engaging its substance.
+
+16. Red herring – Yes – The poll about Brett Kavanaugh's Supreme Court confirmation is completely irrelevant to the article's topic of Trump's and Obama's Russia policies. It serves as a distraction and a data-collection tool.
+
+17. Straw men – Yes – The article frames the media's position as the simple belief that "Trump is some kind of a puppet of Putin." It then refutes this simplified "puppet" argument, rather than engaging with the more nuanced and complex criticisms that were actually being made about Trump's rhetoric and deference to Putin.
+
+18. Whataboutism – Yes – Greenwald's argument deflects the criticism that "Trump has never criticized Putin" by immediately changing the subject to other leaders he also doesn't criticize: "But he’s also never criticized Benjamin Netanyahu... the incredibly repressive leaders of Saudi Arabia... the fascist president of the Philippines." This is a classic whataboutism tactic.
+
+***
+
+Verdict – 95% – The text is a clear and effective piece of propaganda. Its primary strategy is a sophisticated **Appeal to Authority**, using a source from the opposing political side (Glenn Greenwald) to create an illusion of objectivity and broad consensus (a **Bandwagon** effect). However, the text is not a neutral presentation of information; it is a framework built around a selected quote to push a specific narrative. This framework uses numerous techniques, including **Name-Calling** ("leftists"), **Loaded Language** ("riled up"), and **Doubt** to discredit the "leftwing media." It relies on a **Black & White Fallacy** by reducing complex foreign policy to a simple "tougher vs. weaker" comparison. Furthermore, it employs a blatant **Red Herring** (the Kavanaugh poll) to distract and collect user data, a common tactic on partisan websites. The arguments themselves utilize **Straw Men**, **Whataboutism**, and **Thought-Terminating Clichés** to deflect criticism and shut down debate. The combination and sheer number of these techniques show that the article's purpose is not to inform, but to persuade the reader to adopt a specific viewpoint and to view political opponents as irrational.

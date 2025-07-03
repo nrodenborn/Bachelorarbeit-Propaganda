@@ -1,0 +1,30 @@
+Here is the analysis of propaganda techniques in the text, followed by the verdict:
+
+1. **Name calling** – Yes – "White House sewer system" (insulting label for Obama's briefings).  
+2. **Repetition** – Yes – "Uranium One deal" repeated 8+ times to reinforce the scandal.  
+3. **Slogans** – No – No brief, memorable phrases used as slogans.  
+4. **Appeal to fear** – Yes – Implies treason threatens national security: "a case could be made for treason" and "control of part of the US uranium supply".  
+5. **Doubt** – Yes – Questions credibility: "Democrats have unsurprisingly questioned Campbell's credibility" (undermining skepticism).  
+6. **Exaggeration/minimization** – Yes – Exaggeration: "White House sewer system" (hyperbolic dismissal of Obama); Minimization: APCO's rebuttal is briefly mentioned then overshadowed.  
+7. **Flag-Waving** – Yes – Cites U.S. Constitution impeachment clause to invoke patriotism: "Treason, Bribery...".  
+8. **Loaded Language** – Yes – Emotionally charged terms: "treason," "bribery," "nefarious," "shoo-in," "land grabs," "sewer system".  
+9. **Reduction ad Hitlerum** – No – No comparison to Hitler/Nazis.  
+10. **Bandwagon** – Yes – References indictments/guilty pleas to imply consensus: "Campbell's work has resulted in real justice".  
+11. **Causal Oversimplification** – Yes – Blames Clinton/Obama for uranium control: Ignores multi-agency CFIUS approval process.  
+12. **Obfuscation** – Yes – Vague reference to "substantial documentation" in Oregon with no specifics.  
+13. **Appeal to authority** – Yes – Uses FBI informant/Congress testimony: "Campbell testified before numerous Congressional investigators".  
+14. **Black & white fallacy** – Yes – Presents scandal as clear-cut "bribery/treason" vs. "excuses rather than justice".  
+15. **Thought-terminating clichés** – Yes – "Of course, we know what Obama did" shuts down scrutiny.  
+16. **Red herring** – Yes – Irrelevant diversion: "land grabs... by the Bureau of Land Management".  
+17. **Straw men** – Yes – Assumes Clinton’s corruption: "influence Hillary Clinton" despite no direct evidence of her involvement.  
+18. **Whataboutism** – No – No hypocrisy accusations against critics.  
+
+---
+
+**Verdict – 95% –** The text is overwhelmingly propagandistic. It employs at least 14/18 techniques to advance a narrative of Clinton/Obama corruption tied to the Uranium One deal. Key indicators:  
+- **Selective framing**: Focuses on allegations while minimizing exonerating facts (e.g., CFIUS’s 9-agency approval).  
+- **Emotional manipulation**: Loaded language ("treason," "sewer system") and fear appeals.  
+- **Evidence issues**: Relies heavily on an informant’s claims while dismissing counter-evidence (e.g., APCO’s denial).  
+- **Distraction**: Includes irrelevant red herrings (Oregon land grabs).  
+- **Narrative over verification**: Presents allegations as settled truth despite ongoing disputes and lack of convictions implicating Clinton.  
+The 5% uncertainty acknowledges the core scandal’s existence (e.g., Mikerin’s indictment), but the presentation is manipulative and one-sided, aligning with propaganda objectives.

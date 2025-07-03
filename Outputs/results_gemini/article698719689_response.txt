@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use any insulting labels to attack a person, group, or idea.
+2. Repetition – No – The text provides developing information and different facts rather than repeating the same message or phrase.
+3. Slogans – No – The text does not use any brief, memorable phrases to promote an idea.
+4. Appeal to fear – No – While the subject matter is frightening, the text reports facts about a dangerous situation rather than instilling fear to support an idea against an alternative. The fear is inherent to the topic, not a manufactured tool of persuasion.
+5. Doubt – No – The text does not question the credibility of any person or organization; instead, it cites credible sources to support its claims.
+6. Exaggeration/minimization – No – The text uses strong descriptors like "unprecedented rate," but provides factual context (earlier start, new locations, more virulent form) to support these claims, indicating they are assessments rather than baseless exaggerations.
+7. Flag-Waving – No – There is no appeal to patriotism or national identity in the text.
+8. Loaded Language – No – The text uses medically and historically accurate terms ("plague," "fatal," "black death"). The emotional weight of these words comes from their factual meaning, not from a manipulative intent.
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups.
+10. Bandwagon – No – The text reports that the situation is a "huge concern for many" and is being "taken seriously" by experts, which is a report on expert consensus, not an appeal to join a popular trend.
+11. Causal Oversimplification – No – The text explains the cause of the plague in detail, including the bacterium, its carriers, and different modes of transmission.
+12. Obfuscation, intentional vagueness – No – The text is highly specific, providing exact numbers, dates, locations, and names of organizations.
+13. Appeal to authority – Yes – The text uses the World Health Organization (WHO), the National Bureau for Risk and Disaster Management (BNGRC), and the Red Cross as credible sources to support the information presented. For example: "WHO delivered more than 1.2 million doses of antibiotics and released $1.5 million in emergency funds earlier this month."
+14. Black & white fallacy – No – The text does not present the situation as a choice between only two options.
+15. Thought-terminating clichés – No – The text does not use any phrases that discourage critical thought.
+16. Red herring – No – All information presented is directly relevant to the plague outbreak in Madagascar.
+17. Straw men – No – The text is a report and does not create or refute a false argument.
+18. Whataboutism – No – The text does not accuse any party of hypocrisy.
+
+Verdict – 5% – The text is overwhelmingly informational and functions as a standard news report on a public health crisis. Its primary goal is to inform the reader by presenting verifiable facts, statistics, and data from credible, named sources. The only propaganda technique identified, "Appeal to authority," is used in a standard and appropriate journalistic manner to establish the credibility of the information, not as a logical fallacy to push a hidden agenda. The text lacks the manipulative intent, emotional skewing, logical fallacies, and biased perspective that are characteristic of propaganda. The tone is serious and factual, and any fear or concern it generates is a direct result of the real-world situation being described, not of manipulative rhetoric.

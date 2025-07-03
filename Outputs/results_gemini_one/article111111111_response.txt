@@ -1,0 +1,20 @@
+Name calling – No – The text does not use any insulting labels to attack a person, group, or subject. It describes the plague and the situation in factual terms.
+Repetition – Yes – The core message that the next outbreak could be worse is repeated for emphasis. Example: "the next outbreak would likely be stronger," and "The next transmission could be more pronounced or stronger," and "the magnitude in the next transmission could be higher than the one that we saw".
+Slogans – No – The text is a news report and does not contain any brief, memorable phrases intended as slogans.
+Appeal to fear – Yes – The text supports the need for vigilance by highlighting the potential for a stronger future outbreak and its ability to spread. Example: "That means that Madagascar could be affected more, and not only that, it could even spill over into neighbouring countries and beyond".
+Doubt – No – The text does not question the credibility of any person or organization; in fact, it relies on the credibility of the WHO.
+Exaggeration/minimization – No – While the language is strong ("deadly," "dangerous"), it is used by a public health expert to describe a situation with a documented death toll and specific risk factors (e.g., insecticide resistance). The warnings are presented as expert predictions, not unsupported exaggerations.
+Flag-Waving – No – The text does not make any appeals to patriotism or national identity.
+Loaded Language – Yes – The text uses emotionally charged words to emphasize the severity of the situation. Example: "a deadly plague epidemic," "the issue is serious," "voiced alarm," and "a dangerous combination."
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+Bandwagon – No – The text does not suggest an idea is valid because it is popular. It relies on expert opinion.
+Causal Oversimplification – No – The text avoids oversimplification by mentioning multiple complex factors contributing to the outbreak, such as rats fleeing forest fires, urban spread, and insecticide-resistant fleas.
+Obfuscation, intentional vagueness – No – The text is clear and specific, providing numbers (death toll, case counts) and explaining the different types of plague and the reasons for concern.
+Appeal to authority – Yes – The entire article bases its claims on the statements and authority of the World Health Organisation and its Director-General. Example: "WHO Director-General Tedros Adhanom Ghebreyesus told reporters in Geneva, insisting that 'the issue is serious.'"
+Black & white fallacy – No – The text does not present a false dichotomy or limit the options to only two. It describes a complex public health issue.
+Thought-terminating clichés – No – The text does not use any phrases that are meant to shut down critical thought.
+Red herring – No – All the information provided in the text is relevant to the central topic of the plague outbreak in Madagascar.
+Straw men – No – The text is a report and does not misrepresent or refute an opposing argument.
+Whataboutism – No – The text does not accuse any party of hypocrisy to deflect criticism.
+
+Verdict – 30% – The text uses several propaganda techniques, notably Appeal to Authority, Appeal to Fear, Loaded Language, and Repetition. However, the context is crucial. This is a public health warning from a credible international body (the WHO) about a real and deadly disease. In this context, the techniques are used not to deceive or manipulate for a nefarious purpose, but to persuade the public and governments to take a serious threat seriously. The line between a persuasive public service announcement and propaganda can be thin, but the apparent intent here is public safety rather than malicious deception. Therefore, while it employs persuasive methods found in propaganda, its overall nature is more informational and cautionary.

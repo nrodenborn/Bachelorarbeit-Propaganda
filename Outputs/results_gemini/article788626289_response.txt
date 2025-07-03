@@ -1,0 +1,37 @@
+1. Name calling – Yes – The text refers to Keith Ellison as "Muslim Brotherhood Congressman Hakim Muhammad, aka Keith Ellison." The label "Muslim Brotherhood" is an insulting label intended to associate him with a controversial political group.
+
+2. Repetition – Yes – The poll question "Who should replace Nikki Haley as our ambassador to the U.N.?" is repeated three times consecutively.
+
+3. Slogans – No – The text does not employ its own brief, memorable phrases to promote its ideas. It references the "#MeToo" slogan but does not create one.
+
+4. Appeal to fear – No – The text does not attempt to instill fear about alternatives; its primary emotional appeal is to anger and a sense of injustice or hypocrisy.
+
+5. Doubt – Yes – The text is constructed to cast doubt on the sincerity of the Democratic Party, stating, "all their #MeToo rhetoric is pure politically-motivated hypocrisy — as if anyone didn’t know that by now."
+
+6. Exaggeration/minimization – Yes – The text exaggerates the evidence in one case while minimizing it in another: "There is abundant evidence that Karen Monahan is telling the truth... By contrast, there is absolutely no evidence whatsoever that Brett Kavanaugh abused Christine Blasey Ford."
+
+7. Flag-Waving – No – The text does not use appeals to patriotism or national identity to support its argument.
+
+8. Loaded Language – Yes – The text uses emotionally charged and stereotypical language such as "in a lather," "couldn’t care less," and "pure politically-motivated hypocrisy" to influence the audience's emotions.
+
+9. Reduction ad Hitlerum – No – The text does not compare an opponent's idea to one held by a group like the Nazis to discredit it.
+
+10. Bandwagon – No – The text does not argue that an idea is valid because it is popular.
+
+11. Causal Oversimplification – Yes – The text attributes the Democrats' differing responses to two separate allegations to a single, simple cause: "pure politically-motivated hypocrisy," ignoring other potential complex factors.
+
+12. Obfuscation, intentional vagueness – No – The text's arguments, while biased, are presented directly and are not deliberately unclear.
+
+13. Appeal to authority – Yes – The text presents a "doctor’s report" as authoritative proof to lend credibility to the accusations against Ellison.
+
+14. Black & white fallacy – Yes – The text presents the two cases as a simple binary: one with "abundant evidence" and the other with "absolutely no evidence whatsoever," ignoring the nuances and complexities of both situations.
+
+15. Thought-terminating clichés – Yes – The phrase "— as if anyone didn’t know that by now" is used to end a statement, implying the conclusion is obvious and discouraging any further critical thought.
+
+16. Red herring – Yes – The poll asking "Who should replace Nikki Haley as our ambassador to the U.N.?" is completely irrelevant to the article's subject matter and serves as a distraction.
+
+17. Straw men – Yes – The text implicitly frames the Democrats' position as "we treat all accusations against political opponents with maximum gravity," and then attacks this constructed position by showing they are not doing so in Ellison's case, thereby "proving" hypocrisy.
+
+18. Whataboutism – Yes – The text deflects from the conversation surrounding Brett Kavanaugh by redirecting the focus with the charge, "But while the Democrats are in a lather over Ford and Kavanaugh... they couldn’t care less about Karen Monahan."
+
+Verdict – 95% – The text is a clear and strong example of propaganda. Its primary purpose is not to inform but to persuade the reader toward a specific political viewpoint by employing a wide array of manipulative techniques. The piece frames a news story (the release of a doctor's report) within a highly partisan and emotionally charged narrative. It uses techniques like Name Calling, Loaded Language, and Whataboutism to attack the character and motives of its political targets. It creates a false narrative through the Black & White Fallacy and Exaggeration/Minimization, presenting two complex situations as a simple matter of one being credible and the other not. The inclusion of a completely irrelevant Red Herring poll and the use of a Thought-Terminating Cliché further underscore its nature as a propaganda piece designed to manipulate opinion and shut down critical thinking rather than engage in honest discourse. The factual elements within the text are used as a foundation upon which a heavily biased and manipulative structure is built.

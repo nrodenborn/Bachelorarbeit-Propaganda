@@ -1,0 +1,39 @@
+Name calling – No – The text does not use any insulting labels to attack a person, group, or idea.
+
+Repetition – No – While the concept of "farthest" is mentioned multiple times, it is used to describe different factual records being broken, not as a tool to indoctrinate the reader with a single, simple message.
+
+Slogans – No – The text mentions the famous phrase "Pale Blue Dot," but it is presented as a historical quote from Carl Sagan, not as a slogan to promote an idea within the article itself.
+
+Appeal to fear – No – The text does not attempt to create fear or anxiety about any alternative to space exploration or NASA's work.
+
+Doubt – No – The text does not cast doubt on any person, group, or concept. It reinforces the credibility of NASA and its scientists.
+
+Exaggeration/minimization – No – While the text uses strong, positive language like "historic" and "record-breaking," these claims are presented as factual and are the central point of the news story, not deceptive exaggerations.
+
+Flag-Waving – No – The text mentions NASA, a US agency, and a US astronomer, but it does not explicitly appeal to patriotism or national pride to persuade the audience. The focus is on the scientific and human achievement.
+
+Loaded Language – No – The text uses descriptive language (e.g., "historic," "electronic slumber"), but it is not used in a way that is intended to manipulate emotions or rely on stereotypes. The language serves to make the scientific news more engaging and understandable.
+
+Reduction ad Hitlerum – No – This technique is completely absent from the text.
+
+Bandwagon – No – The text does not suggest that the reader should support the mission because it is popular. Mentioning the popularity of Carl Sagan's speech is a statement of historical fact, not an appeal to join a crowd.
+
+Causal Oversimplification – No – The text does not oversimplify the cause of the event. It attributes the achievement to the New Horizons spacecraft, its technology (LORRI), and the mission team.
+
+Obfuscation, intentional vagueness – No – The text is clear and specific, providing details such as the spacecraft's name, its distance, the names of its instruments, and future mission dates.
+
+Appeal to authority – Yes – The text repeatedly cites NASA as the source of its information and includes a direct quote from the agency to lend credibility and factual weight to the story. For example: `"That New Year's flight past MU69 will be the farthest planetary encounter in history... " said NASA.`
+
+Black & white fallacy – No – The text does not present a false dilemma or limit the reader to only two choices.
+
+Thought-terminating clichés – No – The text does not use any clichés intended to shut down discussion or critical thinking.
+
+Red herring – No – The inclusion of the Voyager probe and Carl Sagan's "Pale Blue Dot" speech serves as relevant historical context to highlight the significance of the new achievement, rather than as a distraction from the main point.
+
+Straw men – No – The text is informative and does not construct or attack any opposing arguments.
+
+Whataboutism – No – The text does not deflect criticism by accusing others of hypocrisy.
+
+Verdict – 5% – This text is not propaganda; it is a factual news report based on a press release. Its primary purpose is to inform the public about a scientific achievement. While a press release is a form of public relations designed to cast the organization (NASA) in a positive light, it does not employ the manipulative, deceptive, or emotionally-charged tactics characteristic of propaganda.
+
+The only technique identified, "Appeal to authority," is used appropriately here. Citing NASA as the source for a story about a NASA mission is a standard journalistic practice for establishing credibility and providing factual information. It is an appeal to a relevant and legitimate authority, not a fallacious attempt to win an argument. The text is transparent, fact-based, and aims to educate and generate interest rather than mislead or control the audience's beliefs on a contentious issue.

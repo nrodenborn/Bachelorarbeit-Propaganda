@@ -1,0 +1,62 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – Yes – "vilification," "fabrication," "fake news," "elite-serving narrative," "hit-piece."  
+   *Examples:* "Guardian’s long-running vilification," "this latest fabrication," "profoundly irresponsible journalism – fake news."
+
+2. **Repetition** – Yes – Repeated emphasis on the *Guardian's* alleged bias, lack of evidence, and systemic malice.  
+   *Examples:* "Guardian’s attacks," "Guardian violating basic journalistic standards," "Guardian’s hatred of Assange."
+
+3. **Slogans** – No – No brief, memorable phrases are used as slogans.  
+
+4. **Appeal to fear** – Yes – Warns of Assange’s extradition, imprisonment, and erosion of press freedom.  
+   *Example:* "pave the way for the US legal system to lock Assange up for a very long time."  
+
+5. **Doubt** – Yes – Questions the *Guardian*’s credibility and motives.  
+   *Example:* "the Guardian thought they had ‘insurance’... from security and intelligence services."  
+
+6. **Exaggeration/minimization** – Yes – Exaggerates the *Guardian*’s malice ("systematic" attacks); minimizes evidence supporting the *Guardian*’s claims.  
+   *Example:* "so full of holes," "profoundly irresponsible journalism."  
+
+7. **Flag-Waving** – No – No appeal to patriotism or national identity.  
+
+8. **Loaded Language** – Yes – Emotionally charged terms like "vilification," "baffling," "unhinged," "venom," "rapacious."  
+   *Example:* "the Guardian’s attacks on Assange are... systematic."  
+
+9. **Reduction ad Hitlerum** – No – No comparison to universally hated groups.  
+
+10. **Bandwagon** – Yes – Appeals to "widespread skepticism" and support from critics.  
+    *Example:* "even hardened opponents of Assange... are struggling to stand by it."  
+
+11. **Causal Oversimplification** – Yes – Blames the *Guardian* for shifting focus from Clinton’s failures.  
+    *Example:* "shifts attention away... from its failure to mount an effective electoral challenge."  
+
+12. **Obfuscation, intentional vagueness** – No – Arguments are direct, not deliberately obscured.  
+
+13. **Appeal to authority** – Yes – Cites Glenn Greenwald, Craig Murray, and Gareth Porter as credible critics.  
+    *Example:* "According to Greenwald..."; "Craig Murray also points out..."  
+
+14. **Black & white fallacy** – Yes – Portrays the *Guardian* as systematically malicious, ignoring nuance.  
+    *Example:* "The Guardian did not make a mistake... It did what it is designed to do."  
+
+15. **Thought-terminating clichés** – Yes – "Fake news" and "elite-serving narrative" shut down debate.  
+    *Example:* "profoundly irresponsible journalism – fake news."  
+
+16. **Red herring** – Yes – Introduces unrelated critiques of the *Guardian*’s coverage of Corbyn, Venezuela, and Tony Blair.  
+    *Example:* "Its especial venom has been reserved for leftwing figures like Venezuela’s Hugo Chavez."  
+
+17. **Straw men** – No – Accusations against the *Guardian* are specific, not misrepresented.  
+
+18. **Whataboutism** – Yes – Deflects by citing the *Guardian*’s coverage of other topics (Corbyn, Venezuela).  
+    *Example:* "the Guardian is far from ‘solid and reliable’... It has been at the forefront of... attacks on Labour leader Jeremy Corbyn."  
+
+---
+
+### Verdict – 95% – Detailed Explanation:  
+The text is overwhelmingly propagandistic, employing **12 of 18 techniques** analyzed. Its core purpose is to discredit the *Guardian* and defend Assange by:  
+1. **Systematic Vilification**: Labels the *Guardian*’s reporting as "fabrication," "fake news," and "elite-serving," while attributing malicious intent ("designed to shore up consensus" for the neoliberal order).  
+2. **Emotional Manipulation**: Uses fear (Assange’s imprisonment), loaded language ("rapacious," "venom"), and appeals to authority (Greenwald, Murray) to sway readers.  
+3. **Distraction & Deflection**: Redirects focus via whataboutism (Corbyn, Venezuela) and red herrings (Tony Blair, Elliot Higgins) to avoid engaging with the *Guardian*’s evidence.  
+4. **Narrative Reinforcement**: Repeatedly asserts the *Guardian*’s bias without substantive counter-evidence, relying on causal oversimplification (blaming Clinton’s loss on narrative shifts) and black/white framing (the *Guardian* as inherently corrupt).  
+5. **Suppression of Dissent**: Uses thought-terminating clichés ("fake news") to dismiss opposing viewpoints outright.  
+
+While fact-based critiques exist (e.g., questioning the *Guardian*’s sourcing), the text’s relentless use of propagandistic techniques—especially name-calling, repetition, and deflection—reveals its primary goal: not balanced analysis, but ideological persuasion. The 5% uncertainty arises solely from isolated valid points (e.g., CCTV absence), which are overshadowed by the text’s aggressive rhetorical strategy.

@@ -1,0 +1,24 @@
+Name calling – Yes – The text labels the group Linda Sarsour is associated with as "the worst of the worst."
+Repetition – Yes – The question "Will Brett Kavanaugh be confirmed to the Supreme Court?" is repeated three times in the poll section.
+Slogans – No – The text does not use any brief, memorable phrases in the style of a slogan.
+Appeal to fear – Yes – The text creates fear by linking a political figure to a plot involving "training children at a filthy New Mexico compound to commit school shootings" and the "bombing of the World Trade Center."
+Doubt – Yes – The text casts doubt on the elder Wahhaj by describing him as a "possible co-conspirator in the bombing of the World Trade Center in 1993 -- but was never charged," raising suspicion without a definitive accusation.
+Exaggeration/minimization – Yes – The text uses exaggeration by stating that when "the left made Linda Sarsour into its role model, it climbed into bed with the worst of the worst."
+Flag-Waving – No – The text does not appeal to patriotism or use patriotic symbols.
+Loaded Language – Yes – The text uses emotionally charged words like "filthy New Mexico compound," "extremist of the Muslim belief," and "radical speakers" to evoke negative emotions.
+Reduction ad Hitlerum – No – The text does not compare any person or idea to Hitler or the Nazis.
+Bandwagon – No – The text does not suggest that an idea is good because it is popular.
+Causal Oversimplification – Yes – The headline "Linda Sarsour's Mentor, The WTC Bombing & A School Shooting Plot In New Mexico" and the opening sentence create a simplified and unsupported causal chain, implying that Sarsour's status as a "role model" for "the left" is directly connected to terrorism and a school shooting plot.
+Obfuscation, intentional vagueness – Yes – The text is vague about the specific connection between Linda Sarsour and the elder Wahhaj, simply stating he is her "mentor" without evidence or explanation. It also quotes the sheriff saying the adults were "considered extremist of the Muslim belief" but notes he "did not elaborate."
+Appeal to authority – Yes – The text cites "prosecutors," the "Taos County Sheriff," and "CBS News" to lend credibility to the frightening allegations being made, thereby strengthening the overall propaganda message.
+Black & white fallacy – Yes – The poll included in the text presents only two choices for a complex political question: "Yes, he will be confirmed" or "No, he will not be confirmed."
+Thought-terminating clichés – Yes – The phrase "the worst of the worst" is used to shut down any nuanced view of Linda Sarsour or her associates by applying a simple, damning, and thought-ending label.
+Red herring – Yes – The text inserts a completely unrelated poll about Brett Kavanaugh's Supreme Court confirmation in the middle of the story, distracting the reader from the main narrative.
+Straw men – No – The text does not present or refute a mischaracterized argument from an opponent; it focuses on making its own assertions and associations.
+Whataboutism – No – The text does not attempt to deflect criticism by accusing its opponents of hypocrisy.
+
+Verdict – 95% – The text is overwhelmingly propagandistic. Its primary strategy is guilt by association, a technique not explicitly on the list but constructed from several that are. The headline and opening sentence create a direct line from a political figure (Linda Sarsour) and a political movement ("the left") to a horrific crime story involving child abuse, a school shooting plot, and terrorism (the WTC bombing). This is a powerful form of Causal Oversimplification and Appeal to Fear.
+
+The piece uses Loaded Language ("filthy," "extremist," "worst of the worst") to create an emotional, rather than a rational, response. It employs Obfuscation and Doubt by asserting a "mentor" relationship without defining it and by mentioning the elder Wahhaj was a "possible co-conspirator" who was "never charged," planting suspicion without a factual basis for it.
+
+While it uses the Appeal to Authority (citing prosecutors, a sheriff, CBS News) to give its claims a veneer of journalistic credibility, the overall structure reveals its true intent. The inclusion of a completely irrelevant Red Herring (the Brett Kavanaugh poll) and the use of Name Calling and Thought-terminating clichés demonstrate that the article's purpose is not to inform, but to persuade the reader to associate a political opponent with evil and danger.

@@ -1,0 +1,26 @@
+1. Name calling – Yes – The text labels the authorities as “incompetent, clueless” and the FBI as “bumbling.”
+2. Repetition – Yes – The idea of an “INFORMATION BLACKOUT” is repeated in the headline and the first and third sentences of the text.
+3. Slogans – Yes – The headline “INFORMATION BLACKOUT in Las Vegas Shooting” is used as a brief, memorable phrase to encapsulate the main argument.
+4. Appeal to fear – Yes – The text repeatedly links the shooting to ISIS and jihad, stating “ISIS has claimed responsibility for the Vegas slaughter,” which instills fear of a larger, unacknowledged terrorist threat.
+5. Doubt – Yes – The text is built around questioning the credibility of the official investigation, calling it a “botched investigation” and a “stunning indictment of the FBI.”
+6. Exaggeration/minimization – Yes – The text exaggerates by claiming the “incompetent, clueless authorities know nothing.” It also minimizes the complexity of the investigation by framing the lack of information solely as a "blackout."
+7. Flag-Waving – Yes – The text appeals to patriotism by stating, “This is not the Soviet Union, this is not Iran or Riyadh – this is America,” contrasting the alleged secrecy with American values.
+8. Loaded Language – Yes – The text uses emotionally charged words like “savagery,” “unspeakable,” “botched,” and “bumbling” to influence the reader's perception.
+9. Reduction ad Hitlerum – Yes – The text disapproves of the authorities’ actions by comparing them to hated regimes: “This is not the Soviet Union, this is not Iran or Riyadh – this is America.”
+10. Bandwagon – No – The text does not suggest its viewpoint is popular; instead, it laments a perceived lack of public concern by asking, “Where is the outrage?”
+11. Causal Oversimplification – Yes – The text simplifies the reason for the lack of public information, attributing it solely to an “INFORMATION BLACKOUT” by “incompetent, clueless authorities,” ignoring the complexities of a major criminal investigation.
+12. Obfuscation, intentional vagueness – No – The text itself is not vague; it makes very direct accusations. It accuses the authorities of obfuscation, but does not use the technique itself.
+13. Appeal to authority – Yes – The text uses a lengthy excerpt from the “Las Vegas Review-Journal” to lend journalistic credibility to its claims. It also presents Pamela Geller as an authority at the end.
+14. Black & white fallacy – Yes – The text presents the situation as a choice between a deliberate cover-up by incompetent authorities and the truth the author is presenting, ignoring other possibilities like a genuinely difficult and slow investigation.
+15. Thought-terminating clichés – No – The text does not use clichés to end discussion; rather, it aims to provoke discussion and outrage about its specific claims.
+16. Red herring – Yes – The text introduces the San Bernardino jihad attackers and their destruction of hard drives. While presented as a parallel, it is irrelevant to proving the motive in the Las Vegas case and serves to distract by association.
+17. Straw men – Yes – The text claims the FBI has “dismissed out of hand jihad as a motive.” This misrepresents the official position at the time, which was that the motive was still unknown, and refutes a more easily attackable, fabricated position.
+18. Whataboutism – No – The text does not deflect criticism by accusing an opponent of hypocrisy; it is focused entirely on attacking the authorities.
+
+Verdict – 95% – The text is a clear and strong example of propaganda. Its primary purpose is not to inform objectively but to persuade the reader to adopt a specific, highly contentious viewpoint: that the authorities are incompetently or deliberately covering up an ISIS connection to the Las Vegas shooting.
+
+The text achieves this by deploying a vast array of propaganda techniques in a concentrated manner. It immediately sets an aggressive and emotional tone using **Loaded Language** (“savagery,” “botched”), **Name Calling** (“incompetent, clueless authorities”), and an **Appeal to Fear** by repeatedly mentioning ISIS and jihad. It casts **Doubt** on the entire official investigation and uses a **Straw Man** argument by claiming the FBI “dismissed” a jihad motive, which is easier to attack than the FBI's actual position of the motive being unknown.
+
+The argument is framed using logical fallacies like **Causal Oversimplification** (the lack of information is a "blackout," not a result of investigative complexity) and the **Black & White Fallacy** (it's either a cover-up or the author's truth). It appeals to patriotism through **Flag-Waving** (“this is America”) and even a form of **Reduction ad Hitlerum** by comparing the authorities' actions to those of the Soviet Union and Iran.
+
+Crucially, the text bolsters its own credibility through an **Appeal to Authority**, reprinting a large portion of a legitimate news article from the *Las Vegas Review-Journal*. This tactic sandwiches the author's highly biased and speculative claims around a piece of factual reporting, lending an unearned air of journalistic legitimacy to the entire piece. The sheer volume and combination of these techniques, all aimed at discrediting an official narrative and promoting an unproven alternative, confirm its nature as propaganda.

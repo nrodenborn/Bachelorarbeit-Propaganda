@@ -1,0 +1,39 @@
+Name calling – No – The text does not use any insulting labels to attack any person, group, or subject.
+
+Repetition – Yes – The core message of a dangerous, spreading outbreak and the preparation for a "worst-case scenario" is repeated throughout the text. For example, the headline states "WHO Prepares For “Worst Case”", the first paragraph says "The World Health Organization has now said it is preparing for “the worst case scenario.”", and a later quote from a WHO official reiterates, "we are planning for all scenarios, including the worst-case scenario."
+
+Slogans – No – The text does not use any brief, memorable phrases in a repetitive, slogan-like manner.
+
+Appeal to fear – Yes – The text repeatedly highlights the danger of the Ebola virus to instill fear. For example, it states, "Ebola, a haemorrhagic fever, killed at least 11,000 across the world after it decimated West Africa" and mentions a past outbreak where "90% of those infected died."
+
+Doubt – No – The text does not question the credibility of any source. In fact, it does the opposite by citing official organizations like the WHO and the Red Cross.
+
+Exaggeration/minimization – Yes – The text exaggerates the potential threat by focusing on the most alarming possibilities and statistics. The headline and opening paragraph immediately focus on the "Worst Case" scenario, and the text highlights a historical "90% of those infected died" fatality rate, even though it also states the average is "around half".
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged words to influence the reader's perception. Examples include "deadly viral disease," "greatly concerned," "worrisome," and "decimated West Africa."
+
+Reduction ad Hitlerum – No – The text does not make any comparison to Hitler or any other hated group.
+
+Bandwagon – No – The text does not suggest that the reader should believe something because it is popular. It cites authorities and facts, not popular opinion.
+
+Causal Oversimplification – No – The text does not offer a simplistic cause for the complex event of an Ebola outbreak. It mentions transmission vectors and logistical challenges.
+
+Obfuscation, intentional vagueness – No – The text is specific with numbers, locations, and sources, and does not use intentionally unclear language.
+
+Appeal to authority – Yes – The text heavily relies on the statements and credibility of authorities to support its claims. For example, it quotes "Peter Salma, head of emergency response at the World Health Organization (WHO)" and "Tedros Adhanom Ghebreyesus (@DrTedros)", the Director-General of the WHO.
+
+Black & white fallacy – No – The text does not present a situation with only two possible outcomes. It describes a developing situation with a range of potential scenarios.
+
+Thought-terminating clichés – No – The text does not use any clichés intended to stop critical thought.
+
+Red herring – No – All the information presented, including historical data and response efforts, is relevant to the topic of the Ebola outbreak.
+
+Straw men – No – The text is a report and does not create or refute a false argument.
+
+Whataboutism – No – The text does not accuse any party of hypocrisy.
+
+***
+
+Verdict – 75% – The text reports on a real event and cites factual information from credible authorities. However, it uses several propaganda techniques to frame the information in the most alarming way possible. The primary goal appears to be to provoke an emotional response (fear) rather than to simply inform. This is achieved through the use of Loaded Language ("decimated," "deadly"), a strong Appeal to Fear (focusing on high death tolls and past pandemics), Exaggeration (emphasizing the "worst-case scenario"), and Repetition of the alarming message. The extensive use of Appeal to Authority lends credibility to this frightening narrative. While not fabricating information, the selective presentation and emotionally charged framing are characteristic of propaganda meant to shape public perception and emotion.

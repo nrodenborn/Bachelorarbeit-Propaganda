@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack an object or subject.
+2. Repetition – Yes – The text repeatedly emphasizes the idea of censorship and control by elites.
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+4. Appeal to fear – Yes – The text suggests a threat to freedom and democracy by elites and censorship.
+5. Doubt – Yes – The text questions the credibility of mainstream media and authority figures.
+6. Exaggeration/minimization – Yes – The text exaggerates the influence and control of elites and minimizes the credibility of mainstream media.
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – The text uses emotionally charged language, such as “censorship,” “elite,” and “control.”
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – Yes – The text assumes simple causes, like elite control, for complex events like media censorship.
+12. Obfuscation, intentional vagueness – Yes – The text uses vague terms like “Deep State” and “elite” without clear definitions.
+13. Appeal to authority – Yes – The text cites authority figures like JFK and Edward Snowden to support its claims.
+14. Black & white fallacy – Yes – The text presents the situation as a choice between independent media and elite-controlled mainstream media.
+15. Thought-terminating clichés – Yes – The text uses clichés like “the answer to bad speech is more speech” to discourage further discussion.
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – Yes – The text deflects criticism by pointing out perceived hypocrisy in mainstream media and authority figures.
+
+**Verdict – 80% – The text exhibits several propaganda techniques, including appeal to fear, doubt, exaggeration, loaded language, causal oversimplification, and appeal to authority. These techniques are used to persuade the audience of the dangers of censorship and elite control, while questioning the credibility of mainstream media and authority figures. The presence of multiple propaganda techniques indicates a high likelihood that the text is propaganda.**

@@ -1,0 +1,39 @@
+Name calling – No – The text does not use insulting labels to attack a subject.
+
+Repetition – No – The text does not repeat the same message over and over.
+
+Slogans – No – The text does not use a brief and memorable phrase to encapsulate a message.
+
+Appeal to fear – No – The text does not attempt to support its idea by instilling fear against an alternative.
+
+Doubt – Yes – The text questions the credibility of the Associated Press's journalistic policies. Example: "A reminder that the Associated Press has an official policy of 'not reporting race' when it's not 'relevant'."
+
+Exaggeration/minimization – Yes – The author exaggerates the importance of race in the context of the news report. Example: "I can't think of anything less irrelevant than a black gunman shooting two white cops"
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses emotionally charged language to frame the event in racial terms. Example: "I can't think of anything less irrelevant than a black gunman shooting two white cops--after five years of the 'Blacks Lives Matter' movement."
+
+Reduction ad Hitlerum – No – The text does not compare any idea or group to the Nazis.
+
+Bandwagon – No – The text does not appeal to the popularity of an idea.
+
+Causal Oversimplification – Yes – The text implies a simple causal link between a political movement and an individual's crime. Example: "...a black gunman shooting two white cops--after five years of the 'Blacks Lives Matter' movement."
+
+Obfuscation, intentional vagueness – No – The author's point is made clearly, not obscured with vague language.
+
+Appeal to authority – No – The text uses "internet detectives" as a source, which is the opposite of an appeal to a credible authority, and it actively undermines the authority of the Associated Press.
+
+Black & white fallacy – No – The text does not present only two choices.
+
+Thought-terminating clichés – No – The text does not use phrases that discourage critical thought.
+
+Red herring – Yes – The text introduces the "Blacks Lives Matter" movement, which is irrelevant to the specific facts of the domestic violence call, to distract from the case's details and pivot to a broader political and racial argument. Example: "...after five years of the 'Blacks Lives Matter' movement."
+
+Straw men – Yes – The text misrepresents the Associated Press's neutral reporting policy as an active attempt to hide what the author deems a relevant truth, then argues against this misrepresented position. Example: "A reminder that the Associated Press has an official policy of 'not reporting race' when it's not 'relevant'. I can't think of anything less irrelevant..."
+
+Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+***
+
+Verdict – 95% – The text is highly likely to be propaganda. While it begins by quoting factual news reports, it quickly pivots to a commentary section that employs numerous propaganda techniques. The author uses Loaded Language ("black gunman shooting two white cops") and Causal Oversimplification to frame a specific crime as a direct consequence of the "Blacks Lives Matter" movement, which serves as a Red Herring to distract from the facts of the case and inject a political narrative. The author also uses Doubt and a Straw Man argument to attack the journalistic integrity of the Associated Press for not conforming to this narrative. The combination of these techniques demonstrates a clear intent to manipulate the reader's perception of the event, moving it from a crime report to a piece of political commentary designed to stoke racial division and anger, which is a primary function of propaganda.

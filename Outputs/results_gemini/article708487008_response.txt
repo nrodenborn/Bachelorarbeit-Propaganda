@@ -1,0 +1,37 @@
+Name calling – No – The text does not use insulting labels to attack any person, group, or idea.
+
+Repetition – No – While the central idea is reinforced, it is not repeated verbatim in a way designed to bypass rational thought.
+
+Slogans – No – The text does not use brief, memorable phrases as a substitute for argument.
+
+Appeal to fear – Yes – The text uses phrases like "Black Death Warning" and "can kill a person in just three hours" to create a sense of fear and urgency about the plague.
+
+Doubt – No – The text does not question the credibility of any person or organization; in fact, it relies on the credibility of experts and institutions.
+
+Exaggeration/minimization – No – While the headline is dramatic, the body of the text uses specific data and expert quotes, avoiding unsubstantiated exaggeration or minimization.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – The term "Black Death" is used in the headline, which is emotionally charged and evokes historical pandemics to create a stronger emotional impact.
+
+Reduction ad Hitlerum – No – The text does not suggest any idea is popular with a hated group.
+
+Bandwagon – No – The text does not appeal to the popularity of an idea.
+
+Causal Oversimplification – No – The text explains the complex reasons why the plague is difficult to eradicate (widespread in wildlife rodents) rather than simplifying the cause.
+
+Obfuscation, intentional vagueness – No – The text is specific, providing data, names of experts, and locations.
+
+Appeal to authority – Yes – The article's main argument rests on the statements of an expert, "Dr. Allen Cheng, Professor of Infectious Diseases Epidemiology at Monash University," and the "World Health Organisation (WHO)."
+
+Black & white fallacy – No – The text does not present a false dichotomy of only two choices.
+
+Thought-terminating clichés – No – The text does not use phrases designed to stop critical thought.
+
+Red herring – No – The text does not introduce irrelevant material to distract the reader.
+
+Straw men – No – The text does not misrepresent or refute an opposing argument.
+
+Whataboutism – No – The text does not deflect criticism by accusing others of hypocrisy.
+
+Verdict – 20% – The text is very unlikely to be propaganda, though it employs a few techniques common to it. Its primary purpose is to inform the public about a health crisis by reporting on expert opinions and data from health organizations. The use of "Appeal to authority" is a standard journalistic practice of citing credible sources (a professor of infectious diseases, the WHO) and is not fallacious in this context. However, the headline "Black Death Warning" and the mention of how quickly the disease can kill are clear uses of "Loaded Language" and "Appeal to fear." These techniques are used to create a sensational headline to grab the reader's attention, a common practice in modern journalism, rather than to manipulate the audience for a political or ideological purpose. The body of the article is factual, data-driven, and sourced, which runs contrary to the aims of most propaganda.

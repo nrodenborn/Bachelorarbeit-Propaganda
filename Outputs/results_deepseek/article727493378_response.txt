@@ -1,0 +1,30 @@
+### Propaganda Technique Analysis:
+1. **Name calling** – No – No direct insulting labels are used against the coroner or others; criticism is present but not in the form of derogatory labels.  
+2. **Repetition** – Yes – The demand to "release the records" is repeated in quotes from McLetchie and Moyer, reinforcing the core message.  
+3. **Slogans** – Yes – "Release the records" and "No more games" are brief, memorable phrases used to rally support.  
+4. **Appeal to fear** – No – The text criticizes delays but does not instill fear about alternatives (e.g., no suggestion of dire consequences if the report is withheld).  
+5. **Doubt** – Yes – Explicitly questions credibility: "Something is rotten in Denmark!" and raises doubts about whether the body was Paddock’s.  
+6. **Exaggeration/minimization** – Yes – Exaggerates with dramatic language (e.g., body in a box marked "evidence"; JFK reference) and minimizes potential reasons for the delay (e.g., ignores investigative complexities).  
+7. **Flag-waving** – No – No appeals to patriotism or group identity; focuses on transparency, not national pride.  
+8. **Loaded Language** – Yes – Uses emotionally charged phrases like "no more games," "something is rotten," and "cremated ... in a box marked 'evidence'" to evoke outrage.  
+9. **Reduction ad Hitlerum** – No – No comparisons to Hitler/Nazis; the JFK reference implies conspiracy but not a reduction to hated groups.  
+10. **Bandwagon** – Yes – Appeals to popularity: "the public’s right to open government" implies the public consensus supports release.  
+11. **Causal Oversimplification** – Yes – Attributes delays solely to the coroner’s obstruction ("no more games"), ignoring potential legal or procedural complexities.  
+12. **Obfuscation** – No – The text demands clarity; it does not use vague language to confuse.  
+13. **Appeal to authority** – Yes – Quotes attorneys (McLetchie) and editors (Moyer) to validate arguments: "The law is squarely on the side..."  
+14. **Black & white fallacy** – Yes – Presents the issue as transparency vs. secrecy: "No more games" implies only two choices (release or conceal), ignoring middle ground.  
+15. **Thought-terminating clichés** – Yes – "Something is rotten in Denmark!" shuts down debate by implying obvious corruption.  
+16. **Red herring** – Yes – The JFK reference ("Wait, were the same guys... John F Kennedy?") distracts from the autopsy issue with an irrelevant conspiracy allusion.  
+17. **Straw men** – No – Accurately summarizes the coroner’s position (e.g., delaying for "finalization") without misrepresentation.  
+18. **Whataboutism** – No – Does not accuse critics of hypocrisy; focuses on the coroner’s actions.  
+
+---
+
+### Verdict – 85% – Detailed Explanation:  
+The text is **highly likely propaganda** due to its systematic use of persuasive techniques to advance a specific narrative (government concealment) while omitting counter-perspectives. Key indicators:  
+- **Emotional manipulation**: Loaded language (e.g., "box marked 'evidence'") and exaggeration create outrage.  
+- **Distortion of facts**: Uses causal oversimplification (blaming the coroner exclusively) and red herrings (JFK comparison) to imply conspiracy.  
+- **Rhetorical pressure**: Slogans ("Release the records") and repetition demand compliance, while thought-terminating clichés ("Something is rotten!") discourage scrutiny.  
+- **Selective framing**: Highlights the coroner’s defiance and legal penalties while ignoring potential valid reasons for delays (e.g., ongoing investigations).  
+- **Source bias**: The article’s permission from "Sons of Liberty Media" (a known conspiracy-leaning outlet) and urgent tone align with ideological persuasion rather than neutral reporting.  
+Though based on real events (e.g., the court order), the text’s omission of context, reliance on emotional appeals, and multiple propaganda techniques position it as advocacy disguised as journalism. The 15% uncertainty reflects the legitimate public interest in transparency, but the delivery overwhelmingly serves a propagandistic agenda.

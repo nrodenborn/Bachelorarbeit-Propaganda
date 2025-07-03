@@ -1,0 +1,30 @@
+### Propaganda Technique Analysis:
+1. **Name calling** – Yes – "lies" (in the title: "The US Is Blatantly Telling Lies"), "disingenuously" (accusing Haley of omitting facts).  
+2. **Repetition** – No – No single phrase or idea is repeated excessively.  
+3. **Slogans** – No – No brief, memorable phrases used as slogans (e.g., "Buy Gold" is unrelated to the argument).  
+4. **Appeal to fear** – Yes – Ritter’s analysis warns of U.S. military vulnerability against "sophisticated mobile ballistic missiles" from Iran/North Korea, implying catastrophic failure.  
+5. **Doubt** – Yes – Questions Haley’s credibility: "Did she disingenuously omit that inconvenient bit... or fail to read the entire UN report?"  
+6. **Exaggeration/minimization** – Yes – Minimizes Iran’s role: "no evidence" of direct arms supply (per UN panel), while exaggerating U.S. hypocrisy ("armed ISIS").  
+7. **Flag-waving** – No – No appeal to patriotism or identity; criticizes U.S. actions instead.  
+8. **Loaded Language** – Yes – "Blatantly telling lies," "demonize," "grandiose speech," "trumped-up charges" evoke moral outrage.  
+9. **Reduction ad Hitlerum** – No – No comparison to Hitler/Nazis.  
+10. **Bandwagon** – No – No appeal to popularity.  
+11. **Causal Oversimplification** – No – Complexity of missile origins is acknowledged (Soviet/N. Korean sources, Iranian modifications).  
+12. **Obfuscation** – No – Arguments are detailed and cited (e.g., Ritter’s technical breakdown).  
+13. **Appeal to authority** – Yes – Relies on Scott Ritter (ex-inspector) and UN experts to debunk Haley.  
+14. **Black & white fallacy** – No – Recognizes nuance (e.g., UN report findings are dissected, not oversimplified).  
+15. **Thought-terminating clichés** – No – No phrases like "end of story" to shut down debate.  
+16. **Red herring** – No – Stays focused on disproving Haley’s claims about Iranian missiles.  
+17. **Straw men** – No – Accurately quotes and refutes Haley’s specific assertions.  
+18. **Whataboutism** – Yes – Distracts from Iran’s actions by highlighting U.S. arming of ISIS/al-Qaeda: "doesn’t excuse the U.S. for... arming al-Qaeda’s affiliate."  
+
+---
+
+### Verdict – 80% – Detailed Explanation:  
+The text is **highly likely propaganda** due to:  
+1. **Persuasive Agenda**: It systematically discredits U.S. claims about Iran using loaded language ("lies," "demonize") while downplaying Iran’s role.  
+2. **Selective Evidence**: Cites sources (Ritter, UN panel) supporting its narrative but ignores counter-evidence. Uses "whataboutism" to deflect criticism of Iran.  
+3. **Emotional Manipulation**: Loaded terms ("hypocritical," "schizophrenic") and appeals to fear (U.S. military vulnerability) sway readers emotionally.  
+4. **Source Bias**: Relies heavily on Scott Ritter (a known critic of U.S. foreign policy) without acknowledging potential bias.  
+5. **Omission of Context**: Fails to address why the U.S. might distrust Iran (e.g., nuclear program, regional proxy conflicts), framing U.S. actions as baseless.  
+However, it avoids outright falsehoods by citing verifiable sources (UN reports) and providing technical details. The 20% uncertainty stems from its factual citations, but the **overall framing is polemical and one-sided**, aligning with anti-U.S. propaganda objectives.

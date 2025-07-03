@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack an object or subject.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use a brief and memorable phrase.
+4. Appeal to fear – Yes – The text suggests fear of a continuation of controversial policies, such as torture and aggressive foreign policy, with phrases like "nothing’s looking any brighter" and "George W. Bush/Barack Obama era foreign policy and intelligence doctrines aren’t going anywhere under Trump."
+5. Doubt – Yes – The text questions the credibility of Pompeo and Haspel by highlighting controversial aspects of their past actions and beliefs.
+6. Exaggeration/minimization – Yes – The text exaggerates the negative implications of the appointments by suggesting a direct continuation of controversial policies without acknowledging potential changes or nuances.
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – The text uses emotionally charged language, such as "big fan of torture" and "world-on-fire," to provoke a strong emotional response.
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text is not deliberately unclear or obscure.
+13. Appeal to authority – No – The text does not use authority’s support as evidence.
+14. Black & white fallacy – Yes – The text presents the appointments as a binary choice between controversial past policies and an undefined alternative, without acknowledging other possibilities.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 60% – The text exhibits several propaganda techniques, including appeal to fear, doubt, exaggeration/minimization, loaded language, and the black & white fallacy. These techniques suggest a bias against the appointments of Pompeo and Haspel, framing them in a negative light by emphasizing controversial aspects of their past actions and policies. While the text provides factual information, the use of emotionally charged language and the presentation of a binary choice contribute to a likelihood of propaganda. However, the absence of other techniques such as name calling, slogans, and whataboutism indicates that the text is not heavily propagandistic.

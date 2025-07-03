@@ -1,0 +1,33 @@
+### Analysis of Propaganda Techniques in the Text:
+
+1. **Name calling** – **Yes** – "incompetent, clueless authorities" and "bumbling FBI" insult law enforcement.  
+2. **Repetition** – **Yes** – The phrase "information blackout" is repeated (headline and opening) to emphasize suppression.  
+3. **Slogans** – **No** – No brief, memorable phrases are used as slogans (e.g., "information blackout" is descriptive, not pithy).  
+4. **Appeal to fear** – **Yes** – Focuses on ISIS claims ("ISIS foothold," "terrorism financing") to instill fear about hidden jihadist threats.  
+5. **Doubt** – **Yes** – Repeatedly questions authorities' credibility: "the incompetent, clueless authorities know nothing," "FBI has dismissed out of hand jihad as a motive."  
+6. **Exaggeration/minimization** – **Yes** – Exaggerates ISIS credibility ("ISIS does not claim credit for events that are not theirs") while minimizing FBI conclusions.  
+7. **Flag-waving** – **Yes** – "This is not the Soviet Union, this is not Iran or Riyadh – this is America" appeals to patriotism.  
+8. **Loaded language** – **Yes** – Emotional terms like "savagery," "slaughter," "jihad attackers," and "botched investigation" evoke anger/stereotypes.  
+9. **Reduction ad Hitlerum** – **No** – No comparisons to Hitler/Nazis or hated groups beyond ISIS (which is central to the argument).  
+10. **Bandwagon** – **No** – No appeal to popularity (e.g., "everyone knows" or similar phrasing absent).  
+11. **Causal oversimplification** – **Yes** – Attributes the attack solely to jihadism/Paddock’s Islam ties, ignoring complexity: "ISIS has claimed responsibility... Paddock converted to Islam."  
+12. **Obfuscation, intentional vagueness** – **No** – The text is direct, not vague (e.g., specifics about trips, transactions, and hard drives are cited).  
+13. **Appeal to authority** – **Yes** – Uses ISIS’s claims as evidence ("ISIS has claimed responsibility... revealed his Islamic name") while dismissing the FBI.  
+14. **Black & white fallacy** – **Yes** – Presents only two motives: jihad (supported) or FBI incompetence/cover-up. Ignores other possibilities.  
+15. **Thought-terminating clichés** – **No** – No phrases like "case closed" or "end of discussion" that halt debate.  
+16. **Red herring** – **Yes** – Introduces San Bernardino hard drives ("Syed Rizwan Farook... threw their hard drives") to distract from lack of Vegas evidence.  
+17. **Straw men** – **Yes** – Implies authorities deny all terrorist links ("FBI has dismissed out of hand jihad"), but the FBI only dismissed early unverified claims.  
+18. **Whataboutism** – **No** – No accusations of hypocrisy (e.g., "What about the FBI’s past failures?" is not used).  
+
+---
+
+### Verdict – 90% – Detailed Explanation:  
+The text is **highly likely propaganda** due to its systematic use of manipulative techniques to advance a specific narrative. Key indicators include:  
+- **Source Bias**: The article is credited to Pamela Geller, a known anti-Islam activist, and ends with promotional praise for her "commitment to freedom from jihad," framing the piece ideologically.  
+- **Emotional Manipulation**: Loaded language (e.g., "savagery," "slaughter") and fear appeals (ISIS claims) dominate, overriding factual neutrality.  
+- **Dismissal of Counterevidence**: Authorities are labeled "incompetent" for withholding details, yet the text ignores investigative complexities (e.g., "ongoing investigation" rationale).  
+- **Distortion of Facts**: Selective emphasis on ISIS claims while omitting contrary evidence (e.g., no proof Paddock converted) and causal oversimplification (jihad as sole motive).  
+- **Us-vs-Them Framing**: Patriotic flag-waving ("this is America") contrasts with demonization of the FBI and implied foreign threats.  
+- **Structured Persuasion**: Techniques like repetition ("blackout"), name-calling, and straw men build a cohesive argument favoring a conspiracy-driven narrative.  
+
+While the text embeds factual elements (e.g., timeline errors, Campos’ interview), these are weaponized to discredit authorities rather than inform. The 10% uncertainty stems from the inclusion of verified reporting excerpts (e.g., *Las Vegas Review-Journal* details), but the overarching framing meets propaganda criteria.

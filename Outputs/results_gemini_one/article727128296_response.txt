@@ -1,0 +1,37 @@
+Name calling – No – The text uses descriptive terms like "gunman" and "person of interest," which are factual or legal descriptions, not insulting labels used to attack a subject.
+
+Repetition – No – The text presents a sequence of events and statements from different sources without repeating a single message to reinforce it.
+
+Slogans – No – There are no brief, memorable phrases used to encapsulate or promote an idea.
+
+Appeal to fear – No – The text reports on a frightening event but does not use fear to promote an idea or discredit an alternative. It is reporting on the facts of an investigation.
+
+Doubt – No – The text presents the police's suspicion and Haig's denial side-by-side, which is balanced reporting of a conflict, not an attempt to specifically question the credibility of one party.
+
+Exaggeration/minimization – No – The text reports the number of casualties and details of the transaction without any apparent exaggeration or minimization.
+
+Flag-Waving – No – There are no appeals to patriotism or national identity in the text.
+
+Loaded Language – No – The language is largely neutral and journalistic. Words like "massacre" are descriptive of the event rather than being used to emotionally manipulate the reader for a propagandistic purpose.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+
+Bandwagon – No – The text does not suggest that an idea should be adopted because it is popular.
+
+Causal Oversimplification – No – The text explicitly states that the motive for the complex event is unknown, avoiding any oversimplification of its cause.
+
+Obfuscation, intentional vagueness – No – The text is clear in its reporting. When it mentions uncertainty (e.g., "it's unclear if he's still under investigation"), it is reporting a known fact about the investigation, not deliberately trying to confuse the audience.
+
+Appeal to authority – No – The text cites authorities like the police and the FBI, but this is standard journalistic attribution, not a fallacious appeal to use their status as proof of a claim. It also presents counterclaims from other sources.
+
+Black & white fallacy – No – The text presents multiple facets of the story, including the police's view, Haig's view, and the lack of charges, avoiding a simple two-sided presentation.
+
+Thought-terminating clichés – No – The text does not use any phrases or clichés to discourage critical thought.
+
+Red herring – No – The article remains focused on the subject, Douglas Haig, and his connection to the investigation without introducing irrelevant topics.
+
+Straw men – No – The text does not misrepresent or create a false argument to refute. It presents direct quotes and reported facts.
+
+Whataboutism – No – The text does not use hypocrisy as a way to deflect from the main issue.
+
+Verdict – 0% – The text is a piece of standard journalistic reporting, not propaganda. It aims to inform the audience about a development in the Las Vegas shooting investigation by presenting facts from multiple, attributed sources (police documents, the subject himself, his lawyers). The language is neutral, and it clearly distinguishes between confirmed facts, official suspicions, and personal statements. It does not employ any of the 18 listed propaganda techniques, as its primary goal is to inform rather than to persuade the reader to adopt a specific viewpoint or agenda.

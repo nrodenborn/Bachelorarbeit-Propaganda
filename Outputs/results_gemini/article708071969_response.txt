@@ -1,0 +1,39 @@
+1. Name calling – No – The text does not use insulting labels to attack a person or group. It refers to patients as "Black Death Patients," but "Black Death" is a common name for the plague, not an insult directed at the individuals.
+
+2. Repetition – Yes – The idea of patients escaping or running away from hospitals is repeated multiple times. For example: "Black Death Patients Are ESCAPING The Hospital," "patients in Madagascar who are currently suffering from the plague have 'escaped' multiple hospitals," "the main reason why patients run away," and "Some escaped."
+
+3. Slogans – No – The text does not use any brief, memorable phrases in a repetitive, slogan-like manner.
+
+4. Appeal to fear – Yes – The article is constructed to create fear about the plague spreading. Examples include: "officials worry plague could spread," "prompted fears that the plague could spread even further," "making this disease much more terrifying," and "increasing the likelihood of global pandemic."
+
+5. Doubt – No – The text does not primarily seek to question the credibility of a specific person or institution. Instead, it uses quotes from officials to support its narrative.
+
+6. Exaggeration/minimization – Yes – The text exaggerates the potential outcome of the events. The headline "Shock: Black Death Patients Are ESCAPING" is hyperbolic, and the article quickly escalates from escaped patients to the "inevitable" resistance to antibiotics and the "impossible to control" "global pandemic."
+
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+8. Loaded Language – Yes – The text uses emotionally charged words to influence the reader's perception. Examples include "Shock," "ESCAPING" (in all caps), "forcefully keeping," "terrifying," and "overwhelmed."
+
+9. Reduction ad Hitlerum – No – The text does not suggest any idea is popular with a hated group.
+
+10. Bandwagon – No – The text does not argue that an idea is true because it is popular.
+
+11. Causal Oversimplification – Yes – The text presents a simplified causal chain for a potential global pandemic: patients' fear of needles leads to them escaping, which will cause the plague to spread uncontrollably and become antibiotic-resistant, leading to a global catastrophe. This ignores the many complex factors involved in disease control.
+
+12. Obfuscation, intentional vagueness – No – The text is not deliberately vague; its message of fear is quite direct and clear.
+
+13. Appeal to authority – Yes – The text cites authorities to support its claims, such as "Jean Benoit Manhes, the deputy representative of Unicef," "officials," and "experts." It also presents "Mac Slavo" from "SHTFplan" as an authority on the subject.
+
+14. Black & white fallacy – Yes – The text presents a scenario with only two outcomes: the current, seemingly failing containment efforts, or an "inevitable" and "terrifying" global pandemic. It does not consider other possibilities, such as successful containment or localized spread.
+
+15. Thought-terminating clichés – No – The text does not use clichés to shut down critical thought.
+
+16. Red herring – Yes – The detailed description of the "Famidihana" burial tradition, while related to the plague, serves to distract from the main argument about escaping patients and antibiotic resistance. It adds an element of exoticism and cultural fear that is not directly connected to the hospital situation.
+
+17. Straw men – No – The text does not misrepresent or refute an opponent's argument.
+
+18. Whataboutism – No – The text does not charge any opponent with hypocrisy.
+
+***
+
+Verdict – 95% – The text is highly likely to be propaganda. Its primary purpose is not to objectively inform the reader but to generate a strong emotional response of fear and alarm. This is achieved through a potent combination of propaganda techniques. The article is framed with an exaggerated, sensationalist headline and uses loaded language ("Shock," "terrifying," "impossible to control") throughout. It heavily relies on an appeal to fear, consistently emphasizing worst-case scenarios like an "inevitable" antibiotic resistance and a "global pandemic." The argument is built on causal oversimplification, creating a simple but terrifying narrative that a fear of needles will lead to global doom. This is presented as a black & white fallacy, where the only alternative to the current situation is catastrophe. The piece strategically uses appeals to authority (quoting UNICEF and a survivalist blogger) to give its alarmist claims a veneer of credibility. The sourcing itself, citing the tabloid "The Sun" and the prepper blog "SHTFplan," indicates that the article's goal is sensationalism over balanced reporting. The combination of these techniques demonstrates a clear intent to manipulate the reader's emotions rather than present a factual, nuanced account of the situation.

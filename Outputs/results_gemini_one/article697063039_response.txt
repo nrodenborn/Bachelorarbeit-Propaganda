@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use any insulting labels to attack a person, group, or subject.
+2. Repetition – No – The text does not repeat the same message or phrase over and over again.
+3. Slogans – No – The text does not use any brief, memorable phrases to rally support.
+4. Appeal to fear – No – The text describes a fearful situation but does not use fear to argue against an alternative. It reports on the existing crisis.
+5. Doubt – No – The text does not question the credibility of any person or source; it reports information and quotes directly.
+6. Exaggeration/minimization – No – The text uses statistics and direct quotes to describe the situation, and the descriptive language appears appropriate for the scale of the disaster.
+7. Flag-Waving – No – While it mentions "United States citizens" and "American citizens," this is done to state a fact and within a direct quote, not as an appeal to patriotism by the author.
+8. Loaded Language – Yes – The text uses emotionally charged words to influence the audience's perception. Example: "This is devastating news for those living in Puerto Rico, as foreign ships can no longer bring aid to the hurricane-ravaged island from U.S. ports."
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+10. Bandwagon – No – The text does not suggest that an idea is correct because it is popular.
+11. Causal Oversimplification – No – The text does not attribute the complex situation to a single, simple cause.
+12. Obfuscation, intentional vagueness – No – The language used is clear, direct, and supported by specific data.
+13. Appeal to authority – Yes – The text uses quotes from an official source as evidence to support its claims. Example: "Puerto Rico’s Governor Ricardo Rossello asked the federal government for an additional $4.6 billion in funding..."
+14. Black & white fallacy – No – The text does not present the situation as having only two possible outcomes or choices.
+15. Thought-terminating clichés – No – The text does not use any phrases that are meant to discourage critical thought.
+16. Red herring – No – All information presented in the text is relevant to the central topic of the crisis in Puerto Rico.
+17. Straw men – No – The text is a report and does not create or refute a misrepresented argument.
+18. Whataboutism – No – The text does not attempt to charge any party with hypocrisy.
+
+Verdict – 25% – The text is primarily a factual news report, providing statistics and citing official sources. However, it crosses into persuasive territory through its consistent use of Loaded Language ("devastated," "wrath," "struggling," "devastating news") designed to evoke a strong emotional response of sympathy and concern from the reader. While the use of Appeal to Authority is present (quoting the governor), this is also a standard practice in journalism to establish credibility. The overwhelming absence of other manipulative techniques means it is not a piece of overt propaganda, but its emotionally charged framing gives it a persuasive and non-neutral tone, leaning it slightly towards advocacy journalism rather than purely objective reporting.

@@ -1,0 +1,67 @@
+### Analysis of Propaganda Techniques:
+
+1. **Name calling** – No  
+   *Explanation:* No insulting labels are applied to subjects; the text describes events neutrally.
+
+2. **Repetition** – Yes  
+   *Explanation:* Phrases like "muzzle flashes," "air assault," and "aircraft" are repeated (e.g., "muzzle flashes" appears 4 times) to reinforce the central claim.
+
+3. **Slogans** – No  
+   *Explanation:* No brief, memorable phrases (e.g., hashtags like `#LasVegasShooting` serve as metadata, not slogans).
+
+4. **Appeal to fear** – No  
+   *Explanation:* The text presents evidence without explicitly invoking fear against alternatives.
+
+5. **Doubt** – Yes  
+   *Explanation:* Questions official narratives by emphasizing that helicopters "should not" occupy the airspace and lack permits (e.g., "no aircraft should be occupying that airspace").
+
+6. **Exaggeration/minimization** – Yes  
+   *Explanation:* Uses amplified language like "strategic air assault" and "major analysis," implying a coordinated military operation without conclusive proof.
+
+7. **Flag-Waving** – No  
+   *Explanation:* No appeals to patriotism or group identity.
+
+8. **Loaded Language** – Yes  
+   *Explanation:* Emotionally charged terms like "massacre," "lurk," and "strategic air assault" evoke alarm and conspiracy.
+
+9. **Reduction ad Hitlerum** – No  
+   *Explanation:* No comparisons to hated groups (e.g., Nazis).
+
+10. **Bandwagon** – No  
+    *Explanation:* No appeals to popularity (e.g., "everyone agrees").
+
+11. **Causal Oversimplification** – No  
+    *Explanation:* Does not oversimplify causes; focuses narrowly on helicopter activity.
+
+12. **Obfuscation** – No  
+    *Explanation:* Details are specific (e.g., timestamps, video settings) rather than vague.
+
+13. **Appeal to authority** – Yes  
+    *Explanation:* Cites "Intellihub’s founder and editor-in-chief Shepard Ambellas" as a credible source for validation.
+
+14. **Black & white fallacy** – No  
+    *Explanation:* No false dichotomies presented.
+
+15. **Thought-terminating clichés** – No  
+    *Explanation:* No phrases halting critical discussion (e.g., "adjust the video speed" invites scrutiny).
+
+16. **Red herring** – No  
+    *Explanation:* No irrelevant distractions; all details relate to the footage.
+
+17. **Straw men** – No  
+    *Explanation:* No misrepresentation of opposing arguments.
+
+18. **Whataboutism** – No  
+    *Explanation:* No accusations of hypocrisy.
+
+---
+
+### Verdict – 85% – Detailed Explanation  
+**Yes, this is highly likely propaganda.** The text employs **Repetition**, **Doubt**, **Exaggeration**, **Loaded Language**, and **Appeal to Authority** to advance a conspiratorial narrative. Key indicators:  
+- **Emotive framing**: Terms like "massacre," "lurk," and "air assault" prime readers to interpret events as sinister.  
+- **Selective evidence**: Highlights "muzzle flashes" while dismissing FAA regulations and radar data that contradict the claim.  
+- **Pseudoscientific validation**: Instructions to "adjust video speed" or "view in 1080p" create a false sense of rigorous analysis.  
+- **Authority bias**: Relies on conspiracy-focused outlets (Intellihub, Alex Jones Show) as primary sources.  
+- **Implied cover-up**: Emphasizes helicopters "should not" be present, implying official deception.  
+
+While presenting factual elements (e.g., FAA rules), the text cherry-picks details to fit a predetermined conclusion—a hallmark of propaganda. The 15% uncertainty reflects the *possibility* of genuine investigation, but the techniques used overwhelmingly serve persuasive aims over objective reporting.

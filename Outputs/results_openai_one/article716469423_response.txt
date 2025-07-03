@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use any insulting labels to attack an object or subject.
+2. Repetition – No – The text does not repeat the same message over and over.
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+4. Appeal to fear – Yes – The text suggests that a mini ice age and cataclysmic events could occur, which instills fear about the future.
+5. Doubt – Yes – The text includes statements like “Is there a mini ice age coming? I don’t know,” which casts doubt on the certainty of the situation.
+6. Exaggeration/minimization – Yes – The text exaggerates the potential consequences of the sun's dimming by suggesting a barrage of cataclysmic events.
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – The text uses emotionally charged language, such as “cataclysmic events” and “infuriate environmental campaigners.”
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – Yes – The text suggests a simple cause (dimming of the sun) for complex events (mini ice age and seismic activities).
+12. Obfuscation, intentional vagueness – Yes – The text uses vague expressions like “it appears to be” and “could be due to hit” to create uncertainty.
+13. Appeal to authority – Yes – The text references NASA and other scientific sources to support its claims.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought.
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main issue.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 70% – The text exhibits several propaganda techniques, including appeal to fear, doubt, exaggeration/minimization, loaded language, causal oversimplification, obfuscation, and appeal to authority. These techniques are used to create a sense of urgency and fear about the potential consequences of the sun's dimming, while also casting doubt on the certainty of these events. The use of authoritative sources lends credibility to the claims, even though the language and presentation suggest a speculative and alarmist perspective. Overall, the presence of multiple propaganda techniques indicates a high likelihood that the text is intended to influence the audience's perception and emotions regarding the topic.

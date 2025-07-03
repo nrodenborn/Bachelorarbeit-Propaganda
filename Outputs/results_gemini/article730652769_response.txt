@@ -1,0 +1,39 @@
+Name calling – Yes – The term "illegal aliens" is used to label the apprehended individuals. While it is a legal term, it is often considered a pejorative and dehumanizing label, framing the people as criminals rather than using more neutral terms like "undocumented migrants."
+
+Repetition – No – The text is a short report of two separate incidents and does not repeat a specific message or phrase for persuasive effect.
+
+Slogans – No – The text does not use any brief or memorable phrases designed to be a slogan.
+
+Appeal to fear – Yes – The use of terms like "stash houses" and "suspicious activity" can instill a sense of fear. "Stash house" associates the location with criminality (e.g., drugs, weapons, or human trafficking), creating an atmosphere of danger that the Border Patrol is portrayed as resolving.
+
+Doubt – No – The text does not question the credibility of any person or entity; it presents information from a single, authoritative perspective.
+
+Exaggeration/minimization – No – The text provides specific numbers (60, 35, 25) and reports the events in a factual tone without obvious hyperbole or understatement.
+
+Flag-Waving – No – While the text is about the actions of a national agency (Border Patrol), it does not make a direct appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses the terms "illegal aliens" and "stash houses." Both are emotionally charged. "Illegal aliens" frames the individuals negatively, and "stash house" associates them and their location with serious criminal enterprise, influencing the reader's perception.
+
+Reduction ad Hitlerum – No – The text makes no comparisons to hated groups.
+
+Bandwagon – No – The text does not suggest that its viewpoint is popular or that the reader should align with it because many others do.
+
+Causal Oversimplification – Yes – By presenting the event solely as a law enforcement action against "illegal aliens," the text ignores the complex socio-economic and political factors that lead to migration. It simplifies a complex issue into a simple narrative of crime and apprehension.
+
+Obfuscation, intentional vagueness – No – The text is quite specific, providing dates, locations, and numbers. The statement "No further details were released" is an acknowledgement of limited information, not an act of being deliberately vague to confuse.
+
+Appeal to authority – Yes – The entire text is framed as an official report from "Border Patrol agents" and "Homeland Security Investigations (HSI)." It uses the authority of these government agencies to present the information as factual and credible.
+
+Black & white fallacy – No – The text reports on a past event and does not present a limited set of two options for the reader to choose from.
+
+Thought-terminating clichés – No – The text does not contain any phrases or clichés intended to stop critical thought.
+
+Red herring – No – All the information in the brief text is directly relevant to the central topic of the apprehensions.
+
+Straw men – No – The text is a report, not an argument, and does not set up or refute a misrepresented opposing position.
+
+Whataboutism – No – The text does not deflect from the topic by accusing another party of hypocrisy.
+
+***
+
+Verdict – 80% – The text is highly likely to be propaganda, specifically a form of institutional or "white" propaganda, where the source is identified and the information is presented as factual, yet is framed to influence public opinion. While it reports on a real event with factual details (dates, numbers), it employs several key techniques to shape the reader's perception. The most significant technique is the use of **Loaded Language**. Terms like "illegal aliens" and "stash houses" are not neutral; they are chosen to dehumanize the individuals and criminalize their situation, evoking an emotional response of fear and disapproval. This is reinforced by the **Appeal to Fear** inherent in the term "stash house." The text also relies heavily on **Appeal to Authority**, presenting the information as an official, and therefore objective, report from Border Patrol. Finally, it uses **Causal Oversimplification** by stripping the event of all context regarding the reasons for migration, reducing a complex human issue to a simple matter of law enforcement. The combination of these techniques creates a biased narrative disguised as a neutral press release, designed to reinforce a specific, negative view of immigration and justify the actions of the reporting agency.

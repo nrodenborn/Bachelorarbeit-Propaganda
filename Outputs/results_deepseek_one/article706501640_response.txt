@@ -1,0 +1,42 @@
+### Analysis of Propaganda Techniques in the Text:
+1. **Name calling** – No  
+   Explanation: The text does not use insulting labels to attack any subject (e.g., no terms like "enemy" or derogatory names).  
+2. **Repetition** – **Yes**  
+   Explanation: The warning about the plague mutating and becoming untreatable is repeated in the headline, paragraph 2, and Professor Hunter's quote: "mutate and become untreatable" (headline), "could mutate and become untreatable" (paragraph 2), and "it mutates and become untreatable" (Hunter quote).  
+3. **Slogans** – No  
+   Explanation: No brief, memorable phrases are used (e.g., no equivalents to "Build the Wall").  
+4. **Appeal to fear** – **Yes**  
+   Explanation: The text emphasizes global spread, mutation risks, and historical parallels (e.g., Black Death, Ebola) to instill fear: "Deadly Plague Could MUTATE...", "fears that it could evolve into something far more dangerous," and "devastated Europe’s population in the 1300s."  
+5. **Doubt** – No  
+   Explanation: No questioning of credibility (e.g., no "Can we trust X?").  
+6. **Exaggeration/minimization** – **Yes**  
+   Explanation: Exaggeration is present in the headline ("Deadly Plague Could MUTATE") and historical comparison to the Black Death, despite antibiotics being noted as effective treatment.  
+7. **Flag-waving** – No  
+   Explanation: No appeals to patriotism or group identity (e.g., no "our nation" or "protect us").  
+8. **Loaded Language** – **Yes**  
+   Explanation: Emotionally charged terms like "Deadly Plague," "devastated Europe’s population," "highly unusual," and "fatal 24-48 hours" evoke alarm.  
+9. **Reduction ad Hitlerum** – No  
+   Explanation: No comparisons to Nazis or universally hated groups.  
+10. **Bandwagon** – No  
+    Explanation: No appeals to popularity (e.g., no "everyone agrees").  
+11. **Causal Oversimplification** – No  
+    Explanation: No oversimplified causes (e.g., complex factors for spread are acknowledged).  
+12. **Obfuscation, intentional vagueness** – No  
+    Explanation: Details are specific (e.g., case numbers, transmission methods, antibiotics).  
+13. **Appeal to authority** – **Yes**  
+    Explanation: Professor Paul Hunter and the WHO are cited to validate claims: "Professor Paul Hunter has warned..." and "according to the World Health Organization."  
+14. **Black & white fallacy** – No  
+    Explanation: No false dilemmas (e.g., no "only two options" presented).  
+15. **Thought-terminating clichés** – No  
+    Explanation: No phrases shutting down debate (e.g., no "it is what it is").  
+16. **Red herring** – No  
+    Explanation: No irrelevant distractions; all content relates to the plague.  
+17. **Straw men** – No  
+    Explanation: No misrepresentation of opposing arguments.  
+18. **Whataboutism** – No  
+    Explanation: No accusations of hypocrisy (e.g., no "what about X group?").  
+
+---
+
+### Final Verdict:  
+**Verdict – 45% –** The text exhibits several propaganda techniques (e.g., **repetition**, **appeal to fear**, **exaggeration**, **loaded language**, and **appeal to authority**), which amplify alarm about the plague's mutation risk and global spread. However, it also includes factual, verifiable information: statistics (2,000 infected, 143 dead), scientific explanations (airborne transmission, antibiotics), and institutional actions (WHO aid, school closures). The sensationalized framing ("Deadly Plague," Black Death comparisons) leans toward fear-mongering, but the presence of concrete details and expert sources prevents it from being purely propagandistic. It is best classified as **sensationalist journalism** with propagandistic elements, not outright propaganda.

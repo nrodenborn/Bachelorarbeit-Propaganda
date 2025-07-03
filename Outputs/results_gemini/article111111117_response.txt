@@ -1,0 +1,20 @@
+1. Name calling – No – The text uses formal titles and descriptive labels like "President Donald Trump," "deputy CIA director Gina Haspel," "critics," and "lawmakers." It does not use any insulting labels to attack a subject.
+2. Repetition – No – The text does not repeat any single message or phrase to reinforce an idea. Information is presented in a linear, narrative fashion.
+3. Slogans – No – There are no brief, memorable phrases used to promote an idea. The language is journalistic and descriptive.
+4. Appeal to fear – No – The text reports that some groups oppose Haspel due to her past actions, but the article itself does not use fear to support or oppose her nomination. It is reporting on the fears of others, not creating fear in the reader.
+5. Doubt – No – The article reports that "critics" speculated about the delay, but it attributes this doubt to a specific group rather than casting doubt itself. It also presents the official reason for the delay, providing a balanced view.
+6. Exaggeration/minimization – No – The text does not overtly exaggerate or minimize any facts. The term "harsh interrogation" is a description of the controversy surrounding Haspel, not an invention of the article to distort reality.
+7. Flag-Waving – No – There is no appeal to patriotism or national identity to persuade the audience.
+8. Loaded Language – No – While the topic of "harsh interrogation" is emotionally charged, the text uses the phrase to describe the reason for opposition, which is a factual part of the story. The article's language is generally neutral and informative.
+9. Reduction ad Hitlerum – No – The text does not compare any person or idea to a hated group.
+10. Bandwagon – No – The text does not suggest that an idea is popular and that the reader should therefore agree. It presents both support for the nomination (from Trump) and opposition to it.
+11. Causal Oversimplification – No – The text avoids oversimplification by presenting multiple potential reasons for the delay in the nomination: the official reason (logistical issues) and the speculative one (White House second thoughts).
+12. Obfuscation, intentional vagueness – No – The text is clear and direct. The use of an anonymous source ("a U.S. official") is a standard journalistic practice and the reason for the anonymity is explained.
+13. Appeal to authority – No – The text reports that an authority (President Trump) made a nomination. This is a statement of fact, not an argument that the nomination is good simply because an authority made it.
+14. Black & white fallacy – No – The text presents a nuanced situation with multiple actors and viewpoints, not a simple choice between two options.
+15. Thought-terminating clichés – No – The text does not use any phrases designed to shut down critical thought.
+16. Red herring – No – All information presented, such as the delay and the reasons for opposition, is directly relevant to the topic of Haspel's nomination.
+17. Straw men – No – The text accurately represents the reason for opposition ("her role in the CIA’s detention and harsh interrogation") rather than misrepresenting an argument to refute it.
+18. Whataboutism – No – The text does not attempt to deflect criticism by charging an opponent with hypocrisy.
+
+Verdict – 5% – This text is a piece of standard journalistic reporting, not propaganda. Its primary purpose is to inform the public about a newsworthy event: the formal nomination of a new CIA director. The text adheres to journalistic standards by attributing information to sources (President Trump's tweet, a U.S. official, critics), presenting multiple sides of the issue (the nomination, the reasons for opposition, the cause of a delay), and using neutral, fact-based language. It does not employ any of the listed propaganda techniques to persuade the reader toward a particular viewpoint. The very low percentage acknowledges that all language has some inherent bias, but this text is structured to be as objective and informative as possible.

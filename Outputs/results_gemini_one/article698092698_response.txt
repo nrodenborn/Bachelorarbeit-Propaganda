@@ -1,0 +1,37 @@
+Name calling – Yes – The text uses an insulting label to describe the official investigation: "William Jacobson explains the latest “revise” by the authorities is the now infamously botched Vegas investigation"
+
+Repetition – Yes – The text repeats the same rhetorical question to emphasize disbelief and cast doubt on the authorities: "Are they for real?" is used twice in quick succession.
+
+Slogans – No – The text does not use any brief, memorable phrases to rally support for an idea.
+
+Appeal to fear – No – The text primarily aims to create doubt and suspicion about a past event's investigation, rather than instilling fear of a future alternative.
+
+Doubt – Yes – The entire article is constructed to question the credibility of the authorities, using rhetorical questions as a primary tool. Example: "How can they possibly hold those two contradictory ideas at the same time?"
+
+Exaggeration/minimization – Yes – The editor's note exaggerates the potential impact of two reporters at a press conference: "They would have posed real genuine questions of Sheriff Lombardo and forced him to stumble all over himself in answering them."
+
+Flag-Waving – No – While it mentions the victims as "Americans," the text does not make a broader appeal to patriotism or national identity to make its point.
+
+Loaded Language – Yes – The text uses emotionally charged words to influence the reader's perception. Example: "A well-coordinated, meticulously planned attack on concertgoers leads to the murder of 58 Americans"
+
+Reduction ad Hitlerum – No – The text does not compare any person or idea to Nazis or other universally hated groups.
+
+Bandwagon – No – The text does not argue that its position is correct because it is popular.
+
+Causal Oversimplification – No – The text argues against a simple explanation, suggesting the situation is more complex and confusing than what authorities are presenting.
+
+Obfuscation, intentional vagueness – Yes – The text accuses the authorities of this technique and quotes them to prove it, thereby using the example within the text. Example: "On Friday, Lombardo effectively agreed with the company’s statement, though he argued that the 9:59 p.m. time he had offered four days earlier “wasn’t inaccurate when I provided it.”"
+
+Appeal to authority – Yes – The text cites external sources to lend credibility to its argument. Example: "William Jacobson explains the latest “revise” by the authorities..." and "WaPo reports:"
+
+Black & white fallacy – No – The text does not present only two choices; instead, it explores the confusion and contradictions in the official narrative, implying multiple possibilities (incompetence, conspiracy, etc.).
+
+Thought-terminating clichés – No – The text is designed to encourage critical thought and speculation, not to shut it down.
+
+Red herring – Yes – The editor's note introduces the topic of two reporters being barred from a press conference, which is irrelevant to the specific timeline discrepancies discussed in the main body of the text, serving only to distract and suggest a conspiracy of silence. Example: "Editor's Note: This is probably a reason why reporters Laura Loomer and Mike Tokes were barred from entering the presser."
+
+Straw men – Yes – The text brings up the label "conspiracy theorists" (an argument presumably made by others) and then refutes it by arguing that speculation is natural, rather than addressing a direct, substantive argument. Example: "The words “conspiracy theorists” are being bandied about. Are they for real? Do the FBI and law enforcement think people won’t talk about it or speculate as to what happened?"
+
+Whataboutism – No – The text does not attempt to deflect criticism by accusing its opponents of hypocrisy on other matters.
+
+Verdict – 90% – The text is highly likely to be propaganda. Its primary purpose is not to objectively report the facts, but to persuade the audience that the official investigation is incompetent and untrustworthy, strongly implying a cover-up. It achieves this by selectively presenting facts (the changing timelines) and framing them with a variety of propaganda techniques. The most prominent techniques are Doubt, which is woven throughout the piece with rhetorical questions; Loaded Language ("botched investigation," "murder"); the use of a Red Herring (the barred reporters) and a Straw Man ("conspiracy theorists") to preemptively defend its speculative nature and cast aspersions on the authorities' motives. While it uses real information from news sources (Appeal to Authority), the overall structure, tone, and inclusion of the editor's note are all geared towards promoting a specific, highly critical, and conspiratorial narrative rather than providing a balanced account.

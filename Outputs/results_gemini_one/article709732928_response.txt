@@ -1,0 +1,37 @@
+Name calling – Yes – The text uses labels to attack the Clintons by associating them with criminality and corruption. Example: "Not to be outdone, the Hill’s John Solomon had found even more dirt on this ugly Clinton led deal."
+
+Repetition – Yes – The text repeats key phrases and accusations to reinforce its message. Example: The list of crimes "bribery, kickback, extortion, money laundering" is mentioned multiple times by different speakers to describe the alleged scandal.
+
+Slogans – Yes – The text uses a brief, memorable phrase in its title to frame the entire story. Example: "Uranium One Bombshell"
+
+Appeal to fear – Yes – The text supports its argument by creating fear around a national security threat. Example: "Of course, it goes without saying giving the Russians control of the uranium was a national security compromise."
+
+Doubt – Yes – The text actively questions the credibility and statements of official bodies. Example: "There are a lot of things that people have been saying that these documents simply don’t agree with."
+
+Exaggeration/minimization – Yes – The text exaggerates the importance of the information while minimizing the separate Trump-Russia investigation. Example: "On Tuesday night Fox News Sean Hannity sat down to talk about the exploding scandal that is the Uranium One deal..."
+
+Flag-Waving – Yes – The text appeals to patriotism by framing the informant as a hero and the issue as a threat to the United States. Example: "I think they will become an American hero out of all of this..."
+
+Loaded Language – Yes – The text uses emotionally charged words to influence the audience's perception. Example: "Sara Carter reporting that she has received a treasure trove of documents that in fact prove tonight the FBI informant has knowledge of Russia’s involvement in uranium one."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or the Nazis.
+
+Bandwagon – No – The text's argument is based on presenting "new" or "exclusive" information from a select few, not on the idea that it is already a widely popular belief.
+
+Causal Oversimplification – Yes – The text presents a simple, direct cause (bribery) for a complex event (a multi-agency government approval of a corporate sale). Example: "When you say follow the money, my suspicion would go to the money came directly from Russia, was funneled through the Canadian donors to the Clinton Foundation."
+
+Obfuscation, intentional vagueness – Yes – The text alludes to evidence and future revelations without providing concrete, verifiable details. Example: "There were also some personal business projects, some very senior Clinton people that got a remarkable infusion of cash from Russia. It will be able to talk about that in the next couple of weeks."
+
+Appeal to authority – Yes – The text relies on the credibility of the host, his guests presented as "investigative reporters" and a "great attorney," and an unseen "FBI informant" to validate its claims. Example: "I got a very high ranking Congressman and that knows, let us put it that way, and actually sent me a note."
+
+Black & white fallacy – Yes – The text frames the situation as a binary choice, suggesting the investigations will either prove Trump's guilt (which it dismisses) or Clinton's guilt. Example: "...it’s looking less likely than ever that President Trump did anything wrong… but the investigations seem to be zeroing in on key Clinton team members (including the Clintons themselves)."
+
+Thought-terminating clichés – Yes – The text uses phrases that discourage further questioning or critical thought. Example: "Of course, it goes without saying giving the Russians control of the uranium was a national security compromise."
+
+Red herring – Yes – The text introduces the Clinton/Uranium One story as a distraction from the original subject of the Russia investigations, which it claims were targeting Trump. Example: "What must be most annoying for the Clinton team is that these investigations all started as a way to undermine the Trump administration and continue to push connections between Trump and Russia."
+
+Straw men – Yes – The text sets up and refutes unquoted or summarized arguments allegedly made by the Justice Department. Example: "If you go back on the last week we heard several things from the Justice Department, there’s no connection to uranium one. These are emails that say uranium one that are in the FBI files."
+
+Whataboutism – Yes – The entire premise of the text is to deflect from the Trump-Russia investigation by saying, "what about this Clinton-Russia scandal?" Example: "Now, more than a year after the investigations began, it’s looking less likely than ever that President Trump did anything wrong… but the investigations seem to be zeroing in on key Clinton team members (including the Clintons themselves)."
+
+Verdict – 95% – The text is a clear and powerful example of propaganda. It is not a piece of objective journalism but a transcript of a partisan commentary show designed to persuade the audience of a particular viewpoint. It achieves this by employing an overwhelming number of propaganda techniques simultaneously. The narrative is built on a foundation of red herring and whataboutism, pivoting away from one political controversy to create another. It uses highly loaded and exaggerated language ("bombshell," "exploding scandal," "treasure trove") to create a sense of urgency and outrage. It appeals to fear by framing the issue as a grave threat to national security. The argument relies heavily on appeals to the authority of the host and his guests, who present a causally oversimplified narrative of bribery and corruption. Throughout the piece, doubt is cast on official institutions while vague promises of future evidence are used to maintain suspense and belief. The sheer density and combination of these techniques demonstrate a clear intent to manipulate audience perception rather than to inform, making it a textbook case of modern political propaganda.

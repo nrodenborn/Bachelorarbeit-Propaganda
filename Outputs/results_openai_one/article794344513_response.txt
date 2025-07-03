@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use insulting labels to attack an object or subject.
+2. Repetition – Yes – The phrase "Who should replace Nikki Haley as our ambassador to the U.N.?" is repeated multiple times.
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+4. Appeal to fear – Yes – The text suggests a fear of censorship and loss of freedom by stating, "Indeed, we have reached the precipice of corporate-state censorship."
+5. Doubt – Yes – The text questions the credibility of Facebook's actions by stating, "However, this couldn’t be further from the truth."
+6. Exaggeration/minimization – Yes – The text exaggerates the impact by stating, "October 11, 2018, will be remembered in history as the day the tech giants attempted to wipe out independent, liberty-minded, antiwar media from the airwaves."
+7. Flag-Waving – Yes – The text appeals to identity by emphasizing "independent, liberty-minded, antiwar media."
+8. Loaded Language – Yes – The text uses emotionally charged language, such as "egregious," "purge," and "memory-holed."
+9. Reduction ad Hitlerum – No – The text does not compare the situation to groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – Yes – The text oversimplifies the cause of censorship by stating, "This obviously took market share and influence away from the traditional media."
+12. Obfuscation, intentional vagueness – No – The text is not deliberately unclear or obscure.
+13. Appeal to authority – Yes – The text references Caitlin Johnstone and John Vibes to support its claims.
+14. Black & white fallacy – Yes – The text presents the situation as a binary choice between mainstream media control and independent media freedom.
+15. Thought-terminating clichés – No – The text does not use clichés to discourage critical thought.
+16. Red herring – Yes – The text introduces irrelevant material by discussing the Atlantic Council's funding sources.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – Yes – The text uses whataboutism by comparing their situation to "pages who do set out to deliberately deceive people."
+
+Verdict – 85% – The text exhibits multiple propaganda techniques, such as repetition, appeal to fear, exaggeration, flag-waving, loaded language, causal oversimplification, appeal to authority, black & white fallacy, red herring, and whataboutism. These elements suggest a strong likelihood that the text is propaganda, as it aims to influence the audience's perception of the situation by using emotional and manipulative language.

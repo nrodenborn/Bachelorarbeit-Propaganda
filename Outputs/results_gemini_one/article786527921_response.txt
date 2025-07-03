@@ -1,0 +1,39 @@
+1. Name calling – Yes – The text uses insulting or negative labels to describe the subject's actions, framing them as nefarious from the start. Example: "Google, once again, has been implicated in a story about how social media executives and employees are using their platforms to control and shutter conservative ideas."
+
+2. Repetition – Yes – The central idea that Google used its resources in a partisan effort to elect Hillary Clinton is repeated throughout the text in various ways. Example: The message is stated in the headline ("Turn Out Latino Voters Who They Thought Would Vote For Clinton"), the opening ("sway Latino voters to back Hillary Clinton"), and is reinforced with quotes like "the openly partisan intent of Google’s actions."
+
+3. Slogans – Yes – The text uses a brief, memorable phrase, taken from the source emails, to encapsulate and dramatize the central accusation. Example: "'Silent Donation': Corporate Emails Reveal Google Executives Tried to Turn Out Latino Voters Who They Thought Would Vote For Clinton"
+
+4. Appeal to fear – Yes – The text supports its argument by suggesting a frightening scenario about the power of tech companies over democracy. Example: "Carlson cited Dr. Robert Epstein... who has said, in Carlson’s words, 'Google alone could determine the outcome of almost any election just by altering its search selections and we would never know it.'"
+
+5. Doubt – Yes – The text actively works to undermine the credibility of Google's official position or statements. Example: "The four page email begins with Murillo claiming she and others at Google were engaged in non-partisan activities... only to undercut her own commentary in later passages in the emails..."
+
+6. Exaggeration/minimization – Yes – The text exaggerates the scope and official nature of the employees' actions while minimizing or dismissing the company's official defense. Example: "This email from Murillo was not just from some rogue staffer inside Google."
+
+7. Flag-Waving – Yes – The text appeals to patriotism by framing the issue as a powerful entity interfering with the American democratic process and its outcome. Example: "...interfere in elections in the United States in a partisan manner against the duly elected President of the United States."
+
+8. Loaded Language – Yes – The text uses words and phrases with strong emotional connotations to influence the reader's perception. Example: "First censorship, now this. When will something be done about these tech and social media companies?" (Words like "censorship" and the urgent, demanding tone are emotionally charged).
+
+9. Reduction ad Hitlerum – No – The text does not compare Google or its employees to Hitler or the Nazis.
+
+10. Bandwagon – No – The text does not argue that its viewpoint is correct because it is popular. It instead relies on appealing to specific authorities.
+
+11. Causal Oversimplification – Yes – The text presents a single email chain as the simple and direct cause or proof of a massive, company-wide conspiracy to control an election, ignoring other complex factors. Example: The entire article's premise is that this email chain is the definitive evidence of a plot to "interfere in elections," simplifying a complex issue into a single cause-and-effect narrative.
+
+12. Obfuscation, intentional vagueness – No – The text is not vague; it makes very specific accusations and uses extensive quotes to support them.
+
+13. Appeal to authority – Yes – The text repeatedly cites figures and organizations presented as credible authorities to support its argument. Example: "The emails were first revealed on Fox News on Monday evening on Tucker Carlson Tonight by anchor Tucker Carlson in a special report."
+
+14. Black & white fallacy – Yes – The text presents the situation as having only two possibilities: either the actions were pure civics or they were a partisan political conspiracy, dismissing any nuanced middle ground. Example: "This was not an exercise in civics, this was political consulting. It was in effect an in-kind contribution to the Hillary Clinton campaign.”
+
+15. Thought-terminating clichés – No – The text does not use clichés to end discussion; it seeks to provoke a specific line of thinking through argumentation.
+
+16. Red herring – No – The text remains focused on its central argument about the Google emails. The comparison to the Mueller probe is an analogy, not a distraction.
+
+17. Straw men – Yes – The text refutes a simplified or misrepresented version of Google's position rather than their actual one. Example: "Google didn’t try to get out the vote among say Christian Arabs in Michigan or say Persian Jews in Los Angeles... It was aimed only at one group..." This attacks an argument for perfectly balanced outreach that Google never made, in order to undermine its actual claim of being "non-partisan."
+
+18. Whataboutism – No – The text does not attempt to deflect criticism of a subject by accusing an opponent of hypocrisy.
+
+***
+
+**Verdict – 95% –** The text is overwhelmingly an example of propaganda. It is not an objective report on a news event but a persuasive article designed to confirm a pre-existing narrative: that powerful, liberal-leaning tech companies are actively working to suppress conservative viewpoints and illegally influence elections. The article originates from partisan sources (Freedom Outpost, Breitbart, Fox News) and employs a vast array of propaganda techniques to construct its argument. It uses **Loaded Language**, **Name Calling**, and **Slogans** ("Silent Donation") to frame the events negatively from the outset. It relies heavily on **Appeal to Authority** (Tucker Carlson, Dr. Epstein) and **Appeal to Fear** (the idea that Google can secretly control elections) to persuade the reader. It creates a simplified, Manichean worldview through the **Black & White Fallacy**, **Causal Oversimplification**, and the use of **Straw Man** arguments to dismiss nuance or Google's actual defense. The core accusatory message is driven home through constant **Repetition**. The clear intent is not to inform, but to inflame, persuade, and solidify a particular political viewpoint against a designated corporate enemy.

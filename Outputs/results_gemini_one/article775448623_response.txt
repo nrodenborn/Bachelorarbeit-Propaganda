@@ -1,0 +1,37 @@
+1. Name calling – Yes – The text labels the administration's decision as a "senseless decision" and a "foolhardy move," and describes Cody Wilson as an "avowed anarchist" to discredit him.
+
+2. Repetition – No – The text develops a central argument but does not repeat a specific phrase or message in the manner of this propaganda technique.
+
+3. Slogans – Yes – The headline, "3-D-printed guns put carnage a click away," functions as a brief, memorable, and impactful phrase that encapsulates the article's entire argument.
+
+4. Appeal to fear – Yes – The text repeatedly instills fear by describing worst-case scenarios, for example: "No background check would weed out felons, those with mental illness, domestic abusers or possible terrorists."
+
+5. Doubt – Yes – The text questions the motives and reasoning behind the administration's decision, for example: "The Brady Center to Prevent Gun Violence has filed a Freedom of Information Act request to find out how this senseless decision was reached, and whether groups such as the National Rifle Association were involved."
+
+6. Exaggeration/minimization – Yes – The text exaggerates the ease of obtaining a weapon by stating that getting one "is just a matter of a few computer clicks," which simplifies the actual process of 3D printing, acquiring materials, and assembly.
+
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity to make its case.
+
+8. Loaded Language – Yes – The text is filled with emotionally charged words and phrases intended to influence the reader, such as "carnage," "dangerous scenario," "worship at the altar of gun rights," and "loss of more innocent lives."
+
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other groups widely hated by the audience.
+
+10. Bandwagon – Yes – The text suggests that the correct viewpoint is the popular one among important groups, stating that the plans "have rightly alarmed leading gun safety groups and law enforcement officials."
+
+11. Causal Oversimplification – Yes – The text presents a direct and simple cause for a future complex event: "Releasing instructions for their manufacture... will lead directly to the loss of more innocent lives."
+
+12. Obfuscation, intentional vagueness – No – The text is very direct and clear in its argument and its condemnation of the decision.
+
+13. Appeal to authority – Yes – The text quotes an authority figure to support its point: "“Why on earth would the Trump administration make it easier for terrorists and gunmen to produce undetectable plastic guns?” asked Sen. Robert Menendez (D-N.J.)."
+
+14. Black & white fallacy – Yes – The text frames the issue as a simple choice between the administration's "foolhardy move" which leads to danger, and stopping it, which ensures safety, ignoring any potential nuances or alternative solutions.
+
+15. Thought-terminating clichés – No – The text does not use clichés to shut down debate; rather, it seeks to provoke an emotional response and argument.
+
+16. Red herring – No – All arguments and information presented in the text are directly relevant to the central topic of 3-D printed guns.
+
+17. Straw men – No – The text criticizes the administration's decision directly rather than misrepresenting and then refuting an opposing argument.
+
+18. Whataboutism – No – The text does not attempt to charge its opponents with hypocrisy by deflecting to another issue.
+
+Verdict – 90% – The text is highly likely to be propaganda. While presented as an opinion editorial, it heavily employs a large number of propaganda techniques (10 out of the 18 listed) to advocate for its position. The piece relies extensively on emotionally loaded language, appeals to fear, and exaggeration to persuade the reader. It simplifies a complex legal and technological issue into a black-and-white scenario of good versus evil, using techniques like causal oversimplification and appeals to authority to guide the reader to a predetermined conclusion. The primary goal is not to foster a balanced understanding but to provoke outrage and rally support against a specific policy decision, which is a key function of propaganda.

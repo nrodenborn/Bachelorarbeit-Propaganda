@@ -1,0 +1,64 @@
+### Analysis of Propaganda Techniques in the Text:
+
+1. **Name calling** – **No**  
+   *Explanation*: The text does not use insulting labels against its subject (Trump or Obama). It neutrally compares policies.
+
+2. **Repetition** – **Yes**  
+   *Explanation*: The poll repeats the question "Will Brett Kavanaugh be confirmed to the Supreme Court?" three times consecutively.
+
+3. **Slogans** – **No**  
+   *Explanation*: No brief, memorable phrases (e.g., "Build the Wall") are used to oversimplify the argument.
+
+4. **Appeal to fear** – **No**  
+   *Explanation*: The text focuses on policy comparisons, not instilling fear about alternatives.
+
+5. **Doubt** – **No**  
+   *Explanation*: While Greenwald critiques media outrage, he does not explicitly question credibility (e.g., "Can we trust Obama?"). 
+
+6. **Exaggeration/minimization** – **No**  
+   *Explanation*: Policies (e.g., arming Ukraine, bombing Syria) are stated factually without hyperbolic language.
+
+7. **Flag-Waving** – **No**  
+   *Explanation*: No appeals to patriotism (e.g., "support our troops") or national identity.
+
+8. **Loaded Language** – **Yes**  
+   *Explanation*: Terms like "leftwing media," "outrage," and "fascist" (referring to leaders) evoke negative emotions/stereotypes.
+
+9. **Reduction ad Hitlerum** – **No**  
+   *Explanation*: No comparisons to Nazis or Hitler (e.g., no "Vichy"-style analogies).
+
+10. **Bandwagon** – **No**  
+    *Explanation*: No appeal to popularity (e.g., "Everyone agrees Trump is tougher").
+
+11. **Causal Oversimplification** – **No**  
+    *Explanation*: Complex U.S.-Russia relations are acknowledged; no single cause is blamed (e.g., "Obama caused Putin’s aggression").
+
+12. **Obfuscation, intentional vagueness** – **No**  
+    *Explanation*: Greenwald’s arguments are specific (e.g., listing sanctions, arms shipments).
+
+13. **Appeal to authority** – **Yes**  
+    *Explanation*: Relies on Glenn Greenwald’s expertise as a "leftwing journalist" to validate the argument.
+
+14. **Black & white fallacy** – **No**  
+    *Explanation*: Nuance is acknowledged (e.g., Trump’s affinity for authoritarian leaders is noted as a separate issue).
+
+15. **Thought-terminating clichés** – **No**  
+    *Explanation*: No phrases like "It is what it is" to shut down debate.
+
+16. **Red herring** – **No**  
+    *Explanation*: The focus remains on Trump/Obama policies; no irrelevant distractions.
+
+17. **Straw men** – **Yes**  
+    *Explanation*: Greenwald refutes the exaggerated claim that Trump is a "puppet of Putin" (a narrative he implies the media promotes).
+
+18. **Whataboutism** – **Yes**  
+    *Explanation*: Deflects criticism of Trump’s refusal to condemn Putin by noting he also doesn’t criticize Netanyahu, Saudi leaders, or Duterte.  
+
+---
+
+### Verdict – 35% – Detailed Explanation:  
+The text **exhibits elements of propaganda** but is primarily **argumentative journalism**. It uses Glenn Greenwald’s credibility (Appeal to Authority) to contrast Trump’s and Obama’s Russia policies, countering media narratives. Propaganda techniques are present:  
+- **Loaded Language** ("fascist," "leftwing media") and **Straw Men** (refuting the "puppet" claim) frame the debate emotionally.  
+- **Whataboutism** deflects criticism of Trump’s approach to Putin.  
+- The **Repetition** in the poll is a manipulative engagement tactic.  
+However, the core relies on **factual policy comparisons** (sanctions, Syria strikes), acknowledges nuance (Trump’s affinity for authoritarians), and avoids fear-mongering or oversimplification. The 35% likelihood reflects embedded persuasive techniques but stops short of systematic deception. The article’s goal is advocacy, not pure propaganda.

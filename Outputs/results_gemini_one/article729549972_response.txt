@@ -1,0 +1,37 @@
+Name calling – No – The text does not use any insulting labels to attack any person, group, or object. The tone is informative and celebratory of a scientific achievement.
+
+Repetition – No – The text does not repeat the same message over and over to influence the reader. While it mentions record-breaking achievements multiple times, each instance refers to a different, specific record (farthest image, farthest encounter, farthest maneuver).
+
+Slogans – No – The text does not use any brief, memorable phrases to rally support for a cause. It mentions the famous phrase "Pale Blue Dot," but it does so in a historical context, attributing it to Carl Sagan and explaining its origin, rather than using it as a slogan.
+
+Appeal to fear – No – The text does not attempt to instill fear. It is a positive report about a space exploration milestone.
+
+Doubt – No – The text does not question the credibility of any person or organization. On the contrary, it presents NASA and its mission as successful and credible.
+
+Exaggeration/minimization – No – The text uses descriptive words like "historic" and "record-breaking," but these are factually supported by the context of the event (the farthest photograph ever taken from Earth). It provides specific data, such as the distance of 3.79 billion miles, to support its claims.
+
+Flag-Waving – No – The text does not appeal to patriotism. It mentions the "US astronomer Carl Sagan" and a mission control center in Maryland, USA, but this is factual information, not an attempt to stir nationalistic sentiment.
+
+Loaded Language – No – The language used is largely factual and neutral. Words like "historic" or "famously" are used to describe the significance of the events, not to manipulate the reader's emotions.
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups like the Nazis. The subject matter is entirely unrelated to such tactics.
+
+Bandwagon – No – The text does not suggest that an idea should be adopted because it is popular. It reports on the facts of the mission.
+
+Causal Oversimplification – No – The text is a report on an event and does not attempt to explain complex events with a single, simple cause.
+
+Obfuscation, intentional vagueness – No – The text is clear and provides specific details. When technical terms like "Kuiper Belt objects (KBOs)" are used, they are explained, which is the opposite of obfuscation.
+
+Appeal to authority – No – The text cites NASA as the source of the information and photographs. This is appropriate journalistic sourcing, as NASA is the primary authority on its own mission. It is not a fallacious appeal used to support a weak argument.
+
+Black & white fallacy – No – The text does not present only two choices or options. It is an informational report, not an argument.
+
+Thought-terminating clichés – No – The text does not use any phrases designed to discourage critical thought.
+
+Red herring – No – The text does not introduce irrelevant material to distract the reader. The mention of Voyager 1 and Carl Sagan provides relevant historical context to help the reader understand the significance of the New Horizons achievement.
+
+Straw men – No – The text is not an argument and does not refute any position, so it does not misrepresent or create a "straw man" argument.
+
+Whataboutism – No – The text does not accuse any party of hypocrisy. There are no opposing sides presented.
+
+Verdict – 0% – This text is not propaganda. It is a factual news report from a press release about a scientific achievement. Its primary purpose is to inform the public, not to influence opinions or actions in a manipulative way. The article maintains a neutral tone, provides specific data and facts (distances, dates), and properly attributes its information to the relevant authority (NASA). It lacks any of the emotional manipulation, logical fallacies, or deceptive techniques characteristic of propaganda.

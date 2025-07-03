@@ -1,0 +1,37 @@
+Name calling – No – The text does not use any insulting labels to attack a person, group, or object. It describes a planet and a storm in scientific and descriptive terms.
+
+Repetition – No – The text explains a scientific discovery and does not repeat a specific message or phrase to persuade the audience.
+
+Slogans – No – There are no brief, memorable phrases used to rally support or create a catchy, persuasive message.
+
+Appeal to fear – No – The text does not attempt to instill fear in the reader. It is an informational piece about an astronomical event.
+
+Doubt – No – The text does not question the credibility of a person or institution. It describes how scientists are revising their own theories based on new evidence, which is a standard part of the scientific process.
+
+Exaggeration/minimization – No – While it uses descriptive words like "colossal" and "giant," these are used to accurately convey the massive scale of the storm relative to earthly phenomena, not to mislead or create a false impression for persuasive purposes.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity. The subject is a distant planet.
+
+Loaded Language – No – The language used is primarily descriptive and scientific. Phrases like "dying gasps" are metaphorical but are used to explain a natural phenomenon, not to evoke strong emotions or appeal to stereotypes.
+
+Reduction ad Hitlerum – No – The text makes no comparisons to hated groups or figures.
+
+Bandwagon – No – The text does not suggest an idea is correct because it is popular. In fact, it notes that Neptune "doesn’t always get the same kind of attention" as other planets.
+
+Causal Oversimplification – No – The text does the opposite; it highlights the complexity of the storms on Neptune and states that scientists "are still at a loss as to how they actually occur."
+
+Obfuscation, intentional vagueness – No – The text aims to clearly explain a scientific observation to a general audience, not to confuse them with deliberately obscure language.
+
+Appeal to authority – Yes – "“We have no evidence of how these vortices are formed or how fast they rotate,” Agustín Sánchez-Lavega of the University of the Basque Country in Spain explains." The text cites NASA, the Hubble Space Telescope, and specific scientists as sources for its information. This is standard practice for factual reporting and not necessarily a propaganda technique in this context.
+
+Black & white fallacy – No – The text does not present only two choices. It describes how a new observation is challenging existing scientific models, opening up the need for new theories.
+
+Thought-terminating clichés – No – The text does not use any phrases to discourage critical thought. It is a report on a scientific mystery that encourages further thought and research.
+
+Red herring – No – The text remains focused on the topic of the Neptunian storm and does not introduce irrelevant material to distract the reader.
+
+Straw men – No – The text does not refute an argument that was not presented. It explains how new observations are refuting previously held scientific expectations.
+
+Whataboutism – No – The text does not charge anyone with hypocrisy.
+
+Verdict – 0% – This text is a piece of science journalism, not propaganda. Its purpose is to inform the public about a new astronomical discovery made by the Hubble Space Telescope. It relies on factual reporting, cites credible scientific authorities (NASA, university researchers) for its information, and explains a complex topic in an accessible way. It does not use emotional manipulation, logical fallacies, or any of the listed propaganda techniques to push an agenda or persuade the audience towards a particular belief or action. The single technique identified, "Appeal to authority," is used appropriately as journalistic sourcing, not as a fallacious tool to silence dissent.

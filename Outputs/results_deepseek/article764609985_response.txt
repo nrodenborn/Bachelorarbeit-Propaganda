@@ -1,0 +1,24 @@
+Here is the analysis of propaganda techniques in the text, followed by the verdict:
+
+1. **Name calling** – Yes – "immoral FBI philanderers Peter Strzok and Lisa Page" (insulting label), "big bad guy" (for Strzok).  
+2. **Repetition** – Yes – The poll question "Whom do you consider to be the most corrupt Democrat Politician?" is repeated verbatim three times consecutively.  
+3. **Slogans** – No – No brief, memorable phrases designed for mass appeal are used.  
+4. **Appeal to fear** – Yes – "How in the world can we trust them even as they express bias...?" implies systemic corruption threatens institutional trust.  
+5. **Doubt** – Yes – "he’s not sure that Strzok wasn’t acting in a politically biased manner" sows doubt about FBI neutrality.  
+6. **Exaggeration/minimization** – Yes – "This is INSANE" (exaggeration), "legally superfluous 'extremely careless'" (minimizing legal implications).  
+7. **Flag-Waving** – No – No explicit appeals to patriotism or national identity.  
+8. **Loaded Language** – Yes – "besmirching," "corruption," "damn," "immoral philanderers," "big bad guy" (emotionally charged terms).  
+9. **Reduction ad Hitlerum** – No – No comparisons to Hitler/Nazis or hated groups.  
+10. **Bandwagon** – No – No appeals to popularity or majority opinion.  
+11. **Causal Oversimplification** – Yes – Implies bias alone caused mishandling: "the obviously politically biased team... was now tapped to investigate."  
+12. **Obfuscation, intentional vagueness** – No – Arguments are direct, not deliberately obscured.  
+13. **Appeal to authority** – Yes – Selectively uses the IG report findings to validate claims (e.g., "Horowitz alleged...").  
+14. **Black & white fallacy** – Yes – "How in the world can we trust them?" frames the FBI as wholly untrustworthy due to bias.  
+15. **Thought-terminating clichés** – Yes – "This is INSANE" shuts down nuanced discussion of institutional processes.  
+16. **Red herring** – Yes – Introducing the Fox News story about foreign access to Clinton’s emails distracts from the IG report’s focus on procedural issues.  
+17. **Straw men** – No – Criticisms align with actual report findings (e.g., Strzok's texts).  
+18. **Whataboutism** – No – No accusations of hypocrisy targeting opponents.  
+
+---
+
+**Verdict – 80% –** The text exhibits strong propagandistic elements through its heavy use of loaded language, name-calling, exaggeration, and emotional appeals (fear/doubt). It selectively cites the IG report to validate its narrative while omitting context (e.g., the report found no *proof* of political bias). Techniques like repetition (poll question), red herring (Fox News email story), and black/white framing ("corrupt" vs. "trustworthy") further manipulate perception. Though based on a real report, the presentation is designed to vilify specific individuals (Comey, Strzok) and institutions (FBI under Obama), advance a partisan agenda, and discourage critical analysis via thought-terminating clichés. The lack of neutral framing and reliance on emotional persuasion outweigh its factual anchors.

@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use any insulting labels to attack an object or subject.
+2. Repetition – No – The text does not repeat any specific message or phrase multiple times.
+3. Slogans – No – The text does not use any brief and memorable phrases that serve as slogans.
+4. Appeal to fear – Yes – The mention of gang violence, deadly shootings, and grenade attacks is likely intended to instill fear about the current situation in Sweden.
+5. Doubt – Yes – The statement "Swedes are worried that the police are unable to cope" raises doubt about the police's ability to handle the situation.
+6. Exaggeration/minimization – Yes – The sarcastic comment by Jimmie Akesson about Sweden being a "new, exciting dynamic, multicultural paradise" could be seen as an exaggeration of the situation.
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity.
+8. Loaded Language – Yes – Words like "deadly shootings," "surged," and "unable to cope" are emotionally charged and designed to provoke a strong reaction.
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea or suggest that everyone is doing something.
+11. Causal Oversimplification – No – The text does not present a simple cause for a complex event.
+12. Obfuscation, intentional vagueness – No – The text is relatively clear in its presentation of facts and statements.
+13. Appeal to authority – No – The text does not use authority figures to support its claims.
+14. Black & white fallacy – No – The text does not present only two options among many.
+15. Thought-terminating clichés – No – The text does not use clichés that discourage critical thought or discussion.
+16. Red herring – No – The text does not introduce irrelevant material to distract from the main issue.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 60% – The text exhibits some characteristics of propaganda, particularly through the use of appeal to fear, doubt, exaggeration, and loaded language. These techniques are used to emphasize the severity of the situation in Sweden and to criticize the current state of affairs, particularly in relation to immigration and multiculturalism. However, the text also presents factual information and quotes from public figures, which suggests that it is not purely propagandistic. The likelihood of the text being propaganda is moderate, as it combines elements of factual reporting with techniques that are often used to influence public perception and opinion.

@@ -1,0 +1,37 @@
+Name calling – No – The text criticizes the government's response and POTUS's assessment of it, but it does not use insulting labels to attack a person or group.
+
+Repetition – Yes – The phrase "public health crisis" and "crisis of epic proportions" is repeated multiple times to reinforce the main message. Example: "Puerto Rico’s Power Grid Failure Is Causing A Public Health Crisis Of Epic Proportions... And it’s a crisis of epic proportions... the looming crisis seems to be getting worse, not better, and Puerto Rico is experiencing a medical crisis of epic proportions."
+
+Slogans – No – The text does not use a brief, memorable phrase as a rallying cry. It quotes a tweet that references a phrase from POTUS, but does not create its own slogan.
+
+Appeal to fear – Yes – The text describes frightening situations to persuade the reader that more aid is needed. Example: "Senator Martin Heinrich (D-NM) along with a handful of other lawmakers are calling on the federal government to continue to provide aid to the post-apocalyptic ravaged territory."
+
+Doubt – Yes – The text questions the credibility of the official assessment of the situation. Example: "This is what POTUS calls a 10! Surgery performed with cellphones as flashlights in Puerto Rico today."
+
+Exaggeration/minimization – Yes – The text uses hyperbole to emphasize the severity of the crisis. Example: "Puerto Rico’s Power Grid Failure Is Causing A Public Health Crisis Of Epic Proportions"
+
+Flag-Waving – Yes – The text appeals to a sense of national identity to encourage support for fellow citizens. Example: "We are grateful for the public health emergency declaration in Puerto Rico and the U.S. Virgin Islands, but more can and should be done to help Americans impacted by these disasters.”
+
+Loaded Language – Yes – The text uses emotionally charged words to influence the reader's feelings about the situation. Example: "One month after the devastating Hurricane Maria wreaked havoc on the island of Puerto Rico, the territory is still facing a public health crisis."
+
+Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other universally hated groups.
+
+Bandwagon – Yes – The text suggests an idea is important because it is popular. Example: "According to Slate, the image quickly made the rounds on the internet; it currently has almost 9,000 retweets and many speculate that that’s probably because the blurry picture feels like it’s worth a good deal more than 1,000 words."
+
+Causal Oversimplification – No – The text does not offer a simple cause for a complex event; instead, it explains how one major problem (the power grid failure) leads to a "cascade of other crises."
+
+Obfuscation, intentional vagueness – No – The text is direct and uses specific data (e.g., percentages, dates, numbers of hospital beds) to make its point. It is not intentionally vague.
+
+Appeal to authority – Yes – The text uses quotes from credible or authoritative figures to support its argument. Example: "Senator Martin Heinrich (D-NM) along with a handful of other lawmakers are calling on the federal government to continue to provide aid..."
+
+Black & white fallacy – No – The text describes a problem and argues for a solution (more aid), but it does not frame the situation as a choice between only two possible options.
+
+Thought-terminating clichés – No – The text does not use clichés to shut down discussion; its purpose is to encourage thought and action on the topic.
+
+Red herring – No – All information presented in the text is relevant to the central argument about the public health crisis in Puerto Rico.
+
+Straw men – No – The text refutes an actual position held by the administration at the time (that the response was a "10/10") rather than misrepresenting an argument to make it easier to attack.
+
+Whataboutism – No – The text does not accuse any party of hypocrisy by pointing to unrelated past actions.
+
+Verdict – 90% – The text is highly likely to be propaganda. While it is based on a real event and contains factual elements, its primary purpose is not to inform neutrally but to persuade the reader emotionally and politically. It has a clear, one-sided agenda: to portray the situation as a catastrophic failure requiring immediate action and to criticize the official government response. This is achieved through the heavy use of propaganda techniques, including Loaded Language ("devastating," "wreaked havoc," "post-apocalyptic"), Exaggeration ("epic proportions," "utter annihilation"), Repetition ("crisis of epic proportions"), Appeal to Fear, and casting Doubt on the official narrative. The selective use of facts, combined with appeals to authority and emotion, is designed to provoke outrage and pressure for a specific political outcome, which is the hallmark of propaganda.

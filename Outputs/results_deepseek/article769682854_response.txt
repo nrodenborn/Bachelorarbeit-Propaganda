@@ -1,0 +1,28 @@
+### Propaganda Technique Analysis:
+1. **Name calling** – Yes – The text quotes the attacker calling the victim "scum bag of the year" and using racial slurs ("s--- n----").  
+2. **Repetition** – No – The core message (incident description) is not repeated excessively; it's a linear narrative.  
+3. **Slogans** – No – While the "Make America Great Again" hat is mentioned, it is not used as a persuasive slogan within the text.  
+4. **Appeal to fear** – No – The text reports an isolated incident but does not use it to instill broader fear against political alternatives.  
+5. **Doubt** – No – No questioning of credibility occurs; the incident is presented as factual.  
+6. **Exaggeration/minimization** – No – Descriptions (e.g., "assaulted," "hair ripped off") align with witness/victim accounts; no clear amplification or downplaying by the author.  
+7. **Flag-Waving** – No – No appeals to patriotism or identity are made by the author or sources.  
+8. **Loaded Language** – Yes – Terms like "assaulted," "scum bag," "shocked," and "subjective words" evoke emotional responses beyond neutral reporting.  
+9. **Reduction ad Hitlerum** – No – No comparisons to Hitler/Nazis or hated groups are used to discredit ideas.  
+10. **Bandwagon** – No – Popularity is not cited to validate any viewpoint (e.g., viral video views are reported neutrally).  
+11. **Causal Oversimplification** – No – The incident is framed as complex (political disagreement leading to conflict), not reduced to a single simplistic cause.  
+12. **Obfuscation, intentional vagueness** – No – Details (location, quotes, outcomes) are specific; no deliberate confusion.  
+13. **Appeal to authority** – No – While police/company statements are included, they are not used as evidence to support a broader ideological claim.  
+14. **Black & white fallacy** – No – No false dichotomies (e.g., "only two options") are presented.  
+15. **Thought-terminating clichés** – No – No phrases (e.g., "end of discussion") are used to halt critical thought.  
+16. **Red herring** – No – All details (e.g., bar’s response, video removal) directly relate to the incident; no irrelevant distractions.  
+17. **Straw men** – No – No misrepresentation of opposing arguments occurs.  
+18. **Whataboutism** – No – No accusations of hypocrisy deflect criticism (e.g., the bar’s statement focuses on its own values, not comparisons).  
+
+---
+
+### Verdict – 30% –   
+**Explanation**:  
+The text primarily functions as a **news report**, objectively detailing an incident, citing sources (victim, police, businesses), and avoiding overt persuasion. However, minor propagandistic elements exist:  
+- **Loaded language** (e.g., "scum bag," "assaulted") and **name-calling** (quoted slurs) inject emotional bias, potentially framing the victim sympathetically and the attacker as universally condemned.  
+- The inclusion of the bar’s "SAFE SPACE" statement subtly contrasts inclusivity with the attacker’s actions, implying a moral dichotomy.  
+Yet, these do not dominate the text. The piece lacks systematic persuasive techniques (e.g., fear-mongering, oversimplification, appeals to authority/bandwagon). It reports facts neutrally overall (e.g., police updates, Facebook video removal), limiting propaganda to **~30%**—largely incidental (via quotes) rather than intentional.

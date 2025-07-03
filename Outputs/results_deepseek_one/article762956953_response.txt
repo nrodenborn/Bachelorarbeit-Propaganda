@@ -1,0 +1,29 @@
+Here is the analysis of propaganda techniques in the text, followed by the verdict:
+
+1. **Name calling** – Yes – "President Obama, the worst president in American history" (Insulting label).  
+2. **Repetition** – No – No significant repetition of phrases or ideas beyond standard emphasis.  
+3. **Slogans** – No – No brief, memorable phrases used as rallying cries (e.g., "BUILD THE WALL" equivalent).  
+4. **Appeal to fear** – No – While the topic (9/11) is fear-inducing, the text does not use fear to push a specific action or alternative.  
+5. **Doubt** – Yes – "even though... Obama had access to information... certainly knew... still pursued" (Questions Obama’s credibility/decision-making).  
+6. **Exaggeration/minimization** – Yes – "definitive confirmation" (exaggerates the significance of Larijani’s statement; the article itself notes U.S. accusations were "long" known).  
+7. **Flag-Waving** – No – No overt appeals to patriotism or national identity.  
+8. **Loaded Language** – Yes – "Jihad Terror Attacks," "gave billions to the Islamic Republic," "worst president" (emotionally charged words).  
+9. **Reduction ad Hitlerum** – No – No comparisons to Nazis or universally despised groups.  
+10. **Bandwagon** – No – No emphasis on the popularity of the idea (e.g., "everyone agrees").  
+11. **Causal Oversimplification** – Yes – "It was Iran Bush should have invaded after 9/11, not Iraq" (reduces complex geopolitics to a single action).  
+12. **Obfuscation, intentional vagueness** – No – The text is direct and specific (e.g., cites sources, quotes).  
+13. **Appeal to authority** – Yes – Cites Mohammad-Javad Larijani, the 9/11 Commission, and the Washington Free Beacon/Al Arabiya as authoritative sources.  
+14. **Black & white fallacy** – Yes – Implies Obama’s decision on the Iran deal was inexcusable given Iran’s role, ignoring nuanced reasons for diplomacy (e.g., "should never have proceeded").  
+15. **Thought-terminating clichés** – Yes – "definitive confirmation" and "worst president in American history" (shuts down critical analysis of the claims or Obama’s presidency).  
+16. **Red herring** – No – Focus remains on Iran/Obama; no irrelevant distractions introduced.  
+17. **Straw men** – No – No misrepresentation of opposing arguments.  
+18. **Whataboutism** – No – No accusations of hypocrisy targeting critics (e.g., "What about X?").  
+
+---
+
+**Verdict – 85% –** The text is highly likely propaganda due to multiple techniques distorting reality:  
+1. **Selective framing**: Focuses on Larijani’s statement as "definitive" while downplaying prior U.S. accusations and complexities (e.g., Iran and Al-Qaeda’s sectarian tensions).  
+2. **Emotional manipulation**: Loaded terms ("Jihad Terror Attacks," "worst president") and oversimplified blame ("Bush should have invaded Iran") exploit trauma.  
+3. **Bias amplification**: Omits context (e.g., Larijani’s role in Iran’s judiciary, potential motives for his admission) and uses cherry-picked sources (Washington Free Beacon, Pamela Geller—known for anti-Islam advocacy).  
+4. **Political agenda**: The core goal is to vilify Obama and the Iran nuclear deal, not neutrally report on Larijani’s claims. While based on a real report, the presentation is designed to provoke outrage rather than inform, crossing into propaganda.  
+The 15% uncertainty acknowledges the cited sources, but the framing, omissions, and techniques dominate.

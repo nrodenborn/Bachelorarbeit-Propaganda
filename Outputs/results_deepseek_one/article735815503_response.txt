@@ -1,0 +1,54 @@
+### Analysis of Propaganda Techniques:
+
+1. **Name calling** – Yes – "Sanctuary city mayor" is used as a derogatory label, implying negligence/complicity.  
+   Example: *"How Many Child Rapists Did a Sanctuary City Mayor Tip Off?"*  
+
+2. **Repetition** – No – No recurring phrase or idea beyond standard reporting structure.  
+
+3. **Slogans** – No – No brief, memorable phrases (e.g., "BUILD THE WALL" equivalent).  
+
+4. **Appeal to fear** – Yes – Links sanctuary cities to child rape and violence to instill fear.  
+   Example: *"The price of a sanctuary city for illegal aliens is paid in abused children."*  
+
+5. **Doubt** – No – Does not directly question credibility of institutions/individuals.  
+
+6. **Exaggeration/minimization** – Yes – Headline exaggerates by focusing on "child rapists" (only 115 had prior convictions for various offenses, not exclusively child rape).  
+   Example: Headline’s *"How Many Child Rapists..."* vs. text’s *"115 who had prior felony convictions... such as child sex crimes."*  
+
+7. **Flag-waving** – No – No appeals to patriotism or national identity.  
+
+8. **Loaded language** – Yes – Emotionally charged terms like "abused children," "child rapists," and "tipping off" evoke outrage.  
+   Example: *"tipping off others who might have been caught."*  
+
+9. **Reduction ad Hitlerum** – No – No comparisons to Nazis/hated groups.  
+
+10. **Bandwagon** – No – No appeal to popularity.  
+
+11. **Causal oversimplification** – Yes – Blames reduced arrests solely on the mayor’s warning, ignoring other factors.  
+    Example: *"The numbers might have been greater, but for the intervention of Oakland Mayor Libby Schaaf."*  
+
+12. **Obfuscation** – No – Language is direct, not intentionally vague.  
+
+13. **Appeal to authority** – No – Cites ICE data but not as an endorsement; mayor’s quote is critical.  
+
+14. **Black & white fallacy** – Yes – Frames sanctuary policies as inherently enabling child abuse versus enforcement as the solution.  
+    Example: *"The price of a sanctuary city... is paid in abused children."*  
+
+15. **Thought-terminating clichés** – No – No phrases halting debate (e.g., "it is what it is").  
+
+16. **Red herring** – No – Stays focused on the mayor/raid; no irrelevant distractions.  
+
+17. **Straw men** – No – Does not misrepresent opposing arguments.  
+
+18. **Whataboutism** – No – No accusations of hypocrisy.  
+
+---
+
+### Verdict – 85% – Detailed Explanation:  
+The text is **highly likely propaganda** due to:  
+- **Emotional manipulation**: Loaded language ("child rapists," "abused children") and fear appeals dominate the narrative.  
+- **Distortion of facts**: The headline’s focus on "child rapists" exaggerates ICE data (which cites 115 convictions for various offenses, including non-violent crimes).  
+- **Oversimplification**: Blames complex immigration issues solely on sanctuary policies and the mayor’s actions.  
+- **Partisan framing**: Labels like "sanctuary city mayor" and the omission of context (e.g., reasons for sanctuary policies) reveal a clear anti-immigration agenda.  
+
+While based on factual events (ICE raids, Schaaf’s warning), the text selectively emphasizes extreme crimes, uses inflammatory language, and implies causation without evidence. This aligns with propaganda’s goal to provoke outrage and sway opinion against sanctuary cities, reducing nuanced policy to emotional rhetoric. The 15% uncertainty reflects the presence of verifiable data (arrest numbers, Schaaf’s quote), though its presentation remains manipulative.

@@ -1,0 +1,22 @@
+### Propaganda Technique Analysis:
+1. **Name calling** – No – No insulting labels are used against the Saudi regime or individuals; terms like "dissident" are descriptive.  
+2. **Repetition** – No – Key phrases (e.g., "disappearance," "investigation") are mentioned contextually, not repetitively for emphasis.  
+3. **Slogans** – No – No brief, memorable phrases designed to rally sentiment (e.g., no rallying cries like "Justice for Jamal").  
+4. **Appeal to fear** – No – The text reports on consequences (e.g., withdrawals from the conference) but does not instill fear to manipulate opinion.  
+5. **Doubt** – No – Saudi denials are presented neutrally ("denied ... any knowledge"), without language questioning their credibility.  
+6. **Exaggeration/minimization** – No – Events are described factually (e.g., "suspected murder," "mounting pressure") without obvious amplification or downplaying.  
+7. **Flag-Waving** – No – While Saudi Arabia’s strategic alliance is noted, it is not used to invoke patriotism or identity as a persuasive tool.  
+8. **Loaded Language** – No – Language is neutral (e.g., "disappearance," "protest"); no emotionally charged terms like "brutal" or "tyranny."  
+9. **Reduction ad Hitlerum** – No – No comparisons to Nazis or hated groups to discredit Saudi actions.  
+10. **Bandwagon** – No – Mentions withdrawals by other nations/CEOs but does not frame this as a reason for readers to join the cause.  
+11. **Causal Oversimplification** – No – Complexity is acknowledged (e.g., multiple investigations, geopolitical ties), not reduced to a single cause.  
+12. **Obfuscation, intentional vagueness** – No – Statements are clear (e.g., Pompeo’s call for "a few more days" for investigation specifics).  
+13. **Appeal to authority** – No – Quotes from officials (Mnuchin, Pompeo) are attributed but not used as unquestionable evidence to sway opinion.  
+14. **Black & white fallacy** – No – Nuance is present (e.g., U.S. weighing responses, Saudi investigation ongoing); no false dichotomies.  
+15. **Thought-terminating clichés** – No – No phrases (e.g., "end of story") used to stifle discussion; quotes encourage fact-finding.  
+16. **Red herring** – No – Focus remains on Khashoggi’s case; no irrelevant distractions introduced.  
+17. **Straw men** – No – All arguments (e.g., Saudi denials, U.S. deliberation) are represented accurately.  
+18. **Whataboutism** – No – No accusations of hypocrisy to deflect criticism (e.g., no "What about Turkey’s human rights record?").  
+
+### Verdict – 5% –  
+The text is a factual news report from the *Los Angeles Times*, not propaganda. It neutrally documents events: Mnuchin’s withdrawal, international reactions, Pompeo’s statements, and Saudi denials. It cites multiple sources (Turkish authorities, U.S. officials), avoids emotional manipulation, and presents complexity without oversimplification. The 5% allowance reflects minor inherent bias in selecting details (e.g., highlighting criticism of the administration), but this aligns with standard journalistic practice—not propagandistic intent. No techniques are employed to distort or persuade, only to inform.

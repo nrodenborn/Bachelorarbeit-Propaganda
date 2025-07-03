@@ -1,0 +1,20 @@
+1. Name calling – Yes – The text refers to Amber Guyger as a "killer cop", which is an insulting label used to attack her character.
+2. Repetition – Yes – The poll question "Who should replace Nikki Haley as our ambassador to the U.N.?" is repeated three times in a row. The core message of "special treatment" is also repeated throughout the article.
+3. Slogans – No – The text does not use any brief, memorable phrases as a rallying cry.
+4. Appeal to fear – Yes – The text stokes fear by stating, "While residents can certainly sleep better knowing that they don’t have to fear a killer cop walking into their apartment and murdering them..."
+5. Doubt – Yes – The text actively casts doubt on the official investigation with rhetorical questions like, "Had anyone else but a cop walked into an apartment and killed an innocent man, do you believe that investigators would have said anything like this?"
+6. Exaggeration/minimization – Yes – The text uses exaggerated language to describe events, such as calling the release of Jean's warrant information an attempt to "assassinate Jean’s character" and describing the special treatment as "even more insidious."
+7. Flag-Waving – No – The text does not make an appeal to patriotism or national identity.
+8. Loaded Language – Yes – The text uses emotionally charged words like "slaying," "insidious," and "egregiously" to influence the reader's emotions.
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Nazis or other hated groups.
+10. Bandwagon – No – While it mentions a protest, it does not argue that the reader should agree with its position simply because it is popular.
+11. Causal Oversimplification – Yes – The article attributes the entire nature of the investigation to a single cause: that Guyger received "special treatment" because she is a police officer, ignoring any other potential legal or procedural complexities.
+12. Obfuscation, intentional vagueness – No – The text is direct in its accusations and uses specific details from warrants; it is not intentionally vague.
+13. Appeal to authority – Yes – The text quotes "Attorney Stephen Le Brocq" to lend credibility to its claim that the affidavit was biased.
+14. Black & white fallacy – Yes – The text presents the situation as a binary: either Guyger is a cop receiving special treatment or she is like "anyone else." It frames the argument with the line, "Had anyone else but a cop walked into an apartment and killed an innocent man..."
+15. Thought-terminating clichés – No – The article does not use phrases intended to discourage critical thought.
+16. Red herring – Yes – The text includes a poll, "Who should replace Nikki Haley as our ambassador to the U.N.?", which is completely irrelevant to the Botham Jean case and serves as a distraction.
+17. Straw men – Yes – The text reframes the police's action of releasing the warrant on Jean's apartment as a deliberate "attempt to assassinate Jean’s character," then declares that "they failed miserably at it." This misrepresents the official action as a malicious personal attack in order to easily condemn it.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy to deflect from an argument.
+
+Verdict – 95% – The text is highly likely to be propaganda. While it reports on factual events (the existence of warrants, the details within them, Guyger moving out), it frames these facts within a narrative heavily reliant on propaganda techniques. The primary goal is not to inform neutrally but to persuade the reader to adopt a specific, outraged viewpoint. This is achieved through consistent use of loaded language ("slaying," "insidious"), name-calling ("killer cop"), and appeals to emotion like fear. It actively sows doubt in official institutions and uses techniques like black & white fallacy and causal oversimplification to present a simple, villain-driven narrative. The inclusion of a completely irrelevant red herring in the form of a political poll is a clear sign that the article is not a piece of objective journalism but rather a tool for pushing an agenda and potentially collecting user data.

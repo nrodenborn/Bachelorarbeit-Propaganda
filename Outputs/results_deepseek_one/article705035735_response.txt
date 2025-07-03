@@ -1,0 +1,33 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – **Yes** – "This Is WORSE Than The ‘Black Death’" (Uses "Black Death" as a fear-inducing label to amplify threat).  
+2. **Repetition** – **Yes** – Repeated emphasis on "deadly," "fatal," "no cure," and comparisons to the Black Death (e.g., "much more deadly than the black death," "devastated by the ongoing black death outbreak").  
+3. **Slogans** – **No** – No brief, memorable phrases; headlines are descriptive, not slogan-like.  
+4. **Appeal to fear** – **Yes** – Highlights "fatality rate of almost 90%," "NO CURE," and "devastating communities" to instill dread.  
+5. **Doubt** – **No** – No questioning of credibility; sources (WHO, health officials) are presented as authoritative.  
+6. **Exaggeration/minimization** – **Yes** – Exaggeration: Claims Marburg is "WORSE Than The ‘Black Death’" (the Black Death killed 30–60% of Europe; Marburg’s 88% fatality rate applies to identified cases, not overall deadliness).  
+7. **Flag-Waving** – **No** – No appeals to patriotism or national identity.  
+8. **Loaded Language** – **Yes** – Uses emotionally charged terms: "NO CURE," "WORSE," "decimated," "devastating," "highly fatal," "deadly outbreak."  
+9. **Reduction ad Hitlerum** – **No** – No references to Nazis or hated groups.  
+10. **Bandwagon** – **No** – No appeal to popularity or peer pressure.  
+11. **Causal Oversimplification** – **No** – Outbreak cause (bat exposure) is plausibly explained without oversimplifying broader implications.  
+12. **Obfuscation** – **No** – Details are specific (e.g., transmission methods, case origins).  
+13. **Appeal to authority** – **Yes** – Repeatedly cites WHO and health officials to validate claims (e.g., "WHO has confirmed," "Dr. Zabulon Yoti... said").  
+14. **Black & white fallacy** – **No** – No false dilemmas presented; focuses on factual reporting.  
+15. **Thought-terminating clichés** – **No** – No phrases halting critical thought.  
+16. **Red herring** – **No** – Madagascar’s plague is contextually relevant, not a distraction.  
+17. **Straw men** – **No** – No misrepresentation of opposing arguments.  
+18. **Whataboutism** – **No** – No accusations of hypocrisy.  
+
+---
+
+### Verdict – 85% – Detailed Explanation:  
+The text is **highly likely propaganda** due to:  
+1. **Sensationalism**: The headline ("WORSE Than The ‘Black Death’") and exaggerated comparisons exploit fear, disregarding historical context (the Black Death killed millions; Marburg has 5 confirmed cases).  
+2. **Emotional Manipulation**: Loaded language ("NO CURE," "decimated," "devastating") and appeal to fear dominate, emphasizing worst-case scenarios.  
+3. **Selective Framing**: While based on real WHO reports, it omits mitigating facts (e.g., localized outbreaks, containment efforts) to amplify threat perception.  
+4. **Repetition**: Reinforces dread through recurring mentions of fatality rates and the Black Death.  
+5. **Authority Leverage**: Uses WHO quotes selectively to legitimize alarmist claims.  
+
+**Why not 100%?**  
+The core facts (Marburg’s fatality rate, transmission methods) are accurate, and WHO sources provide valid context. However, the presentation prioritizes inciting fear over balanced reporting, hallmarking propaganda. The 85% reflects this intentional distortion of scale and context to manipulate audience reaction.

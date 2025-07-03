@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not use any insulting labels to attack any person or subject.
+2. Repetition – No – The text reports that Bill Clinton repeated his point about his public apology, but the text itself does not repeat a message to persuade the audience.
+3. Slogans – No – The text does not use any brief or memorable phrases to promote an idea.
+4. Appeal to fear – No – The text does not attempt to instill fear in the reader.
+5. Doubt – No – The text reports on an interviewer questioning Bill Clinton, but the article itself does not cast doubt on the credibility of any party.
+6. Exaggeration/minimization – No – The text reports on statements that could be seen as minimization (e.g., Clinton stating his public apology was enough), but the text itself does not exaggerate or minimize facts.
+7. Flag-Waving – No – The text does not appeal to patriotism or identity to support a cause.
+8. Loaded Language – No – The text uses neutral, journalistic language to report on the event. It quotes Clinton using the word "sinned," which is loaded, but this is a direct quote, not the author's language.
+9. Reduction ad Hitlerum – No – The text does not suggest any idea is popular with a hated group.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – No – The text does not present a simple cause for a complex event; rather, it reports on different perspectives of a complex event.
+12. Obfuscation, intentional vagueness – No – The text itself is written clearly. It reports on Clinton's answer, "I apologized to everybody in the world," which could be seen as vague, but the reporting of it is not.
+13. Appeal to authority – No – The text reports on the statements of an authority figure (a former president) but does not use his authority as evidence for a claim made by the text itself.
+14. Black & white fallacy – No – The text does not present only two options. It includes Clinton's perspective, the interviewer's questions, and Lewinsky's reaction.
+15. Thought-terminating clichés – No – The text does not use any phrases to discourage critical thought. It reports on Clinton's statement, "I dealt with it 20 years ago plus," which could be interpreted as such a cliché, but the text itself is not using it.
+16. Red herring – No – The text does not introduce irrelevant material to distract the reader. It mentions Clinton was promoting a book, which is relevant context for why the interview was conducted.
+17. Straw men – No – The text does not refute an argument that was not presented by another party.
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 5% – The text is a news report, and its primary function is to inform, not to persuade. It does not employ the propaganda techniques listed. The tone is neutral and journalistic, presenting the facts of the interview as they occurred. It includes direct quotes from Bill Clinton, the questions from the interviewer, and a counter-perspective from Monica Lewinsky via her tweets. The inclusion of multiple viewpoints and contextual information (like the book promotion and Lewinsky's essay) is characteristic of objective reporting, not propaganda. While any media text can have inherent biases, this article is structured to be informational. The very low 5% likelihood accounts for the fact that the text is reporting on statements from Bill Clinton that could themselves be interpreted as persuasive or narrative-controlling, but the article itself is not the source of propaganda.

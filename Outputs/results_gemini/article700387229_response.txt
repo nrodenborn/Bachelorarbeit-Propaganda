@@ -1,0 +1,37 @@
+1. Name calling – No – The text uses the medical and historical term “black plague” to refer to the disease, not as an insulting label for a person or group.
+
+2. Repetition – Yes – The phrase “no one is safe” is used multiple times, both as a direct quote and as a paraphrased warning, to reinforce the message of extreme danger.
+
+3. Slogans – Yes – The phrase “no one is safe” is used as a brief, memorable, and impactful statement to summarize the perceived threat level.
+
+4. Appeal to fear – Yes – The text repeatedly emphasizes the danger by mentioning the death toll (“killed 97 people”), the rapid spread, the short time until death (“within 12-24 hours”), and the historical context of the plague killing “more than 50 million people in Europe”.
+
+5. Doubt – No – The text does not question the credibility of any person or organization; instead, it uses statements from officials and experts to support its claims.
+
+6. Exaggeration/minimization – Yes – The headline and the quote “no one is safe” can be seen as an exaggeration. While the risk is high and has spread to new areas, it is not literally true that every single person is in equal and unavoidable danger.
+
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity to make its point.
+
+8. Loaded Language – Yes – The text uses emotionally charged words and phrases like “deadly,” “life-threatening,” “worsens,” and “spiking concerns” to create a sense of alarm and urgency.
+
+9. Reduction ad Hitlerum – No – The text does not make any comparison to Hitler or other groups widely hated by the audience.
+
+10. Bandwagon – No – The text does not argue that an idea is true because it is popular. It uses evidence from authorities, not an appeal to the crowd.
+
+11. Causal Oversimplification – No – The text avoids oversimplification by explaining the different transmission methods for bubonic and pneumonic plague and noting that the situation is more complex than in previous years.
+
+12. Obfuscation, intentional vagueness – No – The text is specific, providing concrete numbers for cases and deaths, naming officials, and identifying the specific strains of the plague.
+
+13. Appeal to authority – Yes – The article heavily relies on quotes and information attributed to authorities like the IFRC, a professor of International Public Health, and Madagascar’s director of health promotion to lend credibility to its warnings.
+
+14. Black & white fallacy – No – The text does not present the situation as a choice between only two options. It describes a complex public health crisis with various facets.
+
+15. Thought-terminating clichés – No – The text does not use clichés to shut down discussion. While alarming, it provides information and context about the outbreak.
+
+16. Red herring – No – The text stays focused on the topic of the plague outbreak in Madagascar. The historical reference serves as context, not a distraction.
+
+17. Straw men – No – The text does not set up and refute a misrepresented argument. It functions as a report, not a debate.
+
+18. Whataboutism – No – The text does not accuse any party of hypocrisy to deflect from the issue.
+
+Verdict – 75% – The text reports on a real and serious public health crisis with factual information, such as statistics and expert quotes. However, it heavily employs propaganda techniques to frame the narrative in the most alarming way possible. The primary techniques used are a strong appeal to fear, exaggeration (e.g., “no one is safe”), repetition of this alarming message, and the use of loaded, emotional language. While not political propaganda aiming to deceive about the existence of an event, it functions as propaganda in the form of sensationalist journalism, prioritizing emotional impact and alarm over a neutral, objective presentation of facts. The goal is to provoke a strong emotional reaction in the reader, which is a key characteristic of propaganda.

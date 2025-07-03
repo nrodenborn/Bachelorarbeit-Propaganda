@@ -1,0 +1,22 @@
+Based on the definitions provided and the text, here is the analysis for each propaganda technique:
+
+1.  **Name calling** – No – No insulting labels are used against the subjects (Hammonds, government, protestors). Terms like "devoted family men" are positive.
+2.  **Repetition** – No – Key facts (conviction, pardon, standoff) are stated concisely without noticeable, deliberate repetition of the same phrase.
+3.  **Slogans** – No – No brief, memorable phrases are used to encapsulate the message (e.g., no "Make America Great Again" equivalent here).
+4.  **Appeal to fear** – No – The text describes events and statements but doesn't actively try to instill fear about alternatives to support the pardon.
+5.  **Doubt** – No – While the White House calls the resentencing "unjust" and the Hammonds disputed the charges, the text itself reports these viewpoints without directly questioning the credibility of the court, jury, or prosecutors as a technique.
+6.  **Exaggeration/minimization** – No – The reporting appears factual. Descriptions like "small portion" (White House) and "300-person march" are specific, not overtly exaggerated or minimized for effect.
+7.  **Flag-Waving** – No – No appeal to patriotism or national identity is made to support the pardon or the ranchers' cause.
+8.  **Loaded Language** – **Yes** – The White House statement uses emotionally positive language: "devoted family men," "respected contributors," "widespread support," "entirely deserving," "Justice is overdue," "unjust". This appeals to emotion to build sympathy for the Hammonds.
+9.  **Reduction ad Hitlerum** – No – No attempt is made to link opponents or their ideas to universally hated groups (like Nazis).
+10. **Bandwagon** – **Yes** – The White House statement emphasizes "widespread support from their neighbors, local law enforcement, and farmers and ranchers across the West" to bolster the case for the pardon, appealing to popularity.
+11. **Causal Oversimplification** – No – The complex dispute (land-use rights, arson conviction, mandatory sentencing, protest) is presented with multiple factors, not reduced to one simple cause.
+12. **Obfuscation, intentional vagueness** – No – The text is clear and factual. Terms like "a small portion" (White House) are specific enough in context.
+13. **Appeal to authority** – **Yes** – Susie Hammond's quote appeals to Trump's authority: "I have faith in our president... If anyone is going to help them, he'd be the one." The White House statement itself is an appeal to presidential authority.
+14. **Black & white fallacy** – **Yes** – Ammon Bundy's quote presents a binary choice: "Do we allow this to go on, or do we make a stand?" This oversimplifies the options available.
+15. **Thought-terminating clichés** – No – No phrases like "it is what it is" or "common sense" are used to shut down discussion.
+16. **Red herring** – No – The text stays focused on the Hammonds' case, conviction, sentencing, pardon, and the related protest. No irrelevant material is introduced.
+17. **Straw men** – No – Arguments presented (Hammonds' defense, government's case, protestors' motivation) are reported accurately; no misrepresented arguments are refuted.
+18. **Whataboutism** – No – No charges of hypocrisy are made against opponents (e.g., no "what about other arsonists?").
+
+**Verdict – 20% –** While the text *reports* statements containing propaganda techniques (specifically Loaded Language, Bandwagon, Appeal to Authority, and a Black & White Fallacy within a quoted question), the article itself functions primarily as neutral reporting. It presents facts (conviction, sentencing, pardon, protest), attributes opinions clearly (White House statement, Bundy quote, Susie Hammond quote), and provides context from multiple sides (Hammonds' defense, government's position). The core purpose is informative journalism about an event and the surrounding controversy, not to actively persuade the reader towards a specific viewpoint using deceptive techniques. The presence of propaganda elements is confined to the quoted statements it reports, not the article's own narrative voice.

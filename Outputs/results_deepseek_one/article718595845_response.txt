@@ -1,0 +1,65 @@
+### Propaganda Technique Analysis:
+
+1. **Name calling** – No  
+   Explanation: No insulting labels are directly applied to the subject (e.g., Iran or the U.S. administration). Criticism is factual (e.g., "misrepresented the U.N. report").
+
+2. **Repetition** – No  
+   Explanation: No phrase or idea is repeated excessively. Arguments are developed progressively without redundant phrasing.
+
+3. **Slogans** – No  
+   Explanation: No brief, memorable phrases are used (e.g., no equivalents to "BUILD THE WALL!").
+
+4. **Appeal to fear** – Yes  
+   Explanation: Ritter's analysis warns of dire military consequences if the U.S. confronts Iran: "any military plan designed to confront nations such as North Korea, Iran and Russia... had better count on those capabilities remaining intact." This instills fear about U.S. policy outcomes.
+
+5. **Doubt** – Yes  
+   Explanation: The text questions Nikki Haley’s credibility: "Did she disingenuously omit that inconvenient bit... or fail to read the entire UN report?" It also casts doubt on U.S. evidence: "Haley misrepresented the U.N. report."
+
+6. **Exaggeration/minimization** – Yes  
+   Explanation: Minimizes Haley’s claims by stating the U.N. report is "almost completely incorrect." Exaggerates U.S. policy flaws as "schizophrenic approach."
+
+7. **Flag-Waving** – No  
+   Explanation: No appeals to patriotism or national identity; the text criticizes U.S. actions instead.
+
+8. **Loaded Language** – Yes  
+   Explanation: Emotionally charged terms like "demonize Iran," "disingenuously omit," "schizophrenic approach," and "trumped-up charges" evoke negative sentiments.
+
+9. **Reduction ad Hitlerum** – No  
+   Explanation: No comparisons to Nazis or universally hated groups.
+
+10. **Bandwagon** – No  
+    Explanation: No emphasis on popular support for a position (e.g., "everyone agrees").
+
+11. **Causal Oversimplification** – No  
+    Explanation: The missile origin is analyzed with nuance (e.g., Soviet parts modified with Iranian kits), rejecting simple causality.
+
+12. **Obfuscation, intentional vagueness** – No  
+    Explanation: The text is specific, citing sources (Ritter, Marashi) and technical details (e.g., "Burkhan 2-H design").
+
+13. **Appeal to authority** – Yes  
+    Explanation: Relies on experts like Scott Ritter and Reza Marashi to validate claims: "Ritter writes...", "Marashi explained...".
+
+14. **Black & white fallacy** – No  
+    Explanation: Acknowledges complexity (e.g., Iran’s potential role in modification kits vs. Soviet origins).
+
+15. **Thought-terminating clichés** – No  
+    Explanation: No phrases like "It is what it is"; arguments invite critical engagement.
+
+16. **Red herring** – Yes  
+    Explanation: Diverts to U.S. arming of ISIS/al-Qaeda: "doesn’t excuse the U.S. for continuing a foreign policy that essentially armed ISIS." This distracts from the missile evidence discussion.
+
+17. **Straw men** – No  
+    Explanation: Accurately represents Haley’s claims before refuting them with evidence.
+
+18. **Whataboutism** – Yes  
+    Explanation: Charges U.S. hypocrisy by citing unrelated actions: "Haley’s hypocritical anti-Iran rhetoric doesn’t excuse the U.S. for... arming al-Qaeda’s affiliate in Syria."
+
+---
+
+### Verdict – 80% – Detailed Explanation:  
+The text is **highly likely propaganda** due to:  
+1. **Persuasive Intent**: It explicitly aims to discredit U.S. policy ("The US Is Blatantly Telling Lies") using one-sided evidence.  
+2. **Techniques Deployed**: Uses multiple propaganda methods, including **loaded language** ("demonize," "schizophrenic"), **appeal to fear** (military failures), **doubt** (undermining Haley), **whataboutism** (U.S. arming extremists), and **red herrings** (shifting focus to ISIS).  
+3. **Selective Evidence**: Omits counter-perspectives while emphasizing sources (Ritter, Marashi) that align with its anti-U.S. narrative.  
+4. **Emotional Appeal**: Language like "trumped-up charges" and "grandiose speech" frames the issue emotionally rather than neutrally.  
+However, it avoids extreme techniques (e.g., name-calling, Hitler comparisons) and includes verifiable facts (e.g., U.N. panel findings), preventing a 100% rating. The blend of factual citations with persuasive tactics places it firmly in propaganda territory.

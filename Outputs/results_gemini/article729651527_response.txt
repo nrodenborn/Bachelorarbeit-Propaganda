@@ -1,0 +1,41 @@
+1. Name calling – No – The text reports on allegations made by others (e.g., the group Democratize SSMU alleging “layers of corruption”) but the author of the article does not use insulting labels to attack any subject.
+
+2. Repetition – No – The article follows a narrative structure, presenting new information and perspectives chronologically without repeating a single message to influence the reader.
+
+3. Slogans – No – The text reports on a slogan-like tweet ("punch a zionist") made by a student representative, but the author does not use slogans to promote a message.
+
+4. Appeal to fear – No – The text reports on the concerns of individuals, such as Rabbi Poupko stating that Jewish students involved in politics “will have encounters that are profoundly disturbing and unpleasant,” but the author does not use this to instill fear in the reader.
+
+5. Doubt – No – The text reports on the official findings of the Boudreau report, which "could not determine if students who organized against the three board members had anti-Semitic intentions." This is reporting on a conclusion of doubt, not the author casting doubt.
+
+6. Exaggeration/minimization – No – The article appears to present the facts of the case, the report's findings, and the reactions from various parties without hyperbole or downplaying the events.
+
+7. Flag-Waving – No – The text discusses national and religious identity (pro-Israel, Jewish) because they are central facts of the story, but the author does not use them to appeal to the reader's sense of patriotism or identity.
+
+8. Loaded Language – No – The author’s own language is neutral and journalistic. The text reports on loaded language used by the subjects of the article (e.g., “layers of corruption”), but does not use it as a persuasive tool.
+
+9. Reduction ad Hitlerum – No – The text does not make any comparison or suggestion that an idea is popular with groups hated by the audience.
+
+10. Bandwagon – No – The article does not suggest an idea is correct because it is popular. It highlights a conflict between different groups and their viewpoints.
+
+11. Causal Oversimplification – No – The text does the opposite; it explores the complexity of the situation, particularly the difficulty in determining the precise motivation (anti-Semitism vs. political disagreement) behind the vote.
+
+12. Obfuscation, intentional vagueness – No – The article is written to clarify a complex situation, detailing the initial report and the subsequent clarification. It aims to inform, not confuse.
+
+13. Appeal to authority – No – While the text quotes authoritative figures (a retired professor, the McGill Principal, a Rabbi), this is a standard journalistic practice of sourcing information and presenting viewpoints, not a propagandistic technique to demand acceptance of a claim.
+
+14. Black & white fallacy – No – The text avoids presenting the issue in simple binary terms. It explores the nuances of the situation, such as the distinction between anti-Semitic intent and anti-Semitic effect.
+
+15. Thought-terminating clichés – No – The text is an explanatory piece of journalism and does not use phrases designed to shut down critical thought.
+
+16. Red herring – No – All information presented, including the "punch a zionist" tweet and the university's response, is relevant to the central topic of alleged anti-Semitism at McGill.
+
+17. Straw men – No – The author is reporting on events and statements, not engaging in a debate or refuting a manufactured argument.
+
+18. Whataboutism – No – The author is not making an argument or charging an opponent with hypocrisy; the text is a news report.
+
+***
+
+Verdict – 5% – The text is a piece of news reporting, not propaganda. Its primary purpose is to inform the public about a series of events, the findings of an investigation, and the reactions of the parties involved. The author maintains a neutral, journalistic tone and attributes statements and claims to specific sources (Noah Lew, Spencer Boudreau, Suzanne Fortier, Democratize SSMU). The article presents multiple perspectives, including the student who felt targeted, the investigator's nuanced findings, and the university administration's official response.
+
+Crucially, while the events described *involve* the use of propaganda techniques by certain actors (e.g., the alleged "layers of corruption" is a form of loaded language/name-calling by the "Democratize SSMU" group), the article itself is *reporting on* these techniques rather than *using* them to persuade the reader. The very low 5% likelihood accounts for the inherent, unavoidable bias in selecting which quotes to use and how to frame a story, but the text demonstrates a clear effort to be a balanced and factual report rather than a persuasive piece of propaganda.

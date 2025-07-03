@@ -1,0 +1,20 @@
+1. Name calling – No – The text does not attack an object/subject with an insulting label.
+2. Repetition – Yes – The text repeatedly emphasizes the idea of a "purge" and the notion of "independent media" being targeted.
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+4. Appeal to fear – Yes – The text suggests that tech giants are silencing voices and implies that this could happen to others, instilling fear.
+5. Doubt – Yes – The text questions the credibility of Facebook's actions and motives, suggesting they are misleading.
+6. Exaggeration/minimization – Yes – The text exaggerates the impact of the actions by saying it "will be remembered in history" and minimizes the reasons given by Facebook.
+7. Flag-Waving – Yes – The text appeals to identity by emphasizing "independent, liberty-minded, antiwar media."
+8. Loaded Language – Yes – The text uses emotionally charged language, such as "egregious," "purge," and "plutocratic information-controlling establishment."
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – Yes – The text oversimplifies the complex issue of content moderation by attributing it solely to a desire to silence dissenting voices.
+12. Obfuscation, intentional vagueness – No – The text is not deliberately unclear or obscure.
+13. Appeal to authority – Yes – The text references authority figures like Nathaniel Gleicher and organizations like the Atlantic Council to support its claims.
+14. Black & white fallacy – Yes – The text presents the situation as a binary choice between supporting independent media or supporting censorship.
+15. Thought-terminating clichés – No – The text does not use clichés to discourage critical thought.
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – Yes – The text points out that other pages remain intact to highlight perceived hypocrisy.
+
+Verdict – 85% – The text exhibits multiple propaganda techniques, including repetition, appeal to fear, doubt, exaggeration, flag-waving, loaded language, causal oversimplification, appeal to authority, black & white fallacy, and whataboutism. These techniques are used to persuade the audience that the actions of tech giants are unjust and part of a broader agenda to silence independent voices. The prevalence of these techniques suggests a high likelihood that the text is intended as propaganda.

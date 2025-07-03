@@ -1,0 +1,47 @@
+Here are the propaganda techniques present in the text:
+
+Name calling – Yes – The text labels its opponents with insulting terms like “the plutocratic information-controlling establishment” and “social media dinosaurs.”
+
+Repetition – Yes – The poll question “Who should replace Nikki Haley as our ambassador to the U.N.?” is repeated three times in a row.
+
+Slogans – Yes – The text uses brief, memorable phrases like its title, “First They Came for Alex Jones — We Told You We Were Next — We Were,” and the concluding statement, “We will not be silenced.”
+
+Appeal to fear – Yes – The text warns that the actions of the tech companies will lead to a future of widespread censorship, stating, “tech monopolies large enough to silence those with whom you disagree, are large enough to one day silence you.”
+
+Doubt – Yes – The text directly questions the credibility of Facebook’s stated reasons for the purge, saying, “Facebook said the pages were ‘working to mislead others about who they are, and what they are doing.’ However, this couldn’t be further from the truth.”
+
+Exaggeration/minimization – Yes – The text exaggerates the event by calling it a day that “will be remembered in history” and an attempt to “wipe out” media, while minimizing Facebook’s stated reasons as a simple pretext.
+
+Flag-Waving – Yes – The text appeals to a specific identity of being part of “independent, liberty-minded, antiwar media” and a supporter of “peace and liberty,” framing the conflict as a defense of these values.
+
+Loaded Language – Yes – The text is filled with emotionally charged words like “purge,” “memory-holed,” “egregious,” and “plutocratic” to evoke a strong emotional response.
+
+Reduction ad Hitlerum – Yes – The title and the line “And how does this poem end, again?” allude to Martin Niemöller’s famous poem about the rise of the Nazis, implicitly comparing the tech companies’ actions to those of a totalitarian regime.
+
+Bandwagon – Yes – The text appeals to popularity by citing its large following as proof of its legitimacy: “Does Facebook think it knows better than the 6 million people who clicked like on our page?”
+
+Causal Oversimplification – Yes – The text presents a simple cause for the complex action of removing pages, stating the “real reason behind the purge — elections are coming.”
+
+Obfuscation, intentional vagueness – No – The text is direct in its accusations and its message is clear, not intentionally vague or obscure.
+
+Appeal to authority – Yes – The text quotes several journalists and commentators like Glenn Greenwald and Radley Balko to support its claims.
+
+Black & white fallacy – Yes – The text presents a world of two opposing sides: the virtuous “independent, liberty-minded, antiwar media” versus the evil “plutocratic information-controlling establishment,” with no room for nuance.
+
+Thought-terminating clichés – No – The text identifies and argues against a cliché (“they are private, they can do what they wish”) rather than using one to shut down discussion.
+
+Red herring – Yes – The text includes a poll about who should replace Nikki Haley as U.N. ambassador, which is entirely irrelevant to the article’s subject matter and serves as a distraction and data-collection tool.
+
+Straw men – Yes – The text refutes the idea that they were banned for “hate speech,” an argument that was not made against them. Facebook’s stated reason was “spam and coordinated inauthentic behavior,” which the text then dismisses.
+
+Whataboutism – Yes – The text deflects from the reasons for its own removal by pointing out that other, allegedly worse, pages have not been removed: “…pages who do set out to deliberately deceive people… like the infamous Your News Wire — remain intact…”
+
+***
+
+Verdict – 95% – The text is a clear and potent example of propaganda. It employs a vast majority (16 out of 18) of the listed techniques to construct a highly emotional, one-sided narrative designed to persuade the reader rather than objectively inform them.
+
+The entire article is built on a Black & White Fallacy, creating a simple conflict between the virtuous victims (the "independent, liberty-minded, antiwar media") and a villainous, conspiratorial entity (the "plutocratic information-controlling establishment" and "tech giants"). This narrative is reinforced with emotionally Loaded Language ("purge," "memory-holed," "coordinated attack") and Name Calling ("social media dinosaurs").
+
+It uses an Appeal to Fear by suggesting that the reader's own freedom is next, powerfully invoking the Nazi era through Reduction ad Hitlerum. It bolsters its credibility by Appealing to Authority (quoting sympathetic journalists) and to Popularity (the Bandwagon appeal of "6 million followers"). The author's argument relies on logical fallacies, including Causal Oversimplification (blaming the midterms), a Straw Man (arguing against a "hate speech" claim that wasn't made), and Whataboutism (pointing to other "fake news" pages that remain online).
+
+The ultimate goal is not just to present a grievance but to galvanize the reader into action—subscribing to email lists and following them on other platforms—based on this emotionally charged and logically flawed presentation. The sheer density and deliberate deployment of these techniques confirm its nature as propaganda.

@@ -1,0 +1,20 @@
+1. Name calling – Yes – The text uses the term "vilification" to describe the Guardian's treatment of Julian Assange, implying an attack on Assange's character.
+2. Repetition – No – The text does not repeatedly emphasize a single message or phrase.
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+4. Appeal to fear – Yes – The text suggests that the Guardian's actions could lead to Assange being extradited and imprisoned, instilling fear about the consequences of the Guardian's reporting.
+5. Doubt – Yes – The text questions the credibility of the Guardian's story by highlighting the lack of evidence and the use of unnamed sources.
+6. Exaggeration/minimization – Yes – The text minimizes the credibility of the Guardian's claims by describing them as "so full of holes" and "profoundly irresponsible journalism."
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+8. Loaded Language – Yes – The text uses emotionally charged language, such as "vilification," "fake news," and "profoundly irresponsible journalism," to evoke a strong emotional response.
+9. Reduction ad Hitlerum – No – The text does not compare the Guardian's actions to those of groups hated by the audience.
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+11. Causal Oversimplification – Yes – The text suggests that the Guardian's reporting is part of a larger pattern of behavior without fully exploring other potential causes or motivations.
+12. Obfuscation, intentional vagueness – Yes – The text suggests that the Guardian's sources are unnamed and uncheckable, contributing to a sense of vagueness.
+13. Appeal to authority – Yes – The text references Glenn Greenwald and Craig Murray as authorities who criticize the Guardian's reporting.
+14. Black & white fallacy – Yes – The text presents the situation as either the Guardian is right or Assange is being unfairly targeted, without acknowledging other possibilities.
+15. Thought-terminating clichés – No – The text does not use clichés to discourage critical thought.
+16. Red herring – Yes – The text introduces various criticisms of the Guardian's past actions, which may distract from the specific issue of the Assange article.
+17. Straw men – No – The text does not refute an argument that was not presented.
+18. Whataboutism – Yes – The text criticizes the Guardian's past actions and biases, diverting attention from the specific claims about Assange.
+
+Verdict – 80% – The text exhibits several propaganda techniques, including name-calling, appeal to fear, doubt, exaggeration/minimization, loaded language, causal oversimplification, appeal to authority, black & white fallacy, red herring, and whataboutism. These techniques are used to undermine the credibility of the Guardian's reporting on Julian Assange and to portray the Guardian as part of a broader pattern of biased and irresponsible journalism. The use of emotionally charged language and appeals to authority further support the likelihood that the text is intended to influence the audience's perception of the Guardian and Assange.

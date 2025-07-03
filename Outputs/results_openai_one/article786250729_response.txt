@@ -1,0 +1,37 @@
+1. Name calling – No – The text does not use any insulting labels to attack an object or subject.
+   
+2. Repetition – No – The text does not repeat the same message over and over.
+
+3. Slogans – No – The text does not use a brief and memorable phrase as a slogan.
+
+4. Appeal to fear – Yes – The text suggests that Google violated federal election laws and privacy, which can instill fear about the integrity of the election process.
+
+5. Doubt – Yes – The text questions the credibility of Google and the Clinton campaign by suggesting collusion and violation of laws.
+
+6. Exaggeration/minimization – Yes – The text may exaggerate the impact of Google's actions by suggesting they significantly influenced the election outcome.
+
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+
+8. Loaded Language – Yes – The text uses emotionally charged terms like "colluded," "violated," and "interfere" to evoke a strong emotional response.
+
+9. Reduction ad Hitlerum – No – The text does not compare the subject to groups hated by the audience.
+
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+
+11. Causal Oversimplification – Yes – The text implies that Google's actions were a simple cause of the election outcome, ignoring other factors.
+
+12. Obfuscation, intentional vagueness – No – The text is specific in its claims about Google's actions.
+
+13. Appeal to authority – Yes – The text references Tucker Carlson and Julian Assange as authorities to support its claims.
+
+14. Black & white fallacy – No – The text does not present only two options among many.
+
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought.
+
+16. Red herring – Yes – The mention of Peter Strzok and the FBI is irrelevant to the main argument about Google and the Clinton campaign, serving as a distraction.
+
+17. Straw men – No – The text does not refute an argument that was not presented.
+
+18. Whataboutism – Yes – The text shifts focus to the Department of Justice’s inaction regarding FBI agents, charging them with hypocrisy.
+
+**Verdict – 75% – The text exhibits several propaganda techniques, such as appeal to fear, doubt, exaggeration, loaded language, causal oversimplification, appeal to authority, red herring, and whataboutism. These elements suggest a strong likelihood of the text being propaganda, as it aims to influence the audience's perception of Google and the Clinton campaign by using emotionally charged language and questioning their credibility.**

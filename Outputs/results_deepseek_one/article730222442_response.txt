@@ -1,0 +1,24 @@
+Based on the definitions provided, here is the analysis of each propaganda technique in the text about 'Oumuamua:
+
+1. **Name calling** – No. No insulting labels are applied to the object or scientists.  
+2. **Repetition** – No. Key terms like "tumbling" are used contextually, not repetitively for emphasis.  
+3. **Slogans** – No. No brief, persuasive phrases (e.g., "BUILD THE WALL" equivalent).  
+4. **Appeal to fear** – No. No instillation of fear about alternatives or outcomes.  
+5. **Doubt** – No. The text clarifies scientific uncertainty but does not maliciously question credibility.  
+6. **Exaggeration/minimization** – No. Descriptions like "violent collision" are proportional to the study's findings.  
+7. **Flag-Waving** – No. No appeals to patriotism or group identity.  
+8. **Loaded Language** – No. Neutral terms dominate (e.g., "chaotically," "icy cigar" is descriptive, not emotional).  
+9. **Reduction ad Hitlerum** – No. No comparisons to hated groups (e.g., Nazis).  
+10. **Bandwagon** – No. No appeal to popularity (e.g., "everyone agrees").  
+11. **Causal Oversimplification** – No. The collision is presented as a likely cause but with explicit uncertainty about timing/context ("The researchers don’t know exactly when...").  
+12. **Obfuscation, intentional vagueness** – No. Scientific terms ("non-principal axis rotation") are clarified plainly (e.g., "better known as tumbling").  
+13. **Appeal to authority** – Yes. Quotes scientist Wes Fraser and cites *Nature Astronomy* to validate claims. Example: "Wes Fraser told the BBC..."; "scientists have reported in a study published in *Nature Astronomy*."  
+14. **Black & white fallacy** – No. No false dilemmas (e.g., "only two options").  
+15. **Thought-terminating clichés** – No. No phrases halting critical thought (e.g., "It is what it is").  
+16. **Red herring** – No. No irrelevant distractions; the text stays focused.  
+17. **Straw men** – No. No misrepresentation of opposing arguments.  
+18. **Whataboutism** – No. No accusations of hypocrisy.  
+
+---
+
+**Verdict – 3% –** The text is a straightforward scientific news report with minimal propagandistic elements. It objectively summarizes research findings from a peer-reviewed journal (*Nature Astronomy*) and quotes experts without emotional manipulation, loaded language, or persuasive intent. The sole minor propagandistic element is the **appeal to authority** (technique #13), where Fraser and the journal are cited to bolster credibility—a standard practice in science communication. However, this is neither excessive nor deceptive. Terms like "space invader" are mildly sensational but contextually accurate. The tone is informative, not agenda-driven. The 3% likelihood reflects this negligible use of authority appeal in an otherwise neutral exposition.

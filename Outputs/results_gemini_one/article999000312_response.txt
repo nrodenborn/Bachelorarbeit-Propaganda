@@ -1,0 +1,43 @@
+Name calling – Yes – The author attacks subjects with an insulting label, for example, calling Luke Harding an “MI6 mouthpiece” and Hillary Clinton a “particularly obnoxious defeated candidate.”
+
+Repetition – Yes – The core message is repeated for emphasis. The text begins with “Assange Never Met Manafort” and later states again, “Assange never met Manafort.”
+
+Slogans – Yes – The text uses brief, memorable phrases that encapsulate a core message, such as “Assange never met Manafort” and “The press are not on the side of the people, they are an instrument of elite control.”
+
+Appeal to fear – Yes – The text instills fear of what will happen to Assange if these “lies” are believed: “He will then be extradited from London to the USA on charges of espionage.”
+
+Doubt – Yes – The entire piece is an exercise in casting doubt on the credibility of others, particularly the Guardian newspaper and its journalist Luke Harding: “Luke Harding and the Guardian Publish Still More Blatant MI6 Lies”.
+
+Exaggeration/minimization – Yes – The author exaggerates to make points more powerful, describing Mueller’s efforts as a “pathetically failed attempt” and Assange as “the greatest publisher of his age.”
+
+Flag-Waving – Yes – The text appeals to a sense of group identity by framing the conflict as one between “the people” and a corrupt elite: “The press are not on the side of the people, they are an instrument of elite control.”
+
+Loaded Language – Yes – The text is filled with emotionally charged words to influence the reader, such as “blatant MI6 lies,” “fake documents,” “fabrication,” and “pathetically failed.”
+
+Reduction ad Hitlerum – No – The text does not compare any person or idea to Hitler or the Nazis.
+
+Bandwagon – No – The text does not argue that an idea is true because it is popular. In fact, it argues the opposite, suggesting a popular narrative is a lie created by the media.
+
+Causal Oversimplification – Yes – The text attributes the complex media narrative and investigations to a single, simple cause: “to see the partisans of the defeated candidate... manipulate the security services and the media... in order to attempt to overturn the result of the US Presidential election”.
+
+Obfuscation, intentional vagueness – No – The author’s language is direct and accusatory rather than intentionally vague or obscure. They point out the vagueness in others' reports (e.g., “unspecified ‘Russians’”) but are not vague themselves.
+
+Appeal to authority – Yes – The author cites an expert to support a claim: “My friend William Binney... former Technical Director of the NSA, has stated that it is impossible the DNC servers were hacked”. The author also presents themself as an authority: "I am in a position to give you a personal assurance of them."
+
+Black & white fallacy – Yes – The text presents a world of two choices: either you believe the author’s “facts,” or you believe the “massive ‘Big Lie’” spread by the media and security services. It frames the media as either on the side of the people or an instrument of elite control, with no middle ground.
+
+Thought-terminating clichés – Yes – The text uses blunt, declarative statements to shut down debate, presenting them as unchallengeable. For example: “Those are the facts, and I am in a position to give you a personal assurance of them.”
+
+Red herring – Yes – The author introduces an irrelevant point to bolster their own credibility and distract from potential accusations of bias: “I am not a fan of Donald Trump.” This statement has no bearing on the factual claims about Assange but serves to position the author as an objective observer.
+
+Straw men – No – The author directly attacks what they claim are the arguments and evidence presented by the Guardian and others, rather than misrepresenting them or refuting an argument that was not made.
+
+Whataboutism – No – The text does not deflect criticism by accusing its opponents of hypocrisy. It makes direct accusations of lying and fabrication.
+
+***
+
+Verdict – 95% – The text is overwhelmingly propagandistic. It employs a vast array of propaganda techniques with the clear intent of persuading the reader to adopt a specific, highly polarized viewpoint, rather than presenting a balanced and evidence-based argument.
+
+The piece is built on a foundation of discrediting opponents through **Name Calling** (“MI6 mouthpiece”), **Loaded Language** (“blatant lies,” “fabrication”), and casting pervasive **Doubt** on established media and governments. It constructs a **Black & White Fallacy** where the world is divided into heroic truth-tellers (Assange, the author) and a corrupt, conspiratorial establishment.
+
+To bolster its own narrative, the text relies on **Appeal to Authority**, citing an NSA expert and the author's own insider knowledge. It simplifies complex events into a **Causal Oversimplification** (blaming everything on bitter Clinton partisans) and uses **Exaggeration** to amplify its points (“greatest publisher of his age”). The core messages are reinforced through **Repetition** and delivered as **Slogans** and **Thought-Terminating Clichés** (“Those are the facts...”) to discourage critical thinking. Finally, it uses **Appeal to Fear** by outlining a dire fate for Assange to create an emotional investment in its narrative. The sheer number and intensity of these techniques indicate that the text's primary purpose is persuasion through manipulation, which is the essence of propaganda.

@@ -1,0 +1,41 @@
+1. Name calling – No – The text attacks political figures and parties based on their actions and potential roles (e.g., "Speaker Pelosi," "incumbent Democrat Sen. Joe Donnelly"), but it does not use direct, insulting labels to attack them.
+
+2. Repetition – Yes – The poll question "Should military force be used to stop the caravan of migrants marching toward the U.S. border?" is repeated three times in a row.
+
+3. Slogans – Yes – The phrase "Speaker Pelosi" is used as a brief, memorable anti-slogan to encapsulate a negative outcome that voting Republican can prevent. The headline itself, "If You Don't Want To Be Saying The Words 'Speaker Pelosi'... Go Out & Vote," functions as a slogan.
+
+4. Appeal to fear – Yes – The central argument is that if people don't vote Republican, they will have to face the supposedly dreadful outcome of "saying the words 'Speaker Pelosi' for the next two years." The poll about using military force against a "caravan of migrants marching toward the U.S. border" is also a clear appeal to fear.
+
+5. Doubt – Yes – The text questions the credibility and alignment of a political opponent by stating, "The president also pointed out that Donnelly had opposed tax cuts and joined with his fellow Democrats in attacking and voting against Justice Brett Kavanaugh's confirmation."
+
+6. Exaggeration/minimization – Yes – The text uses exaggeration by claiming Donnelly "sponsored Senator Dianne Feinstein's (D-CA) 'Open Borders Bill.'" This is an exaggerated and simplified label for what was likely a more complex piece of legislation, designed to make it sound extreme.
+
+7. Flag-Waving – Yes – The text appeals to national identity and patriotism by focusing on a US election, the US Senate, and the protection of the US border from a "caravan of migrants."
+
+8. Loaded Language – Yes – The text uses emotionally charged words and phrases like "disgrace," "illegal aliens," and "Open Borders Bill" to evoke strong emotional responses rather than rational thought.
+
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or other groups widely hated by the audience.
+
+10. Bandwagon – Yes – The text highlights the size of the rally ("a rally of 8,500 in Indiana") and the author's "gut feeling" that "this may actually turn out to be one of the biggest turnouts for a mid-term election" to suggest a large and growing movement.
+
+11. Causal Oversimplification – Yes – The text presents a simple cause for a complex outcome: "a vote for Braun's opponent, incumbent Democrat Sen. Joe Donnelly, would lead to Senator Chuck Schumer (D-NY) becoming the Senate Majority leader." This simplifies the many factors involved in leadership elections.
+
+12. Obfuscation, intentional vagueness – No – The text is generally direct and clear in its messaging and who it is targeting, preferring simplification over vagueness.
+
+13. Appeal to authority – Yes – The text uses President Donald Trump as the primary authority, presenting his endorsements and statements as the main evidence for why people should vote for certain candidates.
+
+14. Black & white fallacy – Yes – The text presents a stark choice: vote Republican or be forced to accept "Speaker Pelosi." The poll also presents only two extreme options: "Yes, military force should be used" or "No, keep the military out of it."
+
+15. Thought-terminating clichés – Yes – The phrase "Speaker Pelosi" is used as a thought-terminator. It is presented as an inherently negative outcome, intended to stop the audience from critically thinking about her potential policies and instead rely on a pre-established negative emotional reaction.
+
+16. Red herring – Yes – The poll, "Should military force be used to stop the caravan of migrants marching toward the U.S. border?", is inserted into an article about an Indiana rally. It is an unrelated, emotionally charged topic designed to distract and reinforce the overall anti-Democrat sentiment.
+
+17. Straw men – Yes – The text refutes an argument that was not presented by labeling a piece of legislation as an "'Open Borders Bill.'" This creates an extreme, easy-to-attack caricature of the opponent's actual position on immigration.
+
+18. Whataboutism – No – The text criticizes opponents but does not deflect criticism by charging them with hypocrisy in the typical "what about..." format.
+
+***
+
+Verdict – 95% – The text is overwhelmingly propagandistic. It is not a piece of objective journalism but an opinion article from a biased source ("Freedom Outpost") designed to persuade and mobilize a specific political base. The article employs a vast number of propaganda techniques, with at least 14 of the 18 listed techniques being clearly identifiable.
+
+The core of the text is built on an **appeal to fear** (the "threat" of "Speaker Pelosi") and a **black & white fallacy** (the only alternative is to vote Republican). It uses **loaded language** ("disgrace," "illegal aliens") and **causal oversimplification** to frame political opponents and complex issues in a negative and simplistic light. The inclusion of the **red herring** poll about the migrant caravan is a classic propaganda tactic to inject unrelated fear and emotion to bolster the main argument. The author drops any pretense of neutrality by explicitly stating their own position ("which everyone should do") and feelings ("I certainly don't want to hear 'Speaker Pelosi,' again"). The purpose is not to inform the reader but to manipulate their emotions and guide them to a specific political action.

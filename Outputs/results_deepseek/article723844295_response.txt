@@ -1,0 +1,58 @@
+Based on the definitions provided and the text analysis, here is the breakdown for each propaganda technique:
+
+1.  **Name calling** – No  
+    *Explanation: No insulting labels are applied to individuals or groups. Terms like "lone gunman" are descriptive, not inherently derogatory.*
+2.  **Repetition** – Yes  
+    *Explanation: Perry repeats the phrase "nothing adds up" (stated twice) and variations of "waiting" for evidence (mentioned multiple times by both Perry and Lombardo) to emphasize doubt about the official narrative.*
+3.  **Slogans** – No  
+    *Explanation: While the headline "Lawmaker makes shocking claim..." is attention-grabbing, it is not a brief, memorable phrase used consistently within the text itself as a slogan for the claim.*
+4.  **Appeal to fear** – Yes  
+    *Explanation: Perry invokes fear by claiming "terrorist infiltration through the southern border" by ISIS, linking it to the massacre and implying a broader security threat to Americans.*
+5.  **Doubt** – Yes  
+    *Explanation: Perry repeatedly casts doubt on the official investigation's conclusion ("nothing adds up," "something is not adding up") and the "lone gunman" narrative. He also questions why counterterror agencies aren't involved to "debunk" the ISIS claim.*
+6.  **Exaggeration/minimization** – Yes  
+    *Explanation: Perry exaggerates the significance of unverified "credible evidence" and ISIS warnings/claims, presenting them as strong indicators of a terror link, while minimizing the weight of the official law enforcement findings that found no terrorist connection.*
+7.  **Flag-Waving** – No  
+    *Explanation: While the context involves national security, there is no explicit appeal to patriotism or national identity to support the claim.*
+8.  **Loaded Language** – Yes  
+    *Explanation: Words like "shocking claim," "devastating Las Vegas shooting," "infiltrated," "terrorist infiltration," "terrorist nexus," and "irresponsible" are used to evoke strong emotional responses (fear, suspicion, outrage) rather than neutral description.*
+9.  **Reduction ad Hitlerum** – No  
+    *Explanation: No attempt is made to link the opposing view (lone gunman theory) to a universally hated group like Nazis to discredit it.*
+10. **Bandwagon** – No  
+    *Explanation: Perry does not argue that his view is correct because it's popular or that people are joining his side. He focuses on his own access to supposed evidence.*
+11. **Causal Oversimplification** – Yes  
+    *Explanation: Perry simplifies the complex event to a single cause: "terrorist infiltration" via the border ("potential terrorist infiltration through the southern border regarding this incident"), ignoring other factors investigated by authorities.*
+12. **Obfuscation, intentional vagueness** – Yes  
+    *Explanation: Perry is deliberately vague about his "credible evidence," stating only he has received it and believes it to be credible without providing any specifics ("I have received what I feel to be and believe to be credible evidence"), despite being directly challenged to share it.*
+13. **Appeal to authority** – Yes  
+    *Explanation: Perry leverages his position as a U.S. Representative ("Rep. Scott Perry") to give weight to his claims about having seen "credible evidence," implying his office grants him access to reliable information.*
+14. **Black & white fallacy** – Yes  
+    *Explanation: Perry frames the situation as a binary choice: either the official "lone gunman" story is true OR there was a terrorist plot/infiltration ("lone gunman, again, something is not adding up"). He dismisses the official finding without considering it might be accurate or that other non-terrorist complexities exist.*
+15. **Thought-terminating clichés** – Yes  
+    *Explanation: Perry's repeated use of "nothing adds up" and "something is not adding up" acts as a cliché to shut down critical examination of the official investigation's findings and discourage deeper discussion of the evidence they *did* present.*
+16. **Red herring** – Yes  
+    *Explanation: Perry introduces the issue of border security ("terrorist infiltration through the southern border") which is tangential to the specific evidence (or lack thereof) surrounding the Las Vegas shooter and the official investigation, potentially distracting from the core question of proof for his claim.*
+17. **Straw men** – No  
+    *Explanation: Perry does not misrepresent the opposing argument (the official lone gunman finding). He directly disputes it but doesn't create a distorted version to attack.*
+18. **Whataboutism** – No  
+    *Explanation: Perry does not accuse his critics (like Lombardo or the FBI) of hypocrisy to deflect from his own claims. He responds to the challenge for evidence by reiterating his belief and the need to wait.*
+
+**Verdict – 85% – Detailed Explanation:** The text exhibits a high concentration of propaganda techniques designed to promote Rep. Perry's unsubstantiated claim of a terrorist link to the Las Vegas shooting and discredit the official investigation. Key indicators include:
+1.  **Core Propaganda Purpose:** The headline and article structure sensationalize Perry's claim ("shocking claim") while presenting his assertions as newsworthy revelations, despite lacking concrete evidence. The framing inherently challenges the official narrative.
+2.  **Prominent Use of Propaganda Techniques:** Multiple techniques are employed effectively:
+    *   **Appeal to Fear:** Invoking ISIS and border infiltration creates fear.
+    *   **Doubt:** Systematically casting doubt on the official findings.
+    *   **Exaggeration/Minimization:** Amplifying unverified claims while downplaying official conclusions.
+    *   **Loaded Language:** Using emotionally charged words to shape perception.
+    *   **Causal Oversimplification:** Reducing the complex event to border security failure/terrorism.
+    *   **Obfuscation:** Withholding specifics of the "credible evidence."
+    *   **Appeal to Authority:** Using Perry's title to lend credence.
+    *   **Black & White Fallacy:** Framing the issue as "lone gunman vs. terror plot."
+    *   **Thought-Terminating Clichés:** Using "nothing adds up" to halt scrutiny.
+    *   **Red Herring:** Introducing border security as a distraction.
+    *   **Repetition:** Reinforcing doubt and the need to "wait."
+3.  **Lack of Substantiating Evidence:** Despite being challenged directly, Perry offers no verifiable evidence for his central claim, relying solely on his assertion of possessing "credible" information. The text highlights this lack.
+4.  **Source Context:** The outlet ("Personal Liberty Poll") and the platform (Fox News/Tucker Carlson) are known for content skeptical of government narratives, aligning with the propagandistic framing.
+5.  **Counterpoint Included but Drowned:** While the lawyer's challenge is included, the overall structure and emphasis strongly favor Perry's unverified narrative through the techniques listed. The headline and opening paragraphs prime the reader to view Perry's claim as significant and plausible.
+
+While the inclusion of Lombardo's counter-argument prevents it from being 100% pure propaganda, the overwhelming use of techniques to promote Perry's specific, evidence-lacking narrative while discrediting official sources makes the text highly propagandistic (85%). Its primary function is to advance a specific, controversial viewpoint using manipulative methods rather than provide a balanced report on the status of the investigation.

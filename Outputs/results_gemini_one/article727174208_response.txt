@@ -1,0 +1,20 @@
+1. Name calling – No – The text uses descriptive terms like "Vegas gunman" but does not use insulting labels to attack a subject.
+2. Repetition – Yes – The lawyer's message that his client saw no warning signs is repeated in several ways. Example: "disturbed that he didn't spot any suspicious signs about his one-time customer," "Haig had no reason to believe Stephen Paddock would launch the Oct. 1 shooting," "He wishes there was some clue that could have identified him," "There was just nothing," and "I couldn't detect anything wrong with this guy."
+3. Slogans – No – The text does not contain any brief, memorable phrases used as slogans.
+4. Appeal to fear – No – The text reports on a past tragic event but does not use fear to support an idea or discredit an alternative.
+5. Doubt – No – The article reports on existing uncertainties in the investigation, such as Haig's status as a "person of interest," but it does not use doubt as a technique to question the credibility of a person or institution to advance a specific viewpoint.
+6. Exaggeration/minimization – Yes – The lawyer minimizes the significance of his client's interaction with the gunman. Example: "He is as connected (to Paddock) as the guy who sold him a hamburger for lunch."
+7. Flag-Waving – No – The text does not make any appeals to patriotism or national identity.
+8. Loaded Language – No – The language used is largely factual and descriptive, typical of a news report, and does not rely on emotionally charged words or stereotypes to persuade the reader.
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to hated groups like the Nazis.
+10. Bandwagon – No – The text does not suggest that an idea is correct because it is popular.
+11. Causal Oversimplification – No – The article explores various facets of the ammunition sale and avoids presenting a single, simple cause for the complex events.
+12. Obfuscation, intentional vagueness – No – The text aims for clarity, reporting what is known and explicitly stating what is not known or has been redacted.
+13. Appeal to authority – No – The text quotes authorities (a lawyer, a law enforcement official, an academic expert) to provide information and context, which is a standard journalistic practice, not a fallacious appeal to shut down discussion.
+14. Black & white fallacy – No – The article presents multiple perspectives and pieces of information, avoiding the presentation of only two choices.
+15. Thought-terminating clichés – Yes – The lawyer uses a phrase that attempts to end discussion on his client's awareness. Example: "There was just nothing."
+16. Red herring – No – The article remains focused on the topic of the ammunition dealer and does not introduce irrelevant material to distract the reader.
+17. Straw men – Yes – The lawyer refutes an exaggerated, unstated argument that his client is significantly connected to the crime. Example: "He is as connected (to Paddock) as the guy who sold him a hamburger for lunch."
+18. Whataboutism – No – The text does not contain any instances of accusing an opponent of hypocrisy.
+
+Verdict – 10% – The text is an Associated Press news report. Its primary purpose is to inform, not to persuade. It follows journalistic standards by attributing information to specific sources and presenting multiple viewpoints, including those of the lawyer, a law enforcement official, and an academic expert. This balanced approach is the opposite of propaganda. However, the article is reporting on statements made by a lawyer, Marc Victor, who is using several propaganda techniques (Minimization, Repetition, Straw Man) in the defense of his client. Because the text contains these propagandistic statements—even while reporting them from a neutral stance—it is not entirely free of propaganda. The article itself is not propaganda, but it serves as a vehicle for the propaganda of one of its subjects.

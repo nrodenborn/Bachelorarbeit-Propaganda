@@ -1,0 +1,22 @@
+Based on the definitions provided and the text about the Ebola outbreak in DR Congo, here is the analysis for each propaganda technique:
+
+1.  **Name calling** – No – No insulting labels are used against any subject.
+2.  **Repetition** – No – No specific message or phrase is repeated insistently throughout the text.
+3.  **Slogans** – No – There are no brief, memorable phrases used for persuasion.
+4.  **Appeal to fear** – No – While Ebola is serious, the text reports facts (fatality rate, deaths) without using language clearly designed to instill excessive fear to support a specific idea or action against alternatives. The tone is informative.
+5.  **Doubt** – No – The text does not question the credibility of any person, organization, or information.
+6.  **Exaggeration/minimization** – No – The reported figures (17 dead, 50% fatality rate, 9th outbreak) and descriptions ("familiar challenge", "easier to contain" for past outbreaks) are presented factually without apparent overstatement or understatement for persuasive effect.
+7.  **Flag-Waving** – No – There is no appeal to patriotism, nationalism, or group identity.
+8.  **Loaded Language** – No – The language is neutral and descriptive (e.g., "outbreak", "died", "contained", "experimental vaccine"). No emotionally charged words or obvious stereotypes are used.
+9.  **Reduction ad Hitlerum** – No – No ideas or groups are linked to Nazis or other universally hated groups.
+10. **Bandwagon** – No – There is no appeal to the popularity of an idea to encourage acceptance.
+11. **Causal Oversimplification** – No – The causes of the outbreak or its spread are not discussed simplistically. The text focuses on response and context.
+12. **Obfuscation, intentional vagueness** – No – The information is presented clearly and specifically (e.g., location, number of deaths, fatality rate, WHO actions, vaccine name).
+13. **Appeal to authority** – No – While the WHO and DR Congo health ministry are cited as sources of information, their statements are reported as factual updates (number of cases, deaths, actions taken) rather than used as evidence to support a specific argument or claim needing persuasion. It's standard reporting attribution.
+14. **Black & white fallacy** – No – The text does not present a complex issue as having only two possible choices or outcomes.
+15. **Thought-terminating clichés** – No – There are no phrases used to shut down critical thinking or discussion.
+16. **Red herring** – No – The text stays focused on the Ebola outbreak, its history, the current situation, and the response. No irrelevant material is introduced to distract.
+17. **Straw men** – No – No misrepresented or weaker arguments are presented to be refuted.
+18. **Whataboutism** – No – There are no accusations of hypocrisy directed at any person or group.
+
+**Verdict – 0-5% –** The text is a straightforward, factual news report about an Ebola outbreak in the Democratic Republic of Congo. It presents information (number of deaths, location, historical context, response efforts, transmission details, fatality rate) in a neutral and informative manner, citing official sources like the DR Congo Health Ministry and the WHO. There is no discernible persuasive intent, emotional manipulation, misleading framing, or attempt to promote a specific agenda beyond informing the reader about the event. The language is objective, the scope is focused on the health event and response, and none of the defined propaganda techniques are employed. It fulfills the standard purpose of news reporting: conveying factual information about a current event. The very low percentage acknowledges the possibility of inherent bias in any reporting, but finds no evidence of intentional propaganda techniques as defined.

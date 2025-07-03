@@ -1,0 +1,39 @@
+1. Name calling – No – The text criticizes the federal response and references a critical tweet about the President, but it does not invent or use insulting labels to attack a person or group.
+
+2. Repetition – Yes – The text repeatedly uses the phrases “public health crisis” and “crisis of epic proportions” to emphasize the severity of the situation. For example, the headline is “Puerto Rico’s Power Grid Failure Is Causing A Public Health Crisis Of Epic Proportions,” and the final sentence concludes, “Puerto Rico is experiencing a medical crisis of epic proportions.”
+
+3. Slogans – No – The text does not use any brief, memorable catchphrases designed to be easily repeated like a political slogan.
+
+4. Appeal to fear – Yes – The text describes harrowing scenarios to create fear and urgency about the situation. For example: “scrubbed-up doctors leaned over an operating table performing surgery lit only by a flashlight” and “bacteria in the water have exposed many people to disease.”
+
+5. Doubt – Yes – The text questions the credibility and adequacy of the official response to the crisis. For example, it juxtaposes the dire reality with the President's assessment: “This is what POTUS calls a 10!” This is intended to cast doubt on the President's grasp of the situation.
+
+6. Exaggeration/minimization – Yes – The text uses exaggerated language to describe the situation, such as “crisis of epic proportions,” “post-apocalyptic ravaged territory,” and “the power grid’s utter annihilation.”
+
+7. Flag-Waving – Yes – The text appeals to a sense of national identity by quoting lawmakers who refer to the victims as fellow Americans. For example: “...but more can and should be done to help Americans impacted by these disasters.”
+
+8. Loaded Language – Yes – The text uses emotionally charged words to influence the reader’s perception. Examples include “devastating,” “wreaked havoc,” “post-apocalyptic ravaged territory,” and “looming crisis.”
+
+9. Reduction ad Hitlerum – No – The text does not make any comparisons to Hitler or other groups widely hated by the audience.
+
+10. Bandwagon – Yes – The text suggests that concern for Puerto Rico is a growing and popular sentiment. For example: “the image quickly made the rounds on the internet; it currently has almost 9,000 retweets and many speculate that that’s probably because the blurry picture feels like it’s worth a good deal more than 1,000 words.”
+
+11. Causal Oversimplification – No – The text avoids this by explaining how a single cause (the power grid failure) leads to a “cascade of other crises,” detailing the complex consequences rather than simplifying them.
+
+12. Obfuscation, intentional vagueness – No – The text is direct and uses specific figures and examples (e.g., "only 23 percent of residents have electricity," "only 33 of 250 beds were full") rather than being intentionally vague.
+
+13. Appeal to authority – Yes – The text cites multiple authorities to support its claims, including a “former Puerto Rican Governor,” “Senator Martin Heinrich,” “the Federal Emergency Management Agency (FEMA),” and news outlets like “Slate” and “CNN.”
+
+14. Black & white fallacy – No – The text describes a problem and implies a need for more help, but it does not frame the situation as a choice between only two distinct options.
+
+15. Thought-terminating clichés – No – The text does not use clichés to shut down discussion; rather, it aims to provoke thought and concern.
+
+16. Red herring – No – All information presented in the text is relevant to the central topic of the public health crisis in Puerto Rico.
+
+17. Straw men – No – The text does not create and then refute a false argument; it addresses the real-world situation directly.
+
+18. Whataboutism – No – The text criticizes the federal response but does not deflect from the topic by accusing opponents of hypocrisy on other issues.
+
+***
+
+Verdict – 85% – The text is highly likely to be propaganda. While it reports on a real and tragic event, its primary purpose is not to inform neutrally but to persuade the reader and provoke a strong emotional response. It achieves this by consistently employing numerous propaganda techniques. The piece is built on a foundation of Loaded Language (“wreaked havoc,” “post-apocalyptic”), Exaggeration (“epic proportions,” “utter annihilation”), and a powerful Appeal to Fear (surgery by flashlight, disease in the water). It uses Repetition of the key phrase “crisis of epic proportions” to drill the message home. The argument is strengthened by an Appeal to Authority (quoting politicians, agencies, and news outlets) and a subtle Bandwagon appeal (mentioning a tweet’s popularity). By using Flag-Waving (“help Americans impacted”) and casting Doubt on the official government narrative, the text frames the issue in a way that is meant to generate outrage and a specific political viewpoint, moving it beyond objective reporting into the realm of persuasive propaganda.

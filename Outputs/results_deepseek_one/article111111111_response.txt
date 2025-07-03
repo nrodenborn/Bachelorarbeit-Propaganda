@@ -1,0 +1,24 @@
+Here's the analysis of the text using the provided propaganda techniques:
+
+1. **Name calling** – No. The text uses neutral terms ("plague," "outbreak") without insulting labels.  
+2. **Repetition** – No. Key phrases like "could be stronger" are stated once; no deliberate repetition.  
+3. **Slogans** – No. No brief, memorable phrases (e.g., "BUILD THE WALL") are used.  
+4. **Appeal to fear** – **Yes**. Tedros warns the next outbreak "could be more pronounced," may "spill over into neighbouring countries," and calls it a "dangerous combination," emphasizing grave consequences to instill concern.  
+5. **Doubt** – No. No questioning of credibility; sources are presented as factual.  
+6. **Exaggeration/minimization** – No. Statistics (e.g., "207 deaths") and descriptors ("more virulent") are factual, not exaggerated/minimized.  
+7. **Flag-Waving** – No. No appeals to patriotism or group identity.  
+8. **Loaded Language** – No. Language is clinical (e.g., "pneumonic plague," "vector control"); no emotionally charged words.  
+9. **Reduction ad Hitlerum** – No. No comparisons to hated groups (e.g., Nazis).  
+10. **Bandwagon** – No. No appeal to popularity (e.g., "everyone agrees").  
+11. **Causal Oversimplification** – No. Outbreaks are attributed to multiple factors (e.g., flea resistance, sanitation), not oversimplified causes.  
+12. **Obfuscation, intentional vagueness** – No. Details are specific (e.g., "300–600 infections yearly," "flea resistance to chemicals").  
+13. **Appeal to authority** – **Yes**. WHO Director-General Tedros is cited repeatedly (e.g., "Tedros said," "Tedros warned") to validate claims.  
+14. **Black & white fallacy** – No. No false dilemmas; complexities (e.g., control challenges) are acknowledged.  
+15. **Thought-terminating clichés** – No. No phrases (e.g., "it is what it is") to halt critical thought.  
+16. **Red herring** – No. All details relate directly to the plague outbreak.  
+17. **Straw men** – No. No misrepresentation of opposing arguments.  
+18. **Whataboutism** – No. No accusations of hypocrisy.  
+
+---
+
+**Verdict – 5% –** The text is **not propaganda** but objective public health reporting. It cites WHO authority (Appeal to Authority) and highlights risks (Appeal to Fear), but these are justified by evidence (e.g., data on case numbers, flea resistance) and serve legitimate informational purposes. The tone is cautionary, not manipulative, with balanced context (e.g., historical outbreaks, control efforts). The 5% reflects minimal bias in emphasizing WHO’s role, but the core content is factual, nuanced, and public-interest focused.

@@ -1,0 +1,39 @@
+1. Name calling – No – The text uses neutral, descriptive language to refer to the individuals and groups involved, such as "Officer Amber Guyger," "the victim's family," and "Police Chief U. Reneé Hall."
+
+2. Repetition – No – While the core event is central to the article, the text does not repeat the same message or phrase in a propagandistic manner. It builds a narrative with new information.
+
+3. Slogans – No – The text is written in a standard news reporting style and does not use brief, memorable phrases to push an agenda.
+
+4. Appeal to fear – No – The text reports on a fearful event (a killing) but does not use fear as a tool to support a particular idea or demonize an alternative.
+
+5. Doubt – Yes – The text intentionally casts doubt on the credibility of the Dallas Police Department and its chief. For example: "This contradicted the police chief’s recent statements that she was unable to discipline the officer while a criminal investigation proceeded." and "After repeated protests, Police Chief U. Reneé Hall gave contradictory explanations last week for why she could not fire the officer."
+
+6. Exaggeration/minimization – No – The text presents facts and quotes without apparent hyperbole or understatement. It provides context, such as the number of police killings, as a factual data point.
+
+7. Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+8. Loaded Language – No – The text uses factual and neutral language (e.g., "fatal shooting," "terminated," "disputed") rather than emotionally charged or stereotypical words designed to provoke a strong reaction.
+
+9. Reduction ad Hitlerum – No – There is no comparison of any idea, person, or group to figures or groups widely hated by the audience.
+
+10. Bandwagon – No – The text reports on the existence of protests but does not use the popularity of the protests as a reason for the reader to adopt a certain viewpoint.
+
+11. Causal Oversimplification – No – The text does the opposite; it highlights the complexity of the situation, including the officer's account, the family's dispute, and the chief's contradictory statements, rather than assigning a simple cause.
+
+12. Obfuscation, intentional vagueness – No – The article itself is not vague. In fact, it points out the vagueness and lack of explanation from the police department: "Police did not explain what changed by Monday..."
+
+13. Appeal to authority – No – The text cites sources such as The Washington Post, court documents, and other news outlets. This is standard journalistic attribution to establish credibility, not a logical fallacy where an authority's support is used as the sole evidence for a claim.
+
+14. Black & white fallacy – No – The text presents multiple facets of the issue, including the officer's account, the family's dispute, the police chief's changing public statements, and unresolved legal questions.
+
+15. Thought-terminating clichés – No – The text is analytical and reports on a complex situation, avoiding phrases that would shut down critical thought.
+
+16. Red herring – No – All the information presented, such as the delay in firing the officer and the chief's explanations, is directly relevant to the central news story.
+
+17. Straw men – No – The text reports on the actual arguments and statements made by the involved parties rather than misrepresenting them to be more easily refuted.
+
+18. Whataboutism – No – The text focuses on the actions and inconsistencies of the Dallas Police Department regarding this specific case. It does not attempt to deflect criticism by pointing out hypocrisy in an opponent on an unrelated issue.
+
+Verdict – 10% – The text is overwhelmingly characteristic of standard journalistic reporting rather than propaganda. Its primary purpose appears to be to inform the public about a newsworthy event and provide context. It uses neutral language, attributes its claims to specific sources, and presents multiple sides of the issue.
+
+The only propaganda technique present is "Doubt." However, its use here is a function of investigative journalism, which often involves questioning official narratives and holding powerful institutions accountable. The article casts doubt on the police chief's statements by reporting on her direct contradictions, which is a factual observation central to the news story. This differs from propaganda, which might manufacture doubt without evidence. Because the text's primary function is to inform factually rather than to manipulate emotionally or ideologically, its classification as propaganda is very low.

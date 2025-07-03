@@ -1,0 +1,37 @@
+1. Name calling – No – The text does not attack any object or subject with an insulting label.
+
+2. Repetition – No – The text does not repeat the same message over and over.
+
+3. Slogans – No – The text does not use a brief and memorable phrase.
+
+4. Appeal to fear – Yes – The text instills fear by emphasizing the impossibility of eradicating the plague and the rapidity with which it can kill.
+
+5. Doubt – No – The text does not question the credibility of someone or something.
+
+6. Exaggeration/minimization – Yes – The statement "the plague is impossible to eradicate" could be seen as an exaggeration, especially given the context of ongoing efforts to manage and control outbreaks.
+
+7. Flag-Waving – No – The text does not appeal to patriotism or identity.
+
+8. Loaded Language – Yes – Words like "impossible to eradicate" and "black death attack" are emotionally charged and could evoke fear.
+
+9. Reduction ad Hitlerum – No – The text does not disapprove of an idea by associating it with groups hated by the audience.
+
+10. Bandwagon – No – The text does not appeal to the popularity of an idea.
+
+11. Causal Oversimplification – No – The text does not assume a simple cause for a complex event.
+
+12. Obfuscation, intentional vagueness – No – The text is relatively clear and specific about the situation and the challenges involved.
+
+13. Appeal to authority – Yes – The text uses Dr. Allen Cheng's expertise to support the claim about the impossibility of eradicating the plague.
+
+14. Black & white fallacy – No – The text does not present only two options among many.
+
+15. Thought-terminating clichés – No – The text does not use phrases that discourage critical thought and meaningful discussions.
+
+16. Red herring – No – The text does not introduce irrelevant material to distract.
+
+17. Straw men – No – The text does not refute an argument that was not presented.
+
+18. Whataboutism – No – The text does not charge an opponent with hypocrisy.
+
+Verdict – 40% – The text contains elements of propaganda, particularly through the use of appeal to fear, exaggeration, loaded language, and appeal to authority. These techniques can contribute to a sense of alarm and urgency, which are common in propaganda. However, the text also provides factual information and expert opinions, which suggests that it is not purely propaganda. The likelihood of the text being propaganda is moderate, as it blends informative content with elements that could be seen as manipulative.

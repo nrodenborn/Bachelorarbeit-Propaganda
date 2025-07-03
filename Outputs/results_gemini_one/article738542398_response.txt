@@ -1,0 +1,37 @@
+Name calling – No – The text does not use insulting labels to attack Gina Haspel directly. Instead, it describes her alleged actions and associations.
+
+Repetition – No – The text does not repeat the same message or phrase over and over. It presents a series of different, but related, points to build its case.
+
+Slogans – No – The text does not use any brief, memorable phrases or slogans.
+
+Appeal to fear – No – The text focuses on past events and Haspel's alleged role in them, rather than explicitly instilling fear about what will happen if she becomes CIA director.
+
+Doubt – Yes – The text casts doubt on Haspel's credibility and integrity by highlighting her role in the destruction of evidence. Example: "she played a vital role in the destruction of interrogation videotapes that showed the torture of detainees...condemned as ‘obstruction’ by commission chairs Lee Hamilton and Thomas Keane."
+
+Exaggeration/minimization – No – While the language is strong, it purports to be reporting on the findings of sources like the Washington Post and a Senate report, rather than creating its own unsupported exaggerations.
+
+Flag-Waving – No – The text does not appeal to patriotism or national identity.
+
+Loaded Language – Yes – The text uses words and phrases with strong emotional connotations to influence the reader's perception of Haspel. Example: "centrally involved in the worst abuses of the CIA’s Bush-era torture regime," and "the particularly gruesome torture of detainee Abu Zubaydah."
+
+Reduction ad Hitlerum – No – The text does not compare Gina Haspel or her actions to the Nazis or any other universally hated group.
+
+Bandwagon – No – The text does not suggest that the reader should oppose Haspel because it is the popular thing to do.
+
+Causal Oversimplification – No – The text does not attempt to explain a complex event with a single, simple cause.
+
+Obfuscation, intentional vagueness – No – The text is specific in its accusations, citing sources, reports, and individuals. It is not intentionally vague.
+
+Appeal to authority – Yes – The text heavily relies on the credibility of established sources to support its claims against Haspel. Example: "The Senate Intelligence Committee’s report on torture also detailed the central role she played..." and "was condemned as ‘obstruction’ by commission chairs Lee Hamilton and Thomas Keane."
+
+Black & white fallacy – No – The text presents a one-sided argument but does not frame the issue as a choice between only two options.
+
+Thought-terminating clichés – No – The text does not use clichés to shut down discussion.
+
+Red herring – No – All the information presented, while from the past, is used to argue directly against Haspel's nomination and is therefore relevant to the main point.
+
+Straw men – No – The text does not misrepresent or invent an opposing argument to attack. It presents its own one-sided case.
+
+Whataboutism – No – The text focuses entirely on Gina Haspel's record and does not try to deflect by accusing others of hypocrisy.
+
+Verdict – 90% – The text is highly likely to be propaganda. It is not a neutral news report but a persuasive piece with a clear agenda: to convince the reader that Gina Haspel is unfit for the position of CIA Director. It achieves this by selectively presenting only negative information about her past. The primary techniques used are **Loaded Language** ("worst abuses," "gruesome torture," "torture regime") to evoke a strong emotional reaction of disgust and outrage, and **Appeal to Authority** to lend credibility to its claims. By citing the Washington Post, a Senate report, and the 9/11 commission chairs, the text frames its one-sided argument as established fact. This combination is designed to cast significant **Doubt** on Haspel's character and integrity, leaving the reader with a wholly negative impression without presenting any alternative context or counter-arguments. The complete omission of any potentially redeeming information or alternative perspectives is a hallmark of propaganda.
